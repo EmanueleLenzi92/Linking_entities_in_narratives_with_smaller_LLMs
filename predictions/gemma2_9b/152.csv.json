@@ -1,0 +1,170 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "ITALY",
+                "Wikidata_ID": "Q834"
+            },
+            {
+                "originalKey": "UNIMOL",
+                "Wikidata_ID": "Q10579627"
+            },
+            {
+                "originalKey": "UNIPI",
+                "Wikidata_ID": "Q34877"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Northern Apennines - Tuscan Emilian Apennines",
+                "Wikidata_ID": "Q1028794"
+            },
+            {
+                "originalKey": "Anghiari",
+                "Wikidata_ID": "Q36577"
+            },
+            {
+                "originalKey": "Arezzo Province",
+                "Wikidata_ID": "Q180492"
+            },
+            {
+                "originalKey": "Tuscany Region",
+                "Wikidata_ID": "Q17563"
+            },
+            {
+                "originalKey": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "Umbria region",
+                "Wikidata_ID": "Q17564"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q572937"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q186408"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q183947"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q56208"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q423896"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q10758"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q394860"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q127577"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q394861"
+            },
+            {
+                "originalKey": "[Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Mountain Product",
+                "Wikidata_ID": "Q104978632"
+            },
+            {
+                "originalKey": "Reg.(UE) n.1151/2012",
+                "Wikidata_ID": "Q104978632"
+            },
+            {
+                "originalKey": "Reg.(UE) n.665/2014",
+                "Wikidata_ID": "Q104978632"
+            },
+            {
+                "originalKey": "Apennines",
+                "Wikidata_ID": "Q104978632"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Steinbruck",
+                "Wikidata_ID": "Q108974326"
+            },
+            {
+                "originalKey": "Apennines",
+                "Wikidata_ID": "Q54777"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Steinbruck",
+                "Wikidata_ID": "Q108974362"
+            },
+            {
+                "originalKey": "Apennines",
+                "Wikidata_ID": "Q54777"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q186974"
+            },
+            {
+                "originalKey": "Nature",
+                "Wikidata_ID": "Q30257"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q186497"
+            },
+            {
+                "originalKey": "aromatic herbs",
+                "Wikidata_ID": "Q30528"
+            }
+        ]
+    }
+]

@@ -1,0 +1,214 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SCOTLAND HUTTON",
+                "Wikidata_ID": "Q158824"
+            },
+            {
+                "originalKey": "VC 02 UK",
+                "Wikidata_ID": "Q119044"
+            },
+            {
+                "originalKey": "Caerphilly cheese",
+                "Wikidata_ID": "Q172638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "West Wales",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "Wikidata_ID": "Q111"
+            },
+            {
+                "originalKey": "Cardiff",
+                "Wikidata_ID": "Q203"
+            },
+            {
+                "originalKey": "Newport",
+                "Wikidata_ID": "Q142"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q111357"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q111357"
+            },
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q175"
+            },
+            {
+                "originalKey": "thousand",
+                "Wikidata_ID": "Q201"
+            },
+            {
+                "originalKey": "%",
+                "Wikidata_ID": "Q149"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q214"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q1110"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q14"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q384259"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q340"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q193"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q173215"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q214"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q19"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "Wikidata_ID": "Q193"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "Wikidata_ID": "Q194"
+            },
+            {
+                "originalKey": "Somerset",
+                "Wikidata_ID": "Q184"
+            },
+            {
+                "originalKey": "Wiltshire",
+                "Wikidata_ID": "Q185"
+            },
+            {
+                "originalKey": "Castle Dairies",
+                "Wikidata_ID": "Q21423474"
+            },
+            {
+                "originalKey": "Gorwydd",
+                "Wikidata_ID": "Q193"
+            },
+            {
+                "originalKey": "The Big Cheese",
+                "Wikidata_ID": "null"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "Wikidata_ID": "Q146"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "Wikidata_ID": "Q179"
+            },
+            {
+                "originalKey": "dairy cattle",
+                "Wikidata_ID": "Q429"
+            },
+            {
+                "originalKey": "England",
+                "Wikidata_ID": "Q51"
+            },
+            {
+                "originalKey": "coal mines",
+                "Wikidata_ID": "Q113"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly",
+                "Wikidata_ID": "Q168"
+            },
+            {
+                "originalKey": "COVID",
+                "Wikidata_ID": "Q11593"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "Wikidata_ID": "Q141"
+            },
+            {
+                "originalKey": "Endogenous",
+                "Wikidata_ID": "Q193"
+            },
+            {
+                "originalKey": "Grassland",
+                "Wikidata_ID": "Q417"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "Wikidata_ID": "Q168"
+            },
+            {
+                "originalKey": "Somerset",
+                "Wikidata_ID": "Q1588"
+            },
+            {
+                "originalKey": "South Somerset",
+                "Wikidata_ID": "Q176473"
+            },
+            {
+                "originalKey": "Wiltshire",
+                "Wikidata_ID": "Q175"
+            }
+        ]
+    }
+]

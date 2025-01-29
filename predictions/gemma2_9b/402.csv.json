@@ -1,0 +1,133 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SWITZERLAND",
+                "Wikidata_ID": "Q758"
+            },
+            {
+                "originalKey": "Alpine tourism",
+                "Wikidata_ID": "Q1049632"
+            },
+            {
+                "originalKey": "Alps",
+                "Wikidata_ID": "Q587"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q18679435"
+            },
+            {
+                "originalKey": "mountain chain",
+                "Wikidata_ID": "Q200401"
+            },
+            {
+                "originalKey": "mountain landscape",
+                "Wikidata_ID": "Q398765"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1824079"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q56398"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q5789346"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q10288"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q183479"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q183480"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q183481"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q590762"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q183482"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC-systems",
+                "Wikidata_ID": "Q109738462"
+            },
+            {
+                "originalKey": "Alps",
+                "Wikidata_ID": "Q592"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "tourism",
+                "Wikidata_ID": "Q180397"
+            },
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q54627"
+            },
+            {
+                "originalKey": "mountains",
+                "Wikidata_ID": "Q10983"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q247657"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q18697432"
+            },
+            {
+                "originalKey": "skiing",
+                "Wikidata_ID": "Q1057777"
+            },
+            {
+                "originalKey": "Landscape",
+                "Wikidata_ID": "Q284936"
+            }
+        ]
+    }
+]

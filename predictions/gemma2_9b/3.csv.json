@@ -1,0 +1,193 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "Wikidata_ID": "Q180"
+            },
+            {
+                "originalKey": "VC 03 AT",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "RR 11",
+                "Wikidata_ID": "Q4278693"
+            },
+            {
+                "originalKey": "Austrian Alps",
+                "Wikidata_ID": "Q5048"
+            },
+            {
+                "originalKey": "Weiz (No: 617)",
+                "Wikidata_ID": "Q239777"
+            },
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q1805477"
+            },
+            {
+                "originalKey": "Europe",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "limestone",
+                "Wikidata_ID": "Q182976"
+            },
+            {
+                "originalKey": "phyllite",
+                "Wikidata_ID": "Q1045377"
+            },
+            {
+                "originalKey": "slate",
+                "Wikidata_ID": "Q28697"
+            },
+            {
+                "originalKey": "greywacke",
+                "Wikidata_ID": "Q1045378"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q5947776"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q183208"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1879773"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q56240"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q425978"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q106377"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q1835082"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q1835083"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q1835084"
+            },
+            {
+                "originalKey": "[Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland Nature Park",
+                "Wikidata_ID": "Q10673948"
+            },
+            {
+                "originalKey": "Almenland Kräuter",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q10497683"
+            },
+            {
+                "originalKey": "AgrarMarkt Austria",
+                "Wikidata_ID": "Q5297777"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q1738904"
+            },
+            {
+                "originalKey": "herbs",
+                "Wikidata_ID": "Q256987"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q1043887"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q18647593"
+            },
+            {
+                "originalKey": "tea",
+                "Wikidata_ID": "Q10248"
+            },
+            {
+                "originalKey": "herbal salt",
+                "Wikidata_ID": "Q5796377"
+            },
+            {
+                "originalKey": "birch sugar",
+                "Wikidata_ID": "Q1048277"
+            },
+            {
+                "originalKey": "soaps",
+                "Wikidata_ID": "Q39567"
+            },
+            {
+                "originalKey": "creams",
+                "Wikidata_ID": "Q1048277"
+            },
+            {
+                "originalKey": "incense materials",
+                "Wikidata_ID": "Q39567"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q1084287"
+            }
+        ]
+    },
+    {
+        "entities": []
+    }
+]
