@@ -1,0 +1,165 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "MOVING",
+                "Wikidata_ID": "Q1151444"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "Wikidata_ID": "Q14454"
+            },
+            {
+                "originalKey": "Weiz",
+                "Wikidata_ID": "Q206444"
+            },
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q466511"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q1157184"
+            },
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q2959"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q829"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q28347"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q1152134"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q11132"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q34343"
+            },
+            {
+                "originalKey": "settlement",
+                "Wikidata_ID": "Q18354"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q28772"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q27591"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland Nature Park",
+                "Wikidata_ID": "Q474444"
+            },
+            {
+                "originalKey": "Almenland Kräuter",
+                "Wikidata_ID": "Q115111144"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q474144"
+            },
+            {
+                "originalKey": "AgrarMarkt Austria",
+                "Wikidata_ID": "Q471444"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q1699"
+            },
+            {
+                "originalKey": "vegetation",
+                "Wikidata_ID": "Q41179"
+            },
+            {
+                "originalKey": "cultivation practices",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "herbs",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "irrigation",
+                "Wikidata_ID": "Q131"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q113144"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q1119644"
+            },
+            {
+                "originalKey": "tea",
+                "Wikidata_ID": "Q27146"
+            },
+            {
+                "originalKey": "pure herbs",
+                "Wikidata_ID": "Q27146"
+            },
+            {
+                "originalKey": "incense materials",
+                "Wikidata_ID": "Q1119644"
+            }
+        ]
+    },
+    {
+        "entities": []
+    }
+]

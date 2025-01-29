@@ -1,0 +1,258 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "Wikidata_ID": "Q34"
+            },
+            {
+                "originalKey": "VC 01 AT",
+                "Wikidata_ID": "null"
+            },
+            {
+                "originalKey": "ALMO",
+                "Wikidata_ID": "Q14355586"
+            },
+            {
+                "originalKey": "Almo Steirisches Almochsenfleisch",
+                "Wikidata_ID": "null"
+            },
+            {
+                "originalKey": "Association Steirische Bergland Marktgemeinschaft",
+                "Wikidata_ID": "null"
+            },
+            {
+                "originalKey": "AgrarMarkt Austria",
+                "Wikidata_ID": "Q14355586"
+            },
+            {
+                "originalKey": "ÖPUL",
+                "Wikidata_ID": "Q14355587"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "Wikidata_ID": "Q153"
+            },
+            {
+                "originalKey": "Weiz",
+                "Wikidata_ID": "Q1428131"
+            },
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q143236"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q119097"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q121813"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q102"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q104"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q198"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "Wikidata_ID": "Q200"
+            },
+            {
+                "originalKey": "primary sector share",
+                "Wikidata_ID": "Q115"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "Wikidata_ID": "Q116"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q11"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q384259"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q384260"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q193829"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q173178"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q36"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q19"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "Wikidata_ID": "Q21458977"
+            },
+            {
+                "originalKey": "LEADER-region Almenland and Energieregion Weiz-Gleisdorf",
+                "Wikidata_ID": "Q21458978"
+            },
+            {
+                "originalKey": "Austrian animal welfare NGO",
+                "Wikidata_ID": "Q514196"
+            },
+            {
+                "originalKey": "veterinarians",
+                "Wikidata_ID": "Q193"
+            },
+            {
+                "originalKey": "butchers",
+                "Wikidata_ID": "Q192"
+            },
+            {
+                "originalKey": "retailers",
+                "Wikidata_ID": "Q198"
+            },
+            {
+                "originalKey": "tourism",
+                "Wikidata_ID": "Q199"
+            },
+            {
+                "originalKey": "regional development agency",
+                "Wikidata_ID": "Q21458979"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "Wikidata_ID": "Q113323911"
+            },
+            {
+                "originalKey": "sheep farmers",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "free range pig farmers",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "local butcher",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "pasture",
+                "Wikidata_ID": "Q113428"
+            },
+            {
+                "originalKey": "feedbase",
+                "Wikidata_ID": "Q1198130"
+            },
+            {
+                "originalKey": "vegetation",
+                "Wikidata_ID": "Q116411"
+            },
+            {
+                "originalKey": "alpine pasture areas",
+                "Wikidata_ID": "Q1157553"
+            },
+            {
+                "originalKey": "ALMO producers",
+                "Wikidata_ID": "Q1198131"
+            },
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q116411"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "Wikidata_ID": "Q214111"
+            },
+            {
+                "originalKey": "LEADER",
+                "Wikidata_ID": "Q103221"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "Wikidata_ID": "Q114414"
+            },
+            {
+                "originalKey": "Austria",
+                "Wikidata_ID": "Q15"
+            },
+            {
+                "originalKey": "Lower Austria",
+                "Wikidata_ID": "Q384"
+            },
+            {
+                "originalKey": "Carinthia",
+                "Wikidata_ID": "Q386"
+            },
+            {
+                "originalKey": "NUTS-II AT 12",
+                "Wikidata_ID": "Q1198139"
+            },
+            {
+                "originalKey": "NUTS-II AT 21",
+                "Wikidata_ID": "Q1198140"
+            },
+            {
+                "originalKey": "alp oxen",
+                "Wikidata_ID": "Q193422"
+            }
+        ]
+    }
+]
