@@ -1,0 +1,407 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "ITALY UNIMOL",
+                "original_value": "UniMoL",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "UNIPI",
+                "original_value": "UniPi",
+                "Wikidata_ID": "Q130268089"
+            },
+            {
+                "originalKey": "VC 17 IT",
+                "original_value": "VC 17 IT",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "Farmer",
+                "Wikidata_ID": "Q131512"
+            },
+            {
+                "originalKey": "municipality of Amatrice",
+                "original_value": "Amatrice",
+                "Wikidata_ID": "Q223427"
+            },
+            {
+                "originalKey": "Honey of Amatrice?",
+                "original_value": "Honey of Amatrice",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Central Apennines",
+                "original_value": "Apennine Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Lazio region",
+                "original_value": "Lazio",
+                "Wikidata_ID": "Q1282"
+            },
+            {
+                "originalKey": "Amatrice",
+                "original_value": "Amatrice",
+                "Wikidata_ID": "Q223427"
+            },
+            {
+                "originalKey": "Rieti",
+                "original_value": "Rieti",
+                "Wikidata_ID": "Q13396"
+            },
+            {
+                "originalKey": "Abruzzo region",
+                "original_value": "Abruzzo",
+                "Wikidata_ID": "Q1284"
+            },
+            {
+                "originalKey": "National park of Gran Sasso e Monti della Laga",
+                "original_value": "Gran Sasso National Park",
+                "Wikidata_ID": "Q1027914"
+            },
+            {
+                "originalKey": "Montana del Velino community",
+                "original_value": "Montane communities in Italy",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Club of Borghi più belli d Italia",
+                "original_value": "Borghi più belli d'Italia",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "spaghetti amatriciana",
+                "original_value": "Spaghetti alla Amatriciana",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area (km2)",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "minimum altimetry of the LAU",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "maximum altimetry of the LAU",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2) in the LAU",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces in Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions in Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year)",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourist accommodation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "bed places (BPs)",
+                "original_value": "Bed capacity",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "population over 100000 (km)",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "original_value": "Primary industry by region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "original_value": "Secondary industry by region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "original_value": "Tertiary industry by region",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Amatrice",
+                "original_value": "Municipality of Amatrice",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Mielene di Amatric",
+                "original_value": "Honey of Amatrice",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Amatrice area",
+                "original_value": "Amatrice",
+                "Wikidata_ID": "Q223427"
+            },
+            {
+                "originalKey": "woods",
+                "original_value": "Forest",
+                "Wikidata_ID": "Q4421"
+            },
+            {
+                "originalKey": "organic or integrated agriculture production",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "ecological constraints of the nature park",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "historical and cultural traditional food",
+                "original_value": "Traditional cuisine",
+                "Wikidata_ID": "Q249277"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "climate change",
+                "original_value": "Climate Change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "honey production",
+                "original_value": "Honey Production",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "plants' biological cycles",
+                "original_value": "Plant Life Cycle",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "bees' ability to resist colder/warmer zones",
+                "original_value": "Bee Adaptation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "honey market",
+                "original_value": "Honey Market",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "certification of origin or organic label",
+                "original_value": "Organic Certification",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "farmer and promoter of certificate of origin (in this case, the Municipality of Amatrice)",
+                "original_value": "Farmer",
+                "Wikidata_ID": "Q131512"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Current and Predicted",
+                "original_value": "Challenge (Business)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Traditional Business Model",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Miele di Amatrice",
+                "original_value": "Miele di Amatrice",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "certification of origin and craftsmanship of production",
+                "original_value": "Certification of origin",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local mountain farms",
+                "original_value": "Mountain farming",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "historical local food (the honey)",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "consumers interested in the local cultural tradition on wine and food productions",
+                "original_value": "Cultural tourism",
+                "Wikidata_ID": "Q1415049"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "land use systems involved are Cropland and Natural land",
+                "original_value": "Cropland",
+                "Wikidata_ID": "Q3395383"
+            },
+            {
+                "originalKey": "local assets include Natural and cultural",
+                "original_value": "Natural resources",
+                "Wikidata_ID": "Q188460"
+            }
+        ]
+    }
+]

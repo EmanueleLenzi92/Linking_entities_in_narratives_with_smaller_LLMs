@@ -1,0 +1,447 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "ITALY UNIMOL",
+                "original_value": "UniMol",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "UNIPI",
+                "original_value": "UniPi",
+                "Wikidata_ID": "Q130268089"
+            },
+            {
+                "originalKey": "VC 21 IT",
+                "original_value": "Value Chain (VC) 21 IT",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "infusion herbs",
+                "original_value": "Herbal infusion",
+                "Wikidata_ID": "Q379932"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Northern Apennines",
+                "original_value": "Apennine Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Tuscan Emilian Apennines",
+                "original_value": "Tuscan Apennines",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Anghiari",
+                "original_value": "Anghiari",
+                "Wikidata_ID": "Q52063"
+            },
+            {
+                "originalKey": "Arezzo Province",
+                "original_value": "Province of Arezzo",
+                "Wikidata_ID": "Q16115"
+            },
+            {
+                "originalKey": "Tuscany Region - Italy",
+                "original_value": "Tuscany",
+                "Wikidata_ID": "Q1273"
+            },
+            {
+                "originalKey": "Italy",
+                "original_value": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "Anghiari",
+                "original_value": "Anghiari",
+                "Wikidata_ID": "Q52063"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area (km2)",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "minimum altimetry of the LAU",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "maximum altimetry of the LAU",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2) in the LAU",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces in Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions in Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year)",
+                "original_value": "Gross Domestic Product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year)",
+                "original_value": "Gross Domestic Product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "bed places (BPs)",
+                "original_value": "Bed capacity",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourist accommodation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "year",
+                "original_value": "Year",
+                "Wikidata_ID": "Q577"
+            },
+            {
+                "originalKey": "regional (Region)",
+                "original_value": "Regional government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "total BPs/year",
+                "original_value": "Bed capacity per year",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "population over 100000 (km)",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "original_value": "Primary industry by region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "original_value": "Secondary industry by region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "original_value": "Tertiary industry by region",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Organic farm",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "Mountain Product",
+                "original_value": "Mountain product",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pontepietra",
+                "original_value": "Pontepietra",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "small organic farm",
+                "original_value": "Organic farm",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "hand",
+                "original_value": "Handwork",
+                "Wikidata_ID": "Q5443203"
+            },
+            {
+                "originalKey": "machinery",
+                "original_value": "Machinery",
+                "Wikidata_ID": "Q11019"
+            },
+            {
+                "originalKey": "herbal teas and herb salt preserve the flavors and properties that nature has given them",
+                "original_value": "Preservation of flavor",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "small farm",
+                "original_value": "Small business",
+                "Wikidata_ID": "Q1109680"
+            },
+            {
+                "originalKey": "communication strategy",
+                "original_value": "Marketing and communication",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "uncontaminated nature, the flavors and smells of the Apennines to the city",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "values of quality, genuineness and sustainability",
+                "original_value": "Sustainability",
+                "Wikidata_ID": "Q219416"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "brother Steinbruck",
+                "original_value": "Steinbrück family",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "hills",
+                "original_value": "Hill",
+                "Wikidata_ID": "Q54050"
+            },
+            {
+                "originalKey": "thousand different colors and scents",
+                "original_value": "Color",
+                "Wikidata_ID": "Q1075"
+            },
+            {
+                "originalKey": "organic and natural cultivation of medicinal and aromatic herbs",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "medicinal and aromatic herbs",
+                "original_value": "Herbal medicine",
+                "Wikidata_ID": "Q861699"
+            },
+            {
+                "originalKey": "Apennines",
+                "original_value": "Apennine Mountains",
+                "Wikidata_ID": "Q1285"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "brother Steinbruck",
+                "original_value": "Steinbrück",
+                "Wikidata_ID": "Q49328"
+            },
+            {
+                "originalKey": "hills bloom",
+                "original_value": "Hill",
+                "Wikidata_ID": "Q54050"
+            },
+            {
+                "originalKey": "thousand different colours and scents",
+                "original_value": "Color",
+                "Wikidata_ID": "Q1075"
+            },
+            {
+                "originalKey": "organic and natural cultivation of medicinal and aromatic herbs",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "Apennines",
+                "original_value": "Apennine Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capitalist",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "challenge faced by this VC is Current",
+                "original_value": "Current Challenges in Venture Capital",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC is classified as Innovative",
+                "original_value": "Innovative Business Model",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous and Exogenous",
+                "original_value": "Endogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Product development",
+                "Wikidata_ID": "Q1395034"
+            },
+            {
+                "originalKey": "communication based on: Nature, sostenibility and quality",
+                "original_value": "Sustainability communication",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New products and New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "aromatic herbs",
+                "original_value": "Herbs",
+                "Wikidata_ID": "Q207123"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            }
+        ]
+    }
+]

@@ -1,0 +1,671 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "VC 11 CZ",
+                "original_value": "Value Chain (VC) 11 CZ",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "mountains",
+                "original_value": "Mountains",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "Producers",
+                "original_value": "Producer",
+                "Wikidata_ID": "Q27887"
+            },
+            {
+                "originalKey": "fruit",
+                "original_value": "Fruit",
+                "Wikidata_ID": "Q3314483"
+            },
+            {
+                "originalKey": "regional SES",
+                "original_value": "Regional economic system (SES)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sumava - Cesky les",
+                "original_value": "Sumava",
+                "Wikidata_ID": "Q157290"
+            },
+            {
+                "originalKey": "LAU 1 Klatovy",
+                "original_value": "Klátov (administrative district)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Mountainm Reference Landscape",
+                "original_value": "Landscape of the Czech Republic",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural land",
+                "original_value": "Agriculture in the Czech Republic",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "wheat and rape seeds",
+                "original_value": "Crops of the Czech Republic",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "potato production",
+                "original_value": "Potato cultivation in the Czech Republic",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Germany",
+                "original_value": "Germany",
+                "Wikidata_ID": "Q183"
+            },
+            {
+                "originalKey": "Sumava mountains",
+                "original_value": "Sumava Mountains",
+                "Wikidata_ID": "Q157290"
+            },
+            {
+                "originalKey": "forests",
+                "original_value": "Forests of the Czech Republic",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area (km2)",
+                "original_value": "Area of a place",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "minimum altimetry (m)",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "maximum altimetry (m)",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "population (thousand)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces in Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions in Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "per capita income (EUR/year) [Province]",
+                "original_value": "Per capita income by country",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income by country",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "original_value": "List of hotels and motels in the United States",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "30828",
+                "original_value": "Number of bed places in tourist accommodations/year",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional (Region) share of total BPs/year",
+                "original_value": "Regional share of tourism",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "0.33%",
+                "original_value": "Percentage of regional tourism",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings in the LAU",
+                "original_value": "Agricultural holdings",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "3183",
+                "original_value": "Number of agricultural holdings",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "85",
+                "original_value": "Nearest settlement to a specific location",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "protected areas are present",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "original_value": "Primary industry by region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "original_value": "Secondary industry by region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "original_value": "Tertiary industry by region",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Bee products",
+                "original_value": "Honeybee products",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Mountain regions",
+                "original_value": "Mountains",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "Beekeeping",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Farming",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "Environmental conditions",
+                "original_value": "Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "Anthropogenic pollutions",
+                "original_value": "Pollution",
+                "Wikidata_ID": "Q58734"
+            },
+            {
+                "originalKey": "Mountain regions",
+                "original_value": "Mountains",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "Bee keepers",
+                "original_value": "Beekeeper",
+                "Wikidata_ID": "Q852389"
+            },
+            {
+                "originalKey": "Quality of bee products",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Mountain regions",
+                "original_value": "Mountains",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "Human settlements",
+                "original_value": "Urbanization",
+                "Wikidata_ID": "Q161078"
+            },
+            {
+                "originalKey": "Ecology",
+                "original_value": "Ecology",
+                "Wikidata_ID": "Q7150"
+            },
+            {
+                "originalKey": "Symbolic value of the products' origin",
+                "original_value": "Brand",
+                "Wikidata_ID": "Q431289"
+            },
+            {
+                "originalKey": "Marketing",
+                "original_value": "Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "Bee colonies",
+                "original_value": "Honeybee colony",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sumava Mountains",
+                "original_value": "Sumava Mountains",
+                "Wikidata_ID": "Q157290"
+            },
+            {
+                "originalKey": "pictoresque landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            },
+            {
+                "originalKey": "unique natural assects",
+                "original_value": "Natural features",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regions",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "socialist-era",
+                "original_value": "Cold War",
+                "Wikidata_ID": "Q8683"
+            },
+            {
+                "originalKey": "1950s-1989",
+                "original_value": "1950s and 1980s",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "farms",
+                "original_value": "Farm",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "pre-WII tradition",
+                "original_value": "Pre-World War II",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Winter season",
+                "original_value": "Winter",
+                "Wikidata_ID": "Q1311"
+            },
+            {
+                "originalKey": "Summer season",
+                "original_value": "Summer",
+                "Wikidata_ID": "Q1313"
+            },
+            {
+                "originalKey": "tourist",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "beekeepers",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "local ecosystems",
+                "original_value": "Ecosystem",
+                "Wikidata_ID": "Q37813"
+            },
+            {
+                "originalKey": "Sumava mountains",
+                "original_value": "Sumava Mountains",
+                "Wikidata_ID": "Q157290"
+            },
+            {
+                "originalKey": "bee products",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "symbolic value of the region",
+                "original_value": "Cultural heritage",
+                "Wikidata_ID": "Q210272"
+            },
+            {
+                "originalKey": "unique ecosystem",
+                "original_value": "Ecosystem",
+                "Wikidata_ID": "Q37813"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Beekeepers",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "mountain region",
+                "original_value": "Mountainous regions",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "bee products",
+                "original_value": "Bee products",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "mainstream, large-scale bee-keepers",
+                "original_value": "Commercial beekeeping",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "intensive methods of production",
+                "original_value": "Intensive agriculture",
+                "Wikidata_ID": "Q1148482"
+            },
+            {
+                "originalKey": "honey from abroad",
+                "original_value": "Honey imports",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "small-scale beekeepers",
+                "original_value": "Small-scale agriculture",
+                "Wikidata_ID": "Q2827199"
+            },
+            {
+                "originalKey": "quality",
+                "original_value": "Quality control",
+                "Wikidata_ID": "Q827792"
+            },
+            {
+                "originalKey": "climate change",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "pollutions",
+                "original_value": "Pollution",
+                "Wikidata_ID": "Q58734"
+            },
+            {
+                "originalKey": "bee colonies",
+                "original_value": "Honeybees",
+                "Wikidata_ID": "Q102857"
+            },
+            {
+                "originalKey": "business",
+                "original_value": "Business",
+                "Wikidata_ID": "Q4830453"
+            },
+            {
+                "originalKey": "organic standards",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "beekeeping",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Czech Republic",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "beekeepers",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "proffesional",
+                "original_value": "Profession",
+                "Wikidata_ID": "Q28640"
+            },
+            {
+                "originalKey": "interest groups",
+                "original_value": "Interest group",
+                "Wikidata_ID": "Q431603"
+            },
+            {
+                "originalKey": "regulation",
+                "original_value": "Regulation",
+                "Wikidata_ID": "Q428148"
+            },
+            {
+                "originalKey": "standards",
+                "original_value": "Standards",
+                "Wikidata_ID": "Q1640121"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Current and Predicted",
+                "original_value": "Challenges in business",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Business model",
+                "Wikidata_ID": "Q815823"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Beekeepers",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "varroa disease",
+                "original_value": "Varroa mite",
+                "Wikidata_ID": "Q48564"
+            },
+            {
+                "originalKey": "chemical inputs",
+                "original_value": "Pesticide",
+                "Wikidata_ID": "Q131656"
+            },
+            {
+                "originalKey": "solutions that utilize natural processes and potentials of bee colonies",
+                "original_value": "Integrated Pest Management (IPM)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "land use systems",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "local assets",
+                "original_value": "Local resources",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural and cultural",
+                "original_value": "Cultural heritage",
+                "Wikidata_ID": "Q210272"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "beekeeping",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Czech Republic",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "agriculture",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "entry barriers",
+                "original_value": "Entry Barriers (Economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agriculture",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "generation renewal",
+                "original_value": "Agricultural Revolution",
+                "Wikidata_ID": "Q1176512"
+            }
+        ]
+    }
+]

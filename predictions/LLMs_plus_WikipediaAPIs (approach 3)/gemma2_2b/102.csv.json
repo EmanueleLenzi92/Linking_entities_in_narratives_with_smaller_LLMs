@@ -1,0 +1,536 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "VC 11 GR",
+                "original_value": "VC 11 GR",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pefkothymaromelo",
+                "original_value": "Pefkothymaromelo",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local beekeepers",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "families",
+                "original_value": "Family",
+                "Wikidata_ID": "Q8436"
+            },
+            {
+                "originalKey": "Region of Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "EU Geographical Indications (GIs)",
+                "original_value": "Geographical indication",
+                "Wikidata_ID": "Q325668"
+            },
+            {
+                "originalKey": "honey factories",
+                "original_value": "Honey processing",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pefkothymaromelo",
+                "original_value": "Pefkothymaromelo",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "White Mountains",
+                "original_value": "White Mountains (Crete)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "KISSAMOS",
+                "original_value": "Kissamos",
+                "Wikidata_ID": "Q1021629"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area (km2)",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "minimum altimetry of the LAU",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "maximum altimetry of the LAU",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2) in the LAU",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces in Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions in Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year)",
+                "original_value": "Gross Domestic Product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places (BPs)",
+                "original_value": "List of hotels in the United States",
+                "Wikidata_ID": "Q6623780"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "tourist accommodations/year",
+                "original_value": "Tourism in the United States",
+                "Wikidata_ID": "Q2986423"
+            },
+            {
+                "originalKey": "regional (Region)",
+                "original_value": "List of regions in the United States",
+                "Wikidata_ID": "Q2264649"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture in the United States",
+                "Wikidata_ID": "Q783770"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "population over 100000 (km)",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Apicature",
+                "original_value": "apiculture",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Kissamos mountains",
+                "original_value": "Kissamos Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pefkothimaromelo",
+                "original_value": "Pefkothymaromelo",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "PDO",
+                "original_value": "Protected Designation of Origin (PDO)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Pefkothymatomelo",
+                "original_value": "Pefkothymatomelo",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cretan plants",
+                "original_value": "Plants of Crete",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Beekeepers",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Companies",
+                "original_value": "Company",
+                "Wikidata_ID": "Q783794"
+            },
+            {
+                "originalKey": "Honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Pefkothymaromelo",
+                "original_value": "Pefkothymaromelo",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Tourist sector",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Topolia/Kissamos",
+                "original_value": "Topolia",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cretan way of life",
+                "original_value": "Cretan culture",
+                "Wikidata_ID": "Q134178"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "beekeeping",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Minoan Civilization",
+                "original_value": "Minoan civilization",
+                "Wikidata_ID": "Q134178"
+            },
+            {
+                "originalKey": "literature",
+                "original_value": "Literature",
+                "Wikidata_ID": "Q8242"
+            },
+            {
+                "originalKey": "poetry",
+                "original_value": "Poetry",
+                "Wikidata_ID": "Q482"
+            },
+            {
+                "originalKey": "jewellery production",
+                "original_value": "Jewelry making",
+                "Wikidata_ID": "Q6189617"
+            },
+            {
+                "originalKey": "climate of Crete",
+                "original_value": "Climate of Crete",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pine tree juices",
+                "original_value": "Pine sap",
+                "Wikidata_ID": "Q164043"
+            },
+            {
+                "originalKey": "pine honey",
+                "original_value": "Honey from pine trees",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local population",
+                "original_value": "Population of Crete",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "climate change",
+                "original_value": "Climate Change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "severe weather conditions",
+                "original_value": "Weather of Crete",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "temperature changes",
+                "original_value": "Climate change in Greece",
+                "Wikidata_ID": "Q109331757"
+            },
+            {
+                "originalKey": "heat waves",
+                "original_value": "Heat wave",
+                "Wikidata_ID": "Q215864"
+            },
+            {
+                "originalKey": "bees",
+                "original_value": "Honeybee",
+                "Wikidata_ID": "Q102857"
+            },
+            {
+                "originalKey": "honey production",
+                "original_value": "Honey Production",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pesticides",
+                "original_value": "Pesticide use",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "intensive agricultural holdings",
+                "original_value": "Intensive agriculture",
+                "Wikidata_ID": "Q1148482"
+            },
+            {
+                "originalKey": "adulteration",
+                "original_value": "Honey adulteration",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "inferior types of honey",
+                "original_value": "Honey fraud",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "imported honey",
+                "original_value": "Honey import",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Current and Predicted",
+                "original_value": "Challenges of Venture Capital",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "original_value": "Venture Capital Types",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "apicature",
+                "original_value": "Apiculture",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "pefkothymaromelo",
+                "original_value": "Pefkothymaromelo honey",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "PDO characterization",
+                "original_value": "Protected Designation of Origin (PDO)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Kissamos area",
+                "original_value": "Kissamos",
+                "Wikidata_ID": "Q1021629"
+            },
+            {
+                "originalKey": "small processing units",
+                "original_value": "Honey processing plant",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pure pefkothymaromelo",
+                "original_value": "Pefkothymaromelo honey",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "variety of products based on honey",
+                "original_value": "Honey-based products",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Product innovation",
+                "Wikidata_ID": "Q7247768"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "New governance systems",
+                "original_value": "Governance system",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Forestry and Natural land",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Natural, social and cultural",
+                "original_value": "Local assets",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "EU katalog (eAmbrosia)",
+                "original_value": "e-Ambrosia",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Peyfothymaromelo",
+                "original_value": "Peyfothymaromelo honey",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cretan honey",
+                "original_value": "Honey from Crete",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

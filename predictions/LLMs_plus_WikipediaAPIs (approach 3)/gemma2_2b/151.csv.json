@@ -1,0 +1,397 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "ITALY UNIMOL",
+                "original_value": "Unipol Group",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "UNIPI",
+                "original_value": "Unipol Group",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC 18 IT",
+                "original_value": "List of Value Chains in the Italian Food Industry",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Savigni",
+                "original_value": "Savigni Group",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Northern Apennines",
+                "original_value": "Apennine Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Tuscan Emilian Apennines",
+                "original_value": "Tuscan Apennines",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Sambuca Pistoiese",
+                "original_value": "Sambuca Pistoiese",
+                "Wikidata_ID": "Q102725"
+            },
+            {
+                "originalKey": "Pistoia province",
+                "original_value": "Province of Pistoia",
+                "Wikidata_ID": "Q16245"
+            },
+            {
+                "originalKey": "Italian region of Tuscany",
+                "original_value": "Tuscany",
+                "Wikidata_ID": "Q1273"
+            },
+            {
+                "originalKey": "Pistoia",
+                "original_value": "Pistoia",
+                "Wikidata_ID": "Q13376"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "77.25",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "372",
+                "original_value": "Minimum altimetry",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1318",
+                "original_value": "Maximum altimetry",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1.514",
+                "original_value": "Population (in thousand)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "19.59",
+                "original_value": "Population density (Inhabitants/km2)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "-14.81%",
+                "original_value": "Population change rate (%) in the last 10 years",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "160.64",
+                "original_value": "Overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "0.48%",
+                "original_value": "Regional population change rate (%) in the last 10 years",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces in Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions in Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year)",
+                "original_value": "Gross Domestic Product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year)",
+                "original_value": "Gross Domestic Product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "bed places (BPs)",
+                "original_value": "Bed capacity",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourist accommodation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "year",
+                "original_value": "Year",
+                "Wikidata_ID": "Q577"
+            },
+            {
+                "originalKey": "regional (Region)",
+                "original_value": "Regional government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "total BPs/year",
+                "original_value": "Bed capacity per year",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "population over 100000 (km)",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Certifications: Bollo IT 9-3467/L IT R152E CE ANAS (National Association Pig Farmers) Japan Export (Ministry of Health) BioAgriCert (Certification Body / Organic Control) Products Guarantee AIAB (Certification Body / Organic Control) INEQ (Quality North-East Institute / Body PDO Control Cinta Senese) TUV (German Certification Body ISO 9001/08) quality consortium Consorzio Tutela of Cinta Senese Quality Consortium Consorzio Tutela Finocchiona PGI Finocchiona PGI (Certification Body INeQ Quality North-East Institute) Vitellone Bianco dell Appennino Centrale PGI Chianina beef (Certification Body 3A-PTA Umbria Agri-food Technology Park)",
+                "original_value": "List of certifications",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The environment is essential",
+                "original_value": "Environmentalism",
+                "Wikidata_ID": "Q2855609"
+            },
+            {
+                "originalKey": "Savigni family",
+                "original_value": "Savigni Family",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "passing of the seasons",
+                "original_value": "Seasons",
+                "Wikidata_ID": "Q24384"
+            },
+            {
+                "originalKey": "Porretta",
+                "original_value": "Porretta Terme",
+                "Wikidata_ID": "Q94983"
+            },
+            {
+                "originalKey": "Suviana Lake",
+                "original_value": "Lake Suviana",
+                "Wikidata_ID": "Q3826053"
+            },
+            {
+                "originalKey": "closed cycle of production",
+                "original_value": "Closed-loop system",
+                "Wikidata_ID": "Q5135346"
+            },
+            {
+                "originalKey": "animals put out to pastures",
+                "original_value": "Pasture raising",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "wild state",
+                "original_value": "Wild animals",
+                "Wikidata_ID": "Q241741"
+            },
+            {
+                "originalKey": "healthier",
+                "original_value": "Health",
+                "Wikidata_ID": "Q12147"
+            },
+            {
+                "originalKey": "better quality of meat",
+                "original_value": "Meat quality",
+                "Wikidata_ID": "Q38588053"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "high quality supply",
+                "original_value": "Supply chain management",
+                "Wikidata_ID": "Q492886"
+            },
+            {
+                "originalKey": "local animal",
+                "original_value": "Animal husbandry",
+                "Wikidata_ID": "Q80962"
+            },
+            {
+                "originalKey": "increasing international market demand",
+                "original_value": "International trade",
+                "Wikidata_ID": "Q178803"
+            },
+            {
+                "originalKey": "Predicted",
+                "original_value": "Prediction",
+                "Wikidata_ID": "Q748250"
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous innovation",
+                "original_value": "Endogenous Innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "organic farm",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "certificatin",
+                "original_value": "Certification",
+                "Wikidata_ID": "Q374814"
+            },
+            {
+                "originalKey": "new and qualified market",
+                "original_value": "Market",
+                "Wikidata_ID": "Q1277907"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "local assets",
+                "original_value": "Local asset",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            }
+        ]
+    }
+]

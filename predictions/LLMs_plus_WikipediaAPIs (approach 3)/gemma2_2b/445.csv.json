@@ -1,0 +1,436 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "TURKEY",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "VC 11 TR",
+                "original_value": "VC 11 TR",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Mugla",
+                "original_value": "Mula, Turkey",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "4741",
+                "original_value": "Number of enterprises engaged in beekeeping in Mugla",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "900,583",
+                "original_value": "Total number of hives in Mugla",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Menteşe Mountains",
+                "original_value": "Menteşe Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Ula",
+                "original_value": "Ula",
+                "Wikidata_ID": "Q22151638"
+            },
+            {
+                "originalKey": "Muğla province",
+                "original_value": "Muğla Province",
+                "Wikidata_ID": "Q123934"
+            },
+            {
+                "originalKey": "Mediterranean climate",
+                "original_value": "Mediterranean climate",
+                "Wikidata_ID": "Q13996"
+            },
+            {
+                "originalKey": "agricultural production",
+                "original_value": "Agricultural production",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "Muğla",
+                "original_value": "Muğla",
+                "Wikidata_ID": "Q216912"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "tourist destinations",
+                "original_value": "Tourist destinations in Turkey",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area (km2)",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "minimum altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "maximum altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "population (in thousand)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces in Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions in Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year)",
+                "original_value": "Gross Domestic Product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "original_value": "List of hotels and motels in Los Angeles",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Los Angeles metropolitan area",
+                "Wikidata_ID": "Q1050826"
+            },
+            {
+                "originalKey": "regional share of total BPs/year",
+                "original_value": "Regional tourism in Los Angeles",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "number of agricultural holdings in the LAU",
+                "original_value": "Agriculture in Los Angeles County",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "original_value": "Los Angeles metropolitan area",
+                "Wikidata_ID": "Q1050826"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected areas in Los Angeles County",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "original_value": "Primary industries by country",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "original_value": "Secondary industries by country",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "original_value": "Tertiary industries by country",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "pine honey",
+                "original_value": "Pine honey",
+                "Wikidata_ID": "Q7195419"
+            },
+            {
+                "originalKey": "Geographical Indication",
+                "original_value": "Geographical indication",
+                "Wikidata_ID": "Q325668"
+            },
+            {
+                "originalKey": "Turkish Patent and Trademark Office",
+                "original_value": "Turkish Patent and Trademark Office",
+                "Wikidata_ID": "Q7855305"
+            },
+            {
+                "originalKey": "Pine honey",
+                "original_value": "Pine honey",
+                "Wikidata_ID": "Q7195419"
+            },
+            {
+                "originalKey": "medicine",
+                "original_value": "Medicine",
+                "Wikidata_ID": "Q11190"
+            },
+            {
+                "originalKey": "food sectors",
+                "original_value": "Food industry",
+                "Wikidata_ID": "Q540912"
+            },
+            {
+                "originalKey": "Agriculture",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "Beekeeping",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Organic honey production",
+                "original_value": "Organic agriculture",
+                "Wikidata_ID": "Q165647"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pine honey",
+                "original_value": "Honeybee products",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Muğla Province",
+                "original_value": "Muğla Province",
+                "Wikidata_ID": "Q123934"
+            },
+            {
+                "originalKey": "Pine honey",
+                "original_value": "Pine honey",
+                "Wikidata_ID": "Q7195419"
+            },
+            {
+                "originalKey": "Muğla",
+                "original_value": "Muğla",
+                "Wikidata_ID": "Q216912"
+            },
+            {
+                "originalKey": "forests",
+                "original_value": "Forest",
+                "Wikidata_ID": "Q4421"
+            },
+            {
+                "originalKey": "pine honey production",
+                "original_value": "Pine honey production",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Muğla",
+                "original_value": "Muğla",
+                "Wikidata_ID": "Q216912"
+            },
+            {
+                "originalKey": "forest villages",
+                "original_value": "Village",
+                "Wikidata_ID": "Q532"
+            },
+            {
+                "originalKey": "pine honey production areas",
+                "original_value": "Pine honey production area",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Honey yield",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "climatic conditions",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "migratory beekeeper",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Young people",
+                "original_value": "Youth",
+                "Wikidata_ID": "Q190007"
+            },
+            {
+                "originalKey": "challenge",
+                "original_value": "Challenge (general)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Current and Predicted",
+                "original_value": "Challenges in the future",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capitalist",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Organic and Rainforest Alliance certified tea",
+                "original_value": "Organic tea",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "increasing in the region",
+                "original_value": "Tea production",
+                "Wikidata_ID": "Q7691134"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "whole VC",
+                "original_value": "Value chain (business)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "land use systems involved are Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "local assets include Natural and cultural",
+                "original_value": "Local resources",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "90-92% of the world's pine honey is produced in Turkey.",
+                "original_value": "Pine honey production by country",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Different kinds of honey VC is also present in other MRLs in the Member States such as Switzerland, UK, Austria, Czech Republic, France, Greece, Hungary, Italy, North Macedonia, Romania, Serbia, Slovakia and Spain.",
+                "original_value": "List of countries with honey production",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

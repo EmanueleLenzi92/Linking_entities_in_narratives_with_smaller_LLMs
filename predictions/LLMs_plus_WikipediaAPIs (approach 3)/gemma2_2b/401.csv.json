@@ -1,0 +1,298 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SWITZERLAND 1",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "VC 17 CH1",
+                "original_value": "Value Chain (VC)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Honey from the alps",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "prodcuers",
+                "original_value": "Producer",
+                "Wikidata_ID": "Q27887"
+            },
+            {
+                "originalKey": "farm shops",
+                "original_value": "Farm shop",
+                "Wikidata_ID": "Q1371823"
+            },
+            {
+                "originalKey": "online shops",
+                "original_value": "Online shopping",
+                "Wikidata_ID": "Q212930"
+            },
+            {
+                "originalKey": "larger retailers",
+                "original_value": "Retailer",
+                "Wikidata_ID": "Q126793"
+            },
+            {
+                "originalKey": "'Pro Montagna'",
+                "original_value": "Pro Montagna",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "reference mountain chain",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "reference mountain landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size of the area (km2)",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "minimum altimetry of the LAU",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "maximum altimetry of the LAU",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2) in the LAU",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income (EUR/year) [Province]",
+                "original_value": "List of countries by GDP per capita",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income (EUR/year) [Region]",
+                "original_value": "GDP per capita",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "List of tourist accommodation establishments in the world",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "original_value": "Primary industry by region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "original_value": "Secondary industry by region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "original_value": "Tertiary industry by region",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "traditional VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "well sought after",
+                "original_value": "Sought-after",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "working well",
+                "original_value": "Successful business",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bees",
+                "original_value": "Bee extinction",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "endangered",
+                "original_value": "Endangered species",
+                "Wikidata_ID": "Q11394"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capitalist",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Predicted",
+                "original_value": "Prediction (general)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Traditional business model",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "land use systems",
+                "original_value": "Land use system",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Beehives",
+                "original_value": "Hive",
+                "Wikidata_ID": "Q1207170"
+            },
+            {
+                "originalKey": "local assets",
+                "original_value": "Local asset",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

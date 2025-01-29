@@ -1,0 +1,333 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state of this VC",
+                "original_value": "Value Chain (economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "SWITZERLAND 1",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "MOVING Card ID of this VC",
+                "original_value": "Value Chain (economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC 16 CH1",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "transnational organisation",
+                "original_value": "International Organization",
+                "Wikidata_ID": "Q3381810"
+            },
+            {
+                "originalKey": "farmers who breed old animal breeds and sell their products",
+                "original_value": "Animal husbandry",
+                "Wikidata_ID": "Q80962"
+            },
+            {
+                "originalKey": "old sheep and goat breeds such as 'Engadiner', 'Spiegelschaf', 'Nera Verzasca' or 'Capra Grigia'",
+                "original_value": "Sheep breeds",
+                "Wikidata_ID": "Q198423"
+            },
+            {
+                "originalKey": "Pigs such as the 'Black Alpine Pig' or chickens",
+                "original_value": "Animal husbandry",
+                "Wikidata_ID": "Q80962"
+            },
+            {
+                "originalKey": "products are labelled and can be sold at a better price",
+                "original_value": "Marketing",
+                "Wikidata_ID": "Q39809"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "reference mountain chain",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "reference mountain landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size of the area (km2)",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "minimum altimetry of the LAU",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "maximum altimetry of the LAU",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2) in the LAU",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "original_value": "Population Change Rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income (EUR/year) [Province]",
+                "original_value": "List of countries by GDP per capita",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income (EUR/year) [Region]",
+                "original_value": "GDP per capita",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "List of tourist accommodation establishments in the world",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "original_value": "List of primary industries by country",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "original_value": "List of secondary industries by country",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "original_value": "List of primary industries by country",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "original_value": "List of secondary industries by country",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "revival of old traditional breeds",
+                "original_value": "Reintroduction of endangered livestock breeds",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "farmer led initiative",
+                "original_value": "Farmer-led initiatives",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "looking back to what used to work",
+                "original_value": "Traditional agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "introducing it again",
+                "original_value": "Revival of traditional practices",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "benefitting off the trend of localness being trendy",
+                "original_value": "Localism",
+                "Wikidata_ID": "Q20999658"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "veganism",
+                "original_value": "Veganism",
+                "Wikidata_ID": "Q181138"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capitalist",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Predicted",
+                "original_value": "Prediction (general)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Traditional Venture Capital",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation (general)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "transnational organisation",
+                "original_value": "Transnational organization",
+                "Wikidata_ID": "Q16926150"
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "Farmer",
+                "Wikidata_ID": "Q131512"
+            },
+            {
+                "originalKey": "breed old animal breeds",
+                "original_value": "Animal breeding",
+                "Wikidata_ID": "Q227675"
+            },
+            {
+                "originalKey": "sell their products",
+                "original_value": "Product marketing",
+                "Wikidata_ID": "Q5961771"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "local assets include Natural and cultural",
+                "original_value": "Local asset",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]
