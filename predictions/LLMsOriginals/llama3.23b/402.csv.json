@@ -1,0 +1,210 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SWITZERLAND",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "entity_in_the_text": "VC 18 CH1",
+                "wikipedia_title": "Moving Card"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Valley Contraction"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Valley Contraction"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "population density",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "entity_in_the_text": "population change rate",
+                "wikipedia_title": "Population growth rate"
+            },
+            {
+                "entity_in_the_text": "regional population density",
+                "wikipedia_title": "Regional population density"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Gross Domestic Product per capita"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross Domestic Product"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Gross Domestic Product per capita"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross Domestic Product"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100000",
+                "wikipedia_title": "Nearest settlement"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List of provinces in Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Administrative regions of Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC-system",
+                "wikipedia_title": "Alpine Pass System"
+            },
+            {
+                "entity_in_the_text": "region",
+                "wikipedia_title": "Alps"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "sustainable way",
+                "wikipedia_title": "Sustainable tourism"
+            },
+            {
+                "entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "entity_in_the_text": "young people",
+                "wikipedia_title": "Demographics of youth"
+            },
+            {
+                "entity_in_the_text": "mountains",
+                "wikipedia_title": "Mountain regions"
+            },
+            {
+                "entity_in_the_text": "VC (Venture Capital)",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous innovation"
+            },
+            {
+                "entity_in_the_text": "Exogenous",
+                "wikipedia_title": "Exogenous innovation"
+            },
+            {
+                "entity_in_the_text": "New products",
+                "wikipedia_title": "Innovation in product development"
+            },
+            {
+                "entity_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing innovation"
+            },
+            {
+                "entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance innovation"
+            },
+            {
+                "entity_in_the_text": "Landscape",
+                "wikipedia_title": "Landscape ecology"
+            },
+            {
+                "entity_in_the_text": "Natural",
+                "wikipedia_title": "Ecological conservation"
+            },
+            {
+                "entity_in_the_text": "Social",
+                "wikipedia_title": "Social capital"
+            },
+            {
+                "entity_in_the_text": "Cultural",
+                "wikipedia_title": "Intangible cultural heritage"
+            }
+        ]
+    }
+]

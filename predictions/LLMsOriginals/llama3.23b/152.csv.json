@@ -1,0 +1,194 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "MOVING",
+                "wikipedia_title": "Moving (VC)"
+            },
+            {
+                "entity_in_the_text": "ITALY UNIMOL",
+                "wikipedia_title": "UNIMOL"
+            },
+            {
+                "entity_in_the_text": "UNIPI",
+                "wikipedia_title": "UniPi"
+            },
+            {
+                "entity_in_the_text": "VC 21 IT",
+                "wikipedia_title": "Moving VC 21 IT"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Northern Apennines - Tuscan Emilian Apennines",
+                "wikipedia_title": "Tuscan-Emilian Apennines"
+            },
+            {
+                "entity_in_the_text": "Anghiari",
+                "wikipedia_title": "Anghiari"
+            },
+            {
+                "entity_in_the_text": "Arezzo Province, Tuscany Region - Italy",
+                "wikipedia_title": "Tuscany (region)"
+            },
+            {
+                "entity_in_the_text": "Umbria region",
+                "wikipedia_title": "Umbria"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "altimetry",
+                "wikipedia_title": "Altimetry"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Gross Domestic Product per capita"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross Domestic Product"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Gross Domestic Product per capita"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross Domestic Product"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            },
+            {
+                "entity_in_the_text": "BPs",
+                "wikipedia_title": "Bed place"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List of provinces in Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "List of regions in Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Reg.(UE) n.1151/2012",
+                "wikipedia_title": "Directive 2011/1151/EU"
+            },
+            {
+                "entity_in_the_text": "Reg.(UE) n.665/2014",
+                "wikipedia_title": "Directive 2014/665/EU"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Steinbruck",
+                "wikipedia_title": "Jürgen Steinbrück"
+            },
+            {
+                "entity_in_the_text": "Apennines",
+                "wikipedia_title": "Appennino"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Steinbruck",
+                "wikipedia_title": "Matthias Steinbrück"
+            },
+            {
+                "entity_in_the_text": "Apennines",
+                "wikipedia_title": "Appennino"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous innovation"
+            },
+            {
+                "entity_in_the_text": "Exogenous",
+                "wikipedia_title": "Exogenous innovation"
+            },
+            {
+                "entity_in_the_text": "New products",
+                "wikipedia_title": "Product innovation"
+            },
+            {
+                "entity_in_the_text": "Communication based on: Nature, sostenibility and quality",
+                "wikipedia_title": "Not found"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Agroecology"
+            },
+            {
+                "entity_in_the_text": "Aromatic herbs",
+                "wikipedia_title": "Herbology"
+            },
+            {
+                "entity_in_the_text": "Local assets include Natural",
+                "wikipedia_title": "Not found"
+            }
+        ]
+    }
+]

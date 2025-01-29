@@ -1,0 +1,210 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "entity_in_the_text": "VC 01 AT",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "entity_in_the_text": "ALMO",
+                "wikipedia_title": "Almo Steirisches Almochsenfleisch"
+            },
+            {
+                "entity_in_the_text": "ÖPUL",
+                "wikipedia_title": "Austrian Program for Environmentally Sound Agriculture"
+            },
+            {
+                "entity_in_the_text": "(agro-)tourism",
+                "wikipedia_title": "Agrotourism"
+            },
+            {
+                "entity_in_the_text": "Genussregion Almenland",
+                "wikipedia_title": "Almenland"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Alpen"
+            },
+            {
+                "entity_in_the_text": "Weiz",
+                "wikipedia_title": "Weiz"
+            },
+            {
+                "entity_in_the_text": "Styrian alpine pasture region",
+                "wikipedia_title": "Almenland"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "altimetry",
+                "wikipedia_title": "Altimetry"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Gross Domestic Product per capita"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross Domestic Product"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Gross Domestic Product per capita"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross Domestic Product"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            },
+            {
+                "entity_in_the_text": "BPs",
+                "wikipedia_title": "Bed place"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List of provinces in Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "List of regions in Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ALMO",
+                "wikipedia_title": "Alp Oxen Farmers Association"
+            },
+            {
+                "entity_in_the_text": "LEADER-region Almenland and Energieregion Weiz-Gleisdorf",
+                "wikipedia_title": "LEADER (European regional development fund)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ALMO",
+                "wikipedia_title": "Almo (regional development organization)"
+            },
+            {
+                "entity_in_the_text": "sheep farmers",
+                "wikipedia_title": "Sheep farming"
+            },
+            {
+                "entity_in_the_text": "free range pig farmers",
+                "wikipedia_title": "Free-range pig farming"
+            },
+            {
+                "entity_in_the_text": "local butcher",
+                "wikipedia_title": "Butcher"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ALMO",
+                "wikipedia_title": "Alpine Livestock Management Organisation"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ALMO",
+                "wikipedia_title": "ALMO (agricultural cooperative)"
+            },
+            {
+                "entity_in_the_text": "LEADER",
+                "wikipedia_title": "European Regional Development Fund"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ALMO",
+                "wikipedia_title": "Alpine Livestock Management Organisation"
+            },
+            {
+                "entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "entity_in_the_text": "NUTS-II AT 12",
+                "wikipedia_title": "Lower Austria (EU region)"
+            },
+            {
+                "entity_in_the_text": "NUTS-II AT 21",
+                "wikipedia_title": "Carinthia (EU region)"
+            },
+            {
+                "entity_in_the_text": "alp oxen",
+                "wikipedia_title": "Alpine Livestock Management Organisation#Alp Oxen"
+            }
+        ]
+    }
+]

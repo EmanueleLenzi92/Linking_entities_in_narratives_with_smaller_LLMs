@@ -1,0 +1,162 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "entity_in_the_text": "VC 10 GR",
+                "wikipedia_title": "None (MOVING Card ID)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "White Mountains",
+                "wikipedia_title": "White Mountains (Crete)"
+            },
+            {
+                "entity_in_the_text": "KISSAMOS",
+                "wikipedia_title": "Kissamos"
+            },
+            {
+                "entity_in_the_text": "Elos",
+                "wikipedia_title": "Elos, Crete"
+            },
+            {
+                "entity_in_the_text": "Chania international airport",
+                "wikipedia_title": "Chania International Airport"
+            },
+            {
+                "entity_in_the_text": "Souda bay international harbor",
+                "wikipedia_title": "Port of Souda"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province (administrative division)"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "settlement",
+                "wikipedia_title": "Human settlement"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_[Country]"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Regions_of_[Country]"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "entity_in_the_text": "Chania",
+                "wikipedia_title": "Chania"
+            },
+            {
+                "entity_in_the_text": "Italy",
+                "wikipedia_title": "Italy"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Western White Mountains",
+                "wikipedia_title": "White Mountains (California)"
+            },
+            {
+                "entity_in_the_text": "chestnut festival",
+                "wikipedia_title": "Chestnut Festival"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "chestnut",
+                "wikipedia_title": "Chestnut"
+            },
+            {
+                "entity_in_the_text": "farmers",
+                "wikipedia_title": "Farmer"
+            },
+            {
+                "entity_in_the_text": "olive oil trees",
+                "wikipedia_title": "Olive tree"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Region of Crete",
+                "wikipedia_title": "Crete (region)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    }
+]

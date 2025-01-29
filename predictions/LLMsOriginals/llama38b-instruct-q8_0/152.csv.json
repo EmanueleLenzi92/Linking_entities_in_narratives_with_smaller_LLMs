@@ -1,0 +1,190 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ITALY",
+                "wikipedia_title": "Italy"
+            },
+            {
+                "entity_in_the_text": "UNIMOL",
+                "wikipedia_title": "University of Molise"
+            },
+            {
+                "entity_in_the_text": "UNIPI",
+                "wikipedia_title": "University of Pisa"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Northern Apennines",
+                "wikipedia_title": "Apennine Mountains"
+            },
+            {
+                "entity_in_the_text": "Tuscan Emilian Apennines",
+                "wikipedia_title": "Apennine Mountains"
+            },
+            {
+                "entity_in_the_text": "Anghiari",
+                "wikipedia_title": "Anghiari"
+            },
+            {
+                "entity_in_the_text": "Arezzo Province",
+                "wikipedia_title": "Province of Arezzo"
+            },
+            {
+                "entity_in_the_text": "Tuscany Region",
+                "wikipedia_title": "Region of Tuscany"
+            },
+            {
+                "entity_in_the_text": "Italy",
+                "wikipedia_title": "Italy"
+            },
+            {
+                "entity_in_the_text": "Umbria region",
+                "wikipedia_title": "Umbria"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province (administrative division)"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "settlement",
+                "wikipedia_title": "Human settlement"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Pontepietra",
+                "wikipedia_title": "Pontepietra"
+            },
+            {
+                "entity_in_the_text": "Reg.(UE) n.1151/2012",
+                "wikipedia_title": "Council Regulation (EU) No 1151/2012"
+            },
+            {
+                "entity_in_the_text": "Reg.(UE) n.665/2014",
+                "wikipedia_title": "Council Regulation (EU) No 665/2014"
+            },
+            {
+                "entity_in_the_text": "Apennines",
+                "wikipedia_title": "Apennine Mountains"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Steinbruck",
+                "wikipedia_title": "Karl-Theodor zu Guttenberg"
+            },
+            {
+                "entity_in_the_text": "Apennines",
+                "wikipedia_title": "Apennine Mountains"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Steinbruck",
+                "wikipedia_title": "Ignazio Steinbrück"
+            },
+            {
+                "entity_in_the_text": "Apennines",
+                "wikipedia_title": "Apennine Mountains"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Nature",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "entity_in_the_text": "Sostenibility",
+                "wikipedia_title": "Sustainability"
+            },
+            {
+                "entity_in_the_text": "Quality",
+                "wikipedia_title": "Quality (business)"
+            },
+            {
+                "entity_in_the_text": "New products",
+                "wikipedia_title": "Product development"
+            },
+            {
+                "entity_in_the_text": "Communication",
+                "wikipedia_title": "Marketing communication"
+            },
+            {
+                "entity_in_the_text": "Land use systems",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "entity_in_the_text": "Aromatic herbs",
+                "wikipedia_title": "Herb"
+            },
+            {
+                "entity_in_the_text": "Local assets",
+                "wikipedia_title": "Local economy"
+            }
+        ]
+    }
+]

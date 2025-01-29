@@ -1,0 +1,126 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "NMK",
+                "wikipedia_title": "North Macedonia"
+            },
+            {
+                "entity_in_the_text": "Wines of Macedonia",
+                "wikipedia_title": "Wine of North Macedonia"
+            },
+            {
+                "entity_in_the_text": "Ministry of Agriculture of North Macedonia",
+                "wikipedia_title": "Ministry of Agriculture, Forestry and Water Economy (North Macedonia)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Mountain Meleshevija",
+                "wikipedia_title": "Maleshevska Mountains"
+            },
+            {
+                "entity_in_the_text": "Republic of North Macedonia",
+                "wikipedia_title": "North Macedonia"
+            },
+            {
+                "entity_in_the_text": "Bregalnica",
+                "wikipedia_title": "Bregalnica River"
+            },
+            {
+                "entity_in_the_text": "Strumica",
+                "wikipedia_title": "Strumica River"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Vardar planning region",
+                "wikipedia_title": "Vardar Statistical Region"
+            },
+            {
+                "entity_in_the_text": "Republic of North Macedonia",
+                "wikipedia_title": "North Macedonia"
+            },
+            {
+                "entity_in_the_text": "Macedonian wineries",
+                "wikipedia_title": "Winemaking in North Macedonia"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Maleshevski mountain",
+                "wikipedia_title": "Maleševo"
+            },
+            {
+                "entity_in_the_text": "Maleshevija",
+                "wikipedia_title": "Maleševo"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            }
+        ]
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Skandinavian Union for Organic Crop Production"
+            },
+            {
+                "entity_in_the_text": "VC 07 SCA",
+                "wikipedia_title": "Not found"
+            },
+            {
+                "entity_in_the_text": "Rorosmat",
+                "wikipedia_title": "Not found"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Scandinavean Mountains",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "entity_in_the_text": "Tynset",
+                "wikipedia_title": "Tynset, Norway"
+            },
+            {
+                "entity_in_the_text": "Østerdalen",
+                "wikipedia_title": "Østerdalen"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "altimetry",
+                "wikipedia_title": "Altimetry"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income (EUR/year)",
+                "wikipedia_title": "Gross domestic product per capita"
+            },
+            {
+                "entity_in_the_text": "Gross Value Added (GVA) (EUR million/year)",
+                "wikipedia_title": "Gross domestic product"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year",
+                "wikipedia_title": "Sectoral accounts"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year",
+                "wikipedia_title": "Sectoral accounts"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year",
+                "wikipedia_title": "Sectoral accounts"
+            },
+            {
+                "entity_in_the_text": "per capita income (EUR/year)",
+                "wikipedia_title": "Gross domestic product per capita"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year)",
+                "wikipedia_title": "Gross domestic product"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year",
+                "wikipedia_title": "Sectoral accounts"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year",
+                "wikipedia_title": "Sectoral accounts"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year",
+                "wikipedia_title": "Sectoral accounts"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            },
+            {
+                "entity_in_the_text": "BPs",
+                "wikipedia_title": "Bed place"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List of provinces in Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "List of regions in Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Ancient crop",
+                "wikipedia_title": "Barley"
+            },
+            {
+                "entity_in_the_text": "Extreme climate conditions",
+                "wikipedia_title": "Desert agriculture"
+            },
+            {
+                "entity_in_the_text": "Farmers",
+                "wikipedia_title": "Agriculturist"
+            },
+            {
+                "entity_in_the_text": "E-commerce platform",
+                "wikipedia_title": "Online retail"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            },
+            {
+                "entity_in_the_text": "Rorosmat",
+                "wikipedia_title": "Rorosmat (company)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "entity_in_the_text": "fertilizers",
+                "wikipedia_title": "Fertilizer"
+            },
+            {
+                "entity_in_the_text": "pesticides",
+                "wikipedia_title": "Pesticide"
+            },
+            {
+                "entity_in_the_text": "barley",
+                "wikipedia_title": "Barley"
+            },
+            {
+                "entity_in_the_text": "wheat",
+                "wikipedia_title": "Wheat"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Exogenous",
+                "wikipedia_title": "Exogeneity"
+            },
+            {
+                "entity_in_the_text": "Rorosmat brand",
+                "wikipedia_title": "Rorosmat"
+            },
+            {
+                "entity_in_the_text": "e-commerce",
+                "wikipedia_title": "E-commerce"
+            },
+            {
+                "entity_in_the_text": "Cropland",
+                "wikipedia_title": "Cropland"
+            },
+            {
+                "entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "entity_in_the_text": "social",
+                "wikipedia_title": "Society"
+            },
+            {
+                "entity_in_the_text": "cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "AI",
+                "wikipedia_title": "Artificial intelligence"
+            },
+            {
+                "entity_in_the_text": "Machine learning",
+                "wikipedia_title": "Machine learning"
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SWITZERLAND",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "entity_in_the_text": "Honey from the alps",
+                "wikipedia_title": "Alpine honey"
+            },
+            {
+                "entity_in_the_text": "'Pro Montagna'",
+                "wikipedia_title": "Pro Montagna"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "bees",
+                "wikipedia_title": "Bee"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Beehives",
+                "wikipedia_title": "Beehive"
+            },
+            {
+                "entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            }
+        ]
+    }
+]

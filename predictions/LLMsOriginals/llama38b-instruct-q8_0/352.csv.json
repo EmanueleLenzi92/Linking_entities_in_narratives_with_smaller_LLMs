@@ -1,0 +1,234 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SPAIN",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "entity_in_the_text": "ADEGUA",
+                "wikipedia_title": "Adequa"
+            },
+            {
+                "entity_in_the_text": "ATADES Gardeniers Special Employment Center",
+                "wikipedia_title": "Atades"
+            },
+            {
+                "entity_in_the_text": "Torres de Berrellén melon",
+                "wikipedia_title": "Melon"
+            },
+            {
+                "entity_in_the_text": "European Agricultural Fund for Rural Development (EAFRD)",
+                "wikipedia_title": "European Agricultural Fund for Rural Development"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Pyrenees",
+                "wikipedia_title": "Pyrenees"
+            },
+            {
+                "entity_in_the_text": "Jaca (Ascara)",
+                "wikipedia_title": "Jaca, Huesca"
+            },
+            {
+                "entity_in_the_text": "Canal de Berdún",
+                "wikipedia_title": "Canal de Berdún"
+            },
+            {
+                "entity_in_the_text": "Huesca",
+                "wikipedia_title": "Province of Huesca"
+            },
+            {
+                "entity_in_the_text": "Zaragoza",
+                "wikipedia_title": "Province of Zaragoza"
+            },
+            {
+                "entity_in_the_text": "Torres de Berrellén",
+                "wikipedia_title": "Torres de Berrellén"
+            },
+            {
+                "entity_in_the_text": "Alagón",
+                "wikipedia_title": "Alagón, Zaragoza"
+            },
+            {
+                "entity_in_the_text": "Montañana",
+                "wikipedia_title": "Montañana, Zaragoza"
+            },
+            {
+                "entity_in_the_text": "Gardeniers farm",
+                "wikipedia_title": "None (not a Wikipedia page)"
+            },
+            {
+                "entity_in_the_text": "Cielos de Ascara agroecological social project",
+                "wikipedia_title": "None (not a Wikipedia page)"
+            },
+            {
+                "entity_in_the_text": "Sigpac",
+                "wikipedia_title": "SIGPAC"
+            },
+            {
+                "entity_in_the_text": "Jacetania region",
+                "wikipedia_title": "Jacetania"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_Spain"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Autonomous_communities_of_Spain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "settlement",
+                "wikipedia_title": "Human settlement"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_[Country]"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Regions_of_[Country]"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Cielos de Ascara",
+                "wikipedia_title": "Cielos_de_Ascara"
+            },
+            {
+                "entity_in_the_text": "Aragonese Pyrenees",
+                "wikipedia_title": "Pyrenees#Aragonese_Pyrenees"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Aragon",
+                "wikipedia_title": "Aragon"
+            },
+            {
+                "entity_in_the_text": "Organic Production of Foodstuffs linked to the Aragonese Territory",
+                "wikipedia_title": "None"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "rural development policies",
+                "wikipedia_title": "Rural development"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous growth theory"
+            },
+            {
+                "entity_in_the_text": "New products",
+                "wikipedia_title": "Product innovation"
+            },
+            {
+                "entity_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "entity_in_the_text": "Cropland",
+                "wikipedia_title": "Agricultural land use"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "San Juan de la Peña",
+                "wikipedia_title": "Sierra y Cañones de Guara"
+            },
+            {
+                "entity_in_the_text": "Monte Oroel",
+                "wikipedia_title": "Monte Oroel"
+            },
+            {
+                "entity_in_the_text": "Natural Park of the Western Valleys",
+                "wikipedia_title": "Parque Natural de los Valles Occidentales"
+            },
+            {
+                "entity_in_the_text": "Torres de Berrellén",
+                "wikipedia_title": "Torres de Berrellén"
+            },
+            {
+                "entity_in_the_text": "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+                "wikipedia_title": "Instituto Agroalimentario de Aragón"
+            },
+            {
+                "entity_in_the_text": "Mercazaragoza",
+                "wikipedia_title": "Mercado Central de Zaragoza"
+            }
+        ]
+    }
+]

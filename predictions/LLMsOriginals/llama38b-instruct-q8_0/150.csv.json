@@ -1,0 +1,174 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ITALY",
+                "wikipedia_title": "Italy"
+            },
+            {
+                "entity_in_the_text": "UNIMOL",
+                "wikipedia_title": "University of Molise"
+            },
+            {
+                "entity_in_the_text": "UNIPI",
+                "wikipedia_title": "University of Pisa"
+            },
+            {
+                "entity_in_the_text": "Amatrice",
+                "wikipedia_title": "Amatrice"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Central Apennines",
+                "wikipedia_title": "Apennine Mountains"
+            },
+            {
+                "entity_in_the_text": "Lazio region",
+                "wikipedia_title": "Lazio"
+            },
+            {
+                "entity_in_the_text": "Amatrice",
+                "wikipedia_title": "Amatrice"
+            },
+            {
+                "entity_in_the_text": "Rieti",
+                "wikipedia_title": "Rieti"
+            },
+            {
+                "entity_in_the_text": "Abruzzo region",
+                "wikipedia_title": "Abruzzo"
+            },
+            {
+                "entity_in_the_text": "Gran Sasso e Monti della Laga",
+                "wikipedia_title": "Gran Sasso and Monti della Laga National Park"
+            },
+            {
+                "entity_in_the_text": "Montana del Velino community",
+                "wikipedia_title": "Montagna dei Veli"
+            },
+            {
+                "entity_in_the_text": "Club of Borghi più belli d Italia",
+                "wikipedia_title": "Most Beautiful Villages in Italy"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Provinces_of_Spain"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Autonomous_communities_of_Spain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "settlement",
+                "wikipedia_title": "Human settlement"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "beekeeping farm",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "Municipality of Amatrice",
+                "wikipedia_title": "Amatrice"
+            },
+            {
+                "entity_in_the_text": "honey certificate of origin",
+                "wikipedia_title": "Protected designation of origin"
+            },
+            {
+                "entity_in_the_text": "Mielene di Amatric",
+                "wikipedia_title": "Miele d'Acero"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Amatrice",
+                "wikipedia_title": "Amatrice"
+            },
+            {
+                "entity_in_the_text": "nature park",
+                "wikipedia_title": "Nature reserve"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate_change"
+            },
+            {
+                "entity_in_the_text": "honey production",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "Municipality of Amatrice",
+                "wikipedia_title": "Amatrice"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Miele di Amatrice",
+                "wikipedia_title": "Miele_di_Amatrice"
+            },
+            {
+                "entity_in_the_text": "Amatrice",
+                "wikipedia_title": "Amatrice"
+            }
+        ]
+    }
+]

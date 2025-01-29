@@ -1,0 +1,214 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SPAIN ADEGUA",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "entity_in_the_text": "Sierras Cazorla, Segura and Las Villas",
+                "wikipedia_title": "Sierra de Cazorla,_Segura_and_Las_Villas"
+            },
+            {
+                "entity_in_the_text": "Sierra de Castril",
+                "wikipedia_title": "Sierra_de_Castril"
+            },
+            {
+                "entity_in_the_text": "Granada",
+                "wikipedia_title": "Granada,_Spain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Betic System",
+                "wikipedia_title": "Betic Cordillera"
+            },
+            {
+                "entity_in_the_text": "Castril",
+                "wikipedia_title": "Castril"
+            },
+            {
+                "entity_in_the_text": "Natura 2000 Network",
+                "wikipedia_title": "Natura 2000"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Transhumance",
+                "wikipedia_title": "Transhumance"
+            },
+            {
+                "entity_in_the_text": "Mediterranean area",
+                "wikipedia_title": "Mediterranean Sea"
+            },
+            {
+                "entity_in_the_text": "Alps",
+                "wikipedia_title": "Alps"
+            },
+            {
+                "entity_in_the_text": "Spain",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "entity_in_the_text": "UNESCO",
+                "wikipedia_title": "United Nations Educational, Scientific and Cultural Organization"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Natural Park of the Sierras de Cazorla, Segura and Las Villas",
+                "wikipedia_title": "Sierra de Cazorla, Segura y Las Villas Natural Park"
+            },
+            {
+                "entity_in_the_text": "Jaén",
+                "wikipedia_title": "Jaén"
+            },
+            {
+                "entity_in_the_text": "Castril",
+                "wikipedia_title": "Castril"
+            },
+            {
+                "entity_in_the_text": "Sierra Morena",
+                "wikipedia_title": "Sierra Morena"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Transhumance",
+                "wikipedia_title": "Transhumance"
+            },
+            {
+                "entity_in_the_text": "livestock trails and infrastructures",
+                "wikipedia_title": "Livestock trail"
+            },
+            {
+                "entity_in_the_text": "extensive livestock farming",
+                "wikipedia_title": "Extensive grazing"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Transhumance",
+                "wikipedia_title": "Transhumance"
+            },
+            {
+                "entity_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Soria",
+                "wikipedia_title": "Soria"
+            },
+            {
+                "entity_in_the_text": "Cuenca",
+                "wikipedia_title": "Cuenca"
+            },
+            {
+                "entity_in_the_text": "La Rioja",
+                "wikipedia_title": "La Rioja"
+            },
+            {
+                "entity_in_the_text": "Andalusia",
+                "wikipedia_title": "Andalusia"
+            },
+            {
+                "entity_in_the_text": "Sierras of Cazorla, Segura and Las Villas",
+                "wikipedia_title": "Sierra de Cazorla"
+            },
+            {
+                "entity_in_the_text": "Jaén",
+                "wikipedia_title": "Jaén"
+            },
+            {
+                "entity_in_the_text": "Sierra de Castril",
+                "wikipedia_title": "Sierra de Castril"
+            },
+            {
+                "entity_in_the_text": "Granada",
+                "wikipedia_title": "Granada"
+            },
+            {
+                "entity_in_the_text": "Sierra Morena",
+                "wikipedia_title": "Sierra Morena"
+            },
+            {
+                "entity_in_the_text": "Sierra Nevada",
+                "wikipedia_title": "Sierra Nevada"
+            },
+            {
+                "entity_in_the_text": "Italy",
+                "wikipedia_title": "Italy"
+            },
+            {
+                "entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    }
+]

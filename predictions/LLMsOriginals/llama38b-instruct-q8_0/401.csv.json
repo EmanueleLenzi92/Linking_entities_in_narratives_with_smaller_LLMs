@@ -1,0 +1,98 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SWITZERLAND",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "entity_in_the_text": "Pro Montagna",
+                "wikipedia_title": "Pro Montagna"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Valley_chain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province (administrative division)"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province (administrative division)"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "traditional VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "bees",
+                "wikipedia_title": "Honey bee"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Value_chain"
+            },
+            {
+                "entity_in_the_text": "Beehives",
+                "wikipedia_title": "Beehive"
+            }
+        ]
+    }
+]

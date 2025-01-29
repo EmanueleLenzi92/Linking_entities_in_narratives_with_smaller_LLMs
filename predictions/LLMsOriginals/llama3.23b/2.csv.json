@@ -1,0 +1,182 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "entity_in_the_text": "VC 02 AT",
+                "wikipedia_title": "None found, possibly a custom or private identifier"
+            },
+            {
+                "entity_in_the_text": "Almenland Stollenkäse GmbH",
+                "wikipedia_title": "None found, possibly a private company"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Alpen"
+            },
+            {
+                "entity_in_the_text": "Weiz",
+                "wikipedia_title": "Weiz"
+            },
+            {
+                "entity_in_the_text": "Styrian alpine pasture region",
+                "wikipedia_title": "Almenland"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "altimetry",
+                "wikipedia_title": "Altimetry"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "per capita income (EUR/year)",
+                "wikipedia_title": "Gross domestic product per capita"
+            },
+            {
+                "entity_in_the_text": "Gross Value Added (GVA) (EUR million/year)",
+                "wikipedia_title": "Gross domestic product"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            },
+            {
+                "entity_in_the_text": "BPs",
+                "wikipedia_title": "Bed place"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List of provinces in Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "List of regions in Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "entity_in_the_text": "Almenland dairy",
+                "wikipedia_title": "Almenland dairy"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "entity_in_the_text": "AgrarMarkt Austria",
+                "wikipedia_title": "AgrarMarkt Austria"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Almenland",
+                "wikipedia_title": "Alpenland"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous innovation"
+            },
+            {
+                "entity_in_the_text": "Exogenous",
+                "wikipedia_title": "Exogenous innovation"
+            },
+            {
+                "entity_in_the_text": "Cheese",
+                "wikipedia_title": "Cheese"
+            },
+            {
+                "entity_in_the_text": "Tunnel",
+                "wikipedia_title": "Mine tunnel"
+            },
+            {
+                "entity_in_the_text": "Arzberger Ursteirer",
+                "wikipedia_title": "Arzberger Ursteiger"
+            },
+            {
+                "entity_in_the_text": "USA",
+                "wikipedia_title": "United States"
+            },
+            {
+                "entity_in_the_text": "Pasture farming",
+                "wikipedia_title": "Pasture farming"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Alps"
+            },
+            {
+                "entity_in_the_text": "silver mine",
+                "wikipedia_title": "Silver mine"
+            }
+        ]
+    }
+]

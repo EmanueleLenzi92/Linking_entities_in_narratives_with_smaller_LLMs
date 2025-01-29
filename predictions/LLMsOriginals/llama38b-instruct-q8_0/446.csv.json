@@ -1,0 +1,158 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "TURKEY",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "entity_in_the_text": "VC 12 TR",
+                "wikipedia_title": "None (MOVING Card ID)"
+            },
+            {
+                "entity_in_the_text": "Rize",
+                "wikipedia_title": "Rize Province"
+            },
+            {
+                "entity_in_the_text": "Çay-Kur",
+                "wikipedia_title": "General Directorate of Tea Enterprises"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Eastern Black Sea Mountains",
+                "wikipedia_title": "Eastern_Caucasus_Mountains"
+            },
+            {
+                "entity_in_the_text": "Güneysu",
+                "wikipedia_title": "Güneysu,_Rize"
+            },
+            {
+                "entity_in_the_text": "Rize Province",
+                "wikipedia_title": "Rize_Province"
+            },
+            {
+                "entity_in_the_text": "Black Sea Region",
+                "wikipedia_title": "Black_Sea_Regional_Directorate"
+            },
+            {
+                "entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province (administrative division)"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Rize",
+                "wikipedia_title": "Rize Province"
+            },
+            {
+                "entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Rize region",
+                "wikipedia_title": "Rize Province"
+            },
+            {
+                "entity_in_the_text": "Turkish Patent and Trademark Office",
+                "wikipedia_title": "Turkish Patent and Trademark Office"
+            },
+            {
+                "entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "tea plantations",
+                "wikipedia_title": "Tea plantation"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Value_chain"
+            },
+            {
+                "entity_in_the_text": "Cropland",
+                "wikipedia_title": "Agricultural_land_use"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ITALY",
+                "wikipedia_title": "Italy"
+            },
+            {
+                "entity_in_the_text": "UNIMOL",
+                "wikipedia_title": "University of Molise"
+            },
+            {
+                "entity_in_the_text": "UNIPI",
+                "wikipedia_title": "University of Pisa"
+            },
+            {
+                "entity_in_the_text": "Savigni",
+                "wikipedia_title": "Savignano Irpino"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Northern Apennines",
+                "wikipedia_title": "Apennine Mountains"
+            },
+            {
+                "entity_in_the_text": "Tuscan Emilian Apennines",
+                "wikipedia_title": "Apennine Mountains"
+            },
+            {
+                "entity_in_the_text": "Sambuca Pistoiese",
+                "wikipedia_title": "Sambuca Pistoiese"
+            },
+            {
+                "entity_in_the_text": "Pistoia province",
+                "wikipedia_title": "Province of Pistoia"
+            },
+            {
+                "entity_in_the_text": "Italian region of Tuscany",
+                "wikipedia_title": "Tuscany"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Provinces_of_Spain"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Autonomous_communities_of_Spain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "settlement",
+                "wikipedia_title": "Human settlement"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Savigni familly",
+                "wikipedia_title": "Savigny (family)"
+            },
+            {
+                "entity_in_the_text": "ANAS",
+                "wikipedia_title": "Italian National Association of Automobile Clubs"
+            },
+            {
+                "entity_in_the_text": "BioAgriCert",
+                "wikipedia_title": "BioAgriCert"
+            },
+            {
+                "entity_in_the_text": "AIAB",
+                "wikipedia_title": "Italian Agricultural Institute for Food and Environmental Research"
+            },
+            {
+                "entity_in_the_text": "INEQ",
+                "wikipedia_title": "Institute of Quality North-East"
+            },
+            {
+                "entity_in_the_text": "TUV",
+                "wikipedia_title": "TÜV Rheinland"
+            },
+            {
+                "entity_in_the_text": "Consorzio Tutela of Cinta Senese",
+                "wikipedia_title": "Consorzio Tutela del Cinta Senese"
+            },
+            {
+                "entity_in_the_text": "Finocchiona PGI",
+                "wikipedia_title": "Finocchiona"
+            },
+            {
+                "entity_in_the_text": "Vitellone Bianco dell Appennino Centrale PGI",
+                "wikipedia_title": "Vitellone Bianco dell'Appennino Centrale"
+            },
+            {
+                "entity_in_the_text": "Chianina beef",
+                "wikipedia_title": "Chianina cattle"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Savigni family",
+                "wikipedia_title": "House of Savigny"
+            },
+            {
+                "entity_in_the_text": "Porretta",
+                "wikipedia_title": "Porretta Terme"
+            },
+            {
+                "entity_in_the_text": "Suviana Lake",
+                "wikipedia_title": "Lake Suviana"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Predicted",
+                "wikipedia_title": "Prediction"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Supply chain"
+            },
+            {
+                "entity_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous growth theory"
+            },
+            {
+                "entity_in_the_text": "organic farm",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            }
+        ]
+    }
+]

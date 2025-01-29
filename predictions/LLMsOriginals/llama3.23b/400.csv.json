@@ -1,0 +1,234 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SWITZERLAND",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "entity_in_the_text": "VC 16 CH1",
+                "wikipedia_title": "Moving Card"
+            },
+            {
+                "entity_in_the_text": "Engadiner",
+                "wikipedia_title": "Engadiner sheep breed"
+            },
+            {
+                "entity_in_the_text": "Spiegelschaf",
+                "wikipedia_title": "Spiegelschaf"
+            },
+            {
+                "entity_in_the_text": "Nera Verzasca",
+                "wikipedia_title": "Nera Verzasca goat breed"
+            },
+            {
+                "entity_in_the_text": "Capra Grigia",
+                "wikipedia_title": "Capra Grigia"
+            },
+            {
+                "entity_in_the_text": "Black Alpine Pig",
+                "wikipedia_title": "Black Alpine Pig"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Valley Contraction"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Valley Contraction"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "population density",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "entity_in_the_text": "population change rate",
+                "wikipedia_title": "Population growth rate"
+            },
+            {
+                "entity_in_the_text": "regional population density",
+                "wikipedia_title": "Regional population density"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Gross Domestic Product per capita"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross Domestic Product"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Gross Domestic Product per capita"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross Domestic Product"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Sectoral composition of GDP"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100000",
+                "wikipedia_title": "Nearest settlement"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List of provinces in Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Administrative regions of Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "traditional breeds",
+                "wikipedia_title": "List of traditional livestock breeds"
+            },
+            {
+                "entity_in_the_text": "local situation",
+                "wikipedia_title": "Localism"
+            },
+            {
+                "entity_in_the_text": "farmer led initiative",
+                "wikipedia_title": "Agroecology"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Veganism",
+                "wikipedia_title": "Veganism"
+            },
+            {
+                "entity_in_the_text": "Challenge",
+                "wikipedia_title": "Challenge (problem)"
+            },
+            {
+                "entity_in_the_text": "Trend",
+                "wikipedia_title": "Trend"
+            },
+            {
+                "entity_in_the_text": "Traditional",
+                "wikipedia_title": "Traditionalism"
+            },
+            {
+                "entity_in_the_text": "Innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous innovation"
+            },
+            {
+                "entity_in_the_text": "transnational organisation",
+                "wikipedia_title": "Transnational organization"
+            },
+            {
+                "entity_in_the_text": "regional branches",
+                "wikipedia_title": "Regional branch"
+            },
+            {
+                "entity_in_the_text": "farmers",
+                "wikipedia_title": "Farmer"
+            },
+            {
+                "entity_in_the_text": "old animal breeds",
+                "wikipedia_title": "Old animal breed"
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "entity_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "entity_in_the_text": "Natural",
+                "wikipedia_title": "Natural resource"
+            },
+            {
+                "entity_in_the_text": "cultural",
+                "wikipedia_title": "Cultural asset"
+            }
+        ]
+    }
+]

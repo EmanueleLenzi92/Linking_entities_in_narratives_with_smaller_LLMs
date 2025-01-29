@@ -1,0 +1,182 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "TURKEY",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "entity_in_the_text": "Pinus pinea L.",
+                "wikipedia_title": "Pinus_pinea"
+            },
+            {
+                "entity_in_the_text": "Çetin, 2003",
+                "wikipedia_title": "None (not a notable person)"
+            },
+            {
+                "entity_in_the_text": "Öztürk and Küçükerdem, 2017",
+                "wikipedia_title": "None (not a notable person)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Bergama",
+                "wikipedia_title": "Bergama"
+            },
+            {
+                "entity_in_the_text": "İzmir",
+                "wikipedia_title": "İzmir Province"
+            },
+            {
+                "entity_in_the_text": "Kozak",
+                "wikipedia_title": "Kozak, Turkey"
+            },
+            {
+                "entity_in_the_text": "Madra Mountains",
+                "wikipedia_title": "Madra Mountains"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province (administrative division)"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_[Country]"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Regions_of_[Country]"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Peanut pine",
+                "wikipedia_title": "Pinus_pinea"
+            },
+            {
+                "entity_in_the_text": "Bergama-Kozak plateau",
+                "wikipedia_title": "Bergama"
+            },
+            {
+                "entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "entity_in_the_text": "Madra Mountains",
+                "wikipedia_title": "Madra_Mountains"
+            },
+            {
+                "entity_in_the_text": "Ministry of Forestry",
+                "wikipedia_title": "Ministry_of_Forestry_(Turkey)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "entity_in_the_text": "Kozak/Bergama",
+                "wikipedia_title": "Bergama"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Kozak plateau",
+                "wikipedia_title": "Kozak Plateau"
+            },
+            {
+                "entity_in_the_text": "pine seedlings",
+                "wikipedia_title": "Pine seedling"
+            },
+            {
+                "entity_in_the_text": "cooperative",
+                "wikipedia_title": "Cooperative"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Value_chain"
+            },
+            {
+                "entity_in_the_text": "Cropland",
+                "wikipedia_title": "Agricultural_land_use"
+            },
+            {
+                "entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forest_management"
+            },
+            {
+                "entity_in_the_text": "Natural",
+                "wikipedia_title": "Natural_resource"
+            },
+            {
+                "entity_in_the_text": "Cultural",
+                "wikipedia_title": "Cultural_heritage"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Pine nuts",
+                "wikipedia_title": "Pine_nut"
+            }
+        ]
+    }
+]

@@ -1,0 +1,190 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "entity_in_the_text": "MOVING",
+                "wikipedia_title": "Moving (company)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "RR 11",
+                "wikipedia_title": "Rottenmann and Wölz Tauern"
+            },
+            {
+                "entity_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "entity_in_the_text": "Weiz",
+                "wikipedia_title": "Weiz (Styria)"
+            },
+            {
+                "entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_Spain"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Autonomous_communities_of_Spain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "settlement",
+                "wikipedia_title": "Human settlement"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_[Country]"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Regions_of_[Country]"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Almenland Nature Park",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "entity_in_the_text": "Almenland Kräuter",
+                "wikipedia_title": "Almenland Kräuter"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "entity_in_the_text": "AgrarMarkt Austria",
+                "wikipedia_title": "Austrian Chamber of Agriculture"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Extreme weather conditions",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "entity_in_the_text": "natural vegetation",
+                "wikipedia_title": "Vegetation"
+            },
+            {
+                "entity_in_the_text": "cultivation practices",
+                "wikipedia_title": "Agricultural practices"
+            },
+            {
+                "entity_in_the_text": "herbs",
+                "wikipedia_title": "Herb"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "herbs",
+                "wikipedia_title": "Herb"
+            },
+            {
+                "entity_in_the_text": "tea",
+                "wikipedia_title": "Tea"
+            },
+            {
+                "entity_in_the_text": "birch sugar",
+                "wikipedia_title": "Birch sugar"
+            },
+            {
+                "entity_in_the_text": "soaps",
+                "wikipedia_title": "Soap"
+            },
+            {
+                "entity_in_the_text": "creams",
+                "wikipedia_title": "Cream"
+            },
+            {
+                "entity_in_the_text": "incense materials",
+                "wikipedia_title": "Incense"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "entity_in_the_text": "mountainous regions",
+                "wikipedia_title": "Mountainous region"
+            }
+        ]
+    }
+]

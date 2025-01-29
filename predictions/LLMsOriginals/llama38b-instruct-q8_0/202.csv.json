@@ -1,0 +1,146 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "NMK",
+                "wikipedia_title": "North Macedonia"
+            },
+            {
+                "entity_in_the_text": "Wines of Macedonia",
+                "wikipedia_title": "Wines of Macedonia"
+            },
+            {
+                "entity_in_the_text": "Ministry of Agriculture of North Macedonia",
+                "wikipedia_title": "Ministry of Agriculture, Forestry and Water Economy (North Macedonia)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Mountain Meleshevija",
+                "wikipedia_title": "Meleshevija"
+            },
+            {
+                "entity_in_the_text": "Maleshevski mountains",
+                "wikipedia_title": "Šar Mountains"
+            },
+            {
+                "entity_in_the_text": "Republic of North Macedonia",
+                "wikipedia_title": "North Macedonia"
+            },
+            {
+                "entity_in_the_text": "Berovo",
+                "wikipedia_title": "Berovo Municipality"
+            },
+            {
+                "entity_in_the_text": "Pehchevo",
+                "wikipedia_title": "Pehčevo Municipality"
+            },
+            {
+                "entity_in_the_text": "Bregalnica",
+                "wikipedia_title": "Bregalnica River"
+            },
+            {
+                "entity_in_the_text": "Strumica",
+                "wikipedia_title": "Strumica"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Vardar planning region",
+                "wikipedia_title": "Vardar (region)"
+            },
+            {
+                "entity_in_the_text": "Republic of North Macedonia",
+                "wikipedia_title": "North Macedonia"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Maleshevski mountain",
+                "wikipedia_title": "Šar Mountains"
+            },
+            {
+                "entity_in_the_text": "Maleshevija",
+                "wikipedia_title": "Malesia (region)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Supply chain"
+            },
+            {
+                "entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            }
+        ]
+    }
+]

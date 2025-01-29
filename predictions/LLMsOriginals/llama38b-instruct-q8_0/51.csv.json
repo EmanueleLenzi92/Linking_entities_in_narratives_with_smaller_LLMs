@@ -1,0 +1,162 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "VC 10 CZ",
+                "wikipedia_title": "No exact match found"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Giant Mountains",
+                "wikipedia_title": "Krkonoše"
+            },
+            {
+                "entity_in_the_text": "LAU 1 Trutnov",
+                "wikipedia_title": "Trutnov District"
+            },
+            {
+                "entity_in_the_text": "NUTS 3 Kralovehradecky",
+                "wikipedia_title": "Královéhradecký Region"
+            },
+            {
+                "entity_in_the_text": "National Park",
+                "wikipedia_title": "Krkonose National Park"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province (administrative division)"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "settlement",
+                "wikipedia_title": "Human settlement"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Vodka"
+            },
+            {
+                "entity_in_the_text": "region",
+                "wikipedia_title": "Region (geography)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "producers",
+                "wikipedia_title": "Producer"
+            },
+            {
+                "entity_in_the_text": "region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "mountain area",
+                "wikipedia_title": "Mountain range"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Herb liquers",
+                "wikipedia_title": "Herbal liqueur"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Value_chain"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land_use"
+            },
+            {
+                "entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "entity_in_the_text": "Cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "mountain region",
+                "wikipedia_title": "Mountainous region"
+            }
+        ]
+    }
+]

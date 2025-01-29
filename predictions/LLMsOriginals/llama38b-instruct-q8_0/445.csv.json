@@ -1,0 +1,222 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "TURKEY",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "entity_in_the_text": "Mugla",
+                "wikipedia_title": "Muğla Province"
+            },
+            {
+                "entity_in_the_text": "TURKSTAT",
+                "wikipedia_title": "Turkish Statistical Institute"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Menteşe Mountains",
+                "wikipedia_title": "Menteşe Mountains"
+            },
+            {
+                "entity_in_the_text": "Ula",
+                "wikipedia_title": "Ula, Muğla"
+            },
+            {
+                "entity_in_the_text": "Muğla province",
+                "wikipedia_title": "Muğla Province"
+            },
+            {
+                "entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province (administrative division)"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "entity_in_the_text": "Pine honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "Turkish Patent and Trademark Office",
+                "wikipedia_title": "Turkish Patent and Trademark Office"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "entity_in_the_text": "Muğla Province",
+                "wikipedia_title": "Muğla Province"
+            },
+            {
+                "entity_in_the_text": "Muğla",
+                "wikipedia_title": "Muğla"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Honey yield",
+                "wikipedia_title": "Honey production"
+            },
+            {
+                "entity_in_the_text": "Climatic conditions",
+                "wikipedia_title": "Climate"
+            },
+            {
+                "entity_in_the_text": "Migratory beekeeper",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "Young people",
+                "wikipedia_title": "Demographics of youth"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Supply chain"
+            },
+            {
+                "entity_in_the_text": "Rainforest Alliance",
+                "wikipedia_title": "Rainforest Alliance"
+            },
+            {
+                "entity_in_the_text": "Organic",
+                "wikipedia_title": "Organic farming"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "entity_in_the_text": "Switzerland",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "entity_in_the_text": "UK",
+                "wikipedia_title": "United Kingdom"
+            },
+            {
+                "entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "France",
+                "wikipedia_title": "France"
+            },
+            {
+                "entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "entity_in_the_text": "Hungary",
+                "wikipedia_title": "Hungary"
+            },
+            {
+                "entity_in_the_text": "Italy",
+                "wikipedia_title": "Italy"
+            },
+            {
+                "entity_in_the_text": "North Macedonia",
+                "wikipedia_title": "North Macedonia"
+            },
+            {
+                "entity_in_the_text": "Romania",
+                "wikipedia_title": "Romania"
+            },
+            {
+                "entity_in_the_text": "Serbia",
+                "wikipedia_title": "Serbia"
+            },
+            {
+                "entity_in_the_text": "Slovakia",
+                "wikipedia_title": "Slovakia"
+            },
+            {
+                "entity_in_the_text": "Spain",
+                "wikipedia_title": "Spain"
+            }
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SWITZERLAND",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "entity_in_the_text": "Engadiner",
+                "wikipedia_title": "Engadine (breed)"
+            },
+            {
+                "entity_in_the_text": "Spiegelschaf",
+                "wikipedia_title": "Spiegel sheep"
+            },
+            {
+                "entity_in_the_text": "Nera Verzasca",
+                "wikipedia_title": "Verzasca Valley"
+            },
+            {
+                "entity_in_the_text": "Capra Grigia",
+                "wikipedia_title": "Grigia goat"
+            },
+            {
+                "entity_in_the_text": "Black Alpine Pig",
+                "wikipedia_title": "Alpine pig"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Valley_chain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province (administrative division)"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province (administrative division)"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "farmer",
+                "wikipedia_title": "Farmer"
+            },
+            {
+                "entity_in_the_text": "localness",
+                "wikipedia_title": "Localism"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "veganism",
+                "wikipedia_title": "Veganism"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Supply chain"
+            },
+            {
+                "entity_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous growth theory"
+            },
+            {
+                "entity_in_the_text": "Transnational organisation",
+                "wikipedia_title": "Multinational corporation"
+            },
+            {
+                "entity_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            }
+        ]
+    }
+]

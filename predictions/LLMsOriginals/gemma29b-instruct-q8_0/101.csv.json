@@ -1,0 +1,166 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "entity_in_the_text": "VC 10 GR",
+                "wikipedia_title": "Value chain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "White Mountains",
+                "wikipedia_title": "White Mountains (Crete)"
+            },
+            {
+                "entity_in_the_text": "KISSAMOS",
+                "wikipedia_title": "Kissamos"
+            },
+            {
+                "entity_in_the_text": "Chania international airport",
+                "wikipedia_title": "Chania International Airport"
+            },
+            {
+                "entity_in_the_text": "Souda bay international harbor",
+                "wikipedia_title": "Souda Bay"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "entity_in_the_text": "Chania chestnut trees",
+                "wikipedia_title": "Chestnut"
+            },
+            {
+                "entity_in_the_text": "Cretan",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "entity_in_the_text": "Greek market",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "entity_in_the_text": "Italian market",
+                "wikipedia_title": "Italy"
+            },
+            {
+                "entity_in_the_text": "olive oil monoculture",
+                "wikipedia_title": "Monoculture"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Western White Mountains",
+                "wikipedia_title": "White Mountains (New Hampshire)"
+            },
+            {
+                "entity_in_the_text": "chestnut",
+                "wikipedia_title": "Chestnut"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "chestnut trees",
+                "wikipedia_title": "Chestnut"
+            },
+            {
+                "entity_in_the_text": "olive oil trees",
+                "wikipedia_title": "Olive oil"
+            },
+            {
+                "entity_in_the_text": "Greek",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Region of Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "entity_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            }
+        ]
+    }
+]

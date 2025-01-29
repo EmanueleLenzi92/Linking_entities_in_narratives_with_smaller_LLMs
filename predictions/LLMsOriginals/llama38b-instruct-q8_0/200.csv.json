@@ -1,0 +1,194 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "NMK",
+                "wikipedia_title": "North Macedonia"
+            },
+            {
+                "entity_in_the_text": "Kozuvcanka",
+                "wikipedia_title": "Kozuv"
+            },
+            {
+                "entity_in_the_text": "Pelisterka",
+                "wikipedia_title": "Pelister"
+            },
+            {
+                "entity_in_the_text": "Maya",
+                "wikipedia_title": "None"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Mountain Meleshevija",
+                "wikipedia_title": "Meleshevija"
+            },
+            {
+                "entity_in_the_text": "Maleshevski mountains",
+                "wikipedia_title": "Šar Mountains"
+            },
+            {
+                "entity_in_the_text": "Republic of North Macedonia",
+                "wikipedia_title": "North Macedonia"
+            },
+            {
+                "entity_in_the_text": "Berovo",
+                "wikipedia_title": "Berovo Municipality"
+            },
+            {
+                "entity_in_the_text": "Pehchevo",
+                "wikipedia_title": "Pehčevo Municipality"
+            },
+            {
+                "entity_in_the_text": "Bregalnica",
+                "wikipedia_title": "Bregalnica River"
+            },
+            {
+                "entity_in_the_text": "Strumica",
+                "wikipedia_title": "Strumica"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province (administrative division)"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Vardar",
+                "wikipedia_title": "Vardar (river)"
+            },
+            {
+                "entity_in_the_text": "Crni Drim",
+                "wikipedia_title": "Drin"
+            },
+            {
+                "entity_in_the_text": "Bregalnica",
+                "wikipedia_title": "Bregalnica"
+            },
+            {
+                "entity_in_the_text": "Babuna",
+                "wikipedia_title": "Babuna (river)"
+            },
+            {
+                "entity_in_the_text": "Topolka",
+                "wikipedia_title": "Topolka (river)"
+            },
+            {
+                "entity_in_the_text": "Otovica",
+                "wikipedia_title": "Otovica"
+            },
+            {
+                "entity_in_the_text": "Tikvesh",
+                "wikipedia_title": "Lake Tikveš"
+            },
+            {
+                "entity_in_the_text": "Lices",
+                "wikipedia_title": "Lice Lake"
+            },
+            {
+                "entity_in_the_text": "Mladost",
+                "wikipedia_title": "Mladost (lake)"
+            },
+            {
+                "entity_in_the_text": "Kozuvcanka",
+                "wikipedia_title": "Kozuv"
+            },
+            {
+                "entity_in_the_text": "Kavadarci",
+                "wikipedia_title": "Kavadarci"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Kozuvcanka",
+                "wikipedia_title": "Kozuvcanka"
+            },
+            {
+                "entity_in_the_text": "Maleshevski mountain",
+                "wikipedia_title": "Šar Mountains"
+            },
+            {
+                "entity_in_the_text": "Vardarski region",
+                "wikipedia_title": "Vardar Valley"
+            },
+            {
+                "entity_in_the_text": "Maleshevija",
+                "wikipedia_title": "Malačeva Gora"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Supply chain"
+            },
+            {
+                "entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            }
+        ]
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "TURKEY",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "entity_in_the_text": "VC 17 TR",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Kozak type pine nuts",
+                "wikipedia_title": "Pine nut"
+            },
+            {
+                "entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "entity_in_the_text": "Pinus pinea L.",
+                "wikipedia_title": "Stone pine"
+            },
+            {
+                "entity_in_the_text": "cooperatives",
+                "wikipedia_title": "Cooperative"
+            },
+            {
+                "entity_in_the_text": "SES",
+                "wikipedia_title": "Social and economic system"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Bergama",
+                "wikipedia_title": "Bergama"
+            },
+            {
+                "entity_in_the_text": "Kozak Plateau",
+                "wikipedia_title": "Kozak Plateau"
+            },
+            {
+                "entity_in_the_text": "Madra Mountains",
+                "wikipedia_title": "Madra Mountains"
+            },
+            {
+                "entity_in_the_text": "Pinus pinea",
+                "wikipedia_title": "Stone pine"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Peanut pine",
+                "wikipedia_title": "Pinus pinea"
+            },
+            {
+                "entity_in_the_text": "Mediterranean climate",
+                "wikipedia_title": "Mediterranean climate"
+            },
+            {
+                "entity_in_the_text": "Bergama-Kozak plateau",
+                "wikipedia_title": "Bergama"
+            },
+            {
+                "entity_in_the_text": "Kozak plateau",
+                "wikipedia_title": "Madra Mountains"
+            },
+            {
+                "entity_in_the_text": "Bergama, Kozak",
+                "wikipedia_title": "Bergama"
+            },
+            {
+                "entity_in_the_text": "Ministry of Forestry",
+                "wikipedia_title": "Ministry of Forestry and Water Affairs (Turkey)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Kozak/Bergama",
+                "wikipedia_title": "Bergama"
+            },
+            {
+                "entity_in_the_text": "Turkish Patent and Trademark Office",
+                "wikipedia_title": "Turkish Patent and Trademark Office"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Kozak plateau",
+                "wikipedia_title": "Kozak Plateau"
+            },
+            {
+                "entity_in_the_text": "pine nuts",
+                "wikipedia_title": "Pine nut"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Cropland",
+                "wikipedia_title": "Cropland"
+            },
+            {
+                "entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "entity_in_the_text": "cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Pine nuts",
+                "wikipedia_title": "Pine nut"
+            },
+            {
+                "entity_in_the_text": "MRLs",
+                "wikipedia_title": "Maximum residue limit"
+            }
+        ]
+    }
+]

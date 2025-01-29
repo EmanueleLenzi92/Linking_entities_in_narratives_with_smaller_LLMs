@@ -1,0 +1,149 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SPAIN ADEGUA",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "entity_in_the_text": "VC 34 ES",
+                "wikipedia_title": "Value chain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Betic System",
+                "wikipedia_title": "Betic Cordillera"
+            },
+            {
+                "entity_in_the_text": "Carcabuey",
+                "wikipedia_title": "Carcabuey"
+            },
+            {
+                "entity_in_the_text": "Sierra Subbética",
+                "wikipedia_title": "Subbetic Mountains"
+            },
+            {
+                "entity_in_the_text": "Natural Park",
+                "wikipedia_title": "Natural park"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "care of the elderly",
+                "wikipedia_title": "Elderly care"
+            },
+            {
+                "entity_in_the_text": "mountain centres",
+                "wikipedia_title": "Mountain"
+            },
+            {
+                "entity_in_the_text": "private care company",
+                "wikipedia_title": "Home care"
+            },
+            {
+                "entity_in_the_text": "certificates of professionalism",
+                "wikipedia_title": "Professional certification"
+            },
+            {
+                "entity_in_the_text": "informal sector",
+                "wikipedia_title": "Informal economy"
+            },
+            {
+                "entity_in_the_text": "immigrant female population",
+                "wikipedia_title": "Immigration"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "PROMI",
+                "wikipedia_title": "PROMI"
+            },
+            {
+                "entity_in_the_text": "Provincial Council",
+                "wikipedia_title": "Provincial council"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Ageing population",
+                "wikipedia_title": "Aging population"
+            },
+            {
+                "entity_in_the_text": "Sierra communities",
+                "wikipedia_title": "Sierra Leonean people"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Sierra",
+                "wikipedia_title": "Sierra (geography)"
+            },
+            {
+                "entity_in_the_text": "Subbética",
+                "wikipedia_title": "Subbética"
+            }
+        ]
+    }
+]

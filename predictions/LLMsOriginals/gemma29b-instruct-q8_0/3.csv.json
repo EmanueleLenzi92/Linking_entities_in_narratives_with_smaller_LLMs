@@ -1,0 +1,134 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "entity_in_the_text": "VC 03 AT",
+                "wikipedia_title": "Value-chain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "RR 11",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "entity_in_the_text": "Weiz (No: 617)",
+                "wikipedia_title": "Weiz, Styria"
+            },
+            {
+                "entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Almenland Nature Park",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "entity_in_the_text": "The 'Almenland Kräuter' brand",
+                "wikipedia_title": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Almenland 'Genussregion",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "entity_in_the_text": "AgrarMarkt Austria",
+                "wikipedia_title": "Agrarmarkt Austria"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate_change"
+            },
+            {
+                "entity_in_the_text": "herbs",
+                "wikipedia_title": "Herb"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture_capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "birch sugar",
+                "wikipedia_title": "Birch sugar"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Austrian",
+                "wikipedia_title": "Austria"
+            }
+        ]
+    }
+]

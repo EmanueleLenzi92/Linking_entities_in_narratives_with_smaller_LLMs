@@ -1,0 +1,142 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ITALY UNIMOL",
+                "wikipedia_title": "University_of_Molise"
+            },
+            {
+                "entity_in_the_text": "UNIPI",
+                "wikipedia_title": "University_of_Pisa"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Northern Apennines - Tuscan Emilian Apennines",
+                "wikipedia_title": "Tuscan-Emilian Apennines"
+            },
+            {
+                "entity_in_the_text": "Anghiari",
+                "wikipedia_title": "Anghiari"
+            },
+            {
+                "entity_in_the_text": "Arezzo Province",
+                "wikipedia_title": "Province of Arezzo"
+            },
+            {
+                "entity_in_the_text": "Tuscany Region - Italy",
+                "wikipedia_title": "Tuscany"
+            },
+            {
+                "entity_in_the_text": "Umbria region",
+                "wikipedia_title": "Umbria"
+            },
+            {
+                "entity_in_the_text": "Italy",
+                "wikipedia_title": "Italy"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Mountain Product",
+                "wikipedia_title": "Protected Designation of Origin"
+            },
+            {
+                "entity_in_the_text": "Reg.(UE) n.1151/2012",
+                "wikipedia_title": "Regulation (EU) No 1151/2012"
+            },
+            {
+                "entity_in_the_text": "Reg.(UE) n.665/2014",
+                "wikipedia_title": "Regulation (EU) No 665/2014"
+            },
+            {
+                "entity_in_the_text": "Apennines",
+                "wikipedia_title": "Apennine Mountains"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Apennines",
+                "wikipedia_title": "Apennines"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Apennines",
+                "wikipedia_title": "Apennines"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Nature",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "entity_in_the_text": "aromatic herbs",
+                "wikipedia_title": "Herbs"
+            }
+        ]
+    }
+]

@@ -1,0 +1,210 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "VC 09 CZ",
+                "wikipedia_title": "null"
+            },
+            {
+                "entity_in_the_text": "EU PGI label",
+                "wikipedia_title": "European Union Protected Geographical Indication"
+            },
+            {
+                "entity_in_the_text": "Ostrava",
+                "wikipedia_title": "Ostrava"
+            },
+            {
+                "entity_in_the_text": "Vallachian region",
+                "wikipedia_title": "Wallachia"
+            },
+            {
+                "entity_in_the_text": "Beskydy mountains",
+                "wikipedia_title": "Beskydy Mountains"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Javorníky/Beskydy (Western Carpathian) mountains",
+                "wikipedia_title": "Beskydy"
+            },
+            {
+                "entity_in_the_text": "LAU 1 Vsetín",
+                "wikipedia_title": "Vsetín#Reference Landscape"
+            },
+            {
+                "entity_in_the_text": "Mountain Reference Landscape (LAU 1 - Vsetín)",
+                "wikipedia_title": "Vsetín#Reference Landscape"
+            },
+            {
+                "entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "altimetry",
+                "wikipedia_title": "Altimetry"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "per capita income (EUR/year)",
+                "wikipedia_title": "Gross domestic product per capita"
+            },
+            {
+                "entity_in_the_text": "Gross Value Added (GVA) (EUR million/year)",
+                "wikipedia_title": "Gross domestic product"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year",
+                "wikipedia_title": "Tertiary sector"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            },
+            {
+                "entity_in_the_text": "BPs",
+                "wikipedia_title": "Bed place"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List of provinces in Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "List of regions in Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "EU Protected Geographical Indication (PGI) label",
+                "wikipedia_title": "Protected Designation of Origin"
+            },
+            {
+                "entity_in_the_text": "regional product label",
+                "wikipedia_title": "Protected Geographical Indication"
+            },
+            {
+                "entity_in_the_text": "Valařský region",
+                "wikipedia_title": "Valařs"
+            },
+            {
+                "entity_in_the_text": "Beskydy mountains",
+                "wikipedia_title": "Beskydy"
+            },
+            {
+                "entity_in_the_text": "Vallachians",
+                "wikipedia_title": "Vlachs"
+            },
+            {
+                "entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Vallachian region",
+                "wikipedia_title": "Historical regions of Romania"
+            },
+            {
+                "entity_in_the_text": "doue",
+                "wikipedia_title": "not found"
+            },
+            {
+                "entity_in_the_text": "mountains",
+                "wikipedia_title": "Mountains of Romania"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Vallachian",
+                "wikipedia_title": "Valačský language"
+            },
+            {
+                "entity_in_the_text": "Beskydy mountains",
+                "wikipedia_title": "Beskydy"
+            },
+            {
+                "entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "frgále",
+                "wikipedia_title": "Frgála"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous innovation"
+            },
+            {
+                "entity_in_the_text": "frgále",
+                "wikipedia_title": "Frgale"
+            },
+            {
+                "entity_in_the_text": "Vallachian",
+                "wikipedia_title": "Valley people"
+            },
+            {
+                "entity_in_the_text": "pblum brandy",
+                "wikipedia_title": "Pblum brandy"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "frgál",
+                "wikipedia_title": "Frgál"
+            }
+        ]
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete (region)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "White Mountains",
+                "wikipedia_title": "White Mountains (Crete)"
+            },
+            {
+                "entity_in_the_text": "KISSAMOS",
+                "wikipedia_title": "Kissamos"
+            },
+            {
+                "entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Provinces_of_Spain"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Autonomous_communities_of_Spain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "settlement",
+                "wikipedia_title": "Human settlement"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_[Country]"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Regions_of_[Country]"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Kissamos",
+                "wikipedia_title": "Kissamos"
+            },
+            {
+                "entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Topolia",
+                "wikipedia_title": "Topolia, Chania"
+            },
+            {
+                "entity_in_the_text": "Kissamos",
+                "wikipedia_title": "Kissamos"
+            },
+            {
+                "entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "entity_in_the_text": "Minoan Civilization",
+                "wikipedia_title": "Minoan civilization"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "entity_in_the_text": "Pefkothymaromelo",
+                "wikipedia_title": "Pefkothyma"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Pefkothymaromelo",
+                "wikipedia_title": "Pefkothymaro"
+            },
+            {
+                "entity_in_the_text": "Kissamos",
+                "wikipedia_title": "Kissamos"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "entity_in_the_text": "EU",
+                "wikipedia_title": "European Union"
+            },
+            {
+                "entity_in_the_text": "eAmbrosia",
+                "wikipedia_title": "eAmbrosia"
+            },
+            {
+                "entity_in_the_text": "Peyfothymaromelo",
+                "wikipedia_title": "Peyfothyma"
+            },
+            {
+                "entity_in_the_text": "Cretan honey",
+                "wikipedia_title": "Honey"
+            }
+        ]
+    }
+]

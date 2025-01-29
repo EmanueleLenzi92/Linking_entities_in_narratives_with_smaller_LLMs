@@ -1,0 +1,182 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Skandinavian Uco"
+            },
+            {
+                "entity_in_the_text": "Roros",
+                "wikipedia_title": "Røros"
+            },
+            {
+                "entity_in_the_text": "Barley",
+                "wikipedia_title": "Barley"
+            },
+            {
+                "entity_in_the_text": "Rorosmat",
+                "wikipedia_title": "Rørosmat"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Scandinavean Mountains",
+                "wikipedia_title": "Scandes"
+            },
+            {
+                "entity_in_the_text": "Tynset",
+                "wikipedia_title": "Tynset"
+            },
+            {
+                "entity_in_the_text": "Østerdalen",
+                "wikipedia_title": "Østerdalen"
+            },
+            {
+                "entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_Spain"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Autonomous_communities_of_Spain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Ancient crop",
+                "wikipedia_title": "Quinoa"
+            },
+            {
+                "entity_in_the_text": "Farmers",
+                "wikipedia_title": "Agriculture"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            },
+            {
+                "entity_in_the_text": "Rorosmat",
+                "wikipedia_title": "Røros Mat"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "fertilizers",
+                "wikipedia_title": "Fertilizer"
+            },
+            {
+                "entity_in_the_text": "pesticides",
+                "wikipedia_title": "Pesticide"
+            },
+            {
+                "entity_in_the_text": "barley",
+                "wikipedia_title": "Barley"
+            },
+            {
+                "entity_in_the_text": "wheat",
+                "wikipedia_title": "Wheat"
+            },
+            {
+                "entity_in_the_text": "Climate Change",
+                "wikipedia_title": "Global warming"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Rorosmat",
+                "wikipedia_title": "Røros Mat"
+            },
+            {
+                "entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Cropland",
+                "wikipedia_title": "Agricultural land use"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "John",
+                "wikipedia_title": "John_(name)"
+            },
+            {
+                "entity_in_the_text": "London",
+                "wikipedia_title": "London"
+            },
+            {
+                "entity_in_the_text": "Apple",
+                "wikipedia_title": "Apple_Inc."
+            },
+            {
+                "entity_in_the_text": "Python",
+                "wikipedia_title": "Python_(programming_language)"
+            },
+            {
+                "entity_in_the_text": "Google",
+                "wikipedia_title": "Alphabet_Inc."
+            }
+        ]
+    }
+]

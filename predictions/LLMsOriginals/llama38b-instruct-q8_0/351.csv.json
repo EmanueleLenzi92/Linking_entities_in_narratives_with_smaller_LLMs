@@ -1,0 +1,190 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SPAIN",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "entity_in_the_text": "ADEGUA",
+                "wikipedia_title": "Adeguas"
+            },
+            {
+                "entity_in_the_text": "VC 34 ES",
+                "wikipedia_title": "None"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Betic System",
+                "wikipedia_title": "Betic System"
+            },
+            {
+                "entity_in_the_text": "Carcabuey",
+                "wikipedia_title": "Carcabuey"
+            },
+            {
+                "entity_in_the_text": "Sierra Subbética",
+                "wikipedia_title": "Sierra Subbética"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_Spain"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Autonomous_communities_of_Spain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "settlement",
+                "wikipedia_title": "Human settlement"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_[Country]"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Regions_of_[Country]"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "care of the elderly",
+                "wikipedia_title": "Long-term care"
+            },
+            {
+                "entity_in_the_text": "private care company",
+                "wikipedia_title": "Private healthcare"
+            },
+            {
+                "entity_in_the_text": "informal sector",
+                "wikipedia_title": "Informal economy"
+            },
+            {
+                "entity_in_the_text": "non-monetised and informal economy",
+                "wikipedia_title": "Shadow economy"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "PROMI",
+                "wikipedia_title": "Private Management Institution"
+            },
+            {
+                "entity_in_the_text": "Provincial Council",
+                "wikipedia_title": "Provincial council"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Ageing population",
+                "wikipedia_title": "Aging population"
+            },
+            {
+                "entity_in_the_text": "negative replacement rate",
+                "wikipedia_title": "Total fertility rate"
+            },
+            {
+                "entity_in_the_text": "depopulation",
+                "wikipedia_title": "Depopulation"
+            },
+            {
+                "entity_in_the_text": "exodus of young population",
+                "wikipedia_title": "Brain drain"
+            },
+            {
+                "entity_in_the_text": "public resources",
+                "wikipedia_title": "Public finance"
+            },
+            {
+                "entity_in_the_text": "informal economy",
+                "wikipedia_title": "Informal sector"
+            },
+            {
+                "entity_in_the_text": "precarisation of female work",
+                "wikipedia_title": "Precariat"
+            },
+            {
+                "entity_in_the_text": "disappearance of local and social cultures of small Sierra communities",
+                "wikipedia_title": "Cultural heritage"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous growth theory"
+            },
+            {
+                "entity_in_the_text": "Exogenous",
+                "wikipedia_title": "Exogenous variable"
+            },
+            {
+                "entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Sierra",
+                "wikipedia_title": "Sierra_(geography)"
+            },
+            {
+                "entity_in_the_text": "Subbética",
+                "wikipedia_title": "Subbética"
+            }
+        ]
+    }
+]

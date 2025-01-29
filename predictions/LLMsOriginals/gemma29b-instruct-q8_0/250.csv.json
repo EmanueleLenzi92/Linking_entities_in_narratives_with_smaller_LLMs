@@ -1,0 +1,202 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SCOTLAND HUTTON",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "entity_in_the_text": "VC 02 UK",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            },
+            {
+                "entity_in_the_text": "Euopean Protected Georgaphical Indication (PGI)",
+                "wikipedia_title": "Protected designation of origin"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "West Wales",
+                "wikipedia_title": "West Wales"
+            },
+            {
+                "entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "entity_in_the_text": "Cardiff",
+                "wikipedia_title": "Cardiff"
+            },
+            {
+                "entity_in_the_text": "Newport",
+                "wikipedia_title": "Newport"
+            },
+            {
+                "entity_in_the_text": "Wales",
+                "wikipedia_title": "Wales"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly_cheese"
+            },
+            {
+                "entity_in_the_text": "English counties of Somerset and Wiltshire",
+                "wikipedia_title": "Somerset"
+            },
+            {
+                "entity_in_the_text": "Castle Dairies",
+                "wikipedia_title": "Castle_Dairies"
+            },
+            {
+                "entity_in_the_text": "Caerphilly town",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "entity_in_the_text": "The Big Cheese",
+                "wikipedia_title": "The_Big_Cheese_(festival)"
+            },
+            {
+                "entity_in_the_text": "International Cheese Awards",
+                "wikipedia_title": "International_Cheese_Awards"
+            },
+            {
+                "entity_in_the_text": "Gorwydd",
+                "wikipedia_title": "Gorwydd_Caerphilly"
+            },
+            {
+                "entity_in_the_text": "PGI",
+                "wikipedia_title": "Protected_Geographical_Indication"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly_cheese"
+            },
+            {
+                "entity_in_the_text": "Big Cheese festival",
+                "wikipedia_title": "The_Big_Cheese_(festival)"
+            },
+            {
+                "entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "entity_in_the_text": "England",
+                "wikipedia_title": "England"
+            },
+            {
+                "entity_in_the_text": "Caerphilyl",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "entity_in_the_text": "coal miners",
+                "wikipedia_title": "Coal miner"
+            },
+            {
+                "entity_in_the_text": "PGI status",
+                "wikipedia_title": "Protected_Geographical_Indication"
+            },
+            {
+                "entity_in_the_text": "Welsh",
+                "wikipedia_title": "Welsh_people"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly_cheese"
+            },
+            {
+                "entity_in_the text": "COVID",
+                "wikipedia_title": "COVID-19_pandemic"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly_cheese"
+            },
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Venture_capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly_cheese"
+            },
+            {
+                "entity_in_the_text": "Somerset",
+                "wikipedia_title": "Somerset"
+            },
+            {
+                "entity_in_the_text": "Wiltshire",
+                "wikipedia_title": "Wiltshire"
+            }
+        ]
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "NMK",
+                "wikipedia_title": "North Macedonia"
+            },
+            {
+                "entity_in_the_text": "Kozuvcanka",
+                "wikipedia_title": "Kozuvcanka"
+            },
+            {
+                "entity_in_the_text": "Pelisterka",
+                "wikipedia_title": "Pelisterka"
+            },
+            {
+                "entity_in_the_text": "Maya",
+                "wikipedia_title": "Maya (company)"
+            },
+            {
+                "entity_in_the_text": "National Chamber of Commerce",
+                "wikipedia_title": "Chamber of commerce"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Mountain Meleshevija",
+                "wikipedia_title": "Maleshevska Mountains"
+            },
+            {
+                "entity_in_the_text": "Republic of North Macedonia",
+                "wikipedia_title": "North Macedonia"
+            },
+            {
+                "entity_in_the_text": "Bregalnica",
+                "wikipedia_title": "Bregalnica River"
+            },
+            {
+                "entity_in_the_text": "Strumica",
+                "wikipedia_title": "Strumica River"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Vardar planning region",
+                "wikipedia_title": "Vardar Statistical Region"
+            },
+            {
+                "entity_in_the_text": "Vardar",
+                "wikipedia_title": "Vardar River"
+            },
+            {
+                "entity_in_the_text": "Crni Drim",
+                "wikipedia_title": "Black Drin"
+            },
+            {
+                "entity_in_the_text": "Bregalnica",
+                "wikipedia_title": "Bregalnica River"
+            },
+            {
+                "entity_in_the_text": "Babuna",
+                "wikipedia_title": "Babuna River"
+            },
+            {
+                "entity_in_the_text": "Topolka",
+                "wikipedia_title": "Topolka River"
+            },
+            {
+                "entity_in_the_text": "Otovica",
+                "wikipedia_title": "Otovica River"
+            },
+            {
+                "entity_in_the_text": "Tikvesh",
+                "wikipedia_title": "Tikveš"
+            },
+            {
+                "entity_in_the_text": "Lices",
+                "wikipedia_title": "Lake Lices"
+            },
+            {
+                "entity_in_the_text": "Mladost",
+                "wikipedia_title": "Mladost Dam"
+            },
+            {
+                "entity_in_the_text": "Kozuvcanka",
+                "wikipedia_title": "Kozuvcanka"
+            },
+            {
+                "entity_in_the_text": "Kavadarci",
+                "wikipedia_title": "Kavadarci"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Kozuvcanka",
+                "wikipedia_title": "Kozuvcanka"
+            },
+            {
+                "entity_in_the_text": "Maleshevski mountain",
+                "wikipedia_title": "Maleševo"
+            },
+            {
+                "entity_in_the_text": "Vardarski region",
+                "wikipedia_title": "Vardar River"
+            },
+            {
+                "entity_in_the_text": "Maleshevija",
+                "wikipedia_title": "Maleševo"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            }
+        ]
+    }
+]

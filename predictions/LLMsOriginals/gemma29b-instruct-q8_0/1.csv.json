@@ -1,0 +1,170 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "entity_in_the_text": "ALMO",
+                "wikipedia_title": "Almo Steirisches Almochsenfleisch"
+            },
+            {
+                "entity_in_the_text": "Association Steirische Bergland Marktgemeinschaft",
+                "wikipedia_title": "Steirische Bergland Marktgemeinschaft"
+            },
+            {
+                "entity_in_the_text": "Almenland Marketing GmbH",
+                "wikipedia_title": "Almenland Marketing GmbH"
+            },
+            {
+                "entity_in_the_text": "Austrian Program for Environmentally Sound Agriculture (ÖPUL)",
+                "wikipedia_title": "Österreichisches Programm für umweltgerechte Landwirtschaft (ÖPUL)"
+            },
+            {
+                "entity_in_the_text": "Genussregion Almenland",
+                "wikipedia_title": "Genussregion Almenland"
+            },
+            {
+                "entity_in_the_text": "AgrarMarkt Austria",
+                "wikipedia_title": "AgrarMarkt Austria"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "RR 11",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "entity_in_the_text": "Weiz (No: 617)",
+                "wikipedia_title": "Weiz, Styria"
+            },
+            {
+                "entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ALMO",
+                "wikipedia_title": "ALMO (farmers association)"
+            },
+            {
+                "entity_in_the_text": "LEADER-region Almenland",
+                "wikipedia_title": "LEADER (European Union)"
+            },
+            {
+                "entity_in_the_text": "Energieregion Weiz-Gleisdorf",
+                "wikipedia_title": "Weiz"
+            },
+            {
+                "entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ALMO",
+                "wikipedia_title": "Almo (food)"
+            },
+            {
+                "entity_in_the_text": "hiking",
+                "wikipedia_title": "Hiking"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "alpine pasture areas",
+                "wikipedia_title": "Alpine pasture"
+            },
+            {
+                "entity_in_the_text": "ALMO producers",
+                "wikipedia_title": "Agroecology"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LEADER",
+                "wikipedia_title": "LEADER (programme)"
+            },
+            {
+                "entity_in_the text": "Almenland",
+                "wikipedia_title": "Almenland"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Lower Austria",
+                "wikipedia_title": "Lower Austria"
+            },
+            {
+                "entity_in_the_text": "Carinthia",
+                "wikipedia_title": "Carinthia"
+            },
+            {
+                "entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            }
+        ]
+    }
+]

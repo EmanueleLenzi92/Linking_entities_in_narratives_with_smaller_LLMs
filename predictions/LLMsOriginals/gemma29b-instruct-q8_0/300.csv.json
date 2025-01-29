@@ -1,0 +1,161 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "UCO (company)"
+            },
+            {
+                "entity_in_the_text": "Roros",
+                "wikipedia_title": "Røros"
+            },
+            {
+                "entity_in_the_text": "Rorosmat",
+                "wikipedia_title": "Rorosmat"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Scandinavean Mountains - Scandes",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "entity_in_the_text": "Tynset",
+                "wikipedia_title": "Tynset"
+            },
+            {
+                "entity_in_the_text": "Østerdalen",
+                "wikipedia_title": "Østerdalen"
+            },
+            {
+                "entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Ancient crop",
+                "wikipedia_title": "Ancient grains"
+            },
+            {
+                "entity_in_the_text": "e-commerce platform",
+                "wikipedia_title": "E-commerce"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "barley",
+                "wikipedia_title": "Barley"
+            },
+            {
+                "entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            },
+            {
+                "entity_in_the_text": "Rorosmat",
+                "wikipedia_title": "Rorosmat"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "fertilizers",
+                "wikipedia_title": "Fertilizer"
+            },
+            {
+                "entity_in_the_text": "pesticides",
+                "wikipedia_title": "Pesticide"
+            },
+            {
+                "entity_in_the_text": "barley",
+                "wikipedia_title": "Barley"
+            },
+            {
+                "entity_in_the_text": "wheat",
+                "wikipedia_title": "Wheat"
+            },
+            {
+                "entity_in_the_text": "Climate Change",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "entity_in_the_text": "plant diseases",
+                "wikipedia_title": "Plant disease"
+            },
+            {
+                "entity_in_the_text": "pest",
+                "wikipedia_title": "Pest"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Rorosmat",
+                "wikipedia_title": "Rorosmat"
+            },
+            {
+                "entity_in_the_text": "e-commerce",
+                "wikipedia_title": "E-commerce"
+            },
+            {
+                "entity_in_the_text": "Cropland",
+                "wikipedia_title": "Cropland"
+            }
+        ]
+    },
+    {
+        "entities": []
+    }
+]

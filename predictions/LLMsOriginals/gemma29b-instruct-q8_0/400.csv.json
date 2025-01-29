@@ -1,0 +1,103 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SWITZERLAND",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "entity_in_the_text": "Engadiner",
+                "wikipedia_title": "Engadine sheep"
+            },
+            {
+                "entity_in_the_text": "Spiegelschaf",
+                "wikipedia_title": "Spiegelschaf"
+            },
+            {
+                "entity_in_the_text": "Nera Verzasca",
+                "wikipedia_title": "Nera Verzasca"
+            },
+            {
+                "entity_in_the_text": "Capra Grigia",
+                "wikipedia_title": "Capra Grigia"
+            },
+            {
+                "entity_in_the_text": "Black Alpine Pig",
+                "wikipedia_title": "Black Alpine pig"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "farmer led initiative",
+                "wikipedia_title": "Farmer"
+            },
+            {
+                "entity_in_the_text": "localness being trendy",
+                "wikipedia_title": "Localism"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "veganism",
+                "wikipedia_title": "Veganism"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "entity_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            }
+        ]
+    }
+]

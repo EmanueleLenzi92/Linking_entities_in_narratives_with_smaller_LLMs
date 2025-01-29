@@ -1,0 +1,158 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Scandinavian Union of Cooperatives"
+            },
+            {
+                "entity_in_the_text": "Pultost",
+                "wikipedia_title": "Pultost"
+            },
+            {
+                "entity_in_the_text": "Slowfood Foundation for Biodiversity",
+                "wikipedia_title": "Slow Food International#Foundation for Biodiversity"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Scandinavean Mountains",
+                "wikipedia_title": "Scandes"
+            },
+            {
+                "entity_in_the_text": "Lesja",
+                "wikipedia_title": "Lesja (municipality)"
+            },
+            {
+                "entity_in_the_text": "Rauma river",
+                "wikipedia_title": "Rauma River"
+            },
+            {
+                "entity_in_the_text": "Gudbrandsdalslågen river",
+                "wikipedia_title": "Gudbrandsdalslågen"
+            },
+            {
+                "entity_in_the_text": "Norwegian trout",
+                "wikipedia_title": "Arctic char"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_of_Spain"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Autonomous_communities_of_Spain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Vinho Verde"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Pultost",
+                "wikipedia_title": "Pultost"
+            },
+            {
+                "entity_in_the_text": "Slowfood Foundation",
+                "wikipedia_title": "Slow Food International"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Value_chain"
+            },
+            {
+                "entity_in_the_text": "industrial dairies",
+                "wikipedia_title": "Industrial dairy farming"
+            },
+            {
+                "entity_in_the_text": "artisanal cheese making",
+                "wikipedia_title": "Artisanal cheese"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Value_chain"
+            },
+            {
+                "entity_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land_use"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Valley County"
+            },
+            {
+                "entity_in_the_text": "Etnedal",
+                "wikipedia_title": "Etnedal"
+            }
+        ]
+    }
+]

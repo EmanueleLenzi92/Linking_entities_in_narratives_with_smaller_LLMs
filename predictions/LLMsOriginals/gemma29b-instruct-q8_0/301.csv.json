@@ -1,0 +1,174 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Skandia"
+            },
+            {
+                "entity_in_the_text": "Pultost",
+                "wikipedia_title": "Pultost"
+            },
+            {
+                "entity_in_the_text": "Slowfood Foundation for Biodiversity",
+                "wikipedia_title": "Slow Food"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Scandinavean Mountains - Scandes",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "entity_in_the_text": "Lesja",
+                "wikipedia_title": "Lesja"
+            },
+            {
+                "entity_in_the_text": "Lesjaskogsvatnet (Lesjas lake)",
+                "wikipedia_title": "Lesjaskogsvatnet"
+            },
+            {
+                "entity_in_the_text": "Rauma river",
+                "wikipedia_title": "Rauma River"
+            },
+            {
+                "entity_in_the_text": "Gudbrandsdalslågen river",
+                "wikipedia_title": "Gudbrandsdalslågen"
+            },
+            {
+                "entity_in_the_text": "Norwegian trout",
+                "wikipedia_title": "Arctic char"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "mountain pastures",
+                "wikipedia_title": "Mountain pasture"
+            },
+            {
+                "entity_in_the_text": "Pultost producers",
+                "wikipedia_title": "Cheesemaking"
+            },
+            {
+                "entity_in_the_text": "Pultosts BA",
+                "wikipedia_title": "Cooperative"
+            },
+            {
+                "entity_in_the_text": "Pultost Innlandet SA",
+                "wikipedia_title": "Cooperative"
+            },
+            {
+                "entity_in_the_text": "Slowfood Foundation",
+                "wikipedia_title": "Slow Food"
+            },
+            {
+                "entity_in_the_text": "cheese and butter production",
+                "wikipedia_title": "Cheesemaking"
+            },
+            {
+                "entity_in_the_text": "cattle management",
+                "wikipedia_title": "Cattle breeding"
+            },
+            {
+                "entity_in_the_text": "ecological system",
+                "wikipedia_title": "Ecosystem"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "industrial dairies",
+                "wikipedia_title": "Dairy industry"
+            },
+            {
+                "entity_in_the_text": "artisanal cheese making",
+                "wikipedia_title": "Cheesemaking"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Natural environment"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Etnedal",
+                "wikipedia_title": "Etnedal"
+            }
+        ]
+    }
+]

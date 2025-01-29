@@ -1,0 +1,91 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SWITZERLAND",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "entity_in_the_text": "Alpine tourism",
+                "wikipedia_title": "Alpine tourism"
+            },
+            {
+                "entity_in_the_text": "Alps",
+                "wikipedia_title": "Alps"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC-systems",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "alps",
+                "wikipedia_title": "Alps"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "skiing",
+                "wikipedia_title": "Skiing"
+            },
+            {
+                "entity_in_the_text": "Landscape",
+                "wikipedia_title": "Landscape"
+            }
+        ]
+    }
+]

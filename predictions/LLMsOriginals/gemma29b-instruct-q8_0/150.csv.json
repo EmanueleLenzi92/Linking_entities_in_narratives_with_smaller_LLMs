@@ -1,0 +1,166 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ITALY UNIMOL",
+                "wikipedia_title": "University_of_Molise"
+            },
+            {
+                "entity_in_the_text": "UNIPI",
+                "wikipedia_title": "University_of_Pisa"
+            },
+            {
+                "entity_in_the_text": "Amatrice",
+                "wikipedia_title": "Amatrice"
+            },
+            {
+                "entity_in_the_text": "Honey of Amatrice? (Miele di Amatrice)",
+                "wikipedia_title": "Miele_di_Amatrice"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Central Apennines",
+                "wikipedia_title": "Central Apennines"
+            },
+            {
+                "entity_in_the_text": "Lazio region",
+                "wikipedia_title": "Lazio"
+            },
+            {
+                "entity_in_the_text": "Amatrice",
+                "wikipedia_title": "Amatrice"
+            },
+            {
+                "entity_in_the_text": "Rieti",
+                "wikipedia_title": "Rieti"
+            },
+            {
+                "entity_in_the_text": "Lazio region",
+                "wikipedia_title": "Lazio"
+            },
+            {
+                "entity_in_the_text": "Abruzzo region",
+                "wikipedia_title": "Abruzzo"
+            },
+            {
+                "entity_in_the_text": "National park of Gran Sasso e Monti della Laga",
+                "wikipedia_title": "Gran Sasso and Monti della Laga National Park"
+            },
+            {
+                "entity_in_the_text": "Montana del Velino",
+                "wikipedia_title": "Comunità Montana del Velino"
+            },
+            {
+                "entity_in_the_text": "Club of Borghi più belli d Italia",
+                "wikipedia_title": "Borghi più belli d'Italia"
+            },
+            {
+                "entity_in_the_text": "spaghetti amatriciana",
+                "wikipedia_title": "Spaghetti all'amatriciana"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Amatrice",
+                "wikipedia_title": "Amatrice"
+            },
+            {
+                "entity_in_the_text": "Mielene di Amatric",
+                "wikipedia_title": "Honey"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Amatrice area",
+                "wikipedia_title": "Amatrice"
+            },
+            {
+                "entity_in_the_text": "nature park",
+                "wikipedia_title": "National park"
+            },
+            {
+                "entity_in_the_text": "honey",
+                "wikipedia_title": "Honey"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "entity_in_the_text": "honey production",
+                "wikipedia_title": "Honey production"
+            },
+            {
+                "entity_in_the_text": "Municipality of Amatrice",
+                "wikipedia_title": "Amatrice"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Miele di Amatrice",
+                "wikipedia_title": "Miele_di_Amatrice"
+            },
+            {
+                "entity_in_the_text": "Amatrice",
+                "wikipedia_title": "Amatrice"
+            }
+        ]
+    }
+]

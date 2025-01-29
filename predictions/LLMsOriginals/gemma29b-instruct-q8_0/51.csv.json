@@ -1,0 +1,142 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "VC 10 CZ",
+                "wikipedia_title": "None"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Giant Mountains",
+                "wikipedia_title": "Giant Mountains"
+            },
+            {
+                "entity_in_the_text": "LAU 1 Trutnov",
+                "wikipedia_title": "Trutnov District"
+            },
+            {
+                "entity_in_the_text": "NUTS 3 Kralovehradecky",
+                "wikipedia_title": "Královéhradecký Region"
+            },
+            {
+                "entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "National Park",
+                "wikipedia_title": "Krkonoše National Park"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "herb liquers",
+                "wikipedia_title": "Liqueur"
+            },
+            {
+                "entity_in_the_text": "mountain regions",
+                "wikipedia_title": "Mountain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "mountains",
+                "wikipedia_title": "Mountains"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Herb liquers",
+                "wikipedia_title": "Liqueur"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "entity_in_the_text": "Natural and cultural",
+                "wikipedia_title": "Cultural heritage"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "mountain region",
+                "wikipedia_title": "Mountain range"
+            }
+        ]
+    }
+]

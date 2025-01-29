@@ -1,0 +1,198 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "MOVING",
+                "wikipedia_title": "Moving (company)"
+            },
+            {
+                "entity_in_the_text": "NMK",
+                "wikipedia_title": "North Macedonia"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "entity_in_the_text": "Wines of Macedonia",
+                "wikipedia_title": "Wines of North Macedonia"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Mountain Meleshevija",
+                "wikipedia_title": "Maleshevski Mountains"
+            },
+            {
+                "entity_in_the_text": "Bregalnica",
+                "wikipedia_title": "Bregalnica River"
+            },
+            {
+                "entity_in_the_text": "Strumica",
+                "wikipedia_title": "Strumica River"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "altimetry",
+                "wikipedia_title": "Altimetry"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Gross domestic product per capita"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross domestic product"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Sector of the economy"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Sector of the economy"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Sector of the economy"
+            },
+            {
+                "entity_in_the_text": "per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Gross domestic product per capita"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross domestic product"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Sector of the economy"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Sector of the economy"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Sector of the economy"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "population over 100000",
+                "wikipedia_title": "Population threshold"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List of provinces in Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Administrative regions of Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Vardar planning region",
+                "wikipedia_title": "Plana e Vardarit"
+            },
+            {
+                "entity_in_the_text": "Republic of North Macedonia",
+                "wikipedia_title": "Republic of North Macedonia"
+            },
+            {
+                "entity_in_the_text": "Macedonia",
+                "wikipedia_title": "North Macedonia"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Maleshevski mountain",
+                "wikipedia_title": "Maleshevskiy Krasnyy Bor"
+            },
+            {
+                "entity_in_the_text": "Maleshevija",
+                "wikipedia_title": "Maleshevskiy Krasnyy Bor#Reference region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "New processes",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forest"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land"
+            },
+            {
+                "entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "entity_in_the_text": "Social",
+                "wikipedia_title": "Society"
+            },
+            {
+                "entity_in_the_text": "Cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "VC 10 CZ",
+                "wikipedia_title": "Moving (company)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Giant Mountains",
+                "wikipedia_title": "Giant Mountains"
+            },
+            {
+                "entity_in_the_text": "LAU 1 Trutnov",
+                "wikipedia_title": "Trutnov District"
+            },
+            {
+                "entity_in_the_text": "NUTS 3 Kralovehradecky",
+                "wikipedia_title": "Kralovehradecký kraj"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometer"
+            },
+            {
+                "entity_in_the_text": "thousand",
+                "wikipedia_title": "Thousand (unit of measurement)"
+            },
+            {
+                "entity_in_the_text": "%",
+                "wikipedia_title": "Percent"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "EUR/year",
+                "wikipedia_title": "Euro (currency)"
+            },
+            {
+                "entity_in_the_text": "GVA",
+                "wikipedia_title": "Gross Value Added"
+            },
+            {
+                "entity_in_the_text": "%",
+                "wikipedia_title": "Percent"
+            },
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Administrative region of Italy"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Administrative region of Italy"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            },
+            {
+                "entity_in_the_text": "BPs",
+                "wikipedia_title": "Bed place"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List of provinces in Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "List of regions in Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            },
+            {
+                "entity_in_the_text": "liquers",
+                "wikipedia_title": "Liqueur"
+            },
+            {
+                "entity_in_the_text": "region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "social construction",
+                "wikipedia_title": "Social construction"
+            },
+            {
+                "entity_in_the_text": "natural assets",
+                "wikipedia_title": "Natural asset"
+            },
+            {
+                "entity_in_the_text": "traditional knowledge",
+                "wikipedia_title": "Traditional knowledge"
+            },
+            {
+                "entity_in_the_text": "product labels",
+                "wikipedia_title": "Product label"
+            },
+            {
+                "entity_in_the_text": "cultural traits",
+                "wikipedia_title": "Cultural trait"
+            },
+            {
+                "entity_in_the_text": "mountain area",
+                "wikipedia_title": "Mountain region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Herb liquers",
+                "wikipedia_title": "Liqueur"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Valorization",
+                "wikipedia_title": "Value creation"
+            },
+            {
+                "entity_in_the_text": "Marketing strategy",
+                "wikipedia_title": "Marketing mix"
+            },
+            {
+                "entity_in_the_text": "Traditional VC",
+                "wikipedia_title": "Venture capital#Types of venture capitalists"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "land use systems",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Natural land"
+            },
+            {
+                "entity_in_the_text": "cultural assets",
+                "wikipedia_title": "Cultural resource"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Ventilator"
+            },
+            {
+                "entity_in_the_text": "mountain region",
+                "wikipedia_title": "Mountain region"
+            }
+        ]
+    }
+]

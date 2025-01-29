@@ -1,0 +1,222 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "entity_in_the_text": "Cretan Diet Festival",
+                "wikipedia_title": "Cretan diet"
+            },
+            {
+                "entity_in_the_text": "Minoan Land",
+                "wikipedia_title": "Minoan civilization"
+            },
+            {
+                "entity_in_the_text": "Pancretan Network of Organic Farmers of Aloe Vera",
+                "wikipedia_title": "Organic farming"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Dikti Mountains",
+                "wikipedia_title": "Dikti_Mountains"
+            },
+            {
+                "entity_in_the_text": "VIANNOS",
+                "wikipedia_title": " Viannos"
+            },
+            {
+                "entity_in_the_text": "Pinus brutia",
+                "wikipedia_title": "Pinus_brutia"
+            },
+            {
+                "entity_in_the_text": "Quercus coccifera",
+                "wikipedia_title": "Quercus_coccifera"
+            },
+            {
+                "entity_in_the_text": "Cupressus sempervirens",
+                "wikipedia_title": "Cupressus_sempervirens"
+            },
+            {
+                "entity_in_the_text": "Quercus ilex",
+                "wikipedia_title": "Quercus_ilex"
+            },
+            {
+                "entity_in_the_text": "Acer sempervirens",
+                "wikipedia_title": "Acer_sempervirens"
+            },
+            {
+                "entity_in_the_text": "aloe vera",
+                "wikipedia_title": "Aloe_vera"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Aloe vera",
+                "wikipedia_title": "Aloe vera"
+            },
+            {
+                "entity_in_the_text": "Dikti mountain landscape",
+                "wikipedia_title": "Dikti Mountains"
+            },
+            {
+                "entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "entity_in_the_text": "North America",
+                "wikipedia_title": "North America"
+            },
+            {
+                "entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            },
+            {
+                "entity_in_the_text": "Viannos",
+                "wikipedia_title": "Viannos"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Dikti Mountain",
+                "wikipedia_title": "Dikte Mountains"
+            },
+            {
+                "entity_in_the_text": "Aloe Vera",
+                "wikipedia_title": "Aloe vera"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Dikti area",
+                "wikipedia_title": "Dikte"
+            },
+            {
+                "entity_in_the text": "Viannos",
+                "wikipedia_title": "Viannos"
+            },
+            {
+                "entity_in_the_text": "Aloe Vera",
+                "wikipedia_title": "Aloe vera"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Aloe Vera plants",
+                "wikipedia_title": "Aloe vera"
+            },
+            {
+                "entity_in_the text": "Dikti region",
+                "wikipedia_title": "Dikte"
+            },
+            {
+                "entity_in_the_text": "Minoan Land",
+                "wikipedia_title": "Minoan civilization"
+            },
+            {
+                "entity_in_the_text": "organic and contract farming",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "entity_in_the_text": "nutritional supplements",
+                "wikipedia_title": "Dietary supplement"
+            },
+            {
+                "entity_in_the_text": "herbal cosmetics",
+                "wikipedia_title": "Cosmetics"
+            },
+            {
+                "entity_in_the_text": "green economy",
+                "wikipedia_title": "Green economy"
+            },
+            {
+                "entity_in_the_text": "Cropland",
+                "wikipedia_title": "Cropland"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Aloe Vera",
+                "wikipedia_title": "Aloe vera"
+            },
+            {
+                "entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "entity_in_the_text": "Andalusia, Spain",
+                "wikipedia_title": "Andalusia"
+            },
+            {
+                "entity_in_the_text": "European consumers",
+                "wikipedia_title": "Consumer"
+            }
+        ]
+    }
+]

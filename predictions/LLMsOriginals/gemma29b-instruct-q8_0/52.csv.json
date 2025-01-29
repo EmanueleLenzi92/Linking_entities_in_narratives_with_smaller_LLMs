@@ -1,0 +1,182 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "VC 11 CZ",
+                "wikipedia_title": "None"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Sumava - Cesky les",
+                "wikipedia_title": "Šumava"
+            },
+            {
+                "entity_in_the_text": "LAU 1 Klatovy",
+                "wikipedia_title": "Klatovy District"
+            },
+            {
+                "entity_in_the_text": "Germany",
+                "wikipedia_title": "Germany"
+            },
+            {
+                "entity_in_the_text": "Sumava mountains",
+                "wikipedia_title": "Šumava"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Bee products",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "mountain regions",
+                "wikipedia_title": "Mountains"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "beekeeping",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "farming",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "entity_in_the_text": "mountain regions",
+                "wikipedia_title": "Mountains"
+            },
+            {
+                "entity_in_the_text": "bee products",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "credence goods",
+                "wikipedia_title": "Credence good"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Sumava Mountains",
+                "wikipedia_title": "Šumava"
+            },
+            {
+                "entity_in_the_text": "socialist-era",
+                "wikipedia_title": "Socialism in Eastern Europe"
+            },
+            {
+                "entity_in_the_text": "WII",
+                "wikipedia_title": "World War II"
+            },
+            {
+                "entity_in_the_text": "beekepers",
+                "wikipedia_title": "Beekeeping"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "beekeepers",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "varroa disease",
+                "wikipedia_title": "Varroa destructor"
+            },
+            {
+                "entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "agriculture",
+                "wikipedia_title": "Agriculture"
+            }
+        ]
+    }
+]

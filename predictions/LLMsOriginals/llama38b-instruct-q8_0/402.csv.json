@@ -1,0 +1,142 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SWITZERLAND",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "entity_in_the_text": "Alps",
+                "wikipedia_title": "Alps"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Valley_chain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province (administrative division)"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province (administrative division)"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC-systems",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Alps",
+                "wikipedia_title": "Alps"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "tourism",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Touristic attractions",
+                "wikipedia_title": "Tourist attraction"
+            },
+            {
+                "entity_in_the_text": "Skiing",
+                "wikipedia_title": "Alpine skiing"
+            },
+            {
+                "entity_in_the_text": "New products",
+                "wikipedia_title": "Product innovation"
+            },
+            {
+                "entity_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "entity_in_the_text": "Landscape",
+                "wikipedia_title": "Landscape"
+            },
+            {
+                "entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "entity_in_the_text": "Social",
+                "wikipedia_title": "Society"
+            },
+            {
+                "entity_in_the_text": "Cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    }
+]

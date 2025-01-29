@@ -1,0 +1,190 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ITALY UNIMOL and UNIPI",
+                "wikipedia_title": "University of Molise"
+            },
+            {
+                "entity_in_the_text": "VC 18 IT",
+                "wikipedia_title": "Value-chain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Northern Apennines - Tuscan Emilian Apennines",
+                "wikipedia_title": "Tuscan-Emilian Apennines"
+            },
+            {
+                "entity_in_the_text": "Sambuca Pistoiese",
+                "wikipedia_title": "Sambuca Pistoiese"
+            },
+            {
+                "entity_in_the_text": "Pistoia",
+                "wikipedia_title": "Pistoia"
+            },
+            {
+                "entity_in_the_text": "Tuscany",
+                "wikipedia_title": "Tuscany"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Bollo IT 9-3467/L IT R152E",
+                "wikipedia_title": "None found"
+            },
+            {
+                "entity_in_the_text": "ANAS (National Association Pig Farmers)",
+                "wikipedia_title": "Associazione Nazionale Allevatori Suini"
+            },
+            {
+                "entity_in_the_text": "Japan Export",
+                "wikipedia_title": "None found"
+            },
+            {
+                "entity_in_the_text": "Ministry of Health",
+                "wikipedia_title": "Ministry of Health (Italy)"
+            },
+            {
+                "entity_in_the_text": "BioAgriCert",
+                "wikipedia_title": "None found"
+            },
+            {
+                "entity_in_the_text": "AIAB",
+                "wikipedia_title": "Associazione Italiana Agricoltura Biologica"
+            },
+            {
+                "entity_in_the_text": "INEQ",
+                "wikipedia_title": "Istituto di Qualità Nord-Est"
+            },
+            {
+                "entity_in_the_text": "Cinta Senese",
+                "wikipedia_title": "Cinta Senese"
+            },
+            {
+                "entity_in_the_text": "TUV",
+                "wikipedia_title": "TÜV"
+            },
+            {
+                "entity_in_the_text": "Consorzio Tutela of Cinta Senese Quality Consortium",
+                "wikipedia_title": "Consorzio di tutela della Cinta Senese"
+            },
+            {
+                "entity_in_the_text": "Consorzio Tutela Finocchiona PGI",
+                "wikipedia_title": "Consorzio di tutela del Finocchiona"
+            },
+            {
+                "entity_in_the_text": "PGI Finocchiona",
+                "wikipedia_title": "Finocchiona (PDO)"
+            },
+            {
+                "entity_in_the_text": "Vitellone Bianco dell Appennino Centrale PGI",
+                "wikipedia_title": "Vitellone bianco dell'Appennino centrale"
+            },
+            {
+                "entity_in_the_text": "Chianina beef",
+                "wikipedia_title": "Chianina"
+            },
+            {
+                "entity_in_the_text": "3A-PTA Umbria Agri-food Technology Park",
+                "wikipedia_title": "None found"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Savigni family",
+                "wikipedia_title": "Savigni"
+            },
+            {
+                "entity_in_the_text": "Porretta",
+                "wikipedia_title": "Porretta Terme"
+            },
+            {
+                "entity_in_the_text": "Suviana Lake",
+                "wikipedia_title": "Lake Suviana"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "organic farm",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            }
+        ]
+    }
+]

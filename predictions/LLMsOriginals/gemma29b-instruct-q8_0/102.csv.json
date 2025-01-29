@@ -1,0 +1,174 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "entity_in_the_text": "Region of Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "entity_in_the_text": "EU Geographical Indications (GIs)",
+                "wikipedia_title": "Protected designation of origin"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "White Mountains",
+                "wikipedia_title": "White Mountains (Crete)"
+            },
+            {
+                "entity_in_the_text": "KISSAMOS",
+                "wikipedia_title": "Kissamos"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Kissamos mountains",
+                "wikipedia_title": "Kissamos"
+            },
+            {
+                "entity_in_the_text": "Pefkothimaromelo",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Topolia/Kissamos",
+                "wikipedia_title": "Kissamos"
+            },
+            {
+                "entity_in_the_text": "Cretan",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "entity_in_the_text": "Minoan Civilization",
+                "wikipedia_title": "Minoan civilization"
+            },
+            {
+                "entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "entity_in_the_text": "bees",
+                "wikipedia_title": "Bee"
+            },
+            {
+                "entity_in_the_text": "honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "pesticide",
+                "wikipedia_title": "Pesticide"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "PDO characterization",
+                "wikipedia_title": "Protected designation of origin"
+            },
+            {
+                "entity_in_the_text": "Kissamos",
+                "wikipedia_title": "Kissamos"
+            },
+            {
+                "entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "entity_in_the_text": "EU katalog (eAmbrosia)",
+                "wikipedia_title": "eAmbrosia"
+            },
+            {
+                "entity_in_the_text": "Peyfothymaromelo",
+                "wikipedia_title": "Peyfothymaromelo"
+            },
+            {
+                "entity_in_the_text": "Cretan honey",
+                "wikipedia_title": "Honey"
+            }
+        ]
+    }
+]

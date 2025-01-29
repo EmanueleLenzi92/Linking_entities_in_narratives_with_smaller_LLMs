@@ -1,0 +1,174 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "VC 11 CZ",
+                "wikipedia_title": "None (MOVING Card ID)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Sumava",
+                "wikipedia_title": "Šumava"
+            },
+            {
+                "entity_in_the_text": "Cesky les",
+                "wikipedia_title": "Šumava"
+            },
+            {
+                "entity_in_the_text": "LAU 1 Klatovy",
+                "wikipedia_title": "Klatovy District"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province (administrative division)"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "settlement",
+                "wikipedia_title": "Human settlement"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Bee",
+                "wikipedia_title": "Honey bee"
+            },
+            {
+                "entity_in_the_text": "Mountain regions",
+                "wikipedia_title": "Mountain"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Beekeeping",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "Farming",
+                "wikipedia_title": "Agriculture"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Sumava Mountains",
+                "wikipedia_title": "Šumava"
+            },
+            {
+                "entity_in_the_text": "beekeepers",
+                "wikipedia_title": "Beekeeping"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Beekeepers",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Beekeepers",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "Varroa disease",
+                "wikipedia_title": "Varroa destructor"
+            },
+            {
+                "entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Natural environment"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "beekeeping",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "agriculture",
+                "wikipedia_title": "Agriculture"
+            }
+        ]
+    }
+]

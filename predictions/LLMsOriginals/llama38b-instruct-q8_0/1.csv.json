@@ -1,0 +1,182 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "entity_in_the_text": "ALMO",
+                "wikipedia_title": "Almo (meat)"
+            },
+            {
+                "entity_in_the_text": "Steirische Bergland Marktgemeinschaft",
+                "wikipedia_title": "Bergland Marktgemeinschaft"
+            },
+            {
+                "entity_in_the_text": "Almenland Marketing GmbH",
+                "wikipedia_title": "None (company)"
+            },
+            {
+                "entity_in_the_text": "ÖPUL",
+                "wikipedia_title": "ÖPUL (program)"
+            },
+            {
+                "entity_in_the_text": "AgrarMarkt Austria",
+                "wikipedia_title": "Austrian Chamber of Agriculture"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "RR 11",
+                "wikipedia_title": "Rottenmanner Riedler Höhenweg"
+            },
+            {
+                "entity_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Austria#Mountains"
+            },
+            {
+                "entity_in_the_text": "Weiz",
+                "wikipedia_title": "Weiz, Styria"
+            },
+            {
+                "entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "km2",
+                "wikipedia_title": "Square kilometre"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Administrative division"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "settlement",
+                "wikipedia_title": "Human settlement"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "List_of_provinces_and_territories_of_Canada"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Economic_regions_of_Canada"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ALMO",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "entity_in_the_text": "LEADER-region Almenland and Energieregion Weiz-Gleisdorf",
+                "wikipedia_title": "LEADER (European Union)"
+            },
+            {
+                "entity_in_the_text": "Austrian animal welfare NGO",
+                "wikipedia_title": "Vier Pfoten"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ALMO",
+                "wikipedia_title": "Almö"
+            },
+            {
+                "entity_in_the_text": "sheep farmers",
+                "wikipedia_title": "Sheep farming"
+            },
+            {
+                "entity_in_the_text": "free range pig farmers",
+                "wikipedia_title": "Free-range farming"
+            },
+            {
+                "entity_in_the_text": "local butcher",
+                "wikipedia_title": "Butcher"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "drough",
+                "wikipedia_title": "Drought"
+            },
+            {
+                "entity_in_the_text": "heavy rain",
+                "wikipedia_title": "Heavy rainfall"
+            },
+            {
+                "entity_in_the_text": "ALMO producers",
+                "wikipedia_title": "Agroecology"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ALMO",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "entity_in_the_text": "LEADER",
+                "wikipedia_title": "Leader (European Union)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Lower Austria",
+                "wikipedia_title": "Lower Austria"
+            },
+            {
+                "entity_in_the_text": "Carinthia",
+                "wikipedia_title": "Carinthia"
+            }
+        ]
+    }
+]
