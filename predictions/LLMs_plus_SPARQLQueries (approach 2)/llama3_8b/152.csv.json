@@ -1,0 +1,243 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "ITALY",
+    "wikipedia_title" : "Italy",
+    "originalKey" : "ITALY",
+    "original_value" : "Italy",
+    "Wikidata_ID" : "Q38"
+  }, {
+    "entity_in_the_text" : "UNIMOL",
+    "wikipedia_title" : "University of Molise",
+    "originalKey" : "UNIMOL",
+    "original_value" : "University of Molise",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "UNIPI",
+    "wikipedia_title" : "University of Pisa",
+    "originalKey" : "UNIPI",
+    "original_value" : "University of Pisa",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Northern Apennines",
+    "wikipedia_title" : "Apennine Mountains",
+    "originalKey" : "Northern Apennines",
+    "original_value" : "Apennine Mountains",
+    "Wikidata_ID" : "Q1285"
+  }, {
+    "entity_in_the_text" : "Tuscan Emilian Apennines",
+    "wikipedia_title" : "Apennine Mountains",
+    "originalKey" : "Tuscan Emilian Apennines",
+    "original_value" : "Apennine Mountains",
+    "Wikidata_ID" : "Q1285"
+  }, {
+    "entity_in_the_text" : "Anghiari",
+    "wikipedia_title" : "Anghiari",
+    "originalKey" : "Anghiari",
+    "original_value" : "Anghiari",
+    "Wikidata_ID" : "Q52063"
+  }, {
+    "entity_in_the_text" : "Arezzo Province",
+    "wikipedia_title" : "Province of Arezzo",
+    "originalKey" : "Arezzo Province",
+    "original_value" : "Province of Arezzo",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Tuscany Region",
+    "wikipedia_title" : "Region of Tuscany",
+    "originalKey" : "Tuscany Region",
+    "original_value" : "Region of Tuscany",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Italy",
+    "wikipedia_title" : "Italy",
+    "originalKey" : "Italy",
+    "original_value" : "Italy",
+    "Wikidata_ID" : "Q38"
+  }, {
+    "entity_in_the_text" : "Umbria region",
+    "wikipedia_title" : "Umbria",
+    "originalKey" : "Umbria region",
+    "original_value" : "Umbria",
+    "Wikidata_ID" : "Q1280"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province (administrative division)",
+    "originalKey" : "Province",
+    "original_value" : "Province (administrative division)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Human settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Human settlement",
+    "Wikidata_ID" : "Q486972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List_of_provinces_and_territories_of_Canada",
+    "originalKey" : "[Province]",
+    "original_value" : "List_of_provinces_and_territories_of_Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Economic_regions_of_Canada",
+    "originalKey" : "[Region]",
+    "original_value" : "Economic_regions_of_Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Pontepietra",
+    "wikipedia_title" : "Pontepietra",
+    "originalKey" : "Pontepietra",
+    "original_value" : "Pontepietra",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Reg.(UE) n.1151/2012",
+    "wikipedia_title" : "Council Regulation (EU) No 1151/2012",
+    "originalKey" : "Reg.(UE) n.1151/2012",
+    "original_value" : "Council Regulation (EU) No 1151/2012",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Reg.(UE) n.665/2014",
+    "wikipedia_title" : "Council Regulation (EU) No 665/2014",
+    "originalKey" : "Reg.(UE) n.665/2014",
+    "original_value" : "Council Regulation (EU) No 665/2014",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Apennines",
+    "wikipedia_title" : "Apennine Mountains",
+    "originalKey" : "Apennines",
+    "original_value" : "Apennine Mountains",
+    "Wikidata_ID" : "Q1285"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Steinbruck",
+    "wikipedia_title" : "Karl-Theodor zu Guttenberg",
+    "originalKey" : "Steinbruck",
+    "original_value" : "Karl-Theodor zu Guttenberg",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Apennines",
+    "wikipedia_title" : "Apennine Mountains",
+    "originalKey" : "Apennines",
+    "original_value" : "Apennine Mountains",
+    "Wikidata_ID" : "Q1285"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Steinbruck",
+    "wikipedia_title" : "Ignazio Steinbrück",
+    "originalKey" : "Steinbruck",
+    "original_value" : "Ignazio Steinbrück",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Apennines",
+    "wikipedia_title" : "Apennine Mountains",
+    "originalKey" : "Apennines",
+    "original_value" : "Apennine Mountains",
+    "Wikidata_ID" : "Q1285"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Nature",
+    "wikipedia_title" : "Nature",
+    "originalKey" : "Nature",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  }, {
+    "entity_in_the_text" : "Sostenibility",
+    "wikipedia_title" : "Sustainability",
+    "originalKey" : "Sostenibility",
+    "original_value" : "Sustainability",
+    "Wikidata_ID" : "Q219416"
+  }, {
+    "entity_in_the_text" : "Quality",
+    "wikipedia_title" : "Quality (business)",
+    "originalKey" : "Quality",
+    "original_value" : "Quality (business)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : "Product development",
+    "originalKey" : "New products",
+    "original_value" : "Product development",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Communication",
+    "wikipedia_title" : "Marketing communication",
+    "originalKey" : "Communication",
+    "original_value" : "Marketing communication",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Land use systems",
+    "wikipedia_title" : "Land use",
+    "originalKey" : "Land use systems",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "entity_in_the_text" : "Aromatic herbs",
+    "wikipedia_title" : "Herb",
+    "originalKey" : "Aromatic herbs",
+    "original_value" : "Herb",
+    "Wikidata_ID" : "Q207123"
+  }, {
+    "entity_in_the_text" : "Local assets",
+    "wikipedia_title" : "Local economy",
+    "originalKey" : "Local assets",
+    "original_value" : "Local economy",
+    "Wikidata_ID" : ""
+  } ]
+} ]

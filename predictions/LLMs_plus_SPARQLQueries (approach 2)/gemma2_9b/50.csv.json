@@ -1,0 +1,209 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "CZECH REPUBLIC",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "CZECH REPUBLIC",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "Ostrava",
+    "wikipedia_title" : "Ostrava",
+    "originalKey" : "Ostrava",
+    "original_value" : "Ostrava",
+    "Wikidata_ID" : "Q8385"
+  }, {
+    "entity_in_the_text" : "Vallachian region",
+    "wikipedia_title" : "Moravian-Silesian Region",
+    "originalKey" : "Vallachian region",
+    "original_value" : "Moravian-Silesian Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Beskydy mountains",
+    "wikipedia_title" : "Beskydy Mountains",
+    "originalKey" : "Beskydy mountains",
+    "original_value" : "Beskydy Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "EU PGI label",
+    "wikipedia_title" : "Protected Geographical Indication",
+    "originalKey" : "EU PGI label",
+    "original_value" : "Protected Geographical Indication",
+    "Wikidata_ID" : "Q3104453"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Javorníky/Beskydy",
+    "wikipedia_title" : "Beskids",
+    "originalKey" : "Javorníky/Beskydy",
+    "original_value" : "Beskids",
+    "Wikidata_ID" : "Q215573"
+  }, {
+    "entity_in_the_text" : "Western Carpathian",
+    "wikipedia_title" : "Western Carpathians",
+    "originalKey" : "Western Carpathian",
+    "original_value" : "Western Carpathians",
+    "Wikidata_ID" : "Q927233"
+  }, {
+    "entity_in_the_text" : "LAU 1 Vsetín",
+    "wikipedia_title" : "Vsetín District",
+    "originalKey" : "LAU 1 Vsetín",
+    "original_value" : "Vsetín District",
+    "Wikidata_ID" : "Q852541"
+  }, {
+    "entity_in_the_text" : "Czech Republic",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czech Republic",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "Europe",
+    "wikipedia_title" : "Europe",
+    "originalKey" : "Europe",
+    "original_value" : "Europe",
+    "Wikidata_ID" : "Q46"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "EU Protected Geographical Indication (PGI) label",
+    "wikipedia_title" : "Protected designation of origin",
+    "originalKey" : "EU Protected Geographical Indication (PGI) label",
+    "original_value" : "Protected designation of origin",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Valašský region",
+    "wikipedia_title" : "Beskydy Mountains",
+    "originalKey" : "Valašský region",
+    "original_value" : "Beskydy Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Italians (Vallachians - valašský)",
+    "wikipedia_title" : "Wallachian people",
+    "originalKey" : "Italians (Vallachians - valašský)",
+    "original_value" : "Wallachian people",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Beskydy mountains",
+    "wikipedia_title" : "Beskydy Mountains",
+    "originalKey" : "Beskydy mountains",
+    "original_value" : "Beskydy Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Czechia",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czechia",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Vallachian region",
+    "wikipedia_title" : "Wallachia",
+    "originalKey" : "Vallachian region",
+    "original_value" : "Wallachia",
+    "Wikidata_ID" : "Q171393"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Vallachian",
+    "wikipedia_title" : "Wallachians",
+    "originalKey" : "Vallachian",
+    "original_value" : "Wallachians",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Beskydy mountains",
+    "wikipedia_title" : "Beskydy Mountains",
+    "originalKey" : "Beskydy mountains",
+    "original_value" : "Beskydy Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Czechia",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czechia",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "Vallachian region",
+    "wikipedia_title" : "Wallachia",
+    "originalKey" : "Vallachian region",
+    "original_value" : "Wallachia",
+    "Wikidata_ID" : "Q171393"
+  }, {
+    "entity_in_the_text" : "frgále",
+    "wikipedia_title" : null,
+    "originalKey" : "frgále",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "plumb brandy",
+    "wikipedia_title" : "Plum brandy",
+    "originalKey" : "plumb brandy",
+    "original_value" : "Plum brandy",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Czechia",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czechia",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  } ]
+} ]

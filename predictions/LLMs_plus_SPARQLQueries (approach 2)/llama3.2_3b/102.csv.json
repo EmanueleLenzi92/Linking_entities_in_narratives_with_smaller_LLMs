@@ -1,0 +1,227 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "GREECE",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "GREECE",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "VC 11 GR",
+    "wikipedia_title" : "European Union geographical indications#Moving",
+    "originalKey" : "VC 11 GR",
+    "original_value" : "European Union geographical indications#Moving",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "apicature",
+    "wikipedia_title" : "Apiary",
+    "originalKey" : "apicature",
+    "original_value" : "Apiary",
+    "Wikidata_ID" : "Q857628"
+  }, {
+    "entity_in_the_text" : "EU Geographical Indications (GIs)",
+    "wikipedia_title" : "Geographical indication",
+    "originalKey" : "EU Geographical Indications (GIs)",
+    "original_value" : "Geographical indication",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "White Mountains",
+    "wikipedia_title" : "White Mountains (Crete)",
+    "originalKey" : "White Mountains",
+    "original_value" : "White Mountains (Crete)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "KISSAMOS",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "KISSAMOS",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "per capita income (EUR/year)",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income (EUR/year)",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added (GVA) (EUR million/year)",
+    "wikipedia_title" : "Gross domestic product",
+    "originalKey" : "Gross Value Added (GVA) (EUR million/year)",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector share of total GVA/year",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector share of total GVA/year",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector share of total GVA/year",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region (geography)",
+    "originalKey" : "Region",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed place",
+    "originalKey" : "BPs",
+    "original_value" : "Bed place",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List of provinces in Canada",
+    "originalKey" : "[Province]",
+    "original_value" : "List of provinces in Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "List of regions in Canada",
+    "originalKey" : "[Region]",
+    "original_value" : "List of regions in Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Kissamos",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "Kissamos",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "PDO",
+    "wikipedia_title" : "Protected Designation of Origin",
+    "originalKey" : "PDO",
+    "original_value" : "Protected Designation of Origin",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Pefkothimaromelo",
+    "wikipedia_title" : "Pefkothimaromelo",
+    "originalKey" : "Pefkothimaromelo",
+    "original_value" : "Pefkothimaromelo",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Pefkothymatomelo",
+    "wikipedia_title" : "Pefkothymatomelo",
+    "originalKey" : "Pefkothymatomelo",
+    "original_value" : "Pefkothymatomelo",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Topolia/Kissamos",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "Topolia/Kissamos",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "entity_in_the_text" : "Cretan way of life",
+    "wikipedia_title" : "Cretan culture",
+    "originalKey" : "Cretan way of life",
+    "original_value" : "Cretan culture",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Minoan Civilization",
+    "wikipedia_title" : "Minoan civilization",
+    "originalKey" : "Minoan Civilization",
+    "original_value" : "Minoan civilization",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "Pefkothymaromelo",
+    "wikipedia_title" : "Pefkothymaromelo",
+    "originalKey" : "Pefkothymaromelo",
+    "original_value" : "Pefkothymaromelo",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "pefkothymaromelo",
+    "wikipedia_title" : "Pefkothymaromelo",
+    "originalKey" : "pefkothymaromelo",
+    "original_value" : "Pefkothymaromelo",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "PDO",
+    "wikipedia_title" : "Protected Designation of Origin",
+    "originalKey" : "PDO",
+    "original_value" : "Protected Designation of Origin",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Natural land",
+    "originalKey" : "Natural land",
+    "original_value" : "Natural land",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Peyfothymaromelo",
+    "wikipedia_title" : "Peyfothymaromelo",
+    "originalKey" : "Peyfothymaromelo",
+    "original_value" : "Peyfothymaromelo",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cretan honey",
+    "wikipedia_title" : "Honey of Crete",
+    "originalKey" : "Cretan honey",
+    "original_value" : "Honey of Crete",
+    "Wikidata_ID" : ""
+  } ]
+} ]

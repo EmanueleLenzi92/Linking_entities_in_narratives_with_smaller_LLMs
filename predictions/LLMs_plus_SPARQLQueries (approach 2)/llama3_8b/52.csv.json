@@ -1,0 +1,215 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "CZECH REPUBLIC",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "CZECH REPUBLIC",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "VC 11 CZ",
+    "wikipedia_title" : "None (MOVING Card ID)",
+    "originalKey" : "VC 11 CZ",
+    "original_value" : "None (MOVING Card ID)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Sumava",
+    "wikipedia_title" : "Šumava",
+    "originalKey" : "Sumava",
+    "original_value" : "Šumava",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cesky les",
+    "wikipedia_title" : "Šumava",
+    "originalKey" : "Cesky les",
+    "original_value" : "Šumava",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU 1 Klatovy",
+    "wikipedia_title" : "Klatovy District",
+    "originalKey" : "LAU 1 Klatovy",
+    "original_value" : "Klatovy District",
+    "Wikidata_ID" : "Q838341"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province (administrative division)",
+    "originalKey" : "Province",
+    "original_value" : "Province (administrative division)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Human settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Human settlement",
+    "Wikidata_ID" : "Q486972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List_of_provinces_and_territories_of_Canada",
+    "originalKey" : "[Province]",
+    "original_value" : "List_of_provinces_and_territories_of_Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Economic_regions_of_Canada",
+    "originalKey" : "[Region]",
+    "original_value" : "Economic_regions_of_Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Bee",
+    "wikipedia_title" : "Honey bee",
+    "originalKey" : "Bee",
+    "original_value" : "Honey bee",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Mountain regions",
+    "wikipedia_title" : "Mountain",
+    "originalKey" : "Mountain regions",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Beekeeping",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "Beekeeping",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "Farming",
+    "wikipedia_title" : "Agriculture",
+    "originalKey" : "Farming",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Sumava Mountains",
+    "wikipedia_title" : "Šumava",
+    "originalKey" : "Sumava Mountains",
+    "original_value" : "Šumava",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "beekeepers",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "beekeepers",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Beekeepers",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "Beekeepers",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "Czech Republic",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czech Republic",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Beekeepers",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "Beekeepers",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "Varroa disease",
+    "wikipedia_title" : "Varroa destructor",
+    "originalKey" : "Varroa disease",
+    "original_value" : "Varroa destructor",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Natural environment",
+    "originalKey" : "Natural land",
+    "original_value" : "Natural environment",
+    "Wikidata_ID" : "Q43619"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Czech Republic",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czech Republic",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "beekeeping",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "beekeeping",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "agriculture",
+    "wikipedia_title" : "Agriculture",
+    "originalKey" : "agriculture",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  } ]
+} ]

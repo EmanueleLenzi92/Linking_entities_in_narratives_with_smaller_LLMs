@@ -1,0 +1,269 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SCOTLAND HUTTON",
+    "wikipedia_title" : "Scotland",
+    "originalKey" : "SCOTLAND HUTTON",
+    "original_value" : "Scotland",
+    "Wikidata_ID" : "Q22"
+  }, {
+    "entity_in_the_text" : "VC 02 UK",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC 02 UK",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Caerphilly cheese",
+    "wikipedia_title" : "Caerphilly cheese",
+    "originalKey" : "Caerphilly cheese",
+    "original_value" : "Caerphilly cheese",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Euopean Protected Georgaphical Indication",
+    "wikipedia_title" : "Protected Designation of Origin",
+    "originalKey" : "Euopean Protected Georgaphical Indication",
+    "original_value" : "Protected Designation of Origin",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "West Wales",
+    "wikipedia_title" : "West Wales",
+    "originalKey" : "West Wales",
+    "original_value" : "West Wales",
+    "Wikidata_ID" : "Q3094812"
+  }, {
+    "entity_in_the_text" : "Caerphilly",
+    "wikipedia_title" : "Caerphilly (county borough)",
+    "originalKey" : "Caerphilly",
+    "original_value" : "Caerphilly (county borough)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Wales",
+    "wikipedia_title" : "Wales",
+    "originalKey" : "Wales",
+    "original_value" : "Wales",
+    "Wikidata_ID" : "Q25"
+  }, {
+    "entity_in_the_text" : "Cardiff",
+    "wikipedia_title" : "Cardiff",
+    "originalKey" : "Cardiff",
+    "original_value" : "Cardiff",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Newport",
+    "wikipedia_title" : "Newport, Wales",
+    "originalKey" : "Newport",
+    "original_value" : "Newport, Wales",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List_of_provinces_of_Spain",
+    "originalKey" : "[Province]",
+    "original_value" : "List_of_provinces_of_Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Autonomous_communities_of_Spain",
+    "originalKey" : "[Region]",
+    "original_value" : "Autonomous_communities_of_Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Human settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Human settlement",
+    "Wikidata_ID" : "Q486972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List_of_provinces_of_[Country]",
+    "originalKey" : "[Province]",
+    "original_value" : "List_of_provinces_of_[Country]",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Regions_of_[Country]",
+    "originalKey" : "[Region]",
+    "original_value" : "Regions_of_[Country]",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Caerphilly",
+    "wikipedia_title" : "Caerphilly",
+    "originalKey" : "Caerphilly",
+    "original_value" : "Caerphilly",
+    "Wikidata_ID" : "Q909119"
+  }, {
+    "entity_in_the_text" : "Somerset",
+    "wikipedia_title" : "Somerset",
+    "originalKey" : "Somerset",
+    "original_value" : "Somerset",
+    "Wikidata_ID" : "Q23157"
+  }, {
+    "entity_in_the_text" : "Wiltshire",
+    "wikipedia_title" : "Wiltshire",
+    "originalKey" : "Wiltshire",
+    "original_value" : "Wiltshire",
+    "Wikidata_ID" : "Q23183"
+  }, {
+    "entity_in_the_text" : "Castle Dairies",
+    "wikipedia_title" : "Castle Dairies",
+    "originalKey" : "Castle Dairies",
+    "original_value" : "Castle Dairies",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "The Big Cheese",
+    "wikipedia_title" : "The Big Cheese (Caerphilly)",
+    "originalKey" : "The Big Cheese",
+    "original_value" : "The Big Cheese (Caerphilly)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gorwydd",
+    "wikipedia_title" : "Gorwydd Farm",
+    "originalKey" : "Gorwydd",
+    "original_value" : "Gorwydd Farm",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "International Cheese Awards",
+    "wikipedia_title" : "International Cheese Awards",
+    "originalKey" : "International Cheese Awards",
+    "original_value" : "International Cheese Awards",
+    "Wikidata_ID" : "Q6049165"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Caerphilly",
+    "wikipedia_title" : "Caerphilly",
+    "originalKey" : "Caerphilly",
+    "original_value" : "Caerphilly",
+    "Wikidata_ID" : "Q909119"
+  }, {
+    "entity_in_the_text" : "Big Cheese festival",
+    "wikipedia_title" : "Big Cheese (festival)",
+    "originalKey" : "Big Cheese festival",
+    "original_value" : "Big Cheese (festival)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "England",
+    "wikipedia_title" : "England",
+    "originalKey" : "England",
+    "original_value" : "England",
+    "Wikidata_ID" : "Q21"
+  }, {
+    "entity_in_the_text" : "Caerphilly cheese",
+    "wikipedia_title" : "Caerphilly cheese",
+    "originalKey" : "Caerphilly cheese",
+    "original_value" : "Caerphilly cheese",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "COVID",
+    "wikipedia_title" : "COVID-19 pandemic",
+    "originalKey" : "COVID",
+    "original_value" : "COVID-19 pandemic",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "England",
+    "wikipedia_title" : "England",
+    "originalKey" : "England",
+    "original_value" : "England",
+    "Wikidata_ID" : "Q21"
+  }, {
+    "entity_in_the_text" : "Caerphilly",
+    "wikipedia_title" : "Caerphilly (county borough)",
+    "originalKey" : "Caerphilly",
+    "original_value" : "Caerphilly (county borough)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Caerphilly cheese",
+    "wikipedia_title" : "Caerphilly_(cheese)",
+    "originalKey" : "Caerphilly cheese",
+    "original_value" : "Caerphilly_(cheese)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value_chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value_chain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Grassland",
+    "wikipedia_title" : "Grassland",
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Caerphilly cheese",
+    "wikipedia_title" : "Caerphilly_(cheese)",
+    "originalKey" : "Caerphilly cheese",
+    "original_value" : "Caerphilly_(cheese)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Somerset",
+    "wikipedia_title" : "Somerset",
+    "originalKey" : "Somerset",
+    "original_value" : "Somerset",
+    "Wikidata_ID" : "Q23157"
+  }, {
+    "entity_in_the_text" : "South Somerset LAU1",
+    "wikipedia_title" : "South_Somerset_District",
+    "originalKey" : "South Somerset LAU1",
+    "original_value" : "South_Somerset_District",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Wiltshire LAU1",
+    "wikipedia_title" : "Wiltshire",
+    "originalKey" : "Wiltshire LAU1",
+    "original_value" : "Wiltshire",
+    "Wikidata_ID" : "Q23183"
+  }, {
+    "entity_in_the_text" : "England",
+    "wikipedia_title" : "England",
+    "originalKey" : "England",
+    "original_value" : "England",
+    "Wikidata_ID" : "Q21"
+  } ]
+} ]

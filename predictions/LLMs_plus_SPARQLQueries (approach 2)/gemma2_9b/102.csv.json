@@ -1,0 +1,215 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "GREECE",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "GREECE",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "Region of Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Region of Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "EU Geographical Indications (GIs)",
+    "wikipedia_title" : "Protected designation of origin",
+    "originalKey" : "EU Geographical Indications (GIs)",
+    "original_value" : "Protected designation of origin",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "White Mountains",
+    "wikipedia_title" : "White Mountains (Crete)",
+    "originalKey" : "White Mountains",
+    "original_value" : "White Mountains (Crete)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "KISSAMOS",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "KISSAMOS",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Kissamos mountains",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "Kissamos mountains",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "entity_in_the_text" : "Pefkothimaromelo",
+    "wikipedia_title" : "Honey",
+    "originalKey" : "Pefkothimaromelo",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Topolia/Kissamos",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "Topolia/Kissamos",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "entity_in_the_text" : "Cretan",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Cretan",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "Minoan Civilization",
+    "wikipedia_title" : "Minoan civilization",
+    "originalKey" : "Minoan Civilization",
+    "original_value" : "Minoan civilization",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "bees",
+    "wikipedia_title" : "Bee",
+    "originalKey" : "bees",
+    "original_value" : "Bee",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "honey",
+    "wikipedia_title" : "Honey",
+    "originalKey" : "honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "entity_in_the_text" : "pesticide",
+    "wikipedia_title" : "Pesticide",
+    "originalKey" : "pesticide",
+    "original_value" : "Pesticide",
+    "Wikidata_ID" : "Q131656"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "PDO characterization",
+    "wikipedia_title" : "Protected designation of origin",
+    "originalKey" : "PDO characterization",
+    "original_value" : "Protected designation of origin",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kissamos",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "Kissamos",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Land use",
+    "originalKey" : "Natural land",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Greece",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "Greece",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "EU katalog (eAmbrosia)",
+    "wikipedia_title" : "eAmbrosia",
+    "originalKey" : "EU katalog (eAmbrosia)",
+    "original_value" : "eAmbrosia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Peyfothymaromelo",
+    "wikipedia_title" : "Peyfothymaromelo",
+    "originalKey" : "Peyfothymaromelo",
+    "original_value" : "Peyfothymaromelo",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cretan honey",
+    "wikipedia_title" : "Honey",
+    "originalKey" : "Cretan honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  } ]
+} ]

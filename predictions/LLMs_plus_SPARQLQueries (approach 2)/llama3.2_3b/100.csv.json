@@ -1,0 +1,233 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "GREECE",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "GREECE",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "VC 09 GR",
+    "wikipedia_title" : "Value Chain",
+    "originalKey" : "VC 09 GR",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Aloe vera",
+    "wikipedia_title" : "Aloe vera",
+    "originalKey" : "Aloe vera",
+    "original_value" : "Aloe vera",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Dikti Mountains",
+    "wikipedia_title" : "Dikti Mountains",
+    "originalKey" : "Dikti Mountains",
+    "original_value" : "Dikti Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VIANNOS",
+    "wikipedia_title" : "Viannos",
+    "originalKey" : "VIANNOS",
+    "original_value" : "Viannos",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "per capita income (EUR/year)",
+    "wikipedia_title" : "Gross domestic product per capita",
+    "originalKey" : "per capita income (EUR/year)",
+    "original_value" : "Gross domestic product per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added (GVA) (EUR million/year)",
+    "wikipedia_title" : "Gross domestic product",
+    "originalKey" : "Gross Value Added (GVA) (EUR million/year)",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector share of total GVA/year",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector share of total GVA/year",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector share of total GVA/year",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region (geography)",
+    "originalKey" : "Region",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed place",
+    "originalKey" : "BPs",
+    "original_value" : "Bed place",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List of provinces in Canada",
+    "originalKey" : "[Province]",
+    "original_value" : "List of provinces in Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "List of regions in Canada",
+    "originalKey" : "[Region]",
+    "original_value" : "List of regions in Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Dikti mountain landscape",
+    "wikipedia_title" : "Dikti Mountains",
+    "originalKey" : "Dikti mountain landscape",
+    "original_value" : "Dikti Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "Viannos",
+    "wikipedia_title" : "Viannos, Crete",
+    "originalKey" : "Viannos",
+    "original_value" : "Viannos, Crete",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "North America",
+    "wikipedia_title" : "North America",
+    "originalKey" : "North America",
+    "original_value" : "North America",
+    "Wikidata_ID" : "Q49"
+  }, {
+    "entity_in_the_text" : "Europe",
+    "wikipedia_title" : "Europe",
+    "originalKey" : "Europe",
+    "original_value" : "Europe",
+    "Wikidata_ID" : "Q46"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Dikti Mountain",
+    "wikipedia_title" : "Dikti Mountains",
+    "originalKey" : "Dikti Mountain",
+    "original_value" : "Dikti Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Aloe Vera",
+    "wikipedia_title" : "Aloe vera",
+    "originalKey" : "Aloe Vera",
+    "original_value" : "Aloe vera",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Dikti",
+    "wikipedia_title" : "Dikti Mountains",
+    "originalKey" : "Dikti",
+    "original_value" : "Dikti Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Viannos",
+    "wikipedia_title" : "Viannos",
+    "originalKey" : "Viannos",
+    "original_value" : "Viannos",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Aloe Vera",
+    "wikipedia_title" : "Aloe vera",
+    "originalKey" : "Aloe Vera",
+    "original_value" : "Aloe vera",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Aloe Vera",
+    "wikipedia_title" : "Aloe vera",
+    "originalKey" : "Aloe Vera",
+    "original_value" : "Aloe vera",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Dikti region",
+    "wikipedia_title" : "Dikti Mountains",
+    "originalKey" : "Dikti region",
+    "original_value" : "Dikti Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Minoan Land",
+    "wikipedia_title" : "Minoan Land Cooperative",
+    "originalKey" : "Minoan Land",
+    "original_value" : "Minoan Land Cooperative",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Aloe Vera",
+    "wikipedia_title" : "Aloe vera",
+    "originalKey" : "Aloe Vera",
+    "original_value" : "Aloe vera",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "MRLs",
+    "wikipedia_title" : "Maximum Residue Limit",
+    "originalKey" : "MRLs",
+    "original_value" : "Maximum Residue Limit",
+    "Wikidata_ID" : "Q3241116"
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "Andalusia",
+    "wikipedia_title" : "Andalusia",
+    "originalKey" : "Andalusia",
+    "original_value" : "Andalusia",
+    "Wikidata_ID" : "Q5783"
+  }, {
+    "entity_in_the_text" : "Spain",
+    "wikipedia_title" : "Spain",
+    "originalKey" : "Spain",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  } ]
+} ]

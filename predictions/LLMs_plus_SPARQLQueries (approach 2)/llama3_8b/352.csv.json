@@ -1,0 +1,305 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SPAIN",
+    "wikipedia_title" : "Spain",
+    "originalKey" : "SPAIN",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  }, {
+    "entity_in_the_text" : "ADEGUA",
+    "wikipedia_title" : "Adequa",
+    "originalKey" : "ADEGUA",
+    "original_value" : "Adequa",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "ATADES Gardeniers Special Employment Center",
+    "wikipedia_title" : "Atades",
+    "originalKey" : "ATADES Gardeniers Special Employment Center",
+    "original_value" : "Atades",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Torres de Berrellén melon",
+    "wikipedia_title" : "Melon",
+    "originalKey" : "Torres de Berrellén melon",
+    "original_value" : "Melon",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "European Agricultural Fund for Rural Development (EAFRD)",
+    "wikipedia_title" : "European Agricultural Fund for Rural Development",
+    "originalKey" : "European Agricultural Fund for Rural Development (EAFRD)",
+    "original_value" : "European Agricultural Fund for Rural Development",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Pyrenees",
+    "wikipedia_title" : "Pyrenees",
+    "originalKey" : "Pyrenees",
+    "original_value" : "Pyrenees",
+    "Wikidata_ID" : "Q12431"
+  }, {
+    "entity_in_the_text" : "Jaca (Ascara)",
+    "wikipedia_title" : "Jaca, Huesca",
+    "originalKey" : "Jaca (Ascara)",
+    "original_value" : "Jaca, Huesca",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Canal de Berdún",
+    "wikipedia_title" : "Canal de Berdún",
+    "originalKey" : "Canal de Berdún",
+    "original_value" : "Canal de Berdún",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Huesca",
+    "wikipedia_title" : "Province of Huesca",
+    "originalKey" : "Huesca",
+    "original_value" : "Province of Huesca",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Zaragoza",
+    "wikipedia_title" : "Province of Zaragoza",
+    "originalKey" : "Zaragoza",
+    "original_value" : "Province of Zaragoza",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Torres de Berrellén",
+    "wikipedia_title" : "Torres de Berrellén",
+    "originalKey" : "Torres de Berrellén",
+    "original_value" : "Torres de Berrellén",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Alagón",
+    "wikipedia_title" : "Alagón, Zaragoza",
+    "originalKey" : "Alagón",
+    "original_value" : "Alagón, Zaragoza",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Montañana",
+    "wikipedia_title" : "Montañana, Zaragoza",
+    "originalKey" : "Montañana",
+    "original_value" : "Montañana, Zaragoza",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gardeniers farm",
+    "wikipedia_title" : "None (not a Wikipedia page)",
+    "originalKey" : "Gardeniers farm",
+    "original_value" : "None (not a Wikipedia page)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cielos de Ascara agroecological social project",
+    "wikipedia_title" : "None (not a Wikipedia page)",
+    "originalKey" : "Cielos de Ascara agroecological social project",
+    "original_value" : "None (not a Wikipedia page)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Sigpac",
+    "wikipedia_title" : "SIGPAC",
+    "originalKey" : "Sigpac",
+    "original_value" : "SIGPAC",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Jacetania region",
+    "wikipedia_title" : "Jacetania",
+    "originalKey" : "Jacetania region",
+    "original_value" : "Jacetania",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List_of_provinces_of_Spain",
+    "originalKey" : "[Province]",
+    "original_value" : "List_of_provinces_of_Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Autonomous_communities_of_Spain",
+    "originalKey" : "[Region]",
+    "original_value" : "Autonomous_communities_of_Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Human settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Human settlement",
+    "Wikidata_ID" : "Q486972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List_of_provinces_of_[Country]",
+    "originalKey" : "[Province]",
+    "original_value" : "List_of_provinces_of_[Country]",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Regions_of_[Country]",
+    "originalKey" : "[Region]",
+    "original_value" : "Regions_of_[Country]",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Cielos de Ascara",
+    "wikipedia_title" : "Cielos_de_Ascara",
+    "originalKey" : "Cielos de Ascara",
+    "original_value" : "Cielos_de_Ascara",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Aragonese Pyrenees",
+    "wikipedia_title" : "Pyrenees#Aragonese_Pyrenees",
+    "originalKey" : "Aragonese Pyrenees",
+    "original_value" : "Pyrenees#Aragonese_Pyrenees",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Aragon",
+    "wikipedia_title" : "Aragon",
+    "originalKey" : "Aragon",
+    "original_value" : "Aragon",
+    "Wikidata_ID" : "Q4040"
+  }, {
+    "entity_in_the_text" : "Organic Production of Foodstuffs linked to the Aragonese Territory",
+    "wikipedia_title" : "None",
+    "originalKey" : "Organic Production of Foodstuffs linked to the Aragonese Territory",
+    "original_value" : "None",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "rural development policies",
+    "wikipedia_title" : "Rural development",
+    "originalKey" : "rural development policies",
+    "original_value" : "Rural development",
+    "Wikidata_ID" : "Q3045473"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "Endogenous",
+    "wikipedia_title" : "Endogenous growth theory",
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous growth theory",
+    "Wikidata_ID" : "Q576355"
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : "Product innovation",
+    "originalKey" : "New products",
+    "original_value" : "Product innovation",
+    "Wikidata_ID" : "Q7247768"
+  }, {
+    "entity_in_the_text" : "New processes",
+    "wikipedia_title" : "Process innovation",
+    "originalKey" : "New processes",
+    "original_value" : "Process innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "New governance systems",
+    "wikipedia_title" : "Governance",
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance",
+    "Wikidata_ID" : "Q1553864"
+  }, {
+    "entity_in_the_text" : "Cropland",
+    "wikipedia_title" : "Agricultural land use",
+    "originalKey" : "Cropland",
+    "original_value" : "Agricultural land use",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "San Juan de la Peña",
+    "wikipedia_title" : "Sierra y Cañones de Guara",
+    "originalKey" : "San Juan de la Peña",
+    "original_value" : "Sierra y Cañones de Guara",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Monte Oroel",
+    "wikipedia_title" : "Monte Oroel",
+    "originalKey" : "Monte Oroel",
+    "original_value" : "Monte Oroel",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural Park of the Western Valleys",
+    "wikipedia_title" : "Parque Natural de los Valles Occidentales",
+    "originalKey" : "Natural Park of the Western Valleys",
+    "original_value" : "Parque Natural de los Valles Occidentales",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Torres de Berrellén",
+    "wikipedia_title" : "Torres de Berrellén",
+    "originalKey" : "Torres de Berrellén",
+    "original_value" : "Torres de Berrellén",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+    "wikipedia_title" : "Instituto Agroalimentario de Aragón",
+    "originalKey" : "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+    "original_value" : "Instituto Agroalimentario de Aragón",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Mercazaragoza",
+    "wikipedia_title" : "Mercado Central de Zaragoza",
+    "originalKey" : "Mercazaragoza",
+    "original_value" : "Mercado Central de Zaragoza",
+    "Wikidata_ID" : ""
+  } ]
+} ]

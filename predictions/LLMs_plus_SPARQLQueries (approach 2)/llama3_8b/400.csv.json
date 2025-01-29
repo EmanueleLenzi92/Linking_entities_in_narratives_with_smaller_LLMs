@@ -1,0 +1,157 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SWITZERLAND",
+    "wikipedia_title" : "Switzerland",
+    "originalKey" : "SWITZERLAND",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "entity_in_the_text" : "Engadiner",
+    "wikipedia_title" : "Engadine (breed)",
+    "originalKey" : "Engadiner",
+    "original_value" : "Engadine (breed)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Spiegelschaf",
+    "wikipedia_title" : "Spiegel sheep",
+    "originalKey" : "Spiegelschaf",
+    "original_value" : "Spiegel sheep",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Nera Verzasca",
+    "wikipedia_title" : "Verzasca Valley",
+    "originalKey" : "Nera Verzasca",
+    "original_value" : "Verzasca Valley",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Capra Grigia",
+    "wikipedia_title" : "Grigia goat",
+    "originalKey" : "Capra Grigia",
+    "original_value" : "Grigia goat",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Black Alpine Pig",
+    "wikipedia_title" : "Alpine pig",
+    "originalKey" : "Black Alpine Pig",
+    "original_value" : "Alpine pig",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Valley_chain",
+    "originalKey" : "VC",
+    "original_value" : "Valley_chain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province (administrative division)",
+    "originalKey" : "Province",
+    "original_value" : "Province (administrative division)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative region",
+    "originalKey" : "Region",
+    "original_value" : "Administrative region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province (administrative division)",
+    "originalKey" : "Province",
+    "original_value" : "Province (administrative division)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative region",
+    "originalKey" : "Region",
+    "original_value" : "Administrative region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "farmer",
+    "wikipedia_title" : "Farmer",
+    "originalKey" : "farmer",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  }, {
+    "entity_in_the_text" : "localness",
+    "wikipedia_title" : "Localism",
+    "originalKey" : "localness",
+    "original_value" : "Localism",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "veganism",
+    "wikipedia_title" : "Veganism",
+    "originalKey" : "veganism",
+    "original_value" : "Veganism",
+    "Wikidata_ID" : "Q181138"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Supply chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Supply chain",
+    "Wikidata_ID" : "Q1824206"
+  }, {
+    "entity_in_the_text" : "Endogenous",
+    "wikipedia_title" : "Endogenous growth theory",
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous growth theory",
+    "Wikidata_ID" : "Q576355"
+  }, {
+    "entity_in_the_text" : "Transnational organisation",
+    "wikipedia_title" : "Multinational corporation",
+    "originalKey" : "Transnational organisation",
+    "original_value" : "Multinational corporation",
+    "Wikidata_ID" : "Q161726"
+  }, {
+    "entity_in_the_text" : "Grassland",
+    "wikipedia_title" : "Grassland",
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  } ]
+} ]

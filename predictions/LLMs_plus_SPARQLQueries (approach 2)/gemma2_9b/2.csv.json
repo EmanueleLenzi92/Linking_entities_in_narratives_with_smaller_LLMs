@@ -1,0 +1,167 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "AUSTRIA",
+    "wikipedia_title" : "Austria",
+    "originalKey" : "AUSTRIA",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  }, {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Germany",
+    "wikipedia_title" : "Germany",
+    "originalKey" : "Germany",
+    "original_value" : "Germany",
+    "Wikidata_ID" : "Q183"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "RR 11",
+    "wikipedia_title" : "Austrian Alps",
+    "originalKey" : "RR 11",
+    "original_value" : "Austrian Alps",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Weiz (No: 617)",
+    "wikipedia_title" : "Weiz, Styria",
+    "originalKey" : "Weiz (No: 617)",
+    "original_value" : "Weiz, Styria",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "cheese",
+    "wikipedia_title" : "Cheese",
+    "originalKey" : "cheese",
+    "original_value" : "Cheese",
+    "Wikidata_ID" : "Q10943"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "AgrarMarkt Austria",
+    "wikipedia_title" : "Agrarmarkt Austria",
+    "originalKey" : "AgrarMarkt Austria",
+    "original_value" : "Agrarmarkt Austria",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "alpine pasture areas",
+    "wikipedia_title" : "Alpine pasture",
+    "originalKey" : "alpine pasture areas",
+    "original_value" : "Alpine pasture",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "Arzberger Ursteirer",
+    "wikipedia_title" : "Käse",
+    "originalKey" : "Arzberger Ursteirer",
+    "original_value" : "Käse",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "USA",
+    "wikipedia_title" : "United States",
+    "originalKey" : "USA",
+    "original_value" : "United States",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Austrian Alps",
+    "wikipedia_title" : "Austrian Alps",
+    "originalKey" : "Austrian Alps",
+    "original_value" : "Austrian Alps",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "silver mine",
+    "wikipedia_title" : "Mine",
+    "originalKey" : "silver mine",
+    "original_value" : "Mine",
+    "Wikidata_ID" : ""
+  } ]
+} ]

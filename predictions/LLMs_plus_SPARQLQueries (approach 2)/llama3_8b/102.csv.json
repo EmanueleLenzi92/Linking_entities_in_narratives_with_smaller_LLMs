@@ -1,0 +1,203 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "GREECE",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "GREECE",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete (region)",
+    "originalKey" : "Crete",
+    "original_value" : "Crete (region)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "White Mountains",
+    "wikipedia_title" : "White Mountains (Crete)",
+    "originalKey" : "White Mountains",
+    "original_value" : "White Mountains (Crete)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "KISSAMOS",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "KISSAMOS",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Provinces_of_Spain",
+    "originalKey" : "[Province]",
+    "original_value" : "Provinces_of_Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Autonomous_communities_of_Spain",
+    "originalKey" : "[Region]",
+    "original_value" : "Autonomous_communities_of_Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Human settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Human settlement",
+    "Wikidata_ID" : "Q486972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List_of_provinces_of_[Country]",
+    "originalKey" : "[Province]",
+    "original_value" : "List_of_provinces_of_[Country]",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Regions_of_[Country]",
+    "originalKey" : "[Region]",
+    "original_value" : "Regions_of_[Country]",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Kissamos",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "Kissamos",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Topolia",
+    "wikipedia_title" : "Topolia, Chania",
+    "originalKey" : "Topolia",
+    "original_value" : "Topolia, Chania",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kissamos",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "Kissamos",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "Minoan Civilization",
+    "wikipedia_title" : "Minoan civilization",
+    "originalKey" : "Minoan Civilization",
+    "original_value" : "Minoan civilization",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "Pefkothymaromelo",
+    "wikipedia_title" : "Pefkothyma",
+    "originalKey" : "Pefkothymaromelo",
+    "original_value" : "Pefkothyma",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Pefkothymaromelo",
+    "wikipedia_title" : "Pefkothymaro",
+    "originalKey" : "Pefkothymaromelo",
+    "original_value" : "Pefkothymaro",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kissamos",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "Kissamos",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Greece",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "Greece",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "EU",
+    "wikipedia_title" : "European Union",
+    "originalKey" : "EU",
+    "original_value" : "European Union",
+    "Wikidata_ID" : "Q458"
+  }, {
+    "entity_in_the_text" : "eAmbrosia",
+    "wikipedia_title" : "eAmbrosia",
+    "originalKey" : "eAmbrosia",
+    "original_value" : "eAmbrosia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Peyfothymaromelo",
+    "wikipedia_title" : "Peyfothyma",
+    "originalKey" : "Peyfothymaromelo",
+    "original_value" : "Peyfothyma",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cretan honey",
+    "wikipedia_title" : "Honey",
+    "originalKey" : "Cretan honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  } ]
+} ]

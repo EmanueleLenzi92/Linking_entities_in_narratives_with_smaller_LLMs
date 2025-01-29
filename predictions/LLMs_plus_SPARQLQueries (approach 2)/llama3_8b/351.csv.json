@@ -1,0 +1,239 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SPAIN",
+    "wikipedia_title" : "Spain",
+    "originalKey" : "SPAIN",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  }, {
+    "entity_in_the_text" : "ADEGUA",
+    "wikipedia_title" : "Adeguas",
+    "originalKey" : "ADEGUA",
+    "original_value" : "Adeguas",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC 34 ES",
+    "wikipedia_title" : "None",
+    "originalKey" : "VC 34 ES",
+    "original_value" : "None",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Betic System",
+    "wikipedia_title" : "Betic System",
+    "originalKey" : "Betic System",
+    "original_value" : "Betic System",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Carcabuey",
+    "wikipedia_title" : "Carcabuey",
+    "originalKey" : "Carcabuey",
+    "original_value" : "Carcabuey",
+    "Wikidata_ID" : "Q842679"
+  }, {
+    "entity_in_the_text" : "Sierra Subbética",
+    "wikipedia_title" : "Sierra Subbética",
+    "originalKey" : "Sierra Subbética",
+    "original_value" : "Sierra Subbética",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List_of_provinces_of_Spain",
+    "originalKey" : "[Province]",
+    "original_value" : "List_of_provinces_of_Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Autonomous_communities_of_Spain",
+    "originalKey" : "[Region]",
+    "original_value" : "Autonomous_communities_of_Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Human settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Human settlement",
+    "Wikidata_ID" : "Q486972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List_of_provinces_of_[Country]",
+    "originalKey" : "[Province]",
+    "original_value" : "List_of_provinces_of_[Country]",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Regions_of_[Country]",
+    "originalKey" : "[Region]",
+    "original_value" : "Regions_of_[Country]",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "care of the elderly",
+    "wikipedia_title" : "Long-term care",
+    "originalKey" : "care of the elderly",
+    "original_value" : "Long-term care",
+    "Wikidata_ID" : "Q6672123"
+  }, {
+    "entity_in_the_text" : "private care company",
+    "wikipedia_title" : "Private healthcare",
+    "originalKey" : "private care company",
+    "original_value" : "Private healthcare",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "informal sector",
+    "wikipedia_title" : "Informal economy",
+    "originalKey" : "informal sector",
+    "original_value" : "Informal economy",
+    "Wikidata_ID" : "Q944235"
+  }, {
+    "entity_in_the_text" : "non-monetised and informal economy",
+    "wikipedia_title" : "Shadow economy",
+    "originalKey" : "non-monetised and informal economy",
+    "original_value" : "Shadow economy",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "PROMI",
+    "wikipedia_title" : "Private Management Institution",
+    "originalKey" : "PROMI",
+    "original_value" : "Private Management Institution",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Provincial Council",
+    "wikipedia_title" : "Provincial council",
+    "originalKey" : "Provincial Council",
+    "original_value" : "Provincial council",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Ageing population",
+    "wikipedia_title" : "Aging population",
+    "originalKey" : "Ageing population",
+    "original_value" : "Aging population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "negative replacement rate",
+    "wikipedia_title" : "Total fertility rate",
+    "originalKey" : "negative replacement rate",
+    "original_value" : "Total fertility rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "depopulation",
+    "wikipedia_title" : "Depopulation",
+    "originalKey" : "depopulation",
+    "original_value" : "Depopulation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "exodus of young population",
+    "wikipedia_title" : "Brain drain",
+    "originalKey" : "exodus of young population",
+    "original_value" : "Brain drain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "public resources",
+    "wikipedia_title" : "Public finance",
+    "originalKey" : "public resources",
+    "original_value" : "Public finance",
+    "Wikidata_ID" : "Q274490"
+  }, {
+    "entity_in_the_text" : "informal economy",
+    "wikipedia_title" : "Informal sector",
+    "originalKey" : "informal economy",
+    "original_value" : "Informal sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "precarisation of female work",
+    "wikipedia_title" : "Precariat",
+    "originalKey" : "precarisation of female work",
+    "original_value" : "Precariat",
+    "Wikidata_ID" : "Q2118871"
+  }, {
+    "entity_in_the_text" : "disappearance of local and social cultures of small Sierra communities",
+    "wikipedia_title" : "Cultural heritage",
+    "originalKey" : "disappearance of local and social cultures of small Sierra communities",
+    "original_value" : "Cultural heritage",
+    "Wikidata_ID" : "Q210272"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Endogenous",
+    "wikipedia_title" : "Endogenous growth theory",
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous growth theory",
+    "Wikidata_ID" : "Q576355"
+  }, {
+    "entity_in_the_text" : "Exogenous",
+    "wikipedia_title" : "Exogenous variable",
+    "originalKey" : "Exogenous",
+    "original_value" : "Exogenous variable",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New governance systems",
+    "wikipedia_title" : "Governance",
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance",
+    "Wikidata_ID" : "Q1553864"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Sierra",
+    "wikipedia_title" : "Sierra_(geography)",
+    "originalKey" : "Sierra",
+    "original_value" : "Sierra_(geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Subbética",
+    "wikipedia_title" : "Subbética",
+    "originalKey" : "Subbética",
+    "original_value" : "Subbética",
+    "Wikidata_ID" : ""
+  } ]
+} ]

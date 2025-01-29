@@ -1,0 +1,227 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "TURKEY",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "TURKEY",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "Pinus pinea L.",
+    "wikipedia_title" : "Pinus_pinea",
+    "originalKey" : "Pinus pinea L.",
+    "original_value" : "Pinus_pinea",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Çetin, 2003",
+    "wikipedia_title" : "None (not a notable person)",
+    "originalKey" : "Çetin, 2003",
+    "original_value" : "None (not a notable person)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Öztürk and Küçükerdem, 2017",
+    "wikipedia_title" : "None (not a notable person)",
+    "originalKey" : "Öztürk and Küçükerdem, 2017",
+    "original_value" : "None (not a notable person)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Bergama",
+    "wikipedia_title" : "Bergama",
+    "originalKey" : "Bergama",
+    "original_value" : "Bergama",
+    "Wikidata_ID" : "Q737822"
+  }, {
+    "entity_in_the_text" : "İzmir",
+    "wikipedia_title" : "İzmir Province",
+    "originalKey" : "İzmir",
+    "original_value" : "İzmir Province",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kozak",
+    "wikipedia_title" : "Kozak, Turkey",
+    "originalKey" : "Kozak",
+    "original_value" : "Kozak, Turkey",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Madra Mountains",
+    "wikipedia_title" : "Madra Mountains",
+    "originalKey" : "Madra Mountains",
+    "original_value" : "Madra Mountains",
+    "Wikidata_ID" : "Q4833452"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province (administrative division)",
+    "originalKey" : "Province",
+    "original_value" : "Province (administrative division)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative region",
+    "originalKey" : "Region",
+    "original_value" : "Administrative region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List_of_provinces_of_[Country]",
+    "originalKey" : "[Province]",
+    "original_value" : "List_of_provinces_of_[Country]",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Regions_of_[Country]",
+    "originalKey" : "[Region]",
+    "original_value" : "Regions_of_[Country]",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Peanut pine",
+    "wikipedia_title" : "Pinus_pinea",
+    "originalKey" : "Peanut pine",
+    "original_value" : "Pinus_pinea",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Bergama-Kozak plateau",
+    "wikipedia_title" : "Bergama",
+    "originalKey" : "Bergama-Kozak plateau",
+    "original_value" : "Bergama",
+    "Wikidata_ID" : "Q737822"
+  }, {
+    "entity_in_the_text" : "Turkey",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "Turkey",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "Madra Mountains",
+    "wikipedia_title" : "Madra_Mountains",
+    "originalKey" : "Madra Mountains",
+    "original_value" : "Madra_Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Ministry of Forestry",
+    "wikipedia_title" : "Ministry_of_Forestry_(Turkey)",
+    "originalKey" : "Ministry of Forestry",
+    "original_value" : "Ministry_of_Forestry_(Turkey)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Turkey",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "Turkey",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "Kozak/Bergama",
+    "wikipedia_title" : "Bergama",
+    "originalKey" : "Kozak/Bergama",
+    "original_value" : "Bergama",
+    "Wikidata_ID" : "Q737822"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Kozak plateau",
+    "wikipedia_title" : "Kozak Plateau",
+    "originalKey" : "Kozak plateau",
+    "original_value" : "Kozak Plateau",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "pine seedlings",
+    "wikipedia_title" : "Pine seedling",
+    "originalKey" : "pine seedlings",
+    "original_value" : "Pine seedling",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "cooperative",
+    "wikipedia_title" : "Cooperative",
+    "originalKey" : "cooperative",
+    "original_value" : "Cooperative",
+    "Wikidata_ID" : "Q4539"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Value_chain",
+    "originalKey" : "VC",
+    "original_value" : "Value_chain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cropland",
+    "wikipedia_title" : "Agricultural_land_use",
+    "originalKey" : "Cropland",
+    "original_value" : "Agricultural_land_use",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forest_management",
+    "originalKey" : "Forestry",
+    "original_value" : "Forest_management",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Natural_resource",
+    "originalKey" : "Natural",
+    "original_value" : "Natural_resource",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cultural",
+    "wikipedia_title" : "Cultural_heritage",
+    "originalKey" : "Cultural",
+    "original_value" : "Cultural_heritage",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Pine nuts",
+    "wikipedia_title" : "Pine_nut",
+    "originalKey" : "Pine nuts",
+    "original_value" : "Pine_nut",
+    "Wikidata_ID" : ""
+  } ]
+} ]

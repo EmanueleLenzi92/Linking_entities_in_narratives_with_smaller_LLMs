@@ -1,0 +1,261 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "ITALY",
+    "wikipedia_title" : "Italy",
+    "originalKey" : "ITALY",
+    "original_value" : "Italy",
+    "Wikidata_ID" : "Q38"
+  }, {
+    "entity_in_the_text" : "UNIMOL",
+    "wikipedia_title" : "University of Molise",
+    "originalKey" : "UNIMOL",
+    "original_value" : "University of Molise",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "UNIPI",
+    "wikipedia_title" : "University of Pisa",
+    "originalKey" : "UNIPI",
+    "original_value" : "University of Pisa",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Savigni",
+    "wikipedia_title" : "Savignano Irpino",
+    "originalKey" : "Savigni",
+    "original_value" : "Savignano Irpino",
+    "Wikidata_ID" : "Q55109"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Northern Apennines",
+    "wikipedia_title" : "Apennine Mountains",
+    "originalKey" : "Northern Apennines",
+    "original_value" : "Apennine Mountains",
+    "Wikidata_ID" : "Q1285"
+  }, {
+    "entity_in_the_text" : "Tuscan Emilian Apennines",
+    "wikipedia_title" : "Apennine Mountains",
+    "originalKey" : "Tuscan Emilian Apennines",
+    "original_value" : "Apennine Mountains",
+    "Wikidata_ID" : "Q1285"
+  }, {
+    "entity_in_the_text" : "Sambuca Pistoiese",
+    "wikipedia_title" : "Sambuca Pistoiese",
+    "originalKey" : "Sambuca Pistoiese",
+    "original_value" : "Sambuca Pistoiese",
+    "Wikidata_ID" : "Q102725"
+  }, {
+    "entity_in_the_text" : "Pistoia province",
+    "wikipedia_title" : "Province of Pistoia",
+    "originalKey" : "Pistoia province",
+    "original_value" : "Province of Pistoia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Italian region of Tuscany",
+    "wikipedia_title" : "Tuscany",
+    "originalKey" : "Italian region of Tuscany",
+    "original_value" : "Tuscany",
+    "Wikidata_ID" : "Q1273"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Provinces_of_Spain",
+    "originalKey" : "[Province]",
+    "original_value" : "Provinces_of_Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Autonomous_communities_of_Spain",
+    "originalKey" : "[Region]",
+    "original_value" : "Autonomous_communities_of_Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Human settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Human settlement",
+    "Wikidata_ID" : "Q486972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List_of_provinces_and_territories_of_Canada",
+    "originalKey" : "[Province]",
+    "original_value" : "List_of_provinces_and_territories_of_Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Economic_regions_of_Canada",
+    "originalKey" : "[Region]",
+    "original_value" : "Economic_regions_of_Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Savigni familly",
+    "wikipedia_title" : "Savigny (family)",
+    "originalKey" : "Savigni familly",
+    "original_value" : "Savigny (family)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "ANAS",
+    "wikipedia_title" : "Italian National Association of Automobile Clubs",
+    "originalKey" : "ANAS",
+    "original_value" : "Italian National Association of Automobile Clubs",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BioAgriCert",
+    "wikipedia_title" : "BioAgriCert",
+    "originalKey" : "BioAgriCert",
+    "original_value" : "BioAgriCert",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "AIAB",
+    "wikipedia_title" : "Italian Agricultural Institute for Food and Environmental Research",
+    "originalKey" : "AIAB",
+    "original_value" : "Italian Agricultural Institute for Food and Environmental Research",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "INEQ",
+    "wikipedia_title" : "Institute of Quality North-East",
+    "originalKey" : "INEQ",
+    "original_value" : "Institute of Quality North-East",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "TUV",
+    "wikipedia_title" : "TÜV Rheinland",
+    "originalKey" : "TUV",
+    "original_value" : "TÜV Rheinland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Consorzio Tutela of Cinta Senese",
+    "wikipedia_title" : "Consorzio Tutela del Cinta Senese",
+    "originalKey" : "Consorzio Tutela of Cinta Senese",
+    "original_value" : "Consorzio Tutela del Cinta Senese",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Finocchiona PGI",
+    "wikipedia_title" : "Finocchiona",
+    "originalKey" : "Finocchiona PGI",
+    "original_value" : "Finocchiona",
+    "Wikidata_ID" : "Q3745769"
+  }, {
+    "entity_in_the_text" : "Vitellone Bianco dell Appennino Centrale PGI",
+    "wikipedia_title" : "Vitellone Bianco dell'Appennino Centrale",
+    "originalKey" : "Vitellone Bianco dell Appennino Centrale PGI",
+    "original_value" : "Vitellone Bianco dell'Appennino Centrale",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Chianina beef",
+    "wikipedia_title" : "Chianina cattle",
+    "originalKey" : "Chianina beef",
+    "original_value" : "Chianina cattle",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Savigni family",
+    "wikipedia_title" : "House of Savigny",
+    "originalKey" : "Savigni family",
+    "original_value" : "House of Savigny",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Porretta",
+    "wikipedia_title" : "Porretta Terme",
+    "originalKey" : "Porretta",
+    "original_value" : "Porretta Terme",
+    "Wikidata_ID" : "Q94983"
+  }, {
+    "entity_in_the_text" : "Suviana Lake",
+    "wikipedia_title" : "Lake Suviana",
+    "originalKey" : "Suviana Lake",
+    "original_value" : "Lake Suviana",
+    "Wikidata_ID" : "Q3826053"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "Predicted",
+    "wikipedia_title" : "Prediction",
+    "originalKey" : "Predicted",
+    "original_value" : "Prediction",
+    "Wikidata_ID" : "Q748250"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Supply chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Supply chain",
+    "Wikidata_ID" : "Q1824206"
+  }, {
+    "entity_in_the_text" : "Endogenous",
+    "wikipedia_title" : "Endogenous growth theory",
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous growth theory",
+    "Wikidata_ID" : "Q576355"
+  }, {
+    "entity_in_the_text" : "organic farm",
+    "wikipedia_title" : "Organic farming",
+    "originalKey" : "organic farm",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Nature",
+    "originalKey" : "Natural",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  } ]
+} ]

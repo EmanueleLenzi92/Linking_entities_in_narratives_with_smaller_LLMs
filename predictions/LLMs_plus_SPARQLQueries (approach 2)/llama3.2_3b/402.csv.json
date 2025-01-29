@@ -1,0 +1,277 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SWITZERLAND",
+    "wikipedia_title" : "Switzerland",
+    "originalKey" : "SWITZERLAND",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "entity_in_the_text" : "VC 18 CH1",
+    "wikipedia_title" : "Moving Card",
+    "originalKey" : "VC 18 CH1",
+    "original_value" : "Moving Card",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Valley Contraction",
+    "originalKey" : "VC",
+    "original_value" : "Valley Contraction",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Valley Contraction",
+    "originalKey" : "VC",
+    "original_value" : "Valley Contraction",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "altimetry",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "entity_in_the_text" : "population density",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "population density",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "population change rate",
+    "wikipedia_title" : "Population growth rate",
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional population density",
+    "wikipedia_title" : "Regional population density",
+    "originalKey" : "regional population density",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "average per capita income (EUR/year) [Province]",
+    "wikipedia_title" : "Gross Domestic Product per capita",
+    "originalKey" : "average per capita income (EUR/year) [Province]",
+    "original_value" : "Gross Domestic Product per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year) [Province]",
+    "wikipedia_title" : "Gross Domestic Product",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Province]",
+    "original_value" : "Gross Domestic Product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Sectoral composition of GDP",
+    "originalKey" : "primary sector share of total GVA/year [Province]",
+    "original_value" : "Sectoral composition of GDP",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Sectoral composition of GDP",
+    "originalKey" : "secondary sector share of total GVA/year [Province]",
+    "original_value" : "Sectoral composition of GDP",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Sectoral composition of GDP",
+    "originalKey" : "tertiary sector share of total GVA/year [Province]",
+    "original_value" : "Sectoral composition of GDP",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income (EUR/year) [Region]",
+    "wikipedia_title" : "Gross Domestic Product per capita",
+    "originalKey" : "per capita income (EUR/year) [Region]",
+    "original_value" : "Gross Domestic Product per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year) [Region]",
+    "wikipedia_title" : "Gross Domestic Product",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Region]",
+    "original_value" : "Gross Domestic Product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Sectoral composition of GDP",
+    "originalKey" : "primary sector share of total GVA/year [Region]",
+    "original_value" : "Sectoral composition of GDP",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Sectoral composition of GDP",
+    "originalKey" : "secondary sector share of total GVA/year [Region]",
+    "original_value" : "Sectoral composition of GDP",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Sectoral composition of GDP",
+    "originalKey" : "tertiary sector share of total GVA/year [Region]",
+    "original_value" : "Sectoral composition of GDP",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region (geography)",
+    "originalKey" : "Region",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "nearest settlement with population over 100000",
+    "wikipedia_title" : "Nearest settlement",
+    "originalKey" : "nearest settlement with population over 100000",
+    "original_value" : "Nearest settlement",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List of provinces in Canada",
+    "originalKey" : "[Province]",
+    "original_value" : "List of provinces in Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Administrative regions of Canada",
+    "originalKey" : "[Region]",
+    "original_value" : "Administrative regions of Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC-system",
+    "wikipedia_title" : "Alpine Pass System",
+    "originalKey" : "VC-system",
+    "original_value" : "Alpine Pass System",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "region",
+    "wikipedia_title" : "Alps",
+    "originalKey" : "region",
+    "original_value" : "Alps",
+    "Wikidata_ID" : "Q1286"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "sustainable way",
+    "wikipedia_title" : "Sustainable tourism",
+    "originalKey" : "sustainable way",
+    "original_value" : "Sustainable tourism",
+    "Wikidata_ID" : "Q1344240"
+  }, {
+    "entity_in_the_text" : "climate change",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "entity_in_the_text" : "young people",
+    "wikipedia_title" : "Demographics of youth",
+    "originalKey" : "young people",
+    "original_value" : "Demographics of youth",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "mountains",
+    "wikipedia_title" : "Mountain regions",
+    "originalKey" : "mountains",
+    "original_value" : "Mountain regions",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC (Venture Capital)",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC (Venture Capital)",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Endogenous",
+    "wikipedia_title" : "Endogenous innovation",
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Exogenous",
+    "wikipedia_title" : "Exogenous innovation",
+    "originalKey" : "Exogenous",
+    "original_value" : "Exogenous innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : "Innovation in product development",
+    "originalKey" : "New products",
+    "original_value" : "Innovation in product development",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New processes",
+    "wikipedia_title" : "Process innovation",
+    "originalKey" : "New processes",
+    "original_value" : "Process innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing innovation",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New governance systems",
+    "wikipedia_title" : "Governance innovation",
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Landscape",
+    "wikipedia_title" : "Landscape ecology",
+    "originalKey" : "Landscape",
+    "original_value" : "Landscape ecology",
+    "Wikidata_ID" : "Q738011"
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Ecological conservation",
+    "originalKey" : "Natural",
+    "original_value" : "Ecological conservation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Social",
+    "wikipedia_title" : "Social capital",
+    "originalKey" : "Social",
+    "original_value" : "Social capital",
+    "Wikidata_ID" : "Q214693"
+  }, {
+    "entity_in_the_text" : "Cultural",
+    "wikipedia_title" : "Intangible cultural heritage",
+    "originalKey" : "Cultural",
+    "original_value" : "Intangible cultural heritage",
+    "Wikidata_ID" : "Q84036549"
+  } ]
+} ]

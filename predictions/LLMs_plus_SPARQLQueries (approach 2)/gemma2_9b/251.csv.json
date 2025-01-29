@@ -1,0 +1,245 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SCOTLAND HUTTON",
+    "wikipedia_title" : "Scotland",
+    "originalKey" : "SCOTLAND HUTTON",
+    "original_value" : "Scotland",
+    "Wikidata_ID" : "Q22"
+  }, {
+    "entity_in_the_text" : "UK",
+    "wikipedia_title" : "United Kingdom",
+    "originalKey" : "UK",
+    "original_value" : "United Kingdom",
+    "Wikidata_ID" : "Q145"
+  }, {
+    "entity_in_the_text" : "Perth and Kinross",
+    "wikipedia_title" : "Perth and Kinross",
+    "originalKey" : "Perth and Kinross",
+    "original_value" : "Perth and Kinross",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Scottish heather Honey",
+    "wikipedia_title" : "Heather honey",
+    "originalKey" : "Scottish heather Honey",
+    "original_value" : "Heather honey",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "British Standards Institution Kitemark for Food Assurance",
+    "wikipedia_title" : "British Standards Institution",
+    "originalKey" : "British Standards Institution Kitemark for Food Assurance",
+    "original_value" : "British Standards Institution",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Highlands and Islands",
+    "wikipedia_title" : "Highlands and Islands",
+    "originalKey" : "Highlands and Islands",
+    "original_value" : "Highlands and Islands",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Eastern Scotland",
+    "wikipedia_title" : "East of Scotland",
+    "originalKey" : "Eastern Scotland",
+    "original_value" : "East of Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Perth and Kinross",
+    "wikipedia_title" : "Perth and Kinross",
+    "originalKey" : "Perth and Kinross",
+    "original_value" : "Perth and Kinross",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Tay",
+    "wikipedia_title" : "River Tay",
+    "originalKey" : "Tay",
+    "original_value" : "River Tay",
+    "Wikidata_ID" : "Q19719"
+  }, {
+    "entity_in_the_text" : "Earn",
+    "wikipedia_title" : "River Earn",
+    "originalKey" : "Earn",
+    "original_value" : "River Earn",
+    "Wikidata_ID" : "Q1277544"
+  }, {
+    "entity_in_the_text" : "Perth",
+    "wikipedia_title" : "Perth, Scotland",
+    "originalKey" : "Perth",
+    "original_value" : "Perth, Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Highlands",
+    "wikipedia_title" : "Scottish Highlands",
+    "originalKey" : "Highlands",
+    "original_value" : "Scottish Highlands",
+    "Wikidata_ID" : "Q106652"
+  }, {
+    "entity_in_the_text" : "Scotland's central belt",
+    "wikipedia_title" : "Central Belt (Scotland)",
+    "originalKey" : "Scotland's central belt",
+    "original_value" : "Central Belt (Scotland)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Scottish Heather honey",
+    "wikipedia_title" : "Heather honey",
+    "originalKey" : "Scottish Heather honey",
+    "original_value" : "Heather honey",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Champagne",
+    "wikipedia_title" : "Champagne",
+    "originalKey" : "Champagne",
+    "original_value" : "Champagne",
+    "Wikidata_ID" : "Q134862"
+  }, {
+    "entity_in_the_text" : "Perth and Kinross",
+    "wikipedia_title" : "Perth and Kinross",
+    "originalKey" : "Perth and Kinross",
+    "original_value" : "Perth and Kinross",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Manuka Honey",
+    "wikipedia_title" : "Manuka honey",
+    "originalKey" : "Manuka Honey",
+    "original_value" : "Manuka honey",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Heather Hills",
+    "wikipedia_title" : "Heather Hills Apiary",
+    "originalKey" : "Heather Hills",
+    "original_value" : "Heather Hills Apiary",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "honey bees",
+    "wikipedia_title" : "Honey bee",
+    "originalKey" : "honey bees",
+    "original_value" : "Honey bee",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Honey Sommelier",
+    "wikipedia_title" : "Sommelier",
+    "originalKey" : "Honey Sommelier",
+    "original_value" : "Sommelier",
+    "Wikidata_ID" : "Q191493"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "changing climate",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "changing climate",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "BCI kitemark",
+    "wikipedia_title" : "British Retail Consortium",
+    "originalKey" : "BCI kitemark",
+    "original_value" : "British Retail Consortium",
+    "Wikidata_ID" : "Q920019"
+  }, {
+    "entity_in_the_text" : "UK",
+    "wikipedia_title" : "United Kingdom",
+    "originalKey" : "UK",
+    "original_value" : "United Kingdom",
+    "Wikidata_ID" : "Q145"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Heather hills",
+    "wikipedia_title" : "Heather",
+    "originalKey" : "Heather hills",
+    "original_value" : "Heather",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Aberdeenshire LAU1",
+    "wikipedia_title" : "Aberdeenshire",
+    "originalKey" : "Aberdeenshire LAU1",
+    "original_value" : "Aberdeenshire",
+    "Wikidata_ID" : "Q189912"
+  }, {
+    "entity_in_the_text" : "Scotland",
+    "wikipedia_title" : "Scotland",
+    "originalKey" : "Scotland",
+    "original_value" : "Scotland",
+    "Wikidata_ID" : "Q22"
+  }, {
+    "entity_in_the_text" : "Germany (Luneburg)",
+    "wikipedia_title" : "Lüneburg",
+    "originalKey" : "Germany (Luneburg)",
+    "original_value" : "Lüneburg",
+    "Wikidata_ID" : "Q3920"
+  }, {
+    "entity_in_the_text" : "Ireland",
+    "wikipedia_title" : "Ireland",
+    "originalKey" : "Ireland",
+    "original_value" : "Ireland",
+    "Wikidata_ID" : ""
+  } ]
+} ]

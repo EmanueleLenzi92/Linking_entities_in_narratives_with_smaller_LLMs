@@ -1,0 +1,259 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "MOVING",
+    "wikipedia_title" : "Moving (company)",
+    "originalKey" : "MOVING",
+    "original_value" : "Moving (company)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "NMK",
+    "wikipedia_title" : "North Macedonia",
+    "originalKey" : "NMK",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Value Chain",
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Wines of Macedonia",
+    "wikipedia_title" : "Wines of North Macedonia",
+    "originalKey" : "Wines of Macedonia",
+    "original_value" : "Wines of North Macedonia",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Mountain Meleshevija",
+    "wikipedia_title" : "Maleshevski Mountains",
+    "originalKey" : "Mountain Meleshevija",
+    "original_value" : "Maleshevski Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Bregalnica",
+    "wikipedia_title" : "Bregalnica River",
+    "originalKey" : "Bregalnica",
+    "original_value" : "Bregalnica River",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Strumica",
+    "wikipedia_title" : "Strumica River",
+    "originalKey" : "Strumica",
+    "original_value" : "Strumica River",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "average per capita income (EUR/year) [Province]",
+    "wikipedia_title" : "Gross domestic product per capita",
+    "originalKey" : "average per capita income (EUR/year) [Province]",
+    "original_value" : "Gross domestic product per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year) [Province]",
+    "wikipedia_title" : "Gross domestic product",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Province]",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Sector of the economy",
+    "originalKey" : "primary sector share of total GVA/year [Province]",
+    "original_value" : "Sector of the economy",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Sector of the economy",
+    "originalKey" : "secondary sector share of total GVA/year [Province]",
+    "original_value" : "Sector of the economy",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Sector of the economy",
+    "originalKey" : "tertiary sector share of total GVA/year [Province]",
+    "original_value" : "Sector of the economy",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income (EUR/year) [Region]",
+    "wikipedia_title" : "Gross domestic product per capita",
+    "originalKey" : "per capita income (EUR/year) [Region]",
+    "original_value" : "Gross domestic product per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year) [Region]",
+    "wikipedia_title" : "Gross domestic product",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Region]",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Sector of the economy",
+    "originalKey" : "primary sector share of total GVA/year [Region]",
+    "original_value" : "Sector of the economy",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Sector of the economy",
+    "originalKey" : "secondary sector share of total GVA/year [Region]",
+    "original_value" : "Sector of the economy",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Sector of the economy",
+    "originalKey" : "tertiary sector share of total GVA/year [Region]",
+    "original_value" : "Sector of the economy",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region (geography)",
+    "originalKey" : "Region",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population over 100000",
+    "wikipedia_title" : "Population threshold",
+    "originalKey" : "population over 100000",
+    "original_value" : "Population threshold",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List of provinces in Canada",
+    "originalKey" : "[Province]",
+    "original_value" : "List of provinces in Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Administrative regions of Canada",
+    "originalKey" : "[Region]",
+    "original_value" : "Administrative regions of Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Vardar planning region",
+    "wikipedia_title" : "Plana e Vardarit",
+    "originalKey" : "Vardar planning region",
+    "original_value" : "Plana e Vardarit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Republic of North Macedonia",
+    "wikipedia_title" : "Republic of North Macedonia",
+    "originalKey" : "Republic of North Macedonia",
+    "original_value" : "Republic of North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Macedonia",
+    "wikipedia_title" : "North Macedonia",
+    "originalKey" : "Macedonia",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Maleshevski mountain",
+    "wikipedia_title" : "Maleshevskiy Krasnyy Bor",
+    "originalKey" : "Maleshevski mountain",
+    "original_value" : "Maleshevskiy Krasnyy Bor",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Maleshevija",
+    "wikipedia_title" : "Maleshevskiy Krasnyy Bor#Reference region",
+    "originalKey" : "Maleshevija",
+    "original_value" : "Maleshevskiy Krasnyy Bor#Reference region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "New processes",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "New processes",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forest",
+    "originalKey" : "Forestry",
+    "original_value" : "Forest",
+    "Wikidata_ID" : "Q4421"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Land",
+    "originalKey" : "Natural land",
+    "original_value" : "Land",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Nature",
+    "originalKey" : "Natural",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  }, {
+    "entity_in_the_text" : "Social",
+    "wikipedia_title" : "Society",
+    "originalKey" : "Social",
+    "original_value" : "Society",
+    "Wikidata_ID" : "Q8425"
+  }, {
+    "entity_in_the_text" : "Cultural",
+    "wikipedia_title" : "Culture",
+    "originalKey" : "Cultural",
+    "original_value" : "Culture",
+    "Wikidata_ID" : ""
+  } ]
+} ]

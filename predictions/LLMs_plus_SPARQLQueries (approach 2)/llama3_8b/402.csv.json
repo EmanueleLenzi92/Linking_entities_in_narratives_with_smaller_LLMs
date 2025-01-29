@@ -1,0 +1,175 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SWITZERLAND",
+    "wikipedia_title" : "Switzerland",
+    "originalKey" : "SWITZERLAND",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "entity_in_the_text" : "Alps",
+    "wikipedia_title" : "Alps",
+    "originalKey" : "Alps",
+    "original_value" : "Alps",
+    "Wikidata_ID" : "Q1286"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Valley_chain",
+    "originalKey" : "VC",
+    "original_value" : "Valley_chain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province (administrative division)",
+    "originalKey" : "Province",
+    "original_value" : "Province (administrative division)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative region",
+    "originalKey" : "Region",
+    "original_value" : "Administrative region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province (administrative division)",
+    "originalKey" : "Province",
+    "original_value" : "Province (administrative division)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative region",
+    "originalKey" : "Region",
+    "original_value" : "Administrative region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC-systems",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC-systems",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "Alps",
+    "wikipedia_title" : "Alps",
+    "originalKey" : "Alps",
+    "original_value" : "Alps",
+    "Wikidata_ID" : "Q1286"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "tourism",
+    "wikipedia_title" : "Tourism",
+    "originalKey" : "tourism",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "entity_in_the_text" : "climate change",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Touristic attractions",
+    "wikipedia_title" : "Tourist attraction",
+    "originalKey" : "Touristic attractions",
+    "original_value" : "Tourist attraction",
+    "Wikidata_ID" : "Q570116"
+  }, {
+    "entity_in_the_text" : "Skiing",
+    "wikipedia_title" : "Alpine skiing",
+    "originalKey" : "Skiing",
+    "original_value" : "Alpine skiing",
+    "Wikidata_ID" : "Q186222"
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : "Product innovation",
+    "originalKey" : "New products",
+    "original_value" : "Product innovation",
+    "Wikidata_ID" : "Q7247768"
+  }, {
+    "entity_in_the_text" : "New processes",
+    "wikipedia_title" : "Process innovation",
+    "originalKey" : "New processes",
+    "original_value" : "Process innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "New governance systems",
+    "wikipedia_title" : "Governance",
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance",
+    "Wikidata_ID" : "Q1553864"
+  }, {
+    "entity_in_the_text" : "Landscape",
+    "wikipedia_title" : "Landscape",
+    "originalKey" : "Landscape",
+    "original_value" : "Landscape",
+    "Wikidata_ID" : "Q107425"
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Nature",
+    "originalKey" : "Natural",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  }, {
+    "entity_in_the_text" : "Social",
+    "wikipedia_title" : "Society",
+    "originalKey" : "Social",
+    "original_value" : "Society",
+    "Wikidata_ID" : "Q8425"
+  }, {
+    "entity_in_the_text" : "Cultural",
+    "wikipedia_title" : "Culture",
+    "originalKey" : "Cultural",
+    "original_value" : "Culture",
+    "Wikidata_ID" : ""
+  } ]
+} ]

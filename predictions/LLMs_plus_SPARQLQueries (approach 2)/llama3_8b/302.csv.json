@@ -1,0 +1,239 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SKANDINAVIAN UCO",
+    "wikipedia_title" : "Scandinavian Union of Cooperatives",
+    "originalKey" : "SKANDINAVIAN UCO",
+    "original_value" : "Scandinavian Union of Cooperatives",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Undredal Stølsysteri SA",
+    "wikipedia_title" : "Undredal Stølsysteri",
+    "originalKey" : "Undredal Stølsysteri SA",
+    "original_value" : "Undredal Stølsysteri",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Slowfood Foundation for Biodiversity",
+    "wikipedia_title" : "Slow Food International",
+    "originalKey" : "Slowfood Foundation for Biodiversity",
+    "original_value" : "Slow Food International",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Brimost cheese",
+    "wikipedia_title" : "Brown cheese",
+    "originalKey" : "Brimost cheese",
+    "original_value" : "Brown cheese",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Scandinavean Mountains",
+    "wikipedia_title" : "Scandes",
+    "originalKey" : "Scandinavean Mountains",
+    "original_value" : "Scandes",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Aurland",
+    "wikipedia_title" : "Aurland (municipality)",
+    "originalKey" : "Aurland",
+    "original_value" : "Aurland (municipality)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Sognefjorden",
+    "wikipedia_title" : "Sognefjord",
+    "originalKey" : "Sognefjorden",
+    "original_value" : "Sognefjord",
+    "Wikidata_ID" : "Q208495"
+  }, {
+    "entity_in_the_text" : "Nærøyfjorden",
+    "wikipedia_title" : "Nærøyfjorden",
+    "originalKey" : "Nærøyfjorden",
+    "original_value" : "Nærøyfjorden",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Geirangefjord",
+    "wikipedia_title" : "Geirangerfjorden",
+    "originalKey" : "Geirangefjord",
+    "original_value" : "Geirangerfjorden",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "West Norwegian Fjords of Geirangefjord and Nærøyfjord UNESCO World Heritage Site",
+    "wikipedia_title" : "West Norwegian Fjords",
+    "originalKey" : "West Norwegian Fjords of Geirangefjord and Nærøyfjord UNESCO World Heritage Site",
+    "original_value" : "West Norwegian Fjords",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Undredal",
+    "wikipedia_title" : "Undredal",
+    "originalKey" : "Undredal",
+    "original_value" : "Undredal",
+    "Wikidata_ID" : "Q1006480"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province (administrative division)",
+    "originalKey" : "Province",
+    "original_value" : "Province (administrative division)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Human settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Human settlement",
+    "Wikidata_ID" : "Q486972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List_of_provinces_and_territories_of_Canada",
+    "originalKey" : "[Province]",
+    "original_value" : "List_of_provinces_and_territories_of_Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Economic_regions_of_Canada",
+    "originalKey" : "[Region]",
+    "original_value" : "Economic_regions_of_Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "product",
+    "wikipedia_title" : "Cheese",
+    "originalKey" : "product",
+    "original_value" : "Cheese",
+    "Wikidata_ID" : "Q10943"
+  }, {
+    "entity_in_the_text" : "region",
+    "wikipedia_title" : "Cultural region",
+    "originalKey" : "region",
+    "original_value" : "Cultural region",
+    "Wikidata_ID" : "Q3502482"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Undfredal",
+    "wikipedia_title" : "Undredal",
+    "originalKey" : "Undfredal",
+    "original_value" : "Undredal",
+    "Wikidata_ID" : "Q1006480"
+  }, {
+    "entity_in_the_text" : "Aureland",
+    "wikipedia_title" : "Åureland",
+    "originalKey" : "Aureland",
+    "original_value" : "Åureland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Norsk Gardsost",
+    "wikipedia_title" : "Norsk Gårdsost",
+    "originalKey" : "Norsk Gardsost",
+    "original_value" : "Norsk Gårdsost",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Slowfood Presidium",
+    "wikipedia_title" : "Slow Food Presidium",
+    "originalKey" : "Slowfood Presidium",
+    "original_value" : "Slow Food Presidium",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "industrial dairies",
+    "wikipedia_title" : "Industrial dairy",
+    "originalKey" : "industrial dairies",
+    "original_value" : "Industrial dairy",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Supply chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Supply chain",
+    "Wikidata_ID" : "Q1824206"
+  }, {
+    "entity_in_the_text" : "Grassland",
+    "wikipedia_title" : "Grassland",
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Land use",
+    "originalKey" : "Natural land",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Sweden",
+    "wikipedia_title" : "Sweden",
+    "originalKey" : "Sweden",
+    "original_value" : "Sweden",
+    "Wikidata_ID" : "Q34"
+  }, {
+    "entity_in_the_text" : "Jämtland",
+    "wikipedia_title" : "Jämtland County",
+    "originalKey" : "Jämtland",
+    "original_value" : "Jämtland County",
+    "Wikidata_ID" : "Q103679"
+  }, {
+    "entity_in_the_text" : "Slowfood Foundation for Biodiversity",
+    "wikipedia_title" : "Slow Food International",
+    "originalKey" : "Slowfood Foundation for Biodiversity",
+    "original_value" : "Slow Food International",
+    "Wikidata_ID" : ""
+  } ]
+} ]

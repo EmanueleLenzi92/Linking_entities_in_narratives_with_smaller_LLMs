@@ -1,0 +1,345 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "MOVING",
+    "wikipedia_title" : "Moving (company)",
+    "originalKey" : "MOVING",
+    "original_value" : "Moving (company)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "ITALY UNIMOL",
+    "wikipedia_title" : "UNIMOL",
+    "originalKey" : "ITALY UNIMOL",
+    "original_value" : "UNIMOL",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "UNIPI",
+    "wikipedia_title" : "UniPi",
+    "originalKey" : "UNIPI",
+    "original_value" : "UniPi",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC 18 IT",
+    "wikipedia_title" : "null",
+    "originalKey" : "VC 18 IT",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Savigni",
+    "wikipedia_title" : "Savigni",
+    "originalKey" : "Savigni",
+    "original_value" : "Savigni",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "butcher's shop",
+    "wikipedia_title" : "Butcher shop",
+    "originalKey" : "butcher's shop",
+    "original_value" : "Butcher shop",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "farm",
+    "wikipedia_title" : "Farm (agriculture)",
+    "originalKey" : "farm",
+    "original_value" : "Farm (agriculture)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "cured meat factory",
+    "wikipedia_title" : "Cured meat",
+    "originalKey" : "cured meat factory",
+    "original_value" : "Cured meat",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "controlled supply chain",
+    "wikipedia_title" : "Supply chain management",
+    "originalKey" : "controlled supply chain",
+    "original_value" : "Supply chain management",
+    "Wikidata_ID" : "Q492886"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Northern Apennines - Tuscan Emilian Apennines",
+    "wikipedia_title" : "List of mountain ranges in Italy",
+    "originalKey" : "Northern Apennines - Tuscan Emilian Apennines",
+    "original_value" : "List of mountain ranges in Italy",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Sambuca Pistoiese",
+    "wikipedia_title" : "Sambuca Pistoiese",
+    "originalKey" : "Sambuca Pistoiese",
+    "original_value" : "Sambuca Pistoiese",
+    "Wikidata_ID" : "Q102725"
+  }, {
+    "entity_in_the_text" : "Pistoia province",
+    "wikipedia_title" : "Pistoia Province",
+    "originalKey" : "Pistoia province",
+    "original_value" : "Pistoia Province",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Tuscany",
+    "wikipedia_title" : "Tuscany",
+    "originalKey" : "Tuscany",
+    "original_value" : "Tuscany",
+    "Wikidata_ID" : "Q1273"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "average per capita income (EUR/year) [Province]",
+    "wikipedia_title" : "Gross Domestic Product per capita",
+    "originalKey" : "average per capita income (EUR/year) [Province]",
+    "original_value" : "Gross Domestic Product per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year) [Province]",
+    "wikipedia_title" : "Gross Domestic Product",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Province]",
+    "original_value" : "Gross Domestic Product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Sector of the economy",
+    "originalKey" : "primary sector share of total GVA/year [Province]",
+    "original_value" : "Sector of the economy",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Sector of the economy",
+    "originalKey" : "secondary sector share of total GVA/year [Province]",
+    "original_value" : "Sector of the economy",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Sector of the economy",
+    "originalKey" : "tertiary sector share of total GVA/year [Province]",
+    "original_value" : "Sector of the economy",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income (EUR/year) [Region]",
+    "wikipedia_title" : "Gross Domestic Product per capita",
+    "originalKey" : "per capita income (EUR/year) [Region]",
+    "original_value" : "Gross Domestic Product per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year) [Region]",
+    "wikipedia_title" : "Gross Domestic Product",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Region]",
+    "original_value" : "Gross Domestic Product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Sector of the economy",
+    "originalKey" : "primary sector share of total GVA/year [Region]",
+    "original_value" : "Sector of the economy",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Sector of the economy",
+    "originalKey" : "secondary sector share of total GVA/year [Region]",
+    "original_value" : "Sector of the economy",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Sector of the economy",
+    "originalKey" : "tertiary sector share of total GVA/year [Region]",
+    "original_value" : "Sector of the economy",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region (geography)",
+    "originalKey" : "Region",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed place",
+    "originalKey" : "BPs",
+    "original_value" : "Bed place",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List of provinces in Canada",
+    "originalKey" : "[Province]",
+    "original_value" : "List of provinces in Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "List of regions in Canada",
+    "originalKey" : "[Region]",
+    "original_value" : "List of regions in Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Savigni familly",
+    "wikipedia_title" : "Savigny family",
+    "originalKey" : "Savigni familly",
+    "original_value" : "Savigny family",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Bollo IT 9-3467/L IT R152E CE ANAS",
+    "wikipedia_title" : "National Association of Pig Farmers (Italy)",
+    "originalKey" : "Bollo IT 9-3467/L IT R152E CE ANAS",
+    "original_value" : "National Association of Pig Farmers (Italy)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Japan Export (Ministry of Health)",
+    "wikipedia_title" : "Japanese Ministry of Health, Labour and Welfare",
+    "originalKey" : "Japan Export (Ministry of Health)",
+    "original_value" : "Japanese Ministry of Health, Labour and Welfare",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BioAgriCert",
+    "wikipedia_title" : "Bio AgriCert",
+    "originalKey" : "BioAgriCert",
+    "original_value" : "Bio AgriCert",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "AIAB",
+    "wikipedia_title" : "AIAB (Italian Association for the Certification of Organic Products)",
+    "originalKey" : "AIAB",
+    "original_value" : "AIAB (Italian Association for the Certification of Organic Products)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "INEQ",
+    "wikipedia_title" : "Quality North-East Institute",
+    "originalKey" : "INEQ",
+    "original_value" : "Quality North-East Institute",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "TUV",
+    "wikipedia_title" : "Deutsche Akkreditierungsgesellschaft (DAkkS)",
+    "originalKey" : "TUV",
+    "original_value" : "Deutsche Akkreditierungsgesellschaft (DAkkS)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Consorzio Tutela of Cinta Senese",
+    "wikipedia_title" : "Consorzio Tutela del Cinta Senese",
+    "originalKey" : "Consorzio Tutela of Cinta Senese",
+    "original_value" : "Consorzio Tutela del Cinta Senese",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Quality Consortium Consorzio Tutela Finocchiona",
+    "wikipedia_title" : "Consorzio Tutela della Finocchiona",
+    "originalKey" : "Quality Consortium Consorzio Tutela Finocchiona",
+    "original_value" : "Consorzio Tutela della Finocchiona",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "PGI Finocchiona PGI",
+    "wikipedia_title" : "Protected Designation of Origin (PDO) for Finocchiona",
+    "originalKey" : "PGI Finocchiona PGI",
+    "original_value" : "Protected Designation of Origin (PDO) for Finocchiona",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Vitellone Bianco dell Appennino Centrale PGI",
+    "wikipedia_title" : "Protected Designation of Origin (PDO) for Vitellone Bianco dell Appennino Centrale",
+    "originalKey" : "Vitellone Bianco dell Appennino Centrale PGI",
+    "original_value" : "Protected Designation of Origin (PDO) for Vitellone Bianco dell Appennino Centrale",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Chianina beef",
+    "wikipedia_title" : "Chianina breed",
+    "originalKey" : "Chianina beef",
+    "original_value" : "Chianina breed",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Savigni family",
+    "wikipedia_title" : "Savigni (family)",
+    "originalKey" : "Savigni family",
+    "original_value" : "Savigni (family)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Porretta",
+    "wikipedia_title" : "Porretta",
+    "originalKey" : "Porretta",
+    "original_value" : "Porretta",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Suviana Lake",
+    "wikipedia_title" : "Lago di Suviana",
+    "originalKey" : "Suviana Lake",
+    "original_value" : "Lago di Suviana",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "International market demand",
+    "wikipedia_title" : "International market",
+    "originalKey" : "International market demand",
+    "original_value" : "International market",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Increasing",
+    "wikipedia_title" : "None (not a specific Wikipedia title)",
+    "originalKey" : "Increasing",
+    "original_value" : "None (not a specific Wikipedia title)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Local animal",
+    "wikipedia_title" : "None (not a specific Wikipedia title)",
+    "originalKey" : "Local animal",
+    "original_value" : "None (not a specific Wikipedia title)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Innovative",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "Innovative",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Endogenous",
+    "wikipedia_title" : "Endogenous innovation",
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "organic farm",
+    "wikipedia_title" : "Organic farming",
+    "originalKey" : "organic farm",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forest management",
+    "originalKey" : "Forestry",
+    "original_value" : "Forest management",
+    "Wikidata_ID" : "Q372561"
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Natural resource",
+    "originalKey" : "Natural",
+    "original_value" : "Natural resource",
+    "Wikidata_ID" : "Q188460"
+  } ]
+} ]

@@ -1,0 +1,221 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "GREECE",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "GREECE",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "VC 10 GR",
+    "wikipedia_title" : "Moving Card",
+    "originalKey" : "VC 10 GR",
+    "original_value" : "Moving Card",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "chestnut trees",
+    "wikipedia_title" : "Chestnut",
+    "originalKey" : "chestnut trees",
+    "original_value" : "Chestnut",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "White Mountains",
+    "wikipedia_title" : "White Mountains (Crete)",
+    "originalKey" : "White Mountains",
+    "original_value" : "White Mountains (Crete)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "KISSAMOS",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "KISSAMOS",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "per capita income (EUR/year)",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income (EUR/year)",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added (GVA) (EUR million/year)",
+    "wikipedia_title" : "Gross domestic product",
+    "originalKey" : "Gross Value Added (GVA) (EUR million/year)",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector share of total GVA/year",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector share of total GVA/year",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector share of total GVA/year",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region (geography)",
+    "originalKey" : "Region",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed place",
+    "originalKey" : "BPs",
+    "original_value" : "Bed place",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List of provinces in Canada",
+    "originalKey" : "[Province]",
+    "original_value" : "List of provinces in Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "List of regions in Canada",
+    "originalKey" : "[Region]",
+    "original_value" : "List of regions in Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Chania",
+    "wikipedia_title" : "Chania",
+    "originalKey" : "Chania",
+    "original_value" : "Chania",
+    "Wikidata_ID" : "Q182299"
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "Cretan",
+    "wikipedia_title" : "Cretan people",
+    "originalKey" : "Cretan",
+    "original_value" : "Cretan people",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Greek",
+    "wikipedia_title" : "Greek people",
+    "originalKey" : "Greek",
+    "original_value" : "Greek people",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Italian",
+    "wikipedia_title" : "Italian people",
+    "originalKey" : "Italian",
+    "original_value" : "Italian people",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Western White Mountains",
+    "wikipedia_title" : "White Mountain National Forest",
+    "originalKey" : "Western White Mountains",
+    "original_value" : "White Mountain National Forest",
+    "Wikidata_ID" : "Q2566939"
+  }, {
+    "entity_in_the_text" : "chestnut activities",
+    "wikipedia_title" : "Chestnut",
+    "originalKey" : "chestnut activities",
+    "original_value" : "Chestnut",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agro-tourism",
+    "wikipedia_title" : "Agrotourism",
+    "originalKey" : "agro-tourism",
+    "original_value" : "Agrotourism",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "chestnut",
+    "wikipedia_title" : "Chestnut",
+    "originalKey" : "chestnut",
+    "original_value" : "Chestnut",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "chestnut trees",
+    "wikipedia_title" : "Chestnut tree",
+    "originalKey" : "chestnut trees",
+    "original_value" : "Chestnut tree",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "chestnut cultivation/exploitation",
+    "wikipedia_title" : "Chestnut cultivation",
+    "originalKey" : "chestnut cultivation/exploitation",
+    "original_value" : "Chestnut cultivation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "olive oil trees",
+    "wikipedia_title" : "Olive tree",
+    "originalKey" : "olive oil trees",
+    "original_value" : "Olive tree",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Exogenous",
+    "wikipedia_title" : "Exogeneity",
+    "originalKey" : "Exogenous",
+    "original_value" : "Exogeneity",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region of Crete",
+    "wikipedia_title" : "Region of Crete",
+    "originalKey" : "Region of Crete",
+    "original_value" : "Region of Crete",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Creta",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Creta",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "Greece",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "Greece",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  } ]
+} ]
