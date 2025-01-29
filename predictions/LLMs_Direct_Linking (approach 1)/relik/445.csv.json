@@ -1,0 +1,173 @@
+[
+    {
+        "sentence": "The MOVING reference member state of this VC (Value Chain) is TURKEY. The reference MOVING Card ID of this VC is VC 11 TR. According to the 2020 TURKSTAT data, the number of enterprises engaged in beekeeping in Mugla is 4741 and the total number of hives is 900,583. It is the preferred region for migratory beekeepers. The beekeeping sector provides employment opportunities for many people.",
+        "entities": [
+            {
+                "originalKey": "TURKSTAT",
+                "Wikipedia_label": "Turkish Statistical Institute",
+                "Wikidata_ID": "Q1375058"
+            },
+            {
+                "originalKey": "Mugla",
+                "Wikipedia_label": "Mu\u011fla",
+                "Wikidata_ID": "Q216912"
+            }
+        ]
+    },
+    {
+        "sentence": "The reference mountain chain of this VC is Mente\u015fe Mountains. The reference mountain landscape of this VC is Ula. Mu\u011fla province has a Mediterranean climate. It has excellent ecological conditions for agricultural production. Mu\u011fla has the longest coastline in Turkey. It is one of the most-visited tourist destinations for both foreign and domestic tourists, due to its unique nature and climate.",
+        "entities": [
+            {
+                "originalKey": "Ula",
+                "Wikipedia_label": "Ula, Mu\u011fla",
+                "Wikidata_ID": "Q1803032"
+            },
+            {
+                "originalKey": "Mu\u011fla",
+                "Wikipedia_label": "Mu\u011fla",
+                "Wikidata_ID": "Q216912"
+            },
+            {
+                "originalKey": "Mediterranean",
+                "Wikipedia_label": "Mediterranean Sea",
+                "Wikidata_ID": "Q4918"
+            },
+            {
+                "originalKey": "Mu\u011fla",
+                "Wikipedia_label": "Mu\u011fla",
+                "Wikidata_ID": "Q216912"
+            }
+        ]
+    },
+    {
+        "sentence": "The size of the area (km2) is 479. The minimum altimetry of the LAU (Local Administrative Unit) is 600. The maximum altimetry of the LAU is 0. The total population (in thousand) is 26.058. The population density (Inhabitants/km2) in the LAU is 54.40083507. The population change rate of the LAU in the last 10 years (%) has been 11.18%. The overall regional population density (Inhabitants/km2) is 85.2. The regional population change rate in the last 10 years (%) has been 13.71%.",
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikipedia_label": "Lau Islands",
+                "Wikidata_ID": "Q1062438"
+            }
+        ]
+    },
+    {
+        "sentence": "The average per capita income (EUR/year) [Province] is 8500. The total Gross Value Added (GVA) (EUR million/year) [Province] is 7265.2. The primary sector share of total GVA/year [Province] is 13.10%. The secondary sector share of total GVA/year [Province] is 22.70%. The tertiary sector share of total GVA/year [Province] is 60.10%. The per capita income (EUR/year) [Region] is 7300. The total Gross Value Added (GVA) (EUR million/year) [Region] is 20539.22. The primary sector share of total GVA/year [Region] is 13.50%. The secondary sector share of total GVA/year [Region] is 37.50%. The tertiary sector share of total GVA/year [Region] is 52.90%.",
+        "entities": []
+    },
+    {
+        "sentence": "The total number of bed places (BPs) in tourist accommodations/year in the LAU (Local Administrative Unit) is 174249. The regional (Region) share of total BPs/year is 83.80%. The number of agricultural holdings in the LAU is 27000. The nearest settlement with population over 100000 (km) is 17. In this region protected areas are present.",
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikipedia_label": "Lau Islands",
+                "Wikidata_ID": "Q1062438"
+            }
+        ]
+    },
+    {
+        "sentence": "The primary sector share of total employment/year [Province] is Medium. The secondary sector share of total employment/year [Province] is Low. The tertiary sector share of total employment/year [Province] is High. The primary sector share of total employment/year [Region] is 26.50%. The secondary sector share of total employment/year [Region] is 19.50%. The tertiary sector share of total employment/year [Region] is 54.00%.",
+        "entities": []
+    },
+    {
+        "sentence": "Turkey is an important pine honey producer and exporter. Pine honey has a regional reputation and has a Geographical Indication from the Turkish Patent and Trademark Office It is a high quality product. Pine honey can be stored for a long time without its texture being affected. Since the honey does not crystallize for a long time and has a functional food feature, it is wide scope for its use in the medicine and food sectors. Agriculture and tourism are closely interconnected in this area. Beekeeping is a traditional agricultural activity which is found in almost every region of Turkey. Organic honey production is encouraged with the projects developed in recent years.",
+        "entities": []
+    },
+    {
+        "sentence": "Pine honey has been produced in this region for a long time. 75-80% of Turkey s pine honey is produced in Mu\u011fla Province. 68% of Mu\u011fla s land area is covered by forests and pine honey production takes place in only 8% of these forested areas. There are 385 forest villages in Mu\u011fla and 260 of these are pine honey production areas. ",
+        "entities": [
+            {
+                "originalKey": "Mu\u011fla Province",
+                "Wikipedia_label": "Mu\u011fla Province",
+                "Wikidata_ID": "Q123934"
+            },
+            {
+                "originalKey": "Mu\u011fla",
+                "Wikipedia_label": "Mu\u011fla",
+                "Wikidata_ID": "Q216912"
+            },
+            {
+                "originalKey": "Mu\u011fla",
+                "Wikipedia_label": "Mu\u011fla",
+                "Wikidata_ID": "Q216912"
+            }
+        ]
+    },
+    {
+        "sentence": "Honey yield is reduced when climatic conditions are unfavorable. Accommodation is a problem for migratory beekeeper. Young people are not much interest beekeeping. Overall the type of challenge faced by this VC is Current and Predicted. This VC is classified as Innovative.",
+        "entities": []
+    },
+    {
+        "sentence": "The type of innovation of this VC (Value Chain) is unspecified. Organic and Rainforest Alliance certified tea increasing in the region. The innovation is related to the whole VC. The land use systems involved are Forestry. The local assets include Natural and cultural.",
+        "entities": [
+            {
+                "originalKey": "Rainforest Alliance",
+                "Wikipedia_label": "Rainforest Alliance",
+                "Wikidata_ID": "Q2034373"
+            }
+        ]
+    },
+    {
+        "sentence": "90-92% of the world's pine honey is produced in Turkey. Different kinds of honey VC is also present in other MRLs in the Member States such as Switzerland, UK, Austria, Czech Republic, France, Greece, Hungary, Italy, North Macedonia, Romania, Serbia, Slovakia and Spain.",
+        "entities": [
+            {
+                "originalKey": "Switzerland",
+                "Wikipedia_label": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "Austria",
+                "Wikipedia_label": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Czech Republic",
+                "Wikipedia_label": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "France",
+                "Wikipedia_label": "France",
+                "Wikidata_ID": "Q142"
+            },
+            {
+                "originalKey": "Greece",
+                "Wikipedia_label": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "Hungary",
+                "Wikipedia_label": "Hungary",
+                "Wikidata_ID": "Q28"
+            },
+            {
+                "originalKey": "Italy",
+                "Wikipedia_label": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "North Macedonia",
+                "Wikipedia_label": "North Macedonia",
+                "Wikidata_ID": "Q221"
+            },
+            {
+                "originalKey": "Romania",
+                "Wikipedia_label": "Romania",
+                "Wikidata_ID": "Q218"
+            },
+            {
+                "originalKey": "Serbia",
+                "Wikipedia_label": "Serbia",
+                "Wikidata_ID": "Q403"
+            },
+            {
+                "originalKey": "Slovakia",
+                "Wikipedia_label": "Slovakia",
+                "Wikidata_ID": "Q214"
+            },
+            {
+                "originalKey": "Spain",
+                "Wikipedia_label": "Spain",
+                "Wikidata_ID": "Q29"
+            }
+        ]
+    }
+]

@@ -1,0 +1,374 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "Wikidata_ID": "Q37469"
+            },
+            {
+                "originalKey": "VC 07 SCA",
+                "Wikidata_ID": "Q12585"
+            },
+            {
+                "originalKey": "barley",
+                "Wikidata_ID": "Q3694"
+            },
+            {
+                "originalKey": "Roros",
+                "Wikidata_ID": "Q12587"
+            },
+            {
+                "originalKey": "cold climate",
+                "Wikidata_ID": "Q3694"
+            },
+            {
+                "originalKey": "fungui",
+                "Wikidata_ID": "Q12587"
+            },
+            {
+                "originalKey": "pesticide",
+                "Wikidata_ID": "Q3694"
+            },
+            {
+                "originalKey": "Rorosmat",
+                "Wikidata_ID": "Q12587"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains",
+                "Wikidata_ID": "Q4756"
+            },
+            {
+                "originalKey": "Tynset",
+                "Wikidata_ID": "Q12083"
+            },
+            {
+                "originalKey": "Østerdalen",
+                "Wikidata_ID": "Q12079"
+            },
+            {
+                "originalKey": "Norway's longest valley",
+                "Wikidata_ID": "Q12084"
+            },
+            {
+                "originalKey": "family farms",
+                "Wikidata_ID": "Q12085"
+            },
+            {
+                "originalKey": "skiing",
+                "Wikidata_ID": "Q6374"
+            },
+            {
+                "originalKey": "fishing",
+                "Wikidata_ID": "Q12086"
+            },
+            {
+                "originalKey": "hiking",
+                "Wikidata_ID": "Q6375"
+            },
+            {
+                "originalKey": "hunting",
+                "Wikidata_ID": "Q12087"
+            },
+            {
+                "originalKey": "subarctic climate",
+                "Wikidata_ID": "Q6376"
+            },
+            {
+                "originalKey": "annual average precipitation",
+                "Wikidata_ID": "Q12088"
+            },
+            {
+                "originalKey": "mean temperature",
+                "Wikidata_ID": "Q6377"
+            },
+            {
+                "originalKey": "winter average",
+                "Wikidata_ID": "Q12089"
+            },
+            {
+                "originalKey": "summer average",
+                "Wikidata_ID": "Q12090"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size",
+                "Wikidata_ID": "Q1457"
+            },
+            {
+                "originalKey": "minimum altimetry",
+                "Wikidata_ID": "Q20386"
+            },
+            {
+                "originalKey": "maximum altimetry",
+                "Wikidata_ID": "Q20387"
+            },
+            {
+                "originalKey": "total population",
+                "Wikidata_ID": "Q1064"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q237"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q1065"
+            },
+            {
+                "originalKey": "overall regional population density",
+                "Wikidata_ID": "Q237"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "Wikidata_ID": "Q1065"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q106"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total BPs/year",
+                "Wikidata_ID": "Q23156"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q10874"
+            },
+            {
+                "originalKey": "regional share",
+                "Wikidata_ID": "Q23156"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q10874"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q23156"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q23156"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q1258"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q1260"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q1259"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q670"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q671"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Ancient crop",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "extreme climate conditions",
+                "Wikidata_ID": "Q13567"
+            },
+            {
+                "originalKey": "Farmers",
+                "Wikidata_ID": "Q208"
+            },
+            {
+                "originalKey": "grain",
+                "Wikidata_ID": "Q13567"
+            },
+            {
+                "originalKey": "mill",
+                "Wikidata_ID": "Q208"
+            },
+            {
+                "originalKey": "flour",
+                "Wikidata_ID": "Q13567"
+            },
+            {
+                "originalKey": "final customers",
+                "Wikidata_ID": "Q208"
+            },
+            {
+                "originalKey": "e-commerce platform",
+                "Wikidata_ID": "Q13567"
+            },
+            {
+                "originalKey": "innovation",
+                "Wikidata_ID": "Q208"
+            },
+            {
+                "originalKey": "markets",
+                "Wikidata_ID": "Q13567"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "natural asset",
+                "Wikidata_ID": "Q10572"
+            },
+            {
+                "originalKey": "location and weather",
+                "Wikidata_ID": "Q6398"
+            },
+            {
+                "originalKey": "barley produced at 500masl in Norway",
+                "Wikidata_ID": "Q12475"
+            },
+            {
+                "originalKey": "social asset",
+                "Wikidata_ID": "Q10638"
+            },
+            {
+                "originalKey": "local brand Rorosmat",
+                "Wikidata_ID": "Q24759"
+            },
+            {
+                "originalKey": "promotes and sells on the website",
+                "Wikidata_ID": "Q10638"
+            },
+            {
+                "originalKey": "cultural aspect",
+                "Wikidata_ID": "Q10572"
+            },
+            {
+                "originalKey": "stone mill",
+                "Wikidata_ID": "Q10638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "improve",
+                "Wikidata_ID": "Q1065"
+            },
+            {
+                "originalKey": "barley",
+                "Wikidata_ID": "Q249"
+            },
+            {
+                "originalKey": "consumption",
+                "Wikidata_ID": "Q1065"
+            },
+            {
+                "originalKey": "nutritious",
+                "Wikidata_ID": "Q249"
+            },
+            {
+                "originalKey": "market",
+                "Wikidata_ID": "Q1065"
+            },
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q249"
+            },
+            {
+                "originalKey": "plant diseases",
+                "Wikidata_ID": "Q1065"
+            },
+            {
+                "originalKey": "pests",
+                "Wikidata_ID": "Q249"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q10652"
+            },
+            {
+                "originalKey": "Exogenous",
+                "Wikidata_ID": "Q13487"
+            },
+            {
+                "originalKey": "Rorosmat brand",
+                "Wikidata_ID": "Q20569"
+            },
+            {
+                "originalKey": "e-commerce",
+                "Wikidata_ID": "Q13487"
+            },
+            {
+                "originalKey": "mill",
+                "Wikidata_ID": "Q20569"
+            },
+            {
+                "originalKey": "website",
+                "Wikidata_ID": "Q13487"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q13487"
+            },
+            {
+                "originalKey": "Cropland",
+                "Wikidata_ID": "Q20569"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q13487"
+            },
+            {
+                "originalKey": "social and cultural",
+                "Wikidata_ID": "Q13487"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Apple",
+                "Wikidata_ID": "Q18"
+            },
+            {
+                "originalKey": "Computer",
+                "Wikidata_ID": "Q658"
+            }
+        ]
+    }
+]

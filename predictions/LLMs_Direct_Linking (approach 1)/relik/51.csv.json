@@ -1,0 +1,42 @@
+[
+    {
+        "sentence": "The MOVING reference member state of this VC (Value Chain) is CZECH REPUBLIC. The reference MOVING Card ID of this VC is VC 10 CZ. Herb liquers are not a mainstream product. The producers operate on a niche market. The producers do not have to be located in the region, but mostly they are. The herb liquers are used for the promotion of the regions identity. Herb liquers are sold through eshops, farmers markets, direct selling or other specialized shops.",
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "Wikipedia_label": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "sentence": "The reference mountain chain of this VC is Giant Mountains. The reference mountain landscape of this VC is LAU 1 Trutnov. LAU 1 - Trutnov is the largest district within the NUTS 3 Kralovehradecky. The landscape of the region is very diverse with large differences in altitude. Such landscape makes the region less favorable for agricultural activities. 43,2% of the region covers agricultural land. Approximately a half of the agricultural land is arable land (53%). There is also a high share of perennial grassland in the region (41,6%). Forest land covers 46,9% of the region and this is the highest share within the NUTS2. The region includes the highest mountains of the Czech Republic (Giant Mountains) with the highest peak 1602 meters above s.l. The area of the mountains inlcude the National Park (with 385 km2).",
+        "entities": [
+            {
+                "originalKey": "Trutnov",
+                "Wikipedia_label": "Trutnov",
+                "Wikidata_ID": "Q320950"
+            },
+            {
+                "originalKey": "Trutnov",
+                "Wikipedia_label": "Trutnov",
+                "Wikidata_ID": "Q320950"
+            },
+            {
+                "originalKey": "Czech Republic",
+                "Wikipedia_label": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "sentence": "The size of the area (km2) is 1146.78. The minimum altimetry of the LAU (Local Administrative Unit) is 263. The maximum altimetry of the LAU is 1603. The total population (in thousand) is 117.978. The population density (Inhabitants/km2) in the LAU is 102.87. The population change rate of the LAU in the last 10 years (%) has been -1.84%. The overall regional population density (Inhabitants/km2) is 121.79. The regional population change rate in the last 10 years (%) has been 0.44%.",
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikipedia_label": "Lau Islands",
+                "Wikidata_ID": "Q1062438"
+            }
+        ]
+    }
+]

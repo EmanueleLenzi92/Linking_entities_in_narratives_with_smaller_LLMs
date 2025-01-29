@@ -1,0 +1,321 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "Austria",
+                "Wikidata_ID": "Q570"
+            },
+            {
+                "originalKey": "Almo Steirisches Almochsenfleisch",
+                "Wikidata_ID": "Q1463982"
+            },
+            {
+                "originalKey": "Steirische Bergland Marktgemeinschaft",
+                "Wikidata_ID": "Q750976"
+            },
+            {
+                "originalKey": "Almenland Marketing GmbH",
+                "Wikidata_ID": "Q1342869"
+            },
+            {
+                "originalKey": "ÖPUL (Austrian Program for Environmentally Sound Agriculture)",
+                "Wikidata_ID": "Q50776"
+            },
+            {
+                "originalKey": "organic farming",
+                "Wikidata_ID": "Q14918"
+            },
+            {
+                "originalKey": "Urlaub am Bauernhof (farm stay)",
+                "Wikidata_ID": "Q237065"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "Wikidata_ID": "Q95"
+            },
+            {
+                "originalKey": "Weiz (No: 617)",
+                "Wikidata_ID": "Q280"
+            },
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q3954"
+            },
+            {
+                "originalKey": "limestone, phyllite, slate and greywacke",
+                "Wikidata_ID": "Q102867, Q102868, Q3954"
+            },
+            {
+                "originalKey": "humid climate with a lot of thunderstorms",
+                "Wikidata_ID": "No specific Wikidata ID as it refers to weather conditions."
+            },
+            {
+                "originalKey": "125 pastures, 36.6 km2 region",
+                "Wikidata_ID": "This entity does not have a direct corresponding Wikidata item and may require manual association based on contextual understanding."
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The maximum altimetry of the LAU",
+                "Wikidata_ID": "Q5071"
+            },
+            {
+                "originalKey": "The total population of the LAU",
+                "Wikidata_ID": "Q48617"
+            },
+            {
+                "originalKey": "The population density in the LAU",
+                "Wikidata_ID": "Q1810"
+            },
+            {
+                "originalKey": "The population change rate of the LAU in the last 10 years",
+                "Wikidata_ID": "Q5429"
+            },
+            {
+                "originalKey": "The overall regional population density",
+                "Wikidata_ID": "Q1810"
+            },
+            {
+                "originalKey": "",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The average per capita income (EUR/year) Province",
+                "Wikidata_ID": "Q398"
+            },
+            {
+                "originalKey": "21444 EUR/year",
+                "Wikidata_ID": "Q750, Q641"
+            },
+            {
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "Wikidata_ID": "Q2398"
+            },
+            {
+                "originalKey": "8141 EUR million/year",
+                "Wikidata_ID": "Q750, Q641"
+            },
+            {
+                "originalKey": "The primary sector share of total GVA/year Province",
+                "Wikidata_ID": "Q2398"
+            },
+            {
+                "originalKey": "11.77%",
+                "Wikidata_ID": "Q4560, Q1322"
+            },
+            {
+                "originalKey": "The secondary sector share of total GVA/year Province",
+                "Wikidata_ID": "Q2398"
+            },
+            {
+                "originalKey": "32.50%",
+                "Wikidata_ID": "Q4560, Q1322"
+            },
+            {
+                "originalKey": "The tertiary sector share of total GVA/year Province",
+                "Wikidata_ID": "Q2398"
+            },
+            {
+                "originalKey": "55.73%",
+                "Wikidata_ID": "Q4560, Q1322"
+            },
+            {
+                "originalKey": "The per capita income (EUR/year) Region",
+                "Wikidata_ID": "Q798"
+            },
+            {
+                "originalKey": "21539 EUR/year",
+                "Wikidata_ID": "Q750, Q641"
+            },
+            {
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "Wikidata_ID": "Q2398"
+            },
+            {
+                "originalKey": "43050 EUR million/year",
+                "Wikidata_ID": "Q750, Q641"
+            },
+            {
+                "originalKey": "The primary sector share of total GVA/year Region",
+                "Wikidata_ID": "Q2398"
+            },
+            {
+                "originalKey": "0.84%",
+                "Wikidata_ID": "Q1756, Q1322"
+            },
+            {
+                "originalKey": "The secondary sector share of total GVA/year Region",
+                "Wikidata_ID": "Q2398"
+            },
+            {
+                "originalKey": "35.12%",
+                "Wikidata_ID": "Q1756, Q1322"
+            },
+            {
+                "originalKey": "The tertiary sector share of total GVA/year Region",
+                "Wikidata_ID": "Q2398"
+            },
+            {
+                "originalKey": "64.04%",
+                "Wikidata_ID": "Q1756, Q1322"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places in tourist accommodations/year",
+                "Wikidata_ID": "Q14672"
+            },
+            {
+                "originalKey": "regional share of total BPs/year",
+                "Wikidata_ID": "Q39085"
+            },
+            {
+                "originalKey": "agricultural holdings in the LAU",
+                "Wikidata_ID": "Q14672"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100,000 (km)",
+                "Wikidata_ID": "Q3985"
+            },
+            {
+                "originalKey": "protected areas in the region",
+                "Wikidata_ID": "Q6247"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year Province",
+                "Wikidata_ID": "(No direct Wikidata ID for percentages, but you could link to a page about the economy or labor force in that province)"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year Province",
+                "Wikidata_ID": "(No direct Wikidata ID for percentages, but you could link to a page about the economy or labor force in that province)"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year Province",
+                "Wikidata_ID": "(No direct Wikidata ID for percentages, but you could link to a page about the economy or labor force in that province)"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year Region",
+                "Wikidata_ID": "(No direct Wikidata ID for percentages, but you could link to a page about the economy or labor force in that region)"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year Region",
+                "Wikidata_ID": "(No direct Wikidata ID for percentages, but you could link to a page about the economy or labor force in that region)"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year Region",
+                "Wikidata_ID": "(No direct Wikidata ID for percentages, but you could link to a page about the economy or labor force in that region)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "Wikidata_ID": "Q10798635"
+            },
+            {
+                "originalKey": "Almenland and Energieregion Weiz-Gleisdorf",
+                "Wikidata_ID": "Q426769"
+            },
+            {
+                "originalKey": "Austrian animal welfare NGO",
+                "Wikidata_ID": "Q10698735"
+            },
+            {
+                "originalKey": "LEADER-region",
+                "Wikidata_ID": "Q426759"
+            },
+            {
+                "originalKey": "tourism",
+                "Wikidata_ID": "Q1348029"
+            },
+            {
+                "originalKey": "local culture",
+                "Wikidata_ID": "Q426758"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "regional development",
+                "Wikidata_ID": "Q184"
+            },
+            {
+                "originalKey": "ALMO",
+                "Wikidata_ID": "Q142085\" // Assuming ALMO refers to a specific entity"
+            },
+            {
+                "originalKey": "pig farmers",
+                "Wikidata_ID": "Q5078"
+            },
+            {
+                "originalKey": "local butcher",
+                "Wikidata_ID": "Q179"
+            },
+            {
+                "originalKey": "landscape",
+                "Wikidata_ID": "Q184"
+            },
+            {
+                "originalKey": "",
+                "Wikidata_ID": "Q184"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q18697253"
+            },
+            {
+                "originalKey": "alpine pasture areas",
+                "Wikidata_ID": "Q40712"
+            },
+            {
+                "originalKey": "feedbase for meat production",
+                "Wikidata_ID": "Q36985"
+            },
+            {
+                "originalKey": "small scale farms/farmers",
+                "Wikidata_ID": "Q17420"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "",
+                "Wikidata_ID": "Q13240796"
+            },
+            {
+                "originalKey": "",
+                "Wikidata_ID": "Q585"
+            },
+            {
+                "originalKey": "",
+                "Wikidata_ID": "Q397604"
+            }
+        ]
+    }
+]

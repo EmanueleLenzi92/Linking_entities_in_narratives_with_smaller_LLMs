@@ -1,0 +1,482 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "Wikidata_ID": "Q10725"
+            },
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q10836"
+            },
+            {
+                "originalKey": "GREECE",
+                "Wikidata_ID": "Q62"
+            },
+            {
+                "originalKey": "VC 11 GR",
+                "Wikidata_ID": "Q10837"
+            },
+            {
+                "originalKey": "beekeepers",
+                "Wikidata_ID": "Q2456"
+            },
+            {
+                "originalKey": "traditional way of apicature",
+                "Wikidata_ID": "Q10839"
+            },
+            {
+                "originalKey": "families",
+                "Wikidata_ID": "Q2456"
+            },
+            {
+                "originalKey": "local units",
+                "Wikidata_ID": "Q10839"
+            },
+            {
+                "originalKey": "Region of Crete",
+                "Wikidata_ID": "Q62"
+            },
+            {
+                "originalKey": "EU Geographical Indications (GIs)",
+                "Wikidata_ID": "Q10839"
+            },
+            {
+                "originalKey": "certified",
+                "Wikidata_ID": "Q2456"
+            },
+            {
+                "originalKey": "pefkothymaromelo",
+                "Wikidata_ID": "Q10839"
+            },
+            {
+                "originalKey": "local gastronomy",
+                "Wikidata_ID": "Q10839"
+            },
+            {
+                "originalKey": "visitors of the area",
+                "Wikidata_ID": "Q2456"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "White Mountains",
+                "Wikidata_ID": "Q10253"
+            },
+            {
+                "originalKey": "KISSAMOS",
+                "Wikidata_ID": "Q10487"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size",
+                "Wikidata_ID": "Q3695"
+            },
+            {
+                "originalKey": "minimum altimetry",
+                "Wikidata_ID": "Q10482"
+            },
+            {
+                "originalKey": "maximum altimetry",
+                "Wikidata_ID": "Q10482"
+            },
+            {
+                "originalKey": "total population",
+                "Wikidata_ID": "Q3695"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q10482"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q3695"
+            },
+            {
+                "originalKey": "overall regional population density",
+                "Wikidata_ID": "Q10482"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "Wikidata_ID": "Q3695"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income",
+                "Wikidata_ID": "Q20763"
+            },
+            {
+                "originalKey": "total Gross Value Added",
+                "Wikidata_ID": "Q18459"
+            },
+            {
+                "originalKey": "primary sector share",
+                "Wikidata_ID": "Q20763"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "Wikidata_ID": "Q20763"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "Wikidata_ID": "Q20763"
+            },
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q20763"
+            },
+            {
+                "originalKey": "total Gross Value Added",
+                "Wikidata_ID": "Q18459"
+            },
+            {
+                "originalKey": "primary sector share",
+                "Wikidata_ID": "Q20763"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "Wikidata_ID": "Q20763"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "Wikidata_ID": "Q20763"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total BPs/year",
+                "Wikidata_ID": "Q31678"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q20459"
+            },
+            {
+                "originalKey": "regional share",
+                "Wikidata_ID": "Q18763"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q20459"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q31678"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q20459"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q2035"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q1874"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q2036"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1478"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q2039"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Apicature",
+                "Wikidata_ID": "Q10257"
+            },
+            {
+                "originalKey": "Kissamos mountains",
+                "Wikidata_ID": "Q34689"
+            },
+            {
+                "originalKey": "Pefkothimaromelo",
+                "Wikidata_ID": "Q10257"
+            },
+            {
+                "originalKey": "PDO",
+                "Wikidata_ID": "Q10638"
+            },
+            {
+                "originalKey": "Cretan plants",
+                "Wikidata_ID": "Q24759"
+            },
+            {
+                "originalKey": "Beekeepers",
+                "Wikidata_ID": "Q10638"
+            },
+            {
+                "originalKey": "Hives",
+                "Wikidata_ID": "Q24759"
+            },
+            {
+                "originalKey": "Pine honey",
+                "Wikidata_ID": "Q10638"
+            },
+            {
+                "originalKey": "Thyme honey",
+                "Wikidata_ID": "Q10638"
+            },
+            {
+                "originalKey": "Pefkothymatomelo",
+                "Wikidata_ID": "Q10257"
+            },
+            {
+                "originalKey": "New types of honey products",
+                "Wikidata_ID": "Q10638"
+            },
+            {
+                "originalKey": "Consumption of honey",
+                "Wikidata_ID": "Q10638"
+            },
+            {
+                "originalKey": "Tourist sector",
+                "Wikidata_ID": "Q24759"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "beekeeping",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "Topolia/Kissamos",
+                "Wikidata_ID": "Q65743"
+            },
+            {
+                "originalKey": "mountainous areas",
+                "Wikidata_ID": "Q10289"
+            },
+            {
+                "originalKey": "Cretan way of life",
+                "Wikidata_ID": "Q65743"
+            },
+            {
+                "originalKey": "honey production",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "beekeepers",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "Minoan Civilization",
+                "Wikidata_ID": "Q65743"
+            },
+            {
+                "originalKey": "literature",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "poetry",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "jewellery production",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "climate of Crete",
+                "Wikidata_ID": "Q65743"
+            },
+            {
+                "originalKey": "sunshine days annually",
+                "Wikidata_ID": "Q10289"
+            },
+            {
+                "originalKey": "extremely low temperatures",
+                "Wikidata_ID": "Q10289"
+            },
+            {
+                "originalKey": "autumn",
+                "Wikidata_ID": "Q10289"
+            },
+            {
+                "originalKey": "bee colonies",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "pine tree juices",
+                "Wikidata_ID": "Q10289"
+            },
+            {
+                "originalKey": "pine honey",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "seasonal activities",
+                "Wikidata_ID": "Q10289"
+            },
+            {
+                "originalKey": "local communities",
+                "Wikidata_ID": "Q65743"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q1234"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q5678"
+            },
+            {
+                "originalKey": "severe weather conditions",
+                "Wikidata_ID": "Q9012"
+            },
+            {
+                "originalKey": "temperature changes",
+                "Wikidata_ID": "Q12345"
+            },
+            {
+                "originalKey": "heat waves",
+                "Wikidata_ID": "Q6789"
+            },
+            {
+                "originalKey": "honey production",
+                "Wikidata_ID": "Q123456"
+            },
+            {
+                "originalKey": "pesticides",
+                "Wikidata_ID": "Q90123"
+            },
+            {
+                "originalKey": "intensive agricultural holdings",
+                "Wikidata_ID": "Q67890"
+            },
+            {
+                "originalKey": "adulteration with inferior types of honey",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "imported in extremely low prices",
+                "Wikidata_ID": "Q901234"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q87654"
+            },
+            {
+                "originalKey": "Current and Predicted",
+                "Wikidata_ID": "Q12345678"
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "Wikidata_ID": "Q9012345"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q10682"
+            },
+            {
+                "originalKey": "Endogenous",
+                "Wikidata_ID": "Q13579"
+            },
+            {
+                "originalKey": "Pefkothymaromelo",
+                "Wikidata_ID": "Q24680"
+            },
+            {
+                "originalKey": "New type of honey",
+                "Wikidata_ID": "Q13579"
+            },
+            {
+                "originalKey": "Branded and protected by the PDO characterization",
+                "Wikidata_ID": "Q24680"
+            },
+            {
+                "originalKey": "Small processing units",
+                "Wikidata_ID": "Q13579"
+            },
+            {
+                "originalKey": "New products",
+                "Wikidata_ID": "Q13579"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q13579"
+            },
+            {
+                "originalKey": "New governance systems",
+                "Wikidata_ID": "Q13579"
+            },
+            {
+                "originalKey": "Forestry",
+                "Wikidata_ID": "Q24680"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q13579"
+            },
+            {
+                "originalKey": "Natural assets",
+                "Wikidata_ID": "Q24680"
+            },
+            {
+                "originalKey": "Social assets",
+                "Wikidata_ID": "Q13579"
+            },
+            {
+                "originalKey": "Cultural assets",
+                "Wikidata_ID": "Q13579"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Greece",
+                "Wikidata_ID": "Q180"
+            },
+            {
+                "originalKey": "honeys",
+                "Wikidata_ID": "Q235"
+            },
+            {
+                "originalKey": "EU katalog (eAmbrosia)",
+                "Wikidata_ID": "Q104867"
+            },
+            {
+                "originalKey": "Peyfothymaromelo",
+                "Wikidata_ID": "Q23595"
+            },
+            {
+                "originalKey": "Cretan honey",
+                "Wikidata_ID": "Q104867"
+            }
+        ]
+    }
+]

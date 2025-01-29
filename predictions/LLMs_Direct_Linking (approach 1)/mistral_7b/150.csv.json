@@ -1,0 +1,346 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "ITALY UNIMOL and UNIPI",
+                "Wikidata_ID": "Q67894"
+            },
+            {
+                "originalKey": "VC 17 IT",
+                "Wikidata_ID": "Q205315"
+            },
+            {
+                "originalKey": "SESs",
+                "Wikidata_ID": "Q18469"
+            },
+            {
+                "originalKey": "farmers",
+                "Wikidata_ID": "Q205315"
+            },
+            {
+                "originalKey": "municipality of Amatrice",
+                "Wikidata_ID": "Q67894"
+            },
+            {
+                "originalKey": "certification of origin 'Honey of Amatrice? (Miele di Amatrice)",
+                "Wikidata_ID": "Q205315"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Central Apennines Lazio region",
+                "Wikidata_ID": "Q10257"
+            },
+            {
+                "originalKey": "Amatrice",
+                "Wikidata_ID": "Q3684"
+            },
+            {
+                "originalKey": "Rieti",
+                "Wikidata_ID": "Q10259"
+            },
+            {
+                "originalKey": "Abruzzo region",
+                "Wikidata_ID": "Q10263"
+            },
+            {
+                "originalKey": "National park of Gran Sasso e Monti della Laga",
+                "Wikidata_ID": "Q10258"
+            },
+            {
+                "originalKey": "Montana del Velino community",
+                "Wikidata_ID": "Q10264"
+            },
+            {
+                "originalKey": "Club of Borghi più belli d Italia",
+                "Wikidata_ID": "Q10265"
+            },
+            {
+                "originalKey": "spaghetti amatriciana",
+                "Wikidata_ID": "Q10266"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size",
+                "Wikidata_ID": "Q2674"
+            },
+            {
+                "originalKey": "minimum altimetry",
+                "Wikidata_ID": "Q10589"
+            },
+            {
+                "originalKey": "maximum altimetry",
+                "Wikidata_ID": "Q10589"
+            },
+            {
+                "originalKey": "total population",
+                "Wikidata_ID": "Q2674"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q10589"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q2674"
+            },
+            {
+                "originalKey": "overall regional population density",
+                "Wikidata_ID": "Q10589"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "Wikidata_ID": "Q2674"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income",
+                "Wikidata_ID": "Q1027"
+            },
+            {
+                "originalKey": "total Gross Value Added",
+                "Wikidata_ID": "Q3695"
+            },
+            {
+                "originalKey": "primary sector share",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "Wikidata_ID": "Q1029"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "Wikidata_ID": "Q1030"
+            },
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q1027"
+            },
+            {
+                "originalKey": "total Gross Value Added",
+                "Wikidata_ID": "Q3695"
+            },
+            {
+                "originalKey": "primary sector share",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "Wikidata_ID": "Q1029"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "Wikidata_ID": "Q1030"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total BPs/year",
+                "Wikidata_ID": "Q21476"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q30589"
+            },
+            {
+                "originalKey": "regional share",
+                "Wikidata_ID": "Q12746"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q30589"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q24765"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q30589"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q2076"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q1845"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q2077"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1314"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1315"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "beekeeping farm",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "Mielene di Amatric",
+                "Wikidata_ID": "Q63749"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Amatrice area",
+                "Wikidata_ID": "Q10257"
+            },
+            {
+                "originalKey": "woods",
+                "Wikidata_ID": "Q6398"
+            },
+            {
+                "originalKey": "organic or integrated agriculture production",
+                "Wikidata_ID": "Q10527"
+            },
+            {
+                "originalKey": "high-quality production of organic honey",
+                "Wikidata_ID": "Q10638"
+            },
+            {
+                "originalKey": "historical and cultural traditional food",
+                "Wikidata_ID": "Q10725"
+            },
+            {
+                "originalKey": "mountain area",
+                "Wikidata_ID": "Q6398"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "honey production",
+                "Wikidata_ID": "Q3678"
+            },
+            {
+                "originalKey": "bees",
+                "Wikidata_ID": "Q1204"
+            },
+            {
+                "originalKey": "plants' biological cycles",
+                "Wikidata_ID": "Q3679"
+            },
+            {
+                "originalKey": "colder/warmer zones",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "honey market",
+                "Wikidata_ID": "Q3678"
+            },
+            {
+                "originalKey": "certification of origin or organic label",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "marketing strategy",
+                "Wikidata_ID": "Q3678"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "Current and Predicted",
+                "Wikidata_ID": "Q3678"
+            },
+            {
+                "originalKey": "Traditional",
+                "Wikidata_ID": "Q1205"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q10652"
+            },
+            {
+                "originalKey": "innovation",
+                "Wikidata_ID": "Q18437"
+            },
+            {
+                "originalKey": "Miele di Amatrice label",
+                "Wikidata_ID": "Q20596"
+            },
+            {
+                "originalKey": "municipality of Amatrice",
+                "Wikidata_ID": "Q13784"
+            },
+            {
+                "originalKey": "local mountain farms",
+                "Wikidata_ID": "Q20596"
+            },
+            {
+                "originalKey": "historical local food",
+                "Wikidata_ID": "Q18437"
+            },
+            {
+                "originalKey": "consumers interested in the local cultural tradition on wine and food productions",
+                "Wikidata_ID": "Q20596"
+            },
+            {
+                "originalKey": "land use systems involved",
+                "Wikidata_ID": "Q18437"
+            },
+            {
+                "originalKey": "Cropland",
+                "Wikidata_ID": "Q20596"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q20596"
+            },
+            {
+                "originalKey": "local assets",
+                "Wikidata_ID": "Q18437"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q20596"
+            },
+            {
+                "originalKey": "cultural",
+                "Wikidata_ID": "Q20596"
+            }
+        ]
+    }
+]

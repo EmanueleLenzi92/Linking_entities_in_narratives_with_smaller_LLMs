@@ -1,0 +1,314 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q13476"
+            },
+            {
+                "originalKey": "NMK",
+                "Wikidata_ID": "Q20859"
+            },
+            {
+                "originalKey": "VC 16 NMK",
+                "Wikidata_ID": "Q374555"
+            },
+            {
+                "originalKey": "Kozuvcanka",
+                "Wikidata_ID": "Q20892"
+            },
+            {
+                "originalKey": "Pelisterka",
+                "Wikidata_ID": "Q13476"
+            },
+            {
+                "originalKey": "Maya",
+                "Wikidata_ID": "Q20892"
+            },
+            {
+                "originalKey": "National Chamber of Commerce",
+                "Wikidata_ID": "Q13476"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Mountain Meleshevija",
+                "Wikidata_ID": "Q13587"
+            },
+            {
+                "originalKey": "Maleshevski mountains",
+                "Wikidata_ID": "Q24069"
+            },
+            {
+                "originalKey": "Berovo",
+                "Wikidata_ID": "Q13587"
+            },
+            {
+                "originalKey": "Pehchevo",
+                "Wikidata_ID": "Q13587"
+            },
+            {
+                "originalKey": "Bregalnica",
+                "Wikidata_ID": "Q24069"
+            },
+            {
+                "originalKey": "Strumica",
+                "Wikidata_ID": "Q13587"
+            },
+            {
+                "originalKey": "Forests",
+                "Wikidata_ID": "Q24069"
+            },
+            {
+                "originalKey": "Pastures",
+                "Wikidata_ID": "Q13587"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "Wikidata_ID": "Q1358"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q20769"
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": "Q184"
+            },
+            {
+                "originalKey": "altimetry",
+                "Wikidata_ID": "Q2095"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q1864"
+            },
+            {
+                "originalKey": "regional population density",
+                "Wikidata_ID": "Q2097"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income",
+                "Wikidata_ID": "Q1348"
+            },
+            {
+                "originalKey": "total Gross Value Added",
+                "Wikidata_ID": "Q2075"
+            },
+            {
+                "originalKey": "primary sector share",
+                "Wikidata_ID": "Q1349"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "Wikidata_ID": "Q1350"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "Wikidata_ID": "Q1351"
+            },
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q1348"
+            },
+            {
+                "originalKey": "total Gross Value Added",
+                "Wikidata_ID": "Q2075"
+            },
+            {
+                "originalKey": "primary sector share",
+                "Wikidata_ID": "Q1349"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "Wikidata_ID": "Q1350"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "Wikidata_ID": "Q1351"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total BPs/year",
+                "Wikidata_ID": "Q21578"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q6094"
+            },
+            {
+                "originalKey": "regional share",
+                "Wikidata_ID": "Q12385"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q6094"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q21578"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q6094"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q1305"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q1298"
+            },
+            {
+                "originalKey": "total employment/year [Province]",
+                "Wikidata_ID": "Q107564"
+            },
+            {
+                "originalKey": "total employment/year [Region]",
+                "Wikidata_ID": "Q107564"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vardar planning region",
+                "Wikidata_ID": "Q10273"
+            },
+            {
+                "originalKey": "commercial water",
+                "Wikidata_ID": "Q18456"
+            },
+            {
+                "originalKey": "water resources",
+                "Wikidata_ID": "Q20379"
+            },
+            {
+                "originalKey": "Tikvesh",
+                "Wikidata_ID": "Q18456"
+            },
+            {
+                "originalKey": "Lices",
+                "Wikidata_ID": "Q18456"
+            },
+            {
+                "originalKey": "Mladost",
+                "Wikidata_ID": "Q18456"
+            },
+            {
+                "originalKey": "Kozuvcanka",
+                "Wikidata_ID": "Q20379"
+            },
+            {
+                "originalKey": "mineral water",
+                "Wikidata_ID": "Q18456"
+            },
+            {
+                "originalKey": "Kavadarci",
+                "Wikidata_ID": "Q20379"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Kozuvcanka",
+                "Wikidata_ID": "Q102853"
+            },
+            {
+                "originalKey": "Maleshevski mountain",
+                "Wikidata_ID": "Q14769"
+            },
+            {
+                "originalKey": "Vardarski region",
+                "Wikidata_ID": "Q20853"
+            },
+            {
+                "originalKey": "Maleshevija",
+                "Wikidata_ID": "Q14769"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q1065"
+            },
+            {
+                "originalKey": "innovation",
+                "Wikidata_ID": "Q2378"
+            },
+            {
+                "originalKey": "technology",
+                "Wikidata_ID": "Q1065"
+            },
+            {
+                "originalKey": "production",
+                "Wikidata_ID": "Q2378"
+            },
+            {
+                "originalKey": "distribution",
+                "Wikidata_ID": "Q2378"
+            },
+            {
+                "originalKey": "New processes",
+                "Wikidata_ID": "Q2378"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q2378"
+            },
+            {
+                "originalKey": "Forestry",
+                "Wikidata_ID": "Q1065"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q2378"
+            },
+            {
+                "originalKey": "local assets",
+                "Wikidata_ID": "Q2378"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q1065"
+            },
+            {
+                "originalKey": "social",
+                "Wikidata_ID": "Q2378"
+            },
+            {
+                "originalKey": "cultural",
+                "Wikidata_ID": "Q2378"
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "Wikidata_ID": "Q132"
+            },
+            {
+                "originalKey": "Minoan Land",
+                "Wikidata_ID": "Q4907685"
+            },
+            {
+                "originalKey": "Aloe vera",
+                "Wikidata_ID": "Q12380"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Dikta Mountains",
+                "Wikidata_ID": "Q1067953"
+            },
+            {
+                "originalKey": "",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The average per capita income (EUR)",
+                "Wikidata_ID": "Q32709\" // This ID refers to the concept of Per Capita Income in Wikidata"
+            },
+            {
+                "originalKey": "[Region]",
+                "Wikidata_ID": "Q39768"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The primary sector",
+                "Wikidata_ID": "Q3082"
+            },
+            {
+                "originalKey": "total employment/year Province",
+                "Wikidata_ID": "Q14569790"
+            },
+            {
+                "originalKey": "The secondary sector share of total employment/year Province",
+                "Wikidata_ID": "Q23899"
+            },
+            {
+                "originalKey": "total employment/year Region",
+                "Wikidata_ID": "Q14569790"
+            },
+            {
+                "originalKey": "The terti0ry sector share of total employment/year Region",
+                "Wikidata_ID": "Q23899"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe vera",
+                "Wikidata_ID": "Q4256"
+            },
+            {
+                "originalKey": "Minoan Land cooperative",
+                "Wikidata_ID": "Q130974"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe Vera plants",
+                "Wikidata_ID": "Q13096547"
+            },
+            {
+                "originalKey": "Cropland and Natural land",
+                "Wikidata_ID": "Q289"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe Vera",
+                "Wikidata_ID": "Q496731"
+            },
+            {
+                "originalKey": "Andalusia",
+                "Wikidata_ID": "Q398"
+            },
+            {
+                "originalKey": "European consumers",
+                "Wikidata_ID": "Q48397"
+            },
+            {
+                "originalKey": "nutritional supplements",
+                "Wikidata_ID": "Q49873"
+            },
+            {
+                "originalKey": "health products",
+                "Wikidata_ID": "Q49873"
+            }
+        ]
+    }
+]
