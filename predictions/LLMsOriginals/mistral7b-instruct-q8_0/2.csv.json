@@ -1,0 +1,370 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "MOVING",
+                "wikipedia_title": "MOVING (Value Chain)"
+            },
+            {
+                "entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "entity_in_the_text": "VC 02 AT",
+                "wikipedia_title": "VC 02 AT"
+            },
+            {
+                "entity_in_the_text": "Almenland small local diary",
+                "wikipedia_title": "Almenland Stollenkäse GmbH"
+            },
+            {
+                "entity_in_the_text": "cow",
+                "wikipedia_title": "Cow"
+            },
+            {
+                "entity_in_the_text": "sheep",
+                "wikipedia_title": "Sheep"
+            },
+            {
+                "entity_in_the_text": "goat",
+                "wikipedia_title": "Goat"
+            },
+            {
+                "entity_in_the_text": "pasture farming and hay",
+                "wikipedia_title": "Pasture farming"
+            },
+            {
+                "entity_in_the_text": "Almenland Stollenkäse GmbH",
+                "wikipedia_title": "Almenland Stollenkäse GmbH"
+            },
+            {
+                "entity_in_the_text": "small delicacy shops",
+                "wikipedia_title": "Small delicacy shops"
+            },
+            {
+                "entity_in_the_text": "supermarkets",
+                "wikipedia_title": "Supermarket"
+            },
+            {
+                "entity_in_the_text": "web shop",
+                "wikipedia_title": "Web shop"
+            },
+            {
+                "entity_in_the_text": "Almenland product",
+                "wikipedia_title": "Almenland Stollenkäse GmbH"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "RR 11",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "entity_in_the_text": "Weiz (No: 617)",
+                "wikipedia_title": "Weiz"
+            },
+            {
+                "entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "population change rate",
+                "wikipedia_title": "Population growth rate"
+            },
+            {
+                "entity_in_the_text": "regional population density",
+                "wikipedia_title": "Regional population density"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "entity_in_the_text": "primary sector share",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector share",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "entity_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total BPs/year",
+                "wikipedia_title": "Tourist accommodation"
+            },
+            {
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Local administrative division"
+            },
+            {
+                "entity_in_the_text": "regional share",
+                "wikipedia_title": "Regional economy"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural land use"
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100000 (km)",
+                "wikipedia_title": "Populated place"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "cheese",
+                "wikipedia_title": "Cheese"
+            },
+            {
+                "entity_in_the_text": "Almenland dairy",
+                "wikipedia_title": "Almenland Dairy"
+            },
+            {
+                "entity_in_the_text": "silver mine",
+                "wikipedia_title": "Silver mining"
+            },
+            {
+                "entity_in_the_text": "enthusiastic cheese lover",
+                "wikipedia_title": "Cheese lover"
+            },
+            {
+                "entity_in_the_text": "Almenland umbrella quality brand",
+                "wikipedia_title": "Almenland Umbrella Quality Brand"
+            },
+            {
+                "entity_in_the_text": "guided tours",
+                "wikipedia_title": "Guided tours"
+            },
+            {
+                "entity_in_the_text": "educational programmes",
+                "wikipedia_title": "Educational programs"
+            },
+            {
+                "entity_in_the_text": "Almenland region",
+                "wikipedia_title": "Almenland Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "entity_in_the_text": "Genussregion",
+                "wikipedia_title": "Genussregion (region of culinary delight)"
+            },
+            {
+                "entity_in_the_text": "AgrarMarkt Austria",
+                "wikipedia_title": "AgrarMarkt Austria"
+            },
+            {
+                "entity_in_the_text": "milk producing sector",
+                "wikipedia_title": "Milk production"
+            },
+            {
+                "entity_in_the_text": "Almenland producers",
+                "wikipedia_title": "Almenland (region)"
+            },
+            {
+                "entity_in_the_text": "online marketing platform",
+                "wikipedia_title": "Online marketing"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "cheese production",
+                "wikipedia_title": "Cheese"
+            },
+            {
+                "entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "entity_in_the_text": "milk production",
+                "wikipedia_title": "Milk"
+            },
+            {
+                "entity_in_the_text": "pasture based meat production",
+                "wikipedia_title": "Pasture-based meat production"
+            },
+            {
+                "entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "entity_in_the_text": "extreme weather conditions",
+                "wikipedia_title": "Extreme weather events"
+            },
+            {
+                "entity_in_the_text": "drought",
+                "wikipedia_title": "Drought"
+            },
+            {
+                "entity_in_the_text": "heavy rain",
+                "wikipedia_title": "Heavy rainfall"
+            },
+            {
+                "entity_in_the_text": "feedbase for this pasture based meat production",
+                "wikipedia_title": "Pasture-based meat production"
+            },
+            {
+                "entity_in_the_text": "vegetation might change",
+                "wikipedia_title": "Vegetation"
+            },
+            {
+                "entity_in_the_text": "cultivation of feed for the winter time might change as well",
+                "wikipedia_title": "Winter agriculture"
+            },
+            {
+                "entity_in_the_text": "wastage of alpine pasture areas",
+                "wikipedia_title": "Land use in alpine regions"
+            },
+            {
+                "entity_in_the_text": "upscaling",
+                "wikipedia_title": "Upscaling"
+            },
+            {
+                "entity_in_the_text": "quantity of production is limited",
+                "wikipedia_title": "Limited production"
+            },
+            {
+                "entity_in_the_text": "demand is increasing also internationally",
+                "wikipedia_title": "International trade in meat and dairy products"
+            },
+            {
+                "entity_in_the_text": "Predicted",
+                "wikipedia_title": "Prediction"
+            },
+            {
+                "entity_in_the_text": "Traditional and Innovative",
+                "wikipedia_title": "Innovation in agriculture"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "VC (Value chain)"
+            },
+            {
+                "entity_in_the_text": "Endogenous and Exogenous",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "silver mine tunnel",
+                "wikipedia_title": "Silver mining"
+            },
+            {
+                "entity_in_the_text": "cheese",
+                "wikipedia_title": "Cheese"
+            },
+            {
+                "entity_in_the_text": "New products, New processes and New marketing strategies",
+                "wikipedia_title": "Innovation in business"
+            },
+            {
+                "entity_in_the_text": "pasture farming",
+                "wikipedia_title": "Pasture farming"
+            },
+            {
+                "entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Cheese",
+                "wikipedia_title": "Cheese"
+            },
+            {
+                "entity_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "entity_in_the_text": "silver mine",
+                "wikipedia_title": "Silver mining"
+            }
+        ]
+    }
+]

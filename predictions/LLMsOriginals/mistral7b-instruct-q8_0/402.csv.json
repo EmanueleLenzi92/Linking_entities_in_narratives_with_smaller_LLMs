@@ -1,0 +1,234 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "MOVING reference member state of this VC",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Alpine tourism",
+                "wikipedia_title": "Alpine tourism"
+            },
+            {
+                "entity_in_the_text": "hotels",
+                "wikipedia_title": "Hotel"
+            },
+            {
+                "entity_in_the_text": "restaurants",
+                "wikipedia_title": "Restaurant"
+            },
+            {
+                "entity_in_the_text": "ski lifts",
+                "wikipedia_title": "Ski lift"
+            },
+            {
+                "entity_in_the_text": "richer regions",
+                "wikipedia_title": "Economic development"
+            },
+            {
+                "entity_in_the_text": "less prosperous regions",
+                "wikipedia_title": "Poverty"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "VC"
+            },
+            {
+                "entity_in_the_text": "mountain chain",
+                "wikipedia_title": "Mountain range"
+            },
+            {
+                "entity_in_the_text": "mountain landscape",
+                "wikipedia_title": "Landscape"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "size",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "density",
+                "wikipedia_title": "Density"
+            },
+            {
+                "entity_in_the_text": "change rate",
+                "wikipedia_title": "Change rate"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA)",
+                "wikipedia_title": "Total Gross Value Added (GVA)"
+            },
+            {
+                "entity_in_the_text": "primary sector share",
+                "wikipedia_title": "Primary sector share"
+            },
+            {
+                "entity_in_the_text": "secondary sector share",
+                "wikipedia_title": "Secondary sector share"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share",
+                "wikipedia_title": "Tertiary sector share"
+            },
+            {
+                "entity_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA)",
+                "wikipedia_title": "Total Gross Value Added (GVA)"
+            },
+            {
+                "entity_in_the_text": "primary sector share",
+                "wikipedia_title": "Primary sector share"
+            },
+            {
+                "entity_in_the_text": "secondary sector share",
+                "wikipedia_title": "Secondary sector share"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share",
+                "wikipedia_title": "Tertiary sector share"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "bed places",
+                "wikipedia_title": "Tourist accommodation"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative division"
+            },
+            {
+                "entity_in_the_text": "regional share",
+                "wikipedia_title": "Regional economy"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural land use"
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100000 (km)",
+                "wikipedia_title": "List of cities by population"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "employment/year [Province]",
+                "wikipedia_title": "Employment by sector in [Province]"
+            },
+            {
+                "entity_in_the_text": "employment/year [Region]",
+                "wikipedia_title": "Employment by sector in [Region]"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC-systems",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "alps",
+                "wikipedia_title": "Alps"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "tourism",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Traditional and Innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Endogenous and Exogenous",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "touristic attractions",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "entity_in_the_text": "skiing",
+                "wikipedia_title": "Skiing"
+            },
+            {
+                "entity_in_the_text": "New products, New processes, New marketing strategies and New governance systems",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "Landscape in general",
+                "wikipedia_title": "Landscape"
+            },
+            {
+                "entity_in_the_text": "Natural, social and cultural",
+                "wikipedia_title": "Assets"
+            }
+        ]
+    }
+]

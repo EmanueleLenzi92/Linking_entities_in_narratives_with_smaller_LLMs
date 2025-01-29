@@ -1,0 +1,365 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "entity_in_the_text": "MOVING Card ID of this VC is VC 10 GR",
+                "wikipedia_title": "VC 10 G (Value Chain)"
+            },
+            {
+                "entity_in_the_text": "chestnut trees",
+                "wikipedia_title": "Castanea sativa\" or \"Chestnut tree"
+            },
+            {
+                "entity_in_the_text": "farmers",
+                "wikipedia_title": "Farmer"
+            },
+            {
+                "entity_in_the_text": "local government",
+                "wikipedia_title": "Local Government"
+            },
+            {
+                "entity_in_the_text": "local catering and tourism",
+                "wikipedia_title": "Local Catering & Tourism Industry"
+            },
+            {
+                "entity_in_the_text": "small firms of standardization, packaging, promotion and marketing.",
+                "wikipedia_title": "Small Businesses in Packaging, Standardization, Promotion and Marketing"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "White Mountains",
+                "wikipedia_title": "Mountains of Crete"
+            },
+            {
+                "entity_in_the0: The entity 'KISSAMOS' in the text refers to a specific location or area. To find its corresponding Wikipedia title, we need more context as it might not be directly linked with an existing page if KISSAMOS is either misspelled, fictional place name, or too obscure/localized term for general knowledge.\n            \n            // Assuming 'KISSAMOS' was a typo and the intended word could possibly refer to": "hania",
+                "look": ""
+            },
+            {
+                "entity_in_the0": "Chania",
+                "wikipedia_title": "Chania"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "334.2",
+                "wikipedia_title": "Area of LAU"
+            },
+            {
+                "entity_in_the_text": "0",
+                "wikipedia_title": "Minimum altimetry of the Local Administrative Unit (LAU)"
+            },
+            {
+                "entity_in_the_text": "1000",
+                "wikipedia_title": "Maximum altimetry of the LAU"
+            },
+            {
+                "entitydict:entities': [\n                {\n                    'entity_in_the_text': '159.893',\n                    'wikipedia_title': 'Total population in thousand within the Local Administrative Unit (LAU)'\n                }\n            ]\n        },\n        {": "ntity_in_the_text",
+                "67.50": "wikipedia_title\": \"Population density of LAU (Inhabitants/km2)"
+            },
+            {
+                "entity_in_the_text": "0.02%",
+                "wikipedia_title": "LAU population change rate in the last 10 years"
+            },
+            {
+                "entity_in_the_text": "76.5",
+                "wikipedia_title": "Overall regional population density (Inhabitants/km2)"
+            },
+            {
+                "entity_in_the_text": "0.02%",
+                "wikipedia_title": "Regional population change rate in the last 10 years"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The average per capita income (EUR/year) Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "The tertiary sector share of total GVA/year Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "The average per capita income (EUR/year) Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "The tertiary sector share of total GVA/year Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total number of bed places in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics"
+            },
+            {
+                "entity_in01.json\n    {": "ntities",
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Administrative division of a country or region"
+            },
+            {
+                "entity_in01.json\n    {": "ntities",
+                "entity_in_the_text": "total number of bed places (BPs) in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics"
+            },
+            {
+                "entity01.json\n    {": "ntities",
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Administrative division of a country or region"
+            },
+            {
+                "entity01.json\n    {": "ntities",
+                "entity_in_the_text": "total number of bed places (BPs) in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics"
+            },
+            {
+                "entities": [
+                    {
+                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                        "wikipedia_title": "Administrative division of a country or region"
+                    },
+                    {
+                        "entities": [
+                            {
+                                "entity_in_the_text": "total number of bed places (BPs) in tourist accommodations/year",
+                                "wikipedia_title": "Tourism industry statistics"
+                            },
+                            {
+                                "entities": [
+                                    {
+                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                        "wikipedia_title": "Administrative division of a country or region"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The primary sector",
+                "wikipedia_title": "Primary economic activity"
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)"
+            },
+            {
+                "entity_in_the_text": "14.78% share",
+                "wikipedia_title": "Labor force distribution across economic sectors"
+            },
+            {
+                "entity_in_the_text": "The secondary sector",
+                "wikipedia_title": "Secondary industry or manufacturing in the context of your query (if referring to a specific country)"
+            },
+            {
+                "entity_in_the_text": "11.46% share",
+                "wikipedia_title": "Labor force distribution across economic sectors"
+            },
+            {
+                "entity_in_the_text": "The tertiary sector",
+                "wikipedia_title": "Tertiary industry or services in the context of your query (if referring to a specific country)"
+            },
+            {
+                "entity_in_the_text": "73.76% share",
+                "wikipedia_title": "Labor force distribution across economic sectors"
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total employment/year Region",
+                "wikipedia_title": "Primary industry or agriculture in the context of your query (if referring to a specific country)"
+            },
+            {
+                "entity_in_the_text": "16.20% share",
+                "wikipedia_title": "Labor force distribution across economic sectors"
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total employment/year Region",
+                "wikipedia_title": "Secondary industry or manufacturing in the context of your query (if referring to a specific country)"
+            },
+            {
+                "entity_in_the_text": "11.84% share",
+                "wikipedia_title": "Labor force distribution across economic sectors"
+            },
+            {
+                "entity_in_the_text": "The tertiary sector share of total employment/year Region",
+                "wikipedia_title": "Tertiary industry or services in the context of your query (if referring to a specific country)"
+            },
+            {
+                "entity_in_the_text": "71.97% share",
+                "wikipedia_title": "Labor force distribution across economic sectors"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Chestnut trees",
+                "wikipedia_title": "Castanea"
+            },
+            {
+                "entity_in_the_text": "western mountain areas of Crete, from 500m to 800m",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "entity_in_the_text": "Chania chestnut trees",
+                "wikipedia_title": "Castanea sativa subsp. caucasi var. castanetica 'Cretensis'"
+            },
+            {
+                "entity_in_the_text": "local farmers, cooperatives and private firms",
+                "wikipedia_title": "Cooperative"
+            },
+            {
+                "entity_in_the_text": "olive oil monoculture",
+                "wikipedia_title": "Olive cultivation in Greece"
+            },
+            {
+                "entity_in_the_text": "mountainous areas of Crete and sustainable activity",
+                "wikipedia_title": "Sustainability on the island of Crete, specifically related to agriculture or forestry practices."
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "forested / semi forests",
+                "wikipedia_title": "Forest"
+            },
+            {
+                "entity_in_the_text": "grasslands of Western White Mountains",
+                "wikipedia_title": "Western Alps"
+            },
+            {
+                "entity_in_the_text": "agro-tourism",
+                "wikipedia_title": "Agriturismo"
+            },
+            {
+                "entity_in_the_text": "chestnut activities",
+                "wikipedia_title": "Castanea sativa (European chestnut)"
+            },
+            {
+                "entity_in_the_text": "cultivation and preservation of the chestnut forests in the area.",
+                "wikipedia_title": "Chestnut cultivation"
+            },
+            {
+                "entity_in_the_text": "annual 3-days Chestnut festival",
+                "wikipedia_title": "Festa della Castagna (Italian chestnut)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "chestnut trees",
+                "wikipedia_title": "Castanea sativa"
+            },
+            {
+                "entity_in_the_text": "economic crisis",
+                "wikipedia_title": "Economic Crisis (Greece)"
+            },
+            {
+                "entity_in_the_text": "olive oil trees",
+                "wikipedia_title": "Olea europaea"
+            },
+            {
+                "entity_in_the_text": "Castanea sativa cultivation /exploitation",
+                "wikipedia_title": "Chestnut farming in Greece"
+            },
+            {
+                "entity_in_the_text": "Greek and international market",
+                "wikipedia_title": "International trade of agricultural products - Greek economy impact on markets"
+            },
+            {
+                "entity_in_the_text": "Economic Crisis (Greece)",
+                "wikipedia_title": "Economic Crisis (Greece)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Business model"
+            },
+            {
+                "entity_indicted in the text:": "rocessing of chestnuts",
+                "wikipedia_title": "Chestnut processing industry"
+            },
+            {
+                "entity_indicated in the text:": "nternational market",
+                "wikipedia_title": "International trade"
+            },
+            {
+                "entity_inferred from the context of Region of Crete and academic institutions,": "ikipedia_title"
+            },
+            {
+                "entity_related to 'New products'": "wikipedia_title"
+            },
+            {
+                "entity_associated with 'New marketing strategies',": "ikipedia_title"
+            },
+            {
+                "entity_involved as land use systems, namely Grassland and Forestry": "wikipedia_titles",
+                "Grasslands - Environmental impacts on farming practices": "Forest management for sustainable timber production",
+                "entity_referenced as local assets, namely Natural, social and cultural aspects of the region,": "ikipedia_titles",
+                "Natural resources in Greece - Environmental impacts": "Social capital importance for rural development"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "chestnut trees",
+                "wikipedia_title": "Castanea sativa"
+            },
+            {
+                "entity_indon the text:": "ountainous areas all over Crete",
+                "wikipedia_title": "Crete (island)"
+            },
+            {
+                "entity_in_the_text": "EL531, EL525, EL612, EL644",
+                "wikipedia_title": "List of Greek VCs"
+            }
+        ]
+    }
+]

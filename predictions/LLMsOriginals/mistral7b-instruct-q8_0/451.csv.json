@@ -1,0 +1,322 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "MOVING reference member state",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Kozak type pine nuts",
+                "wikipedia_title": "Pine nut"
+            },
+            {
+                "entity_in_the_text": "pick up activity of pine nuts",
+                "wikipedia_title": "Harvesting"
+            },
+            {
+                "entity_in_the_text": "processing of pine nuts",
+                "wikipedia_title": "Processing"
+            },
+            {
+                "entity_in_the_text": "cooperative activities",
+                "wikipedia_title": "Cooperatives"
+            },
+            {
+                "entity_in_the_text": "regional SES",
+                "wikipedia_title": "Social and economic development"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Bergama",
+                "wikipedia_title": "Bergama"
+            },
+            {
+                "entity_in_the_text": "Kozak",
+                "wikipedia_title": "Kozak, Turkey"
+            },
+            {
+                "entity_in_the_text": "Madra Mountains region",
+                "wikipedia_title": "Madra Mountains"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "size",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "minimum altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "maximum altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "total population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "population density",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "entity_in_the_text": "population change rate",
+                "wikipedia_title": "Demographic trends"
+            },
+            {
+                "entity_in_the_text": "overall regional population density",
+                "wikipedia_title": "Regional population density"
+            },
+            {
+                "entity_in_the_text": "regional population change rate",
+                "wikipedia_title": "Regional demographic trends"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "entity_in_the_text": "primary sector share",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector share",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "entity_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "bed places",
+                "wikipedia_title": "Bed"
+            },
+            {
+                "entity_in_the_text": "tourist accommodations/year",
+                "wikipedia_title": "Tourism accommodation"
+            },
+            {
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Local administrative division"
+            },
+            {
+                "entity_in_the_text": "regional share",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural land use"
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100000 (km)",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Peanut pine",
+                "wikipedia_title": "Pinus pinea"
+            },
+            {
+                "entity_in_the_text": "Bergama-Kozak plateau",
+                "wikipedia_title": "Bergama-Kozak Plateau"
+            },
+            {
+                "entity_in_the_text": "Turkey",
+                "wikipedia_title": "Turkey"
+            },
+            {
+                "entity_in_the_text": "Madra Mountains",
+                "wikipedia_title": "Madra Mountains"
+            },
+            {
+                "entity_in_the_text": "pine forests",
+                "wikipedia_title": "Pine forests"
+            },
+            {
+                "entity_in_the_text": "granite soils",
+                "wikipedia_title": "Granite (mineral)"
+            },
+            {
+                "entity_in_the_text": "pine nuts/cones",
+                "wikipedia_title": "Pine nuts"
+            },
+            {
+                "entity_in_the_text": "Ministry of Forestry",
+                "wikipedia_title": "Ministry of Forestry (Turkey)"
+            },
+            {
+                "entity_in_the_text": "local administration",
+                "wikipedia_title": "Local government"
+            },
+            {
+                "entity_in_the_text": "niche market",
+                "wikipedia_title": "Niche market"
+            },
+            {
+                "entity_in_the_text": "mountain farming",
+                "wikipedia_title": "Mountain farming"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "pine nut areas",
+                "wikipedia_title": "Pine nuts"
+            },
+            {
+                "entity_in_the_text": "Kozak/Bergama",
+                "wikipedia_title": "Kozak, Bergama"
+            },
+            {
+                "entity_in_the_text": "Kozak type pine nuts",
+                "wikipedia_title": "Kozak pine nuts"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Kozak plateau",
+                "wikipedia_title": "Kozak Plateau"
+            },
+            {
+                "entity_in_the_text": "pests and diseases",
+                "wikipedia_title": "Pests and diseases of pine trees"
+            },
+            {
+                "entity_in_the_text": "lack of qualified personnel",
+                "wikipedia_title": "Qualified personnel in agriculture"
+            },
+            {
+                "entity_in_the_text": "education",
+                "wikipedia_title": "Education in agriculture"
+            },
+            {
+                "entity_in_the_text": "inadequate advertisement and marketing",
+                "wikipedia_title": "Advertising and marketing of agricultural products"
+            },
+            {
+                "entity_in_the_text": "processing, marketing and promotion of pine nuts product",
+                "wikipedia_title": "Pine nuts processing, marketing and promotion"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "VC (venture capital)"
+            },
+            {
+                "entity_in_the_text": "Current and Predicted",
+                "wikipedia_title": "Current and predicted"
+            },
+            {
+                "entity_in_the_text": "Traditional",
+                "wikipedia_title": "Traditional venture capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "VC (Value chain)"
+            },
+            {
+                "entity_in_the_text": "innovation",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "land use systems",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "entity_in_the_text": "Cropland",
+                "wikipedia_title": "Cropland"
+            },
+            {
+                "entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "entity_in_the_text": "local assets",
+                "wikipedia_title": "Local assets"
+            },
+            {
+                "entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "entity_in_the_text": "cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Pine nuts",
+                "wikipedia_title": "Pine nut"
+            }
+        ]
+    }
+]

@@ -1,0 +1,274 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "MOVING reference member state",
+                "wikipedia_title": "ITALY UNIMOL"
+            },
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "VC 21 IT"
+            },
+            {
+                "entity_in_the_text": "organic production",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "entity_in_the_text": "honey production",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "infusion herbs",
+                "wikipedia_title": "Herbal infusions"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Northern Apennines - Tuscan Emilian Apennines",
+                "wikipedia_title": "Northern Apennines"
+            },
+            {
+                "entity_in_the_text": "Anghiari",
+                "wikipedia_title": "Anghiari"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "size",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "minimum altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "maximum altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "total population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "population density",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "entity_in_the_text": "population change rate",
+                "wikipedia_title": "Demographic trends"
+            },
+            {
+                "entity_in_the_text": "overall regional population density",
+                "wikipedia_title": "Regional population density"
+            },
+            {
+                "entity_in_the_text": "regional population change rate",
+                "wikipedia_title": "Regional demographic trends"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "entity_in_the_text": "primary sector share",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector share",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "entity_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total BPs/year",
+                "wikipedia_title": "Tourist accommodation"
+            },
+            {
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Local administrative division"
+            },
+            {
+                "entity_in_the_text": "regional share",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural land use"
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100000 (km)",
+                "wikipedia_title": "Populated place"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Organic farm",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "entity_in_the_text": "Mountain Product",
+                "wikipedia_title": "Regulation (EU) No 1151/2012"
+            },
+            {
+                "entity_in_the_text": "Pontepietra",
+                "wikipedia_title": "Pontepietra"
+            },
+            {
+                "entity_in_the_text": "herbal teas and herb salt",
+                "wikipedia_title": "Herbal tea"
+            },
+            {
+                "entity_in_the_text": "Apennines",
+                "wikipedia_title": "Apennines"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "brother Steinbruck",
+                "wikipedia_title": "Steinbruck family"
+            },
+            {
+                "entity_in_the_text": "hills bloom",
+                "wikipedia_title": "Blooming"
+            },
+            {
+                "entity_in_the_text": "organic and natural cultivation",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "entity_in_the_text": "medicinal and aromatic herbs",
+                "wikipedia_title": "Herbal medicine"
+            },
+            {
+                "entity_in_the_text": "wild herbs of the Apennines",
+                "wikipedia_title": "Apennine flora"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "brother Steinbruck",
+                "wikipedia_title": "Steinbruck family"
+            },
+            {
+                "entity_in_the_text": "hills bloom with a thousand different colours and scents",
+                "wikipedia_title": "Apennine Mountains"
+            },
+            {
+                "entity_in_the_text": "organic and natural cultivation of medicinal and aromatic herbs",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "entity_in_the_text": "make known the goodness of the wild herbs of the Apennines all over the world",
+                "wikipedia_title": "Apennine Mountains"
+            },
+            {
+                "entity_in_the_text": "Current",
+                "wikipedia_title": "Current events"
+            },
+            {
+                "entity_in_the_text": "Innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Innovation",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "Endogenous and Exogenous",
+                "wikipedia_title": "Endogenous and exogenous"
+            },
+            {
+                "entity_in_the_text": "New products",
+                "wikipedia_title": "Product innovation"
+            },
+            {
+                "entity_in_the_text": "Nature",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "entity_in_the_text": "Sostenibility and quality",
+                "wikipedia_title": "Sustainability"
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "entity_in_the_text": "Natural land and aromatic herbs",
+                "wikipedia_title": "Land use systems"
+            },
+            {
+                "entity_in_the_text": "Natural assets",
+                "wikipedia_title": "Nature"
+            }
+        ]
+    }
+]

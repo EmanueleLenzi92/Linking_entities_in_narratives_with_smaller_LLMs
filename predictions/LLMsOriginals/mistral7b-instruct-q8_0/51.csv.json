@@ -1,0 +1,302 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "MOVING reference member state",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "herb liquers",
+                "wikipedia_title": "Herbal liqueur"
+            },
+            {
+                "entity_in_the_text": "producers",
+                "wikipedia_title": "Producer (business)"
+            },
+            {
+                "entity_in_the_text": "niche market",
+                "wikipedia_title": "Niche market"
+            },
+            {
+                "entity_in_the_text": "promotion of the regions identity",
+                "wikipedia_title": "Regional identity"
+            },
+            {
+                "entity_in_the_text": "eshops",
+                "wikipedia_title": "E-commerce"
+            },
+            {
+                "entity_in_the_text": "farmers markets",
+                "wikipedia_title": "Farmer's market"
+            },
+            {
+                "entity_in_the_text": "direct selling",
+                "wikipedia_title": "Direct marketing"
+            },
+            {
+                "entity_in_the_text": "other specialized shops",
+                "wikipedia_title": "Specialty store"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Giant Mountains",
+                "wikipedia_title": "Giant Mountains"
+            },
+            {
+                "entity_in_the_text": "LAU 1 Trutnov",
+                "wikipedia_title": "Trutnov (district)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "size",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "minimum altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "maximum altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "total population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "population density",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "entity_in_the_text": "population change rate",
+                "wikipedia_title": "Demographic trends"
+            },
+            {
+                "entity_in_the_text": "overall regional population density",
+                "wikipedia_title": "Regional population density"
+            },
+            {
+                "entity_in_the_text": "regional population change rate",
+                "wikipedia_title": "Regional demographic trends"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "entity_in_the_text": "primary sector share",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector share",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "entity_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "bed places",
+                "wikipedia_title": "Tourist accommodation"
+            },
+            {
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Local administrative division"
+            },
+            {
+                "entity_in_the_text": "regional share",
+                "wikipedia_title": "Regional share"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural land use"
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100000 (km)",
+                "wikipedia_title": "Populated place"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Vodka"
+            },
+            {
+                "entity_in_the_text": "herb liquers",
+                "wikipedia_title": "Herbal liqueur"
+            },
+            {
+                "entity_in_the_text": "regional product",
+                "wikipedia_title": "Regional product"
+            },
+            {
+                "entity_in_the_text": "natural and symbolic values associated with the region",
+                "wikipedia_title": "Natural resources of Europe"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "produced",
+                "wikipedia_title": "Production"
+            },
+            {
+                "entity_in_the_text": "marketing",
+                "wikipedia_title": "Marketing"
+            },
+            {
+                "entity_in_the_text": "traditional knowledge",
+                "wikipedia_title": "Traditional knowledge"
+            },
+            {
+                "entity_in_the_text": "product labels",
+                "wikipedia_title": "Product labeling"
+            },
+            {
+                "entity_in_the_text": "cultural traits",
+                "wikipedia_title": "Culture"
+            },
+            {
+                "entity_in_the_text": "mountain area",
+                "wikipedia_title": "Mountains"
+            },
+            {
+                "entity_in_the_text": "symbolic value",
+                "wikipedia_title": "Symbolism"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Herb liquers",
+                "wikipedia_title": "Herb liqueur"
+            },
+            {
+                "entity_in_the_text": "mainstream food markets",
+                "wikipedia_title": "Mainstream food market"
+            },
+            {
+                "entity_in_the_text": "valorization of the product",
+                "wikipedia_title": "Valorization"
+            },
+            {
+                "entity_in_the_text": "marketing strategy",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "entity_in_the_text": "Current",
+                "wikipedia_title": "Current (economics)"
+            },
+            {
+                "entity_in_the_text": "Traditional",
+                "wikipedia_title": "Traditional"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "VC (Value chain)"
+            },
+            {
+                "entity_in_the_text": "innovation",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "land use systems",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Natural land use"
+            },
+            {
+                "entity_in_the_text": "local assets",
+                "wikipedia_title": "Local assets"
+            },
+            {
+                "entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "entity_in_the_text": "cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Valley"
+            },
+            {
+                "entity_in_the_text": "mountain region",
+                "wikipedia_title": "Mountain range"
+            }
+        ]
+    }
+]

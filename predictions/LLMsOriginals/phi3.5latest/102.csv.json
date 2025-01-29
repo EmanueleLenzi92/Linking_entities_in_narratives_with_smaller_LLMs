@@ -1,0 +1,693 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "entity_in_the_text": "Local beekeepers produce pefkothymaromelo with the traditional way of apicature.",
+                "wikipedia_title": "Pefkothymaromelo (honey)"
+            },
+            {
+                "entity_in_the_text": "Region of Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "entity_in_the_text": "Special regional labelling system for the quality systems of EU Geographical Indications (GIs)",
+                "wikipedia_title": "Geographical indication in Greece"
+            },
+            {
+                "entity_in_the_text": "honey factories",
+                "wikipedia_title": "Honey production facilities"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "White Mountains",
+                "wikipedia_title": "Mountains of White"
+            },
+            {
+                "entity_in_the_text": "KISSAMOS",
+                "wikipedia_title": "Kissamos (town)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "334.2",
+                "wikipedia_title": "Area of LAU"
+            },
+            {
+                "entity_in_the_text": "0",
+                "wikipedia_title": "Minimum altimetry of the Local Administrative Unit (LAU)"
+            },
+            {
+                "entity_in_the_text": "1000",
+                "wikipedia_title": "Maximum altimetry of the LAU"
+            },
+            {
+                "entity_in_the_text": "159.893",
+                "wikipedia_title": "Total population in thousand within the LAU"
+            },
+            {
+                "entity_in_the_text": "67.50",
+                "wikipedia_title": "Population density (Inhabitants/km2) in the LAU"
+            },
+            {
+                "entity_in_the_text": "0.02%",
+                "wikipedia_title": "LAU population change rate over the last 10 years"
+            },
+            {
+                "entity_in_the_text": "76.5",
+                "wikipedia_title": "Overall regional population density (Inhabitants/km2)"
+            },
+            {
+                "entity_in_the_text": "0.02%",
+                "wikipedia_title": "Regional population change rate over the last 10 years"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The average per capita income (EUR/year) Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "The per capita income (EUR/year) Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total number of bed places in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics"
+            },
+            {
+                "entity_in01.json\n    {": "ntities",
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Administrative division of a country or region"
+            },
+            {
+                "entity_in01.json\n    {": "ntities",
+                "entity_in_the_text": "total number of bed places (BPs) in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics"
+            },
+            {
+                "entity01.json\n    {": "ntities",
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Administrative division of a country or region"
+            },
+            {
+                "entity01.json\n    {": "ntities",
+                "entity_in_the_text": "total number of bed places (BPs) in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics"
+            },
+            {
+                "entities": [
+                    {
+                        "entity01.json\n    {": "ntities",
+                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                        "wikipedia_title": "Administrative division of a country or region"
+                    },
+                    {
+                        "entities": [
+                            {
+                                "entity01.json\n    {": "ntities",
+                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                "wikipedia_title": "Administrative division of a country or region"
+                            },
+                            {
+                                "entities": [
+                                    {
+                                        "entity01.json\n    {": "ntities",
+                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                        "wikipedia_title": "Administrative division of a country or region"
+                                    },
+                                    {
+                                        "entities": [
+                                            {
+                                                "entity01.json\n    {": "ntities",
+                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                "wikipedia_title": "Administrative division of a country or region"
+                                            },
+                                            {
+                                                "entities": [
+                                                    {
+                                                        "entity01.json\n    {": "ntities",
+                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                    },
+                                                    {
+                                                        "entities": [
+                                                            {
+                                                                "entity01.json\n    {": "ntities",
+                                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                "wikipedia_title": "Administrative division of a country or region"
+                                                            },
+                                                            {
+                                                                "entities": [
+                                                                    {
+                                                                        "entity01.json\n    {": "ntities",
+                                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                                    },
+                                                                    {
+                                                                        "entities": [
+                                                                            {
+                                                                                "entity01.json\n    {": "ntities",
+                                                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                "wikipedia_title": "Administrative division of a country or region"
+                                                                            },
+                                                                            {
+                                                                                "entities": [
+                                                                                    {
+                                                                                        "entity01.json\n    {": "ntities",
+                                                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                                                    },
+                                                                                    {
+                                                                                        "entities": [
+                                                                                            {
+                                                                                                "entity01.json\n    {": "ntities",
+                                                                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                "wikipedia_title": "Administrative division of a country or region"
+                                                                                            },
+                                                                                            {
+                                                                                                "entities": [
+                                                                                                    {
+                                                                                                        "entity01.json\n    {": "ntities",
+                                                                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entities": [
+                                                                                                            {
+                                                                                                                "entity01.json\n    {": "ntities",
+                                                                                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                "wikipedia_title": "Administrative division of a country or region"
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "entities": [
+                                                                                                                    {
+                                                                                                                        "entity01.json\n    {": "ntities",
+                                                                                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "entities": [
+                                                                                                                            {
+                                                                                                                                "entity01.json\n    {": "ntities",
+                                                                                                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "entities": [
+                                                                                                                                    {
+                                                                                                                                        "entity01.json\n    {": "ntities",
+                                                                                                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "entities": [
+                                                                                                                                            {
+                                                                                                                                                "entity01.json\n    {": "ntities",
+                                                                                                                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                            },
+                                                                                                                                            {
+                                                                                                                                                "entities": [
+                                                                                                                                                    {
+                                                                                                                                                        "entity01.json\n    {": "ntities",
+                                                                                                                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                    },
+                                                                                                                                                    {
+                                                                                                                                                        "entities": [
+                                                                                                                                                            {
+                                                                                                                                                                "entity01.json\n    {": "ntities",
+                                                                                                                                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                            },
+                                                                                                                                                            {
+                                                                                                                                                                "entities": [
+                                                                                                                                                                    {
+                                                                                                                                                                        "entity01.json\n    {": "ntities",
+                                                                                                                                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                    },
+                                                                                                                                                                    {
+                                                                                                                                                                        "entities": [
+                                                                                                                                                                            {
+                                                                                                                                                                                "entity01.json\n    {": "ntities",
+                                                                                                                                                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                            },
+                                                                                                                                                                            {
+                                                                                                                                                                                "entities": [
+                                                                                                                                                                                    {
+                                                                                                                                                                                        "entity01.json\n    {": "ntities",
+                                                                                                                                                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                    },
+                                                                                                                                                                                    {
+                                                                                                                                                                                        "entities": [
+                                                                                                                                                                                            {
+                                                                                                                                                                                                "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                "entity_in_the03.json\n    {": "ntities",
+                                                                                                                                                                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                            },
+                                                                                                                                                                                            {
+                                                                                                                                                                                                "entities": [
+                                                                                                                                                                                                    {
+                                                                                                                                                                                                        "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                                    },
+                                                                                                                                                                                                    {
+                                                                                                                                                                                                        "entities": [
+                                                                                                                                                                                                            {
+                                                                                                                                                                                                                "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                                "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                                            },
+                                                                                                                                                                                                            {
+                                                                                                                                                                                                                "entities": [
+                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                        "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                                                    },
+                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                        "entities": [
+                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                                                "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                                                            },
+                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                "entities": [
+                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                        "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                                                                    },
+                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                        "entities": [
+                                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                                "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                                                                "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                                                                            },
+                                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                                "entities": [
+                                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                                        "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                                                                                    },
+                                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                                        "entities": [
+                                                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                                                "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                                                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                                                                                "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                                                                                            },
+                                                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                                                "entities": [
+                                                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                                                        "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                                                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                                                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                                                                                                    },
+                                                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                                                        "entities": [
+                                                                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                                                                "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                                                                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                                                                                                "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                                                                                                            },
+                                                                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                                                                "entities": [
+                                                                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                                                                        "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                                                                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                                                                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                                                                                                                    },
+                                                                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                                                                        "entities": [
+                                                                                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                                                                                "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                                                                                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                                                                                                                "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                                                                                                                            },
+                                                                                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                                                                                "entities": [
+                                                                                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                                                                                        "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                                                                                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                                                                                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                                                                                                                                    },
+                                                                                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                                                                                        "entities": [
+                                                                                                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                                                                                                "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                                                                                                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                                                                                                                                "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                                                                                                                                            },
+                                                                                                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                                                                                                "entities": [
+                                                                                                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                                                                                                        "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                                                                                                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                                                                                                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                                                                                                                                                    },
+                                                                                                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                                                                                                        "entities": [
+                                                                                                                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                                                                                                                "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                                                                                                                                                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                                                                                                                                                "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                                                                                                                                                            },
+                                                                                                                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                                                                                                                "entities": [
+                                                                                                                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                                                                                                                        "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                                                                                                                                                        "entity_in_the_text": "LAU (Local Administrative Unit)",
+                                                                                                                                                                                                                                                                                                                                        "wikipedia_title": "Administrative division of a country or region"
+                                                                                                                                                                                                                                                                                                                                    },
+                                                                                                                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                                                                                                                        "entities": [
+                                                                                                                                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                                                                                                                                "entity01.json\n    {": "ntities",
+                                                                                                                                                                                                                                                                                                                                                "entity_indicts: 25,\n          {": "ame",
+                                                                                                                                                                                                                                                                                                                                                "LAU (Local Administrative Unit)": "wikipedia_title\":\"Administrative division of a country or region"
+                                                                                                                                                                                                                                                                                                                                            },
+                                                                                                                                                                                                                                                                                                                                            36
+                                                                                                                                                                                                                                                                                                                                        ]
+                                                                                                                                                                                                                                                                                                                                    },
+                                                                                                                                                                                                                                                                                                                                    41.0,
+                                                                                                                                                                                                                                                                                                                                    "json\n    ]}"
+                                                                                                                                                                                                                                                                                                                                ]
+                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                        ]
+                                                                                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                                                                ]
+                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                        ]
+                                                                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                                                ]
+                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                        ]
+                                                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                                ]
+                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                        ]
+                                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                ]
+                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                        ]
+                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                ]
+                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                        ]
+                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                ]
+                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                        ]
+                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                ]
+                                                                                                                                                                                                            }
+                                                                                                                                                                                                        ]
+                                                                                                                                                                                                    }
+                                                                                                                                                                                                ]
+                                                                                                                                                                                            }
+                                                                                                                                                                                        ]
+                                                                                                                                                                                    }
+                                                                                                                                                                                ]
+                                                                                                                                                                            }
+                                                                                                                                                                        ]
+                                                                                                                                                                    }
+                                                                                                                                                                ]
+                                                                                                                                                            }
+                                                                                                                                                        ]
+                                                                                                                                                    }
+                                                                                                                                                ]
+                                                                                                                                            }
+                                                                                                                                        ]
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The primary sector",
+                "wikipedia_title": "Primary economic activity"
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Employment by province in Canada or equivalent entity based on the context of your text, e.g., 'Economy of Quebec' if referring to a Canadian region"
+            },
+            {
+                "entity_in_the_text": "14.78%",
+                "wikipedia_title": "Employment by sector percentage in Province or equivalent entity based on the context, e.g., 'Economic structure of Quebec'"
+            },
+            {
+                "entity_in_the_text": "The secondary sector",
+                "wikipedia_title": "Secondary economic activity"
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Employment by province in Canada or equivalent entity based on the context of your text, e.g., 'Economy of Quebec'"
+            },
+            {
+                "entity_in_the_text": "11.46%",
+                "wikipedia_title": "Employment by sector percentage in Province or equivalent entity based on the context, e.g., 'Economic structure of Quebec'"
+            },
+            {
+                "entity_in_the_text": "The tertiary sector",
+                "wikipedia_title": "Tertiary economic activity"
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Employment by province in Canada or equivalent entity based on the context of your text, e.g., 'Economy of Quebec'"
+            },
+            {
+                "entity_in_the_text": "73.76%",
+                "wikipedia_title": "Employment by sector percentage in Province or equivalent entity based on the context, e.g., 'Economic structure of Quebec'"
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total employment/year Region",
+                "wikipedia_title": "Primary economic activity by region in Canada or equivalent entity based on the context, e.g., 'Economy of Alberta'"
+            },
+            {
+                "entity_in_the_text": "16.20%",
+                "wikipedia_title": "Employment by sector percentage for primary activity Region"
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total employment/year Region",
+                "wikipedia_title": "Secondary economic activity by region in Canada or equivalent entity based on the context, e.g., 'Economy of Alberta'"
+            },
+            {
+                "entity_in_the_text": "11.84%",
+                "wikipedia_title": "Employment by sector percentage for secondary activity Region"
+            },
+            {
+                "entity_in_the_text": "The tertiary sector share of total employment/year Region",
+                "wikipedia_title": "Tertiary economic activity by region in Canada or equivalent entity based on the context, e.g., 'Economy of Alberta'"
+            },
+            {
+                "entity_in_the_text": "71.97%",
+                "wikipedia_title": "Employment by sector percentage for tertiary activity Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Apicature",
+                "wikipedia_title": "Beekeeping"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "beekeeping",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the0: The bee colonies are transferred to specific forest areas where they collect pine tree juices. This process is used for producing what type of honey?',": "ikipedia_title"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete"
+            },
+            {
+                "entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate Change"
+            },
+            {
+                "entity_in_the_text": "severe weather conditions",
+                "wikipedia_title": "Extreme Weather Events"
+            },
+            {
+                "entity_in_the_text": "bees behavior",
+                "wikipedia_title": "Bee Behavior and Colony Health"
+            },
+            {
+                "entity_in_the_text": "honey production reduction",
+                "wikipedia_title": "Honey Production Decline"
+            },
+            {
+                "entity_in_the_text": "pesticides use increase",
+                "wikipedia_title": "Pesticide Use in Agriculture"
+            },
+            {
+                "entity_in_the_text": "intensive agricultural holdings",
+                "wikipedia_title": "Intensive Farming and Agribusinesses"
+            },
+            {
+                "entity_in_the_text": "Pefkothymaromelo",
+                "wikipedia_title": "Not Found. Please provide more context or a specific name."
+            },
+            {
+                "entity_in_the_text": "adulteration with inferior types of honey",
+                "wikipedia_title": "Adulterated Honey"
+            },
+            {
+                "entity_in_the_text": "imported in extremely low prices",
+                "wikipedia_title": "Import Prices and Trade Practices"
+            },
+            {
+                "entity_in_the_text": "Current challenge faced by this VC (VC)",
+                "wikipedia_title": "Not Specified. Please provide the name or context of the venture capital entity."
+            },
+            {
+                "entity_in_the_text": "Predicted challenges",
+                "wikipedia_title": "Future Predictions in Agriculture and Environment"
+            },
+            {
+                "entity_in_the_text": "Traditional VC classification",
+                "wikipedia_title": "Not Specified. Please provide the name or context of the venture capital entity."
+            },
+            {
+                "entity_in_the_text": "Innovative approach in this case",
+                "wikipedia_title": "Entrepreneurial Innovation and Sustainability"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "pefkothymaromelo",
+                "wikipedia_title": "Pefkothymarome, a type of honey protected by PDO characterization in Greece."
+            },
+            {
+                "entity_in_the_text": "New products",
+                "wikipedia_title": "Product innovation"
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance system, possibly related to 'Good Governance'"
+            },
+            {
+                "entity_in_the_text": "Forestry and Natural land use systems",
+                "wikipedia_title": "Land Use"
+            },
+            {
+                "entity_in_the_text": "Natural, social and cultural local assets",
+                "wikipedia_title": "Local Assets (Economics)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece"
+            },
+            {
+                "entity_in_the_text": "EU katalog (eAmbrosia)",
+                "wikipedia_title": "European Beekeeping Practices - European Apiculture Models and Innovations Network (EBPMIN)"
+            },
+            {
+                "entity_in_the_text": "Peyfothymaromelo",
+                "wikipedia_title": "Phegophthalma"
+            }
+        ]
+    }
+]

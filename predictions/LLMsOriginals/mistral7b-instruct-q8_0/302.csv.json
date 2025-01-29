@@ -1,0 +1,330 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "MOVING reference member state",
+                "wikipedia_title": "SKANDINAVIAN UCO"
+            },
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "VC (Value Chain)"
+            },
+            {
+                "entity_in_the_text": "cheese",
+                "wikipedia_title": "Brimost cheese"
+            },
+            {
+                "entity_in_the_text": "Undredal Stølsysteri SA",
+                "wikipedia_title": "Undredal Stølsysteri SA"
+            },
+            {
+                "entity_in_the_text": "Slowfood Foundation for Biodiversity",
+                "wikipedia_title": "Slowfood Foundation for Biodiversity"
+            },
+            {
+                "entity_in_the_text": "Undredal Brown Cheese Presidium",
+                "wikipedia_title": "Undredal Brown Cheese Presidium"
+            },
+            {
+                "entity_in_the_text": "VC has great influence in the SES",
+                "wikipedia_title": "SES (Sustainable Economic System)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Scandinavean Mountains - Scandes",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "entity_in_the_text": "Aurland",
+                "wikipedia_title": "Aurland"
+            },
+            {
+                "entity_in_the_text": "Nærøyfjorden",
+                "wikipedia_title": "Nærøyfjord"
+            },
+            {
+                "entity_in_the_text": "Sognefjorden",
+                "wikipedia_title": "Sognefjorden"
+            },
+            {
+                "entity_in_the_text": "Geirangefjord and Nærøyfjord UNESCO World Heritage Site",
+                "wikipedia_title": "UNESCO World Heritage Sites in Norway"
+            },
+            {
+                "entity_in_the_text": "Undredal",
+                "wikipedia_title": "Undredal"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "size",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "minimum altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "maximum altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "total population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "population density",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "entity_in_the_text": "population change rate",
+                "wikipedia_title": "Demographic trends"
+            },
+            {
+                "entity_in_the_text": "overall regional population density",
+                "wikipedia_title": "Regional population density"
+            },
+            {
+                "entity_in_the_text": "regional population change rate",
+                "wikipedia_title": "Regional demographic trends"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "entity_in_the_text": "primary sector share",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector share",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "entity_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total BPs/year",
+                "wikipedia_title": "Tourist accommodation"
+            },
+            {
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Local administrative division"
+            },
+            {
+                "entity_in_the_text": "regional share",
+                "wikipedia_title": "Regional economy"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural land use"
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100000 (km)",
+                "wikipedia_title": "Populated place"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "high quality product",
+                "wikipedia_title": "High-quality"
+            },
+            {
+                "entity_in_the_text": "high reputation nationwide",
+                "wikipedia_title": "Reputation"
+            },
+            {
+                "entity_in_the_text": "long history of connectedness with the natural ecosystem",
+                "wikipedia_title": "Connectedness"
+            },
+            {
+                "entity_in_the_text": "region's cultural heritage",
+                "wikipedia_title": "Cultural heritage"
+            },
+            {
+                "entity_in_the_text": "important aspect of its identity",
+                "wikipedia_title": "Identity"
+            },
+            {
+                "entity_in_the_text": "website and the online store",
+                "wikipedia_title": "Website"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "natural assets",
+                "wikipedia_title": "Natural resources"
+            },
+            {
+                "entity_in_the_text": "pastures",
+                "wikipedia_title": "Pasture"
+            },
+            {
+                "entity_in_the_text": "Undfredal (town within the municipality of Aureland)",
+                "wikipedia_title": "Undredal, Norway"
+            },
+            {
+                "entity_in_the_text": "goats",
+                "wikipedia_title": "Goat"
+            },
+            {
+                "entity_in_the_text": "cheese market",
+                "wikipedia_title": "Cheese festival"
+            },
+            {
+                "entity_in_the_text": "Norsk Gardsost",
+                "wikipedia_title": "Norsk Gardsost"
+            },
+            {
+                "entity_in_the_text": "Slowfood Presidium",
+                "wikipedia_title": "Slow Food"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "industrial dairies",
+                "wikipedia_title": "Industrial dairy"
+            },
+            {
+                "entity_in_the_text": "traditional cheeses",
+                "wikipedia_title": "Traditional cheese"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Current and Predicted",
+                "wikipedia_title": "Predictive analytics"
+            },
+            {
+                "entity_in_the_text": "Traditional and Innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Innovation",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Exogenous",
+                "wikipedia_title": "Exogenous"
+            },
+            {
+                "entity_in_the_text": "Website",
+                "wikipedia_title": "Website"
+            },
+            {
+                "entity_in_the_text": "E-commerce marketing",
+                "wikipedia_title": "E-commerce marketing"
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "entity_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "entity_in_the_text": "Natural assets",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "entity_in_the_text": "Social assets",
+                "wikipedia_title": "Society"
+            },
+            {
+                "entity_in_the_text": "Cultural assets",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Sweden Jämtland Cellar-Matured Goat Cheese (NUTS3 SE322)",
+                "wikipedia_title": "Sweden Jämtland Cellar-Matured Goat Cheese"
+            },
+            {
+                "entity_in_the_text": "Presidium of the Slowfood Foundation for Biodiversity",
+                "wikipedia_title": "Presidium of the Slow Food Foundation for Biodiversity"
+            }
+        ]
+    }
+]

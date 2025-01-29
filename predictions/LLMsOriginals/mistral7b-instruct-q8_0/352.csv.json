@@ -1,0 +1,438 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "MOVING reference member state",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "SPAIN ADEGUA",
+                "wikipedia_title": "Spain"
+            },
+            {
+                "entity_in_the_text": "VC 35 ES",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Organic Production of Foodstuffs linked to the Aragonese Territory",
+                "wikipedia_title": "Organic agriculture"
+            },
+            {
+                "entity_in_the_text": "ATADES Gardeniers Special Employment Center",
+                "wikipedia_title": "Agricultural employment center"
+            },
+            {
+                "entity_in_the_text": "Boliche, chickpeas, and lentils",
+                "wikipedia_title": "Legumes"
+            },
+            {
+                "entity_in_the_text": "Torres de Berrellén melon",
+                "wikipedia_title": "Melon"
+            },
+            {
+                "entity_in_the_text": "province of Zaragoza",
+                "wikipedia_title": "Zaragoza"
+            },
+            {
+                "entity_in_the_text": "Rural Development Program",
+                "wikipedia_title": "Rural development"
+            },
+            {
+                "entity_in_the_text": "European Agricultural Fund for Rural Development (EAFRD)",
+                "wikipedia_title": "European Agricultural Fund for Rural Development"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Pyrenees",
+                "wikipedia_title": "Pyrenees"
+            },
+            {
+                "entity_in_the_text": "Jaca (Ascara)",
+                "wikipedia_title": "Jaca (town)"
+            },
+            {
+                "entity_in_the_text": "Canal de Berdún",
+                "wikipedia_title": "Canal de Berdún"
+            },
+            {
+                "entity_in_the_text": "Huesca",
+                "wikipedia_title": "Huesca"
+            },
+            {
+                "entity_in_the_text": "Zaragoza",
+                "wikipedia_title": "Zaragoza"
+            },
+            {
+                "entity_in_the_text": "Boliche",
+                "wikipedia_title": "Lentil"
+            },
+            {
+                "entity_in_the_text": "Chickpeas",
+                "wikipedia_title": "Chickpea"
+            },
+            {
+                "entity_in_the_text": "Lentils",
+                "wikipedia_title": "Lentil"
+            },
+            {
+                "entity_in_the_text": "Honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "Melon",
+                "wikipedia_title": "Watermelon"
+            },
+            {
+                "entity_in_the_text": "Torres de Berrellén",
+                "wikipedia_title": "Torres de Berrellén"
+            },
+            {
+                "entity_in_the_text": "Montañana (Zaragoza)",
+                "wikipedia_title": "Montañana (town)"
+            },
+            {
+                "entity_in_the_text": "Gardeniers farm",
+                "wikipedia_title": "Gardeners' farm"
+            },
+            {
+                "entity_in_the_text": "Cielos de Ascara agroecological social project",
+                "wikipedia_title": "Agroecology"
+            },
+            {
+                "entity_in_the_text": "Sigpac references",
+                "wikipedia_title": "SIGPAQ"
+            },
+            {
+                "entity_in_the_text": "Jaca in the Jacetania region",
+                "wikipedia_title": "Jaca (town)"
+            },
+            {
+                "entity_in_the_text": "Natura 2000 Network",
+                "wikipedia_title": "Natura 2000"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "population change rate",
+                "wikipedia_title": "Population growth rate"
+            },
+            {
+                "entity_in_the_text": "regional population density",
+                "wikipedia_title": "Regional population density"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "entity_in_the_text": "primary sector share",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector share",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "entity_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total BPs/year",
+                "wikipedia_title": "Tourist accommodation"
+            },
+            {
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Local administrative division"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural land use"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Cielos de Ascara",
+                "wikipedia_title": "Cielos de Ascara"
+            },
+            {
+                "entity_in_the_text": "Aragonese Pyrenees",
+                "wikipedia_title": "Pyrenees (mountain range)"
+            },
+            {
+                "entity_in_the_text": "people with particular social and labor insertion difficulties",
+                "wikipedia_title": "Social inclusion"
+            },
+            {
+                "entity_in_the_text": "natural resources",
+                "wikipedia_title": "Natural resource management"
+            },
+            {
+                "entity_in_the_text": "inputs for organic food production",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "entity_in_the_text": "mountain and valley areas",
+                "wikipedia_title": "Mountains"
+            },
+            {
+                "entity_in_the_text": "public-private collaboration",
+                "wikipedia_title": "Public–private partnership"
+            },
+            {
+                "entity_in_the_text": "endogenous innovation project",
+                "wikipedia_title": "Endogenous development"
+            },
+            {
+                "entity_in_the_text": "multiple local actors",
+                "wikipedia_title": "Local governance"
+            },
+            {
+                "entity_in_the_text": "public co-financing aimed at promoting territorially-based social development",
+                "wikipedia_title": "Social development"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Aragon",
+                "wikipedia_title": "Aragon"
+            },
+            {
+                "entity_in_the_text": "food heritage",
+                "wikipedia_title": "Food heritage"
+            },
+            {
+                "entity_in_the_text": "sustainable, proximity, healthy, higher quality, and flavorful horticultural products",
+                "wikipedia_title": "Sustainable agriculture"
+            },
+            {
+                "entity_in_the_text": "consumer has hardly any access",
+                "wikipedia_title": "Access to food"
+            },
+            {
+                "entity_in_the_text": "innovative products as a diversity source for a standardized market occupied by few varieties",
+                "wikipedia_title": "Innovation in agriculture"
+            },
+            {
+                "entity_in_the_text": "Organic Production of Foodstuffs linked to the Aragonese Territory",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "entity_in_the_text": "traditional products",
+                "wikipedia_title": "Traditional agriculture"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "sustainability",
+                "wikipedia_title": "Sustainability"
+            },
+            {
+                "entity_in_the_text": "triple economic, social, and ecological aspects",
+                "wikipedia_title": "Triple bottom line"
+            },
+            {
+                "entity_in_the_text": "institutional and private actors",
+                "wikipedia_title": "Corporate governance"
+            },
+            {
+                "entity_in_the_text": "project",
+                "wikipedia_title": "Project management"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "rural development policies",
+                "wikipedia_title": "Rural development"
+            },
+            {
+                "entity_in_the_text": "urban consumption environments",
+                "wikipedia_title": "Urban consumption"
+            },
+            {
+                "entity_in_the_text": "Current",
+                "wikipedia_title": "Current (economics)"
+            },
+            {
+                "entity_in_the_text": "Innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "VC"
+            },
+            {
+                "entity_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous development"
+            },
+            {
+                "entity_in_the_text": "revitalization of rural and mountain areas",
+                "wikipedia_title": "Rural revitalization"
+            },
+            {
+                "entity_in_the_text": "traditional varieties",
+                "wikipedia_title": "Traditional agriculture"
+            },
+            {
+                "entity_in_the_text": "promote organic production and consumption",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "entity_in_the_text": "connect rural and urban areas",
+                "wikipedia_title": "Rural-urban linkages"
+            },
+            {
+                "entity_in_the_text": "generate employment",
+                "wikipedia_title": "Employment creation"
+            },
+            {
+                "entity_in_the_text": "foster social integration",
+                "wikipedia_title": "Social integration"
+            },
+            {
+                "entity_in_the_text": "stimulate forms of public-private cooperation",
+                "wikipedia_title": "Public-private partnerships"
+            },
+            {
+                "entity_in_the_text": "New products",
+                "wikipedia_title": "Innovation in product development"
+            },
+            {
+                "entity_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing innovation"
+            },
+            {
+                "entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance innovation"
+            },
+            {
+                "entity_in_the_text": "Cropland",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "entity_in_the_text": "Natural, social and cultural",
+                "wikipedia_title": "Local assets"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Sites of Community Importance (SCI)",
+                "wikipedia_title": "Lists of sites of community importance in Spain"
+            },
+            {
+                "entity_in_the_text": "Special Protection Area for Birds (SPA)",
+                "wikipedia_title": "Special Protection Areas for birds in Spain"
+            },
+            {
+                "entity_in_the_text": "protected landscape of San Juan de la Peña and Monte Oroel",
+                "wikipedia_title": "Protected landscapes in Spain"
+            },
+            {
+                "entity_in_the_text": "Natural Park of the Western Valleys",
+                "wikipedia_title": "Natural parks in Spain"
+            },
+            {
+                "entity_in_the_text": "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+                "wikipedia_title": "Centro de Investigación y Tecnología Agroalimentaria de Aragón"
+            },
+            {
+                "entity_in_the_text": "Special Employment Center Gardeniers of ATADES",
+                "wikipedia_title": "Special employment centers in Spain"
+            },
+            {
+                "entity_in_the_text": "organic canning workshop that manages in Mercazaragoza",
+                "wikipedia_title": "Organic farming in Spain"
+            }
+        ]
+    }
+]

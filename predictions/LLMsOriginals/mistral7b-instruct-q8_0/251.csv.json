@@ -1,0 +1,358 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "MOVING reference member state of this VC (Value Chain)",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "entity_in_the_text": "VC 03 UK",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "UK has 50% of the heather moorland in the world",
+                "wikipedia_title": "Heather moorland"
+            },
+            {
+                "entity_in_the_text": "Heather honey is one product that is made using this special moorland",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "Heather is produced across Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "entity_in_the_text": "Scottish heather Honey is award winning (Scottish great taste gold award)",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "Scottishheather honey was also teh first product in the UK to be awarded the new British Standards Institution Kitemark for Food Assurance",
+                "wikipedia_title": "British Standards Institution"
+            },
+            {
+                "entity_in_the_text": "Heather Hills in Perthshire have 1300 hives with 52million honey bees",
+                "wikipedia_title": "Honey bee"
+            },
+            {
+                "entity_in_the_text": "They also produce beeswax and cosmetics products using teh heather honey",
+                "wikipedia_title": "Beeswax"
+            },
+            {
+                "entity_in_the_text": "Their net assets for 2020 were roughly £271,000)",
+                "wikipedia_title": "Company"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Highlands and Islands (RR9)",
+                "wikipedia_title": "Highlands and Islands"
+            },
+            {
+                "entity_in_the_text": "Eastern Scotland (NUTS2)",
+                "wikipedia_title": "Eastern Scotland"
+            },
+            {
+                "entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "entity_in_the_text": "Tay, Earn",
+                "wikipedia_title": "River Tay"
+            },
+            {
+                "entity_in_the_text": "High quality agricultural land",
+                "wikipedia_title": "Agriculture in Scotland"
+            },
+            {
+                "entity_in_the_text": "major road and rail links",
+                "wikipedia_title": "Transport in Perth and Kinross"
+            },
+            {
+                "entity_in_the_text": "largest settlement of Perth",
+                "wikipedia_title": "Perth"
+            },
+            {
+                "entity_in_the_text": "Highlands",
+                "wikipedia_title": "Highlands"
+            },
+            {
+                "entity_in_the_text": "Outdoor recreation",
+                "wikipedia_title": "Tourism in Scotland"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "population change rate",
+                "wikipedia_title": "Population growth rate"
+            },
+            {
+                "entity_in_the_text": "regional population density",
+                "wikipedia_title": "Regional population density"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "entity_in_the_text": "primary sector share",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector share",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "entity_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total BPs/year",
+                "wikipedia_title": "Tourist accommodation"
+            },
+            {
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Local administrative division"
+            },
+            {
+                "entity_in_the_text": "regional share",
+                "wikipedia_title": "Regional share"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural land use"
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100000 (km)",
+                "wikipedia_title": "Populated place"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Scottish Heather honey",
+                "wikipedia_title": "Scottish heather honey"
+            },
+            {
+                "entity_in_the_text": "Champagne of honeys",
+                "wikipedia_title": "List of award-winning honey varieties"
+            },
+            {
+                "entity_in_the_text": "Perth and Kinross LAU1",
+                "wikipedia_title": "Perth and Kinross (LAU1)"
+            },
+            {
+                "entity_in_the_text": "traditional collection and processing methods",
+                "wikipedia_title": "Honey production"
+            },
+            {
+                "entity_in_the_text": "bigger producers",
+                "wikipedia_title": "List of honey producers"
+            },
+            {
+                "entity_in_the_text": "Scottish 'great taste gold award'",
+                "wikipedia_title": "Great Taste Awards"
+            },
+            {
+                "entity_in_the_text": "Heather Hills honey",
+                "wikipedia_title": "Heather Hills Honey"
+            },
+            {
+                "entity_in_the_text": "Noble Isle",
+                "wikipedia_title": "Noble Isle"
+            },
+            {
+                "entity_in_the_text": "manuka honey",
+                "wikipedia_title": "Manuka honey"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "natural assets",
+                "wikipedia_title": "Natural resources"
+            },
+            {
+                "entity_in_the_text": "terrain and climate (and heather)",
+                "wikipedia_title": "Terrain and climate"
+            },
+            {
+                "entity_in_the_text": "1300 hives (52 million honey bees)",
+                "wikipedia_title": "Honey bee"
+            },
+            {
+                "entity_in_the_text": "traditional knowledge for the means of production and processing",
+                "wikipedia_title": "Traditional knowledge"
+            },
+            {
+                "entity_in_the_text": "Honey Sommelier",
+                "wikipedia_title": "Sommelier"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "climate",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "entity_in_the_text": "product",
+                "wikipedia_title": "Product"
+            },
+            {
+                "entity_in_the_text": "collection",
+                "wikipedia_title": "Collection"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "traditional",
+                "wikipedia_title": "Tradition"
+            },
+            {
+                "entity_in_the_text": "innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Value Chain",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Endogenous and Exogenous",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "BCI kitemark",
+                "wikipedia_title": "British Retail Consortium"
+            },
+            {
+                "entity_in_the_text": "New products",
+                "wikipedia_title": "Product innovation"
+            },
+            {
+                "entity_in_the_text": "New processes",
+                "wikipedia_title": "Process innovation"
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "entity_in_the_text": "Local assets",
+                "wikipedia_title": "Assets"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Heather hills",
+                "wikipedia_title": "Heather"
+            },
+            {
+                "entity_in_the_text": "Aberdeenshire LAU1",
+                "wikipedia_title": "Aberdeenshire"
+            },
+            {
+                "entity_in_the_text": "Scotland",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "entity_in_the_text": "Luneburg",
+                "wikipedia_title": "Luneburg"
+            },
+            {
+                "entity_in_the_text": "Ireland",
+                "wikipedia_title": "Ireland"
+            }
+        ]
+    }
+]

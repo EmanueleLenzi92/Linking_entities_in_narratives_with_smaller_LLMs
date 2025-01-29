@@ -1,0 +1,561 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "entity_in_the01: Almenland Stollenkäse GmbH, which ten is sold mainly in Austria and South of Germany,": "wikipedia_title\": \"Almenland Stollenkäse GmbH"
+            },
+            {
+                "entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "entity_in_the01: South of Germany, but also internationally.": "wikipedia_title\": \"South Germany\" and \"international trade"
+            }
+        ]
+    },
+    [
+        {
+            "entities": [
+                {
+                    "entity_in_the_text": "VC",
+                    "wikipedia_title": "Verwaltungsgemeinschaft"
+                },
+                {
+                    "entity_in_the01, Austrian Alps. The reference mountain landscape of this VC is Weiz (No: 617). This refers to a specific administrative community in Austria known for its location within the Austrian Alps and centered around the town of Weiz with postal code numbered as No: 617.\n            \n            {": "ntity_in_the_text",
+                    "Austrian Alps": "wikipedia_title\": \"Alpine region in Austria"
+                }
+            ]
+        },
+        {
+            "entity_in_the_text": "Weiz (No: 617)",
+            "wikipedia_title": "Weiz, Styria, Austria"
+        },
+        {
+            "entity_in_the_text": "Almenland",
+            "wikipedia_title": "Styrian Alps or Austrian Central-eastern Alps region (German: Steirische Alpen)"
+        },
+        {
+            "entity_in_the_text": "125 pastures, 36.6 km2",
+            "wikipedia_title": "Styria's Pastoral Landscapes"
+        },
+        {
+            "entity_in_the_text": "between 1.200 and 1.500 m above sea level",
+            "wikipedia_title": "Altitudinal range of Styrian Alps region in Austria"
+        },
+        {
+            "entity_in_the_text": "humid, having a lot of thunderstorms.",
+            "wikipedia_title": "Climate description for the Austrian Central-eastern Alps (Styria)"
+        },
+        {
+            "entity_in_the_text": "diverse rock formation",
+            "wikipedia_title": "Geology of Styria, Austria"
+        }
+    ],
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The size of the area",
+                "wikipedia_title": "Area measurement"
+            },
+            {
+                "entity_in_the_text": "1098 km2",
+                "wikipedia_title": "Size (area) - Wikipedia page for Area measurements in square kilometers or acres."
+            },
+            {
+                "entity_in_the_text": "The minimum altimetry of the LAU",
+                "wikipedia_title": "Altitude range within Local Administrative Units"
+            },
+            {
+                "entity_in_the_text": "464 meters",
+                "wikipedia_title": "Local Administrative Unit (LAU) with specific altimetry - Wikipedia page for Altitudes of administrative divisions."
+            },
+            {
+                "entity_in_the_text": "The maximum altimetry of the LAU",
+                "wikipedia_title": "Maximum elevation within Local Administrative Units"
+            },
+            {
+                "entity_in_the_text": "1720 meters",
+                "wikipedia_title": "Local Administrative Unit (LAU) with specific altimetry - Wikipedia page for Altitudes of administrative divisions."
+            },
+            {
+                "entity_in_the_text": "The total population in the LAU",
+                "wikipedia_title": "Population count within Local Administrative Units"
+            },
+            {
+                "entity_in_the_text": "90.654 thousand people",
+                "wikipedia_title": "Local Administrative Unit (LAU) with specific population - Wikipedia page for Population of administrative divisions."
+            },
+            {
+                "entity_in_the_text": "The population density in the LAU",
+                "wikipedia_title": "Population Density within Local Administrative Units"
+            },
+            {
+                "entity_in_the_text": "82.56 Inhabitants/km²",
+                "wikipedia_title": "Local Administrative Unit (LAU) with specific population density - Wikipedia page for Population densities of administrative divisions."
+            },
+            {
+                "entity_in_the_text": "The population change rate in the LAU over 10 years",
+                "wikipedia_title": "Population growth or decline within Local Administrative Units"
+            },
+            {
+                "entity_in_the_text": "3.68%",
+                "wikipedia_title": "Local Administrative Unit (LAU) with specific population change rate - Wikipedia page for Population changes of administrative divisions."
+            },
+            {
+                "entity_in_the_text": "The overall regional population density",
+                "wikipedia_title": "Population Density at the Regional Level"
+            },
+            {
+                "entity_in_the_text": "76.28 Inhabitants/km²",
+                "wikipedia_title": "Regional Population Densities - Wikipedia page for population densities of regions."
+            },
+            {
+                "entity_in_the_text": "The regional population change rate over 10 years",
+                "wikipedia_title": "Population growth or decline at the Regional Level"
+            },
+            {
+                "entitys in text: '3.30%',": "ikipedia title"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The average per capita income (EUR/year) Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "The per capita income (EUR/year) Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Region",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total number of bed places in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics for the specified location"
+            },
+            {
+                "entity_in_the_text": "4310 BPs per year",
+                "wikipedia_title": "Numeric data about tourist accommodations in this LAU (Local Administrative Unit)"
+            },
+            {
+                "entity_in_the_text": "regional share of total bed places/year",
+                "wikipedia_title": "Statistics on the distribution of BPs within a region"
+            },
+            {
+                "entity_in_the_text": "2.77% regional share",
+                "wikipedia_title": "Percentage calculation for tourist accommodations' contribution to total bed places in this LAU (Local Administrative Unit)"
+            },
+            {
+                "entity_in_the_text": "4555 agricultural holdings",
+                "wikipedia_title": "Agriculture statistics of the specified location"
+            },
+            {
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Administrative division information for this region, possibly from Wikipedia's Local Government section or equivalent source."
+            },
+            {
+                "entity_in_the_text": "settlement with population over 100000 (km) at a distance of 30 km",
+                "wikipedia_title": "Population density and distribution information for nearby settlements"
+            },
+            {
+                "entity_in_the_text": "protected areas present in the region",
+                "wikipedia_title": "Conservation area or protected land status of this location, possibly from Wikipedia's Environmental Conservation section."
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The primary sector",
+                "wikipedia_title": "Primary economic activity"
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)"
+            },
+            {
+                "entity_in_the_text": "5.55% share for total employment/year Region",
+                "wikipedia_title": "Regional economic statistics"
+            },
+            {
+                "entity_in_the_text": "26.47% secondary sector share of total employment/year Region",
+                "wikipedia_title": "Secondary industry in the specified region (if referring to a specific country)"
+            },
+            {
+                "entity_in_the_text": "67.99% tertiary sector share of total employment/year Region",
+                "wikipedia_title": "Tertiary economic activity or services in the specified region (if referring to a specific country)"
+            }
+        ]
+    },
+    [
+        {
+            "entities": [
+                {
+                    "entity_in_the_text": "14 different types of cheese",
+                    "wikipedia_title": "List of artisanal and regional cheeses"
+                },
+                {
+                    "entity_in09, the 'pit house' into a 'cheese workshop', which suggests it is related to traditional or local methods. This could potentially link with:\n            \n            {": "ntity_in_the_text",
+                    "'Cheese Workshop in Almenland": "wikipedia_title",
+                    "Almenland Cheese Factory": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+                }
+            ]
+        },
+        {
+            "entity_in09, which indicates involvement with local agriculture and dairy production. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'local Almenland dairy'": "wikipedia_title",
+            "Almenland Dairy": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity_in09, which suggests an element of tourism and education. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'touristic programme', 'guided tours'": "wikipedia_title",
+            "Tourism in Almenland": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity_in09, which suggests an educational aspect. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'educational programmes'": "wikipedia_title",
+            "Education in Almenland": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity_in09, which suggests an element of local culture and tradition. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'Almenland umbrella quality brand'": "wikipedia_title",
+            "Brands in Almenland": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity_in09, which suggests an element of local history. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'history of the company'": "wikipedia_title",
+            "History of Almenland Cheese Factory": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity_in09, which suggests an element related to geography and architecture. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'100m deep in mountain', '270 m tunnel'": "wikipedia_title",
+            "Geology of Almenland": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity_in09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity09",
+            "wikipedia_title": "Cow milk production in Almenland",
+            "Note": "The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'sheep'": "wikipedia_title",
+            "Sheep husbandry in Almenland": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'goat'": "wikipedia_title",
+            "Goat husbandry in Almenland": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Silver mining history of Almenland": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Cheese aging processes": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Silver mines": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Silver mining": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Cheese production": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Cheese aging": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Silver mining": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Silver mining": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Silver mining": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Silver mining": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Silver mining": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Silver mining": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Silver mining": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Silver mining": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Silver mining": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Silver mining": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Silver mining": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Silver mining": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Silver mining": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the_text",
+            "'matured in a former silver mine'": "wikipedia_title",
+            "Silver mining": "Note: The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in_the09",
+            "wikipedia_title": "Silver mining",
+            "Note": "The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in09",
+            "wikipedia_title": "Silver mining",
+            "Note": "The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in09",
+            "wikipedia_title": "Silver mining",
+            "Note": "The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in09",
+            "wikipedia_title": "Silver mining",
+            "Note": "The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in09",
+            "wikipedia_title": "Silver mining",
+            "Note": "The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in09",
+            "wikipedia_title": "Silver mining",
+            "Note": "The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in09",
+            "wikipedia_title": "Silver mining",
+            "Note": "The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        },
+        {
+            "entity09, which suggests an element related to local agriculture and farming. This could link to:\n            \n            {": "ntity_in09",
+            "wikipedia_title": "Silver mining",
+            "Note": "The exact Wikipedia title may not exist; this is a hypothetical construct based on the provided text.)"
+        }
+    ],
+    [
+        {
+            "entities": [
+                {
+                    "entity_in_the_text": "Almenland",
+                    "wikipedia_title": "Alm"
+                },
+                {
+                    "entity_in_the_text": "'Genussregion ( region of culinary delight)",
+                    "wikipedia_title": "Gastronomic Region or Food Tourism in Austria"
+                },
+                {
+                    "entity_in_the_text": "AgrarMarkt Austria",
+                    "wikipedia_title": "Agrimarket (Vienna, Austria)"
+                },
+                {
+                    "entity_in_the_text": "milk producing sector in the area",
+                    "wikipedia_title": "Dairy Industry"
+                },
+                {
+                    "entity_in_the_text": "cooperation with tourist sector",
+                    "wikipedia_title": "Tourism and Agriculture Co-operations (Austria)"
+                },
+                {
+                    "entity_in_the_text": "company's online marketing platform",
+                    "wikipedia_title": "Online Marketplaces for Local Products"
+                }
+            ]
+        },
+        {
+            "entities": [
+                {
+                    "entity_in_the_text": "The Great Barrier Reef",
+                    "wikipedia_title": "Great Barrier Reef"
+                },
+                {
+                    "entity_in_the_text": "rising sea temperatures",
+                    "wikipedia_title": "Climate Change: Ocean Warming and Coral Bleaching"
+                },
+                {
+                    "entity_in_the_text": "Dr. Jane Goodall",
+                    "wikipedia_title": "Jane Goodall, although primarily known for her work with chimpanzees in Africa, has also contributed to environmental science discussions."
+                }
+            ]
+        },
+        {
+            "entities": [
+                {}
+            ]
+        }
+    ],
+    [
+        {
+            "entities": [
+                {
+                    "entity_in_the_text": "Almenland",
+                    "wikipedia_title": "Alm (Austria)"
+                },
+                {
+                    "entity_in_the0: The entity 'extreme weather conditions' refers to a general concept rather than a specific location or organization, so it does not have an exact Wikipedia title. However, the related topic can be found under:\n            \n            {": "ntity_in_the_text",
+                    "Extreme weather conditions": "wikipedia_title\": \"Weather extremes"
+                }
+            ]
+        },
+        {
+            "entity_in_the_text": "feedbase for this pasture based meat production",
+            "wikipedia_title": "Pastoral farming"
+        },
+        {
+            "entity_in_the_text": "vegetation might change due to climate changes affecting the feed base.",
+            "wikipedia_title": "Climate-related vegetation shifts and impacts on agriculture",
+            "be": {
+                "entity_in_the_text": "vegetation might change due to climate changes affecting the feed base.",
+                "wikipedia_title": "Impact of global warming on agriculture"
+            }
+        },
+        {
+            "entity_in_the_text": "cultivation of feed for winter time",
+            "wikipedia_title": "Winter farming and livestock nutrition in cold climates"
+        },
+        {
+            "entity_in_the_text": "Alm (Austria)",
+            "wikipedia_title": "Alm (Austria)"
+        },
+        {
+            "entity_in_the_text": "VC",
+            "wikipedia_title": "Venture capital"
+        },
+        {
+            "entity_in_the_text": "traditional",
+            "wikipedia_title": "Traditional farming"
+        },
+        {
+            "entity_in_the_text": "innovative",
+            "wikipedia_title": "Agripreneurship",
+            "page": ""
+        }
+    ],
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "entity_in_the0: The type of innovation in the Value Chain is Endogenous and Exogenous. Specific processing involves maturing cheese in a tunnel formerly used as a silver mine, with some types being aged for up to 1.5 years using local hey milk; this results in various unique cheeses produced on-site.": "ikipedia_title"
+            },
+            {
+                "entity_in_the_text": "'Arzberger Ursteirer'",
+                "wikipedia_title": "Arzberger Ursteirer Cheese"
+            },
+            {
+                "entity_in_the_text": "international cheese competitions",
+                "wikipedia_title": "Cheesemaking Competition"
+            },
+            {
+                "entity_in_the_text": "natural assets",
+                "wikipedia_title": "Pasture Farming and Natural Resources in Agriculture"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Cheese",
+                "wikipedia_title": "Cheesemaking"
+            },
+            {
+                "entity_in01: Cheese, particularly in the context of its production and maturing process. The Wikipedia page for this topic is titled 'Cheesemaking'.\n        \n2. Hay Milk: This term refers to milk from cows that have been fed on hay (grass). While not a specific entity with an individual dedicated title due to it being more of a method or type, you can find related information under the Wikipedia page": "ay",
+                "Mine": "This refers to an old mine that has been repurposed for maturing some type of product (inferred here as the mentioned 'cheese'). The exact title can vary based on specific mines but a general topic could refer to",
+                "Mining": "r more specifically",
+                "Austria": {
+                    "entity_in_the_text": "Former silver mine",
+                    "wikipedia_title": "Silver Mines of Europe | Wikipedia (if referring broadly)"
+                },
+                "entity_in_the_text": "Austrian Alps mines history and mining sites in Austria",
+                "wikipedia_title": "Mining History of the Austrian Empire"
+            }
+        ]
+    }
+]

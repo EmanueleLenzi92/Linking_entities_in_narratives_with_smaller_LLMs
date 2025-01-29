@@ -1,0 +1,306 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "MOVING reference member state",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "MOVING Card ID",
+                "wikipedia_title": "VC 11 CZ"
+            },
+            {
+                "entity_in_the_text": "producers",
+                "wikipedia_title": "Producer (business)"
+            },
+            {
+                "entity_in_the_text": "mountains",
+                "wikipedia_title": "Mountain"
+            },
+            {
+                "entity_in_the_text": "fruit",
+                "wikipedia_title": "Fruit"
+            },
+            {
+                "entity_in_the_text": "alternative marketing channels",
+                "wikipedia_title": "E-commerce"
+            },
+            {
+                "entity_in_the_text": "regional SES",
+                "wikipedia_title": "Social and economic status"
+            },
+            {
+                "entity_in_the_text": "symbolic value associated with the mountain region",
+                "wikipedia_title": "Tourism in the Alps"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Sumava - Cesky les",
+                "wikipedia_title": "Sumava"
+            },
+            {
+                "entity_in_the_text": "LAU 1 Klatovy",
+                "wikipedia_title": "Klatovy"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "size",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "minimum altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "maximum altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "total population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "population density",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "entity_in_the_text": "population change rate",
+                "wikipedia_title": "Demographic trends"
+            },
+            {
+                "entity_in_the_text": "regional population density",
+                "wikipedia_title": "Regional population density"
+            },
+            {
+                "entity_in_the_text": "regional population change rate",
+                "wikipedia_title": "Regional demographic trends"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "entity_in_the_text": "primary sector share",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector share",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "entity_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total BPs/year",
+                "wikipedia_title": "Tourist accommodation"
+            },
+            {
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Local administrative division"
+            },
+            {
+                "entity_in_the_text": "regional share",
+                "wikipedia_title": "Regional economy"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural land use"
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100000 (km)",
+                "wikipedia_title": "Populated place"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "bee products",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "mountain regions",
+                "wikipedia_title": "Mountain regions"
+            },
+            {
+                "entity_in_the_text": "beekeeping",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "quality of bee products",
+                "wikipedia_title": "Quality of honey"
+            },
+            {
+                "entity_in_the_text": "environmental conditions",
+                "wikipedia_title": "Environmental pollution"
+            },
+            {
+                "entity_in_the_text": "anthropogenic pollutions",
+                "wikipedia_title": "Anthropogenic pollution"
+            },
+            {
+                "entity_in_the_text": "rare resources",
+                "wikipedia_title": "Rare earth elements"
+            },
+            {
+                "entity_in_the_text": "credence goods",
+                "wikipedia_title": "Credence goods"
+            },
+            {
+                "entity_in_the_text": "symbolic value",
+                "wikipedia_title": "Symbolism"
+            },
+            {
+                "entity_in_the_text": "marketing of the products",
+                "wikipedia_title": "Marketing"
+            },
+            {
+                "entity_in_the_text": "new practices and technology",
+                "wikipedia_title": "Innovation in beekeeping"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Sumava Mountains",
+                "wikipedia_title": "Sumava"
+            },
+            {
+                "entity_in_the_text": "socialist-era",
+                "wikipedia_title": "Socialism in Czechoslovakia"
+            },
+            {
+                "entity_in_the_text": "beekeepers",
+                "wikipedia_title": "Beekeeping"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "beekeepers",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "honey and other bee products",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "intensive methods of production",
+                "wikipedia_title": "Intensive agriculture"
+            },
+            {
+                "entity_in_the_text": "global climate change and increasing pollutions",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "entity_in_the_text": "organic standards in beekeeping",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "entity_in_the_text": "VC is very fragmented",
+                "wikipedia_title": "Beekeeping industry"
+            },
+            {
+                "entity_in_the_text": "Czech Republic has got the highest number of beekeepers in relation to country area (about 55 thousand beekeepers)",
+                "wikipedia_title": "Beekeeping in the Czech Republic"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "bee colonies",
+                "wikipedia_title": "Bee colony"
+            },
+            {
+                "entity_in_the_text": "varroa disease",
+                "wikipedia_title": "Varroa mite"
+            },
+            {
+                "entity_in_the_text": "land use systems",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "entity_in_the_text": "Natural and cultural assets",
+                "wikipedia_title": "Natural resource management"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "beekeeping",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            }
+        ]
+    }
+]

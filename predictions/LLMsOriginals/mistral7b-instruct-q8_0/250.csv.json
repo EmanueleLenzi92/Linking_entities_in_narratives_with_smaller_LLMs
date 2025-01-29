@@ -1,0 +1,286 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "MOVING reference member state of this VC",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "SCOTLAND HUTTON",
+                "wikipedia_title": "Scotland Hutton"
+            },
+            {
+                "entity_in_the_text": "VC 02 UK",
+                "wikipedia_title": "VC 02 UK"
+            },
+            {
+                "entity_in_the_text": "Traditional Welsh artisanal Caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            },
+            {
+                "entity_in_the_text": "Euopean Protected Georgaphical Indication (PGI) stuatus",
+                "wikipedia_title": "Protected Geographical Indication"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "West Wales",
+                "wikipedia_title": "West Wales"
+            },
+            {
+                "entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "area",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "population",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "altimetry",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "population change rate",
+                "wikipedia_title": "Population growth rate"
+            },
+            {
+                "entity_in_the_text": "regional population density",
+                "wikipedia_title": "Regional population density"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income",
+                "wikipedia_title": "Average per capita income"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            },
+            {
+                "entity_in_the_text": "primary sector share",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector share",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "per capita income",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "entity_in_the_text": "Gross Value Added",
+                "wikipedia_title": "Gross value added"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total BPs/year",
+                "wikipedia_title": "Tourist accommodation"
+            },
+            {
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Local administrative division"
+            },
+            {
+                "entity_in_the_text": "regional share",
+                "wikipedia_title": "Regional economy"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural land use"
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100000 (km)",
+                "wikipedia_title": "Populated place"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector",
+                "wikipedia_title": "Primary sector"
+            },
+            {
+                "entity_in_the_text": "secondary sector",
+                "wikipedia_title": "Secondary sector"
+            },
+            {
+                "entity_in_the_text": "tertiary sector",
+                "wikipedia_title": "Tertiary sector"
+            },
+            {
+                "entity_in_the_text": "[Province]",
+                "wikipedia_title": "Province"
+            },
+            {
+                "entity_in_the_text": "[Region]",
+                "wikipedia_title": "Region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            },
+            {
+                "entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "entity_in_the_text": "Castle Dairies",
+                "wikipedia_title": "Castle Dairies"
+            },
+            {
+                "entity_in_the_text": "The Big Cheese",
+                "wikipedia_title": "Caerphilly Big Cheese Festival"
+            },
+            {
+                "entity_in_the_text": "Gorwydd",
+                "wikipedia_title": "Gorwydd Caerphilly"
+            },
+            {
+                "entity_in_the_text": "PGI",
+                "wikipedia_title": "Protected Geographical Indication"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "entity_in_the_text": "Big Cheese festival",
+                "wikipedia_title": "Big Cheese Festival"
+            },
+            {
+                "entity_in_the_text": "caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "entity_in_the_text": "coal miners",
+                "wikipedia_title": "Coal mining in Wales"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "tourism",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "entity_in_the_text": "Caerphilly",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "entity_in_the_text": "cheese",
+                "wikipedia_title": "Cheese"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "VC"
+            },
+            {
+                "entity_in_the_text": "traditional",
+                "wikipedia_title": "Traditional"
+            },
+            {
+                "entity_in_the_text": "innovative",
+                "wikipedia_title": "Innovative"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Caerphilly cheese",
+                "wikipedia_title": "Caerphilly cheese"
+            },
+            {
+                "entity_in_the_text": "Endogenous",
+                "wikipedia_title": "Endogenous innovation"
+            },
+            {
+                "entity_in_the_text": "factory and machine-based methods",
+                "wikipedia_title": "Factory farming"
+            },
+            {
+                "entity_in_the_text": "hand",
+                "wikipedia_title": "Handmade cheese"
+            },
+            {
+                "entity_in_the_text": "pre-war cheesemaking processes",
+                "wikipedia_title": "Cheese making in the 20th century"
+            },
+            {
+                "entity_in_the_text": "New processes and New marketing strategies",
+                "wikipedia_title": "Innovation in business"
+            },
+            {
+                "entity_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland management"
+            },
+            {
+                "entity_in_the_text": "Natural, Social and Cultural",
+                "wikipedia_title": "Local assets"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "caerphilly cheese",
+                "wikipedia_title": "Caerphilly"
+            },
+            {
+                "entity_in_the_text": "Somerset (e.g. South Somerset LAU1)",
+                "wikipedia_title": "South Somerset"
+            },
+            {
+                "entity_in_the_text": "Wiltshire LAU1",
+                "wikipedia_title": "Wiltshire"
+            }
+        ]
+    }
+]
