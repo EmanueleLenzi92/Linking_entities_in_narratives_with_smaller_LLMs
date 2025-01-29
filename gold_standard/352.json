@@ -1,0 +1,440 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "SPAIN ADEGUA",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q29",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Organic Production of Foodstuffs linked to the Aragonese Territory'",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "ATADES Gardeniers Special Employment Center",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "boliche",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "chickpeas",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q81375"
+            },
+            {
+                "Wikipedia_label": "lentils",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q131226"
+            },
+            {
+                "Wikipedia_label": "Torres de Berrellén",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1628472",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Zaragoza",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10305",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "borage flower",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q147075"
+            },
+            {
+                "Wikipedia_label": "organic honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },  
+            {
+                "Wikipedia_label": "Rural Development Program",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "European Agricultural Fund for Rural Development (EAFRD)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1377910",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "pyrenees",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q12431",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Jaca",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q49581",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Ascara",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q8206262",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Canal de Berdún",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q11967",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Huesca",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q10305",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Zaragoza",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10305",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "boliche",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q81375"
+            },
+            {
+                "Wikipedia_label": "chickpeas",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q131226"
+            },
+            {
+                "Wikipedia_label": "lentils",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q81602"
+            },
+            {
+                "Wikipedia_label": "melon",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1628472"
+            },
+            {
+                "Wikipedia_label": "Torres de Berrellén",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1637315",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Alagón",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9034707",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Montañana",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q549390",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Jacetania region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q503021",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Natura 2000",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Cielos de Ascara",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Aragonese Pyrenees",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q12431",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "organic food",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q380778"
+            },
+            {
+                "Wikipedia_label": "mountain",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q8502"
+            },
+            {
+                "Wikipedia_label": "valley",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q39816"
+            },
+            {
+                "Wikipedia_label": "project",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q170584"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Aragon",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4040",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "horticultural products",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q48803"
+            },
+            {
+                "Wikipedia_label": "Organic Production of Foodstuffs linked to the Aragonese Territory",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "demand",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q4402708"
+            },
+            {
+                "Wikipedia_label": "project",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q170584"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "sustainability",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q219416"
+            },
+            {
+                "Wikipedia_label": "collaboration",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q1145523"
+            },
+            {
+                "Wikipedia_label": "project",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q170584"
+            },
+            {
+                "Wikipedia_label": "interconnection",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q1665949"
+            },
+            {
+                "Wikipedia_label": "funding",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q6055890"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "New marketing strategies",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q39809"
+            },
+            {
+                "Wikipedia_label": "New governance systems",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q1553864"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Sites of Community Importance (SCI)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q796174",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Special Protection Area for Birds (SPA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2463705",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "San Juan de la Peña",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1389060",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Monte Oroel",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3054052",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Natural Park of the Western Valleys",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q30282418",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Montañana",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9034707",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Special Employment Center Gardeniers of ATADES",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Mercazaragoza",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Europe",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q46",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "canning",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q843389"
+            },
+            {
+                "Wikipedia_label": "mountain",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q8502"
+            },
+            {
+                "Wikipedia_label": "agroecology",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q396338"
+            }
+        ]
+    }
+]

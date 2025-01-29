@@ -1,0 +1,415 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "GREECE",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q41",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "beekeepers",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q852389"
+            },
+            {
+                "Wikipedia_label": "pefkothymaromelo",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "Crete",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q34374",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "EU Geographical Indications (GIs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q325668",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "socio-ecological system",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7552762"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "White Mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Kissamos",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q1021629",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "endemic",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q123452"
+            },
+            {
+                "Wikipedia_label": "Crete",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q34374",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "cypress",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q14169641"
+            },
+            {
+                "Wikipedia_label": "oak",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q12004",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "pine",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q12024",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "chestnuts",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q129324",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "kissamos",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q1021629",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Pefkothimaromelo",
+                "Wikidata_ID": "http://www.wikidata.org/entity/null"
+            },
+            {
+                "Wikipedia_label": "PDO",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q13439060",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "Crete",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q34374",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "pine honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "thyme",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3215980"
+            },
+            {
+                "Wikipedia_label": "beekeepers",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q852389"
+            },
+            {
+                "Wikipedia_label": "New marketing and promotion strategies",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q39809"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "beekeeping",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q852389"
+            },
+            {
+                "Wikipedia_label": "Kissamos",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "forest",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4421"
+            },
+            {
+                "Wikipedia_label": "honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "Minoan Civilization",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q134178"
+            },
+            {
+                "Wikipedia_label": "literature",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q8242"
+            },
+            {
+                "Wikipedia_label": "poetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q482"
+            },
+            {
+                "Wikipedia_label": "jewellery production",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q161439"
+            },
+            {
+                "Wikipedia_label": "climate",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7937"
+            },
+            {
+                "Wikipedia_label": "Crete",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q34374",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "autumn",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1314"
+            },
+            {
+                "Wikipedia_label": "bees",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7391"
+            },
+            {
+                "Wikipedia_label": "pine tree juices",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "climate change",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q125928"
+            },
+            {
+                "Wikipedia_label": "Crete",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q34374",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "heat waves",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q215864"
+            },
+            {
+                "Wikipedia_label": "bees",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7391"
+            },
+            {
+                "Wikipedia_label": "honey production",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "intensive agricultural holdings",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1148482"
+            },
+            {
+                "Wikipedia_label": "Pefkothymaromelo",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "adulteration",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4681306"
+            },
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "pefkothymaromelo",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "PDO",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q13439060",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Kissamos",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1021629",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "New marketing strategies",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q39809"
+            },
+            {
+                "Wikipedia_label": "New governance systems",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1553864"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Greece",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q41",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "eu katalog (eambrosia)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "Peyfothymaromelo",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "Cretan honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            }
+        ]
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "SWITZERLAND",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q39",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "alps",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1286",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "Pro Montagna",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "mountain",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q8502"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "traditional VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bees",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7391"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "Beehives",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q165107"
+            }
+        ]
+    }
+]

@@ -1,0 +1,366 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "SKANDINAVIAN UCO",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "cheese",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q10943"
+            },
+            {
+                "Wikipedia_label": "april",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q118"
+            },
+            {
+                "Wikipedia_label": "october",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q124"
+            },
+            {
+                "Wikipedia_label": "milk",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q8495"
+            },
+            {
+                "Wikipedia_label": "goats",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2934"
+            },
+            {
+                "Wikipedia_label": "Undredal Stølsysteri SA",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Europe",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q46",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Slowfood Foundation for Biodiversity",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q335823",
+				"type":"ne"
+            }, 
+          {
+                "Wikipedia_label": "Undredal Brown Cheese Presidium",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }, 
+            {
+                "Wikipedia_label": "local cheese",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q10943"
+            },
+            {
+                "Wikipedia_label": "SES",
+                "Wikidata_ID": "http://www.wikidata.org/entity/null"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Scandinavean Mountains - Scandes",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q186547",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Aurland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q486700",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Aurland Fiord",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45776",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Nærøyfjorden",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q212205",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sognefjorden",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q208495",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Geirangefjord",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q193989",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Nærøyfjord UNESCO World Heritage Site",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "West Norwegian Fjords",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q12269990",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "goat",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2934"
+            },
+            {
+                "Wikipedia_label": "cheese",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q10943"
+            },
+            {
+                "Wikipedia_label": "milk",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q8495"
+            },
+            {
+                "Wikipedia_label": "Undredal",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q1006480",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "goat cheese",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q198815"
+            },
+            {
+                "Wikipedia_label": "Norway",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q20",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "natural ecosystem",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q37813"
+            },
+            {
+                "Wikipedia_label": "cheese",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q10943"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "goats",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2934"
+            },
+            {
+                "Wikipedia_label": "Aureland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q486700",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "cheese",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10943"
+            },
+            {
+                "Wikipedia_label": "Norsk Gardsost",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q115654781",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Norway",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q20",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Slowfood Presidium",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q335823",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "industrial dairies",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q637776"
+            },
+            {
+                "Wikipedia_label": "traditional cheeses",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10943"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "Grassland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1006733"
+            },
+            {
+                "Wikipedia_label": "New marketing strategies",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q484847"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Sweden",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q34",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "cheese",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q10943"
+            },
+            {
+                "Wikipedia_label": "Jämtland Cellar-Matured Goat Cheese",
+                "Wikidata_ID": "http://www.wikidata.org/entity/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "goat cheese",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q198815"
+            },
+            {
+                "Wikipedia_label": "Presidium of the Slowfood Foundation for Biodiversity",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q335823",
+				"type":"ne"
+            }
+        ]
+    }
+]

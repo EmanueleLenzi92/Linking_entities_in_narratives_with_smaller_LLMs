@@ -1,0 +1,367 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "ITALY",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q38",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "UNIMOL",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "SES",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "UNIPI",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "municipality",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q15284"
+            },
+            {
+                "Wikipedia_label": "Amatrice",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q223427",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Honey of Amatrice",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "certification of origin",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2138541"
+            },
+            {
+                "Wikipedia_label": "nature",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7860"
+            },
+            {
+                "Wikipedia_label": "local economy",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q17099654"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Central Apennines",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1285",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Lazio",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1282",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Amatrice",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q223427",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Rieti",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q13396",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "central Italy",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q38"
+            },
+            {
+                "Wikipedia_label": "Abruzzo",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1284",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "National park of Gran Sasso e Monti della Laga",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1027914",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Montana del Velino",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Borghi più belli d Italia",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q127107",
+				"type":"ne"				
+            },
+			{
+                "Wikipedia_label": "spaghetti amatriciana",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"    
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "beekeeping farm",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q852389"
+            },
+            {
+                "Wikipedia_label": "Amatrice",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q223427",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "honey of Amatrice",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "Municipality of Amatrice",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q223427",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Amatrice",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q223427",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "agriculture production",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q11451"
+            },
+            {
+                "Wikipedia_label": "nature park",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q728904"
+            },
+            {
+                "Wikipedia_label": "organic honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "Honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "traditional food",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q19708506"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "climate change",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q125928"
+            },
+            {
+                "Wikipedia_label": "honey market",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "certification of origin",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2138541"
+            },
+            {
+                "Wikipedia_label": "organic label",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q11680670"
+            },
+            {
+                "Wikipedia_label": "Municipality of Amatrice",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q223427",
+				"type":"ne"
+			},
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            }
+            
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "Miele di Amatrice",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "certification of origin",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2138541"
+            },
+            {
+                "Wikipedia_label": "municipality of Amatrice",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q223427",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "local food",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2674120"
+            },
+            {
+                "Wikipedia_label": "honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "wine",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q282"
+            },
+            {
+                "Wikipedia_label": "food",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2095"
+            }
+        ]
+    }
+]

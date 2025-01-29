@@ -1,0 +1,313 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "ITALY",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q38",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "UNIMOL",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "UNIPI",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Savigni",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "butcher's shop",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q13164546"
+            },
+            {
+                "Wikipedia_label": "meat factory",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q16643467"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Tuscan Emilian Apennines",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q926133",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Northern Apennines",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1285",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sambuca Pistoiese",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q102725",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Pistoia",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q13376",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Tuscany",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1273",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Savigni",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Bollo IT 9-3467/L IT R152E CE ANAS",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "National Association Pig Farmers",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "Japan Export (Ministry of Health)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "BioAgriCert (Certification Body / Organic Control)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "Products Guarantee AIAB (Certification Body / Organic Control)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "INEQ",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "TUV",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "quality consortium Consorzio Tutela of Cinta Senese Quality Consortium Consorzio Tutela Finocchiona PGI Finocchiona PGI (Certification Body INeQ Quality North-East Institute)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "Vitellone Bianco dell Appennino Centrale PGI Chianina beef (Certification Body 3A-PTA Umbria Agri-food Technology Park)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "certifications",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q374814"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Savigni",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Porretta",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q94983",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Suviana Lake",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3826053",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "meat",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10990"
+            },
+            {
+                "Wikipedia_label": "animals",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q729"
+            },
+            {
+                "Wikipedia_label": "pastures",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q30121"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "animal",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q729"
+            },
+            {
+                "Wikipedia_label": "international market demand",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4402708"
+            },
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "organic farm",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q39809"
+            },
+            {
+                "Wikipedia_label": "New marketing strategies",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q165647"
+            }
+        ]
+    }
+]

@@ -1,0 +1,487 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "AUSTRIA",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q40",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Almenland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "diary",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q185598",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "cheese",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q10943",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "cow",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q830",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "sheep",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q7368",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "goat",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q2934",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "milk",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q8495",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "pasture",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q30121",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "hay",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q336989",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "Almenland Stollenkäse GmbH",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Austria",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q40",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Germany",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q183",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "supermarket",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q180846",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "web shop",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q212930",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "shop",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q213441",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "RR 11",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Austrian Alps",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q327434",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Weiz",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q875641",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Almenland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }, 
+            {
+                "Wikipedia_label": "Styrian alpine pasture region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q998643",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Europe",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q46",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "pasture",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q30121",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "limestone",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q23757",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "phyllite",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q731880",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "slate",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q207079",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "greywacke",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q917545",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "climate",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q7937",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "thunderstorm",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2857578",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "cow",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q830"
+            },
+            {
+                "Wikipedia_label": "cheese",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q10943"
+            },
+            {
+                "Wikipedia_label": "sheep",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q7368"
+            },
+            {
+                "Wikipedia_label": "goat",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q2934"
+            },
+            {
+                "Wikipedia_label": "milk",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q8495"
+            },
+            {
+                "Wikipedia_label": "silver mine",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q16659597"
+            },
+            {
+                "Wikipedia_label": "mountain",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q8502"
+            },
+            {
+                "Wikipedia_label": "pit house",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q940435"
+            },
+            {
+                "Wikipedia_label": "dairy",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q637776"
+            },
+            {
+                "Wikipedia_label": "tunnel",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q44377"
+            },
+            {
+                "Wikipedia_label": "Almenland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Almenland Genussregion",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "local food",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2674120"
+            },
+            {
+                "Wikipedia_label": "AgrarMarkt",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Austria",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q40",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "milk",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q8495"
+            },
+            {
+                "Wikipedia_label": "cooperation",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q380962"
+            },
+            {
+                "Wikipedia_label": "cheese",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q10943"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Almenland",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "climate",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q7937"
+            },
+            {
+                "Wikipedia_label": "drough",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43059"
+            },
+            {
+                "Wikipedia_label": "heavy rain",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q18447212"
+            },
+            {
+                "Wikipedia_label": "pasture",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q30121"
+            },
+            {
+                "Wikipedia_label": "weather",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q11663"
+            },
+            {
+                "Wikipedia_label": "meat",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q10990"
+            },
+            {
+                "Wikipedia_label": "vegetation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q187997"
+            },
+            {
+                "Wikipedia_label": "winter",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q187997"
+            },
+            {
+                "Wikipedia_label": "alpine pasture",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q1311"
+            },
+            {
+                "Wikipedia_label": "plant",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q14774083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "silver mine",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q16659597"
+            },
+            {
+                "Wikipedia_label": "tunnel",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q44377"
+            },
+            {
+                "Wikipedia_label": "cheese",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q10943"
+            },
+            {
+                "Wikipedia_label": "milk",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q8495"
+            },
+            {
+                "Wikipedia_label": "international cheese competitions",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q6049165"
+            },
+            {
+                "Wikipedia_label": "Arzberger Ursteirer",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "USA",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q30",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "pasture",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q30121"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Austrian Alps",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q327434",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "hay milk",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q109237299"
+            },
+            {
+                "Wikipedia_label": "silver mine",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q16659597"
+            }
+        ]
+    }
+]

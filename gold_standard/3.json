@@ -1,0 +1,384 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "AUSTRIA",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q40",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "shop",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q213441"
+            },
+            {
+                "Wikipedia_label": "hotels",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q27686"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "RR 11",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Austrian Alps",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q327434",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Weiz",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q875641",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Almenland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Styrian alpine pasture region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q998643",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Europe",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q46",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "pasture",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q30121"
+            },
+            {
+                "Wikipedia_label": "limestone",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q23757"
+            },
+            {
+                "Wikipedia_label": "phyllite",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q731880"
+            },
+            {
+                "Wikipedia_label": "slate",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q207079"
+            },
+            {
+                "Wikipedia_label": "greywacke",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q917545"
+            },
+            {
+                "Wikipedia_label": "climate",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q7937"
+            },
+            {
+                "Wikipedia_label": "thunderstorm",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2857578"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "herb",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q207123"
+            },
+            {
+                "Wikipedia_label": "Almenland Nature Park",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Almenland Kräuter",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "food",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q2095"
+            },
+            {
+                "Wikipedia_label": "drink",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q40050"
+            },
+            {
+                "Wikipedia_label": "cosmetic",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q131207"
+            },
+            {
+                "Wikipedia_label": "gastronomy",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q171141"
+            },
+            {
+                "Wikipedia_label": "cooperation",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q380962"
+            },
+            {
+                "Wikipedia_label": "business model",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q815823"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Almenland Genussregion",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "AgrarMarkt",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "nature park",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q728904"
+            },
+            {
+                "Wikipedia_label": "herbs",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q207123"
+            },
+            {
+                "Wikipedia_label": "agricultural production",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q56299222"
+            },
+            {
+                "Wikipedia_label": "nectar",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q171934"
+            },
+            {
+                "Wikipedia_label": "pollen",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q79932"
+            },
+            {
+                "Wikipedia_label": "habitat fragmentation",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q913302"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "climate change",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7942"
+            },
+            {
+                "Wikipedia_label": "weather",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q11663"
+            },
+            {
+                "Wikipedia_label": "irrigation",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q11453"
+            },
+            {
+                "Wikipedia_label": "herbs",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q207123"
+            },
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "traditional food products",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q19708506"
+            },
+            {
+                "Wikipedia_label": "tea",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q6097"
+            },
+            {
+                "Wikipedia_label": "herbal salt",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "pure herbs",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q207123"
+            },
+            {
+                "Wikipedia_label": "spice mixes",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q42527"
+            },
+            {
+                "Wikipedia_label": "liquor",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q56139"
+            },
+            {
+                "Wikipedia_label": "syrups",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q6584340"
+            },
+            {
+                "Wikipedia_label": "birch sugar",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q212093"
+            },
+            {
+                "Wikipedia_label": "soaps",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q34396"
+            },
+            {
+                "Wikipedia_label": "creams",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q13228"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "herbs",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q207123"
+            },
+            {
+                "Wikipedia_label": "Austrian mountainous regions",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q327434",
+				"type":"ne"
+            }
+        ]
+    }
+]

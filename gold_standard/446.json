@@ -1,0 +1,308 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "TURKEY",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "tea",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q6097"
+            },
+            {
+                "Wikipedia_label": "migration",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1932583"
+            },
+            {
+                "Wikipedia_label": "tea processing",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7691134"
+            },
+            {
+                "Wikipedia_label": "Rize",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q201101",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "marketing of tea",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q39809"
+            },
+            {
+                "Wikipedia_label": "General Directorate of Tea Enterprises (Çay-Kur)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q6021512",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Eastern Black Sea Mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q155533",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Güneysu",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2671161",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Rize Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q483481",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "rainfall",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7925"
+            },
+            {
+                "Wikipedia_label": "humidity",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q180600"
+            },
+            {
+                "Wikipedia_label": "Rize",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q201101",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Rize",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q201101",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "black tea",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q203415"
+            },
+            {
+                "Wikipedia_label": "Rize Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q483481",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Rainforest Alliance",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2034373",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "tea",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q6097"
+            },
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Rize",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q201101",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "tea",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q6097"
+            },
+            {
+                "Wikipedia_label": "Turkish Patent and Trademark Office",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7855305",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "tradition",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q82821"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "climatic change",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q125928"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "Cropland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3395383"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "world",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q16502"
+            },
+            {
+                "Wikipedia_label": "tea",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q6097"
+            }
+        ]
+    }
+]

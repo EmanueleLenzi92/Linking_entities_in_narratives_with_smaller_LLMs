@@ -1,0 +1,234 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "SWITZERLAND",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q39",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "old animal breeds",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q38829"
+            },
+            {
+                "Wikipedia_label": "sheep",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q7368"
+            },
+            {
+                "Wikipedia_label": "goat",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q2934"
+            },
+            {
+                "Wikipedia_label": "nera verzasca",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q15836540"
+            },
+            {
+                "Wikipedia_label": "capra grigia",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q1543712"
+            },
+            {
+                "Wikipedia_label": "Engadiner",
+                "Wikidata_ID": "http://www.wikidata.org/entity/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Spiegelschaf",
+                "Wikidata_ID": "http://www.wikidata.org/entity/null"
+            },
+            {
+                "Wikipedia_label": "pigs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q787"
+            },
+            {
+                "Wikipedia_label": "Black Alpine Pig",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "mountain",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q8502"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "old traditional breeds",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q38829"
+            },
+            {
+                "Wikipedia_label": "farmer",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q131512"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "veganism",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q181138"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "New marketing strategies",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q39809"
+            },
+            {
+                "Wikipedia_label": "Grassland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1006733"
+            },
+            {
+                "Wikipedia_label": "old animal breeds",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q38829"
+            }
+        ]
+    }
+]

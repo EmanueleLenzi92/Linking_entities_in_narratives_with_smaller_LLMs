@@ -1,0 +1,317 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "ITALY",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q38",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "UNIMOL",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "UNIPI",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Tuscan Emilian Apennines",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q926133",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Northern Apennines",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1285",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Tuscany",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1273",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Anghiari",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q52063",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Arezzo",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q13378",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Italy",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q38",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Umbria",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1280",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "hill town",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q5762461"
+            }
+        ]
+    },
+     {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Organic farm",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q165647"
+            },
+            {
+                "Wikipedia_label": "Mountain Product (Reg.(UE) n.1151/2012 and Reg.(UE) n.665/2014)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "Pontepietra",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "herbal teas",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q379932"
+            },
+            {
+                "Wikipedia_label": "herb salt",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "comunication strategy",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7621829"
+            },
+            {
+                "Wikipedia_label": "Apennines",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1285"
+            },
+            {
+                "Wikipedia_label": "sustainability",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q219416"
+            },
+            {
+                "Wikipedia_label": "farm",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q131596"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Steinbruck",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "medicinal and aromatic herbs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "herbs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q207123"
+            },
+            {
+                "Wikipedia_label": "Apennines",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1285"
+            },
+            {
+                "Wikipedia_label": "world",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q16502"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Steinbruck",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "medicinal and aromatic herbs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "herbs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q207123"
+            },
+            {
+                "Wikipedia_label": "Apennines",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1285"
+            },
+            {
+                "Wikipedia_label": "world",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q16502"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "New marketing strategies",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q165647"
+            },
+            {
+                "Wikipedia_label": "Nature",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7860"
+            },
+            {
+                "Wikipedia_label": "sostenibility",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q219416"
+            },
+            {
+                "Wikipedia_label": "aromatic herbs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q207123"
+            }
+        ]
+    }
+]

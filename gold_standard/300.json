@@ -1,0 +1,313 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "SKANDINAVIAN UCO",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "Barley",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q11577"
+            },
+            {
+                "Wikipedia_label": "Roros",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q108999",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Rorosmat",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "pesticide",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q131656"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Scandinavean Mountains - Scandes",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q186547",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Tynset",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q488779",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Østerdalen",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q308349",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Norway",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q20",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "mountain",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q8502"
+            },
+            {
+                "Wikipedia_label": "forest",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q4421"
+            },
+            {
+                "Wikipedia_label": "farming",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q11451"
+            },
+            {
+                "Wikipedia_label": "skiing",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q130949"
+            },
+            {
+                "Wikipedia_label": "fishing",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q14373"
+            },
+            {
+                "Wikipedia_label": "hunting",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q36963"
+            },
+            {
+                "Wikipedia_label": "subarctic climate",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q5967371"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Ancient crop",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q235352"
+            },
+            {
+                "Wikipedia_label": "grain",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2995529"
+            },
+            {
+                "Wikipedia_label": "flour",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q36465"
+            },
+            {
+                "Wikipedia_label": "e-commerce",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q484847"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "weather",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q11663"
+            },
+            {
+                "Wikipedia_label": "barley",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q11577"
+            },
+            {
+                "Wikipedia_label": "Norway",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q20",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Rorosmat",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "stone mill",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q670985"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "fertilizers",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q83323"
+            },
+            {
+                "Wikipedia_label": "pesticides",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q131656"
+            },
+            {
+                "Wikipedia_label": "barley",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q11577"
+            },
+            {
+                "Wikipedia_label": "wheat",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q15645384"
+            },
+            {
+                "Wikipedia_label": "Climate Change",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q125928"
+            },
+            {
+                "Wikipedia_label": "plant",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q756"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "Rorosmat",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "e-commerce",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q484847"
+            },
+            {
+                "Wikipedia_label": "New marketing strategies",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q39809"
+            }
+        ]
+    }
+]

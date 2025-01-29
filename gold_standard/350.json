@@ -1,0 +1,409 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "SPAIN ADEGUA",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q29",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sierras Cazorla, Segura and Las Villas",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7511639",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sierra de Castril",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2284501",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Granada",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q8810",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Transhumance",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4657754"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Betic System",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q831469",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Castril",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q555913",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "shepherds",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q81710"
+            },
+            {
+                "Wikipedia_label": "transhumance",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4657754"
+            },
+            {
+                "Wikipedia_label": "Natura 2000 Network",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q503021",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Transhumance",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4657754"
+            },
+            {
+                "Wikipedia_label": "Europe",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q46",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "pastoralism",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9056738"
+            },
+            {
+                "Wikipedia_label": "Alps",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1286",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "livestock",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q103459"
+            },
+            {
+                "Wikipedia_label": "spring",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1312"
+            },
+            {
+                "Wikipedia_label": "autumn",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1314"
+            },
+            {
+                "Wikipedia_label": "Spain",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q29",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Mediterranean",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4918",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "UNESCO",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7809",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Representative List of the Intangible Cultural Heritage of Humanity",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4435332",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "livestock management",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2920921"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "livestock transhumance",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4657754"
+            },
+            {
+                "Wikipedia_label": "sheeps",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7368"
+            },
+            {
+                "Wikipedia_label": "goats",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2934"
+            },
+            {
+                "Wikipedia_label": "cows",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q830"
+            },
+            {
+                "Wikipedia_label": "November",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q125"
+            },
+            {
+                "Wikipedia_label": "summer",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1313"
+            },
+            {
+                "Wikipedia_label": "Natural Park of Sierras Cazorla, Segura and Las Villas",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7511639",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Castril",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q555913",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Granada",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q8810",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Jaén",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q15681",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sierra Morena",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q686362",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "winter",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1311"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Transhumance",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4657754"
+            },
+            {
+                "Wikipedia_label": "shepherds",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q81710"
+            },
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "Grassland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1006733"
+            },
+            {
+                "Wikipedia_label": "Transhumance",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4657754"
+            },
+            {
+                "Wikipedia_label": "livestock",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q103459"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "transhumance",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4657754"
+            },
+            {
+                "Wikipedia_label": "Soria",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q12155",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Cuenca",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q15098",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "La Rioja",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q5727",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sierras Cazorla, Segura and Las Villas",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7511639",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sierra de Castril",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q555913",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Granada",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q8810",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sierra Morena",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q686362",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sierra Nevada",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q26955",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Italy",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q38",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Austria",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q40",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Greece",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q41",
+				"type":"ne"
+            }
+        ]
+    }
+]

@@ -1,0 +1,250 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "NMK",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q221",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "seedlings",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1385709"
+            },
+            {
+                "Wikipedia_label": "tobacco",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1566"
+            },
+            {
+                "Wikipedia_label": "Jaka Prilep",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Mountain Meleshevija",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2377452",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Maleshevski mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2377452",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "North Macedonia",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q221",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Berovo",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q827047",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Pehchevo",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q162952",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Bregalnica",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q849296",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Strumica",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q149214",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Republic of Macedonia",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q221",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "tobacco",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1566"
+            },
+            {
+                "Wikipedia_label": "subsiding policy",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q193219"
+            },
+            {
+                "Wikipedia_label": "agriculture",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q11451"
+            },
+            {
+                "Wikipedia_label": "soils",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q36133"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "tobacco",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1566"
+            },
+            {
+                "Wikipedia_label": "soil",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q36133"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q174165"
+            }
+        ]
+    }
+]

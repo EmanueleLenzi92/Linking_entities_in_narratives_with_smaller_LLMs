@@ -1,0 +1,284 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "SPAIN ADEGUA",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q29",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "local and immigrant women",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q467"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Betic System",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q831469",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Carcabuey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q842679",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Sierra Subbética",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2284509"
+            },
+            {
+                "Wikipedia_label": "Natural Park",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q46169"
+            },
+            {
+                "Wikipedia_label": "olive growing",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q296910"
+            },
+            {
+                "Wikipedia_label": "depopulation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646147"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "care of the elderly",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q437458"
+            },
+            {
+                "Wikipedia_label": "female population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "women",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "Wikipedia_label": "informal economy",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q944235"
+            },
+            {
+                "Wikipedia_label": "value chain",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q646107"
+            },
+            {
+                "Wikipedia_label": "survival of intergenerational social cohesion",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q104482419"
+            },
+            {
+                "Wikipedia_label": "structuring",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q381442"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "PROMI",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Provincial Council",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3044930"
+            },
+            {
+                "Wikipedia_label": "informal economy",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q944235"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "depopulation and exodus of young population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646147"
+            },
+            {
+                "Wikipedia_label": "informal economy",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q944235"
+            },
+            {
+                "Wikipedia_label": "precarisation of female work",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "society",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q8425"
+            },
+            {
+                "Wikipedia_label": "governance",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q1553864"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Sierra small communities in the Subbética",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2284509"
+            },
+            {
+                "Wikipedia_label": "depopulation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646147"
+            },
+            {
+                "Wikipedia_label": "risk",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q104493"
+            },
+            {
+                "Wikipedia_label": "availability",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q384871"
+            }
+        ]
+    }
+]

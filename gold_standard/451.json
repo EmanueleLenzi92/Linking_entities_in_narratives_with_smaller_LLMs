@@ -1,0 +1,292 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "pine nuts",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q212933"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Bergama",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q737822",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "İzmir",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q35997",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Kozak",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Soil structure",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q889539"
+            },
+            {
+                "Wikipedia_label": "peanut pine",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q37383"
+            },
+            {
+                "Wikipedia_label": "Kozak Plateau of Madra Mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4833452",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "pinus pinea",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q106094"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Peanut pine",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q37383"
+            },
+            {
+                "Wikipedia_label": "Mediterranean climate",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q13996"
+            },
+            {
+                "Wikipedia_label": "Bergama",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q737822",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Kozac",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "pine nutes",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q212933"
+            },
+            {
+                "Wikipedia_label": "october",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q124"
+            },
+            {
+                "Wikipedia_label": "april",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q118"
+            },
+            {
+                "Wikipedia_label": "Ministry of Forestry or local administration",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "niche market",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1758705"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "pine nut",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q212933"
+            },
+            {
+                "Wikipedia_label": "Bergama",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q737822",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Turkish Patent and Trademark Office",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7855305",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "marketing",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q39809"
+            },
+            {
+                "Wikipedia_label": "Kozak plateau",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "Cropland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3395383"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Pine nuts",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q37383"
+            },
+            {
+                "Wikipedia_label": "MRLs",
+                "Wikidata_ID": "http://www.wikidata.org/entity/null"
+            }
+        ]
+    }
+]

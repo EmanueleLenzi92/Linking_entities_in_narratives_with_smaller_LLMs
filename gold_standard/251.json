@@ -1,0 +1,383 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "SCOTLAND HUTTON",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "UK",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q145",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "moorland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1092661"
+            },
+            {
+                "Wikipedia_label": "Heather honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "Heather",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q6983007"
+            },
+            {
+                "Wikipedia_label": "Perth and Kinross",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q207679",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "cosmetics",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q131207"
+            },
+            {
+                "Wikipedia_label": "Scottish great taste gold award",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Perthshire",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1247411",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "honey bees",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q102857"
+            },
+            {
+                "Wikipedia_label": "beeswax",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q143739"
+            },
+            {
+                "Wikipedia_label": "honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "British Standards Institution Kitemark",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q6418160",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "lip balm",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1518347"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Highlands and Island",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q729025",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Eastern Scotland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Perth and Kinross",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q207679",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Tay",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q19719",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Earn",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1277544",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Perth",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q203000",
+				"type":"ne"
+            },
+			
+            {
+                "Wikipedia_label": "Scotland's central belt",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1053720"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Scottish Heather honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "great taste gold award",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "Perth and Kinross",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q207679",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "cosmetics",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q131207"
+            },
+            {
+                "Wikipedia_label": "Manuka Honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q953395"
+            },
+            {
+                "Wikipedia_label": "Heather Hills",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            }
+			
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "terrain",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q186131"
+            },
+            {
+                "Wikipedia_label": "climate",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q7937"
+            },
+            {
+                "Wikipedia_label": "honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "honey bees",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q102857"
+            },
+            {
+                "Wikipedia_label": "Honey Sommelier",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q191493"
+            },
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365"
+            },
+            {
+                "Wikipedia_label": "Heather Hills",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "changing climate",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q125928"
+			},
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            }
+            
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q174165"
+            }, 
+            {
+                "Wikipedia_label": "BCI kitemark",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }, 
+            {
+                "Wikipedia_label": "UK",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q145",
+				"type":"ne"
+            }, 
+            {
+                "Wikipedia_label": "New marketing strategies",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q39809"
+            },
+            {
+                "Wikipedia_label": "kitemark",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q6418160"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Heather Hills",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "Aberdeenshire",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q189912",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Scotland",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q22",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Germany",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q183",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Luneburg",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3920",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Ireland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22890",
+				"type":"ne"
+            }
+        ]
+    }
+]

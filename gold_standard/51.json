@@ -1,0 +1,294 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "CZECH REPUBLIC",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Herb liquers",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q8508661"
+            },
+            {
+                "Wikipedia_label": "niche market",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1758705"
+            },
+            {
+                "Wikipedia_label": "eshops",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q212930"
+            },
+            {
+                "Wikipedia_label": "farmers markets",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1522620"
+            },
+            {
+                "Wikipedia_label": "direct selling",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q962382"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Giant Mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q214644",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Trutnov",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q320950",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Kralovehradecky",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q193295",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Czech Republic",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "landscape",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q107425"
+            },
+            {
+                "Wikipedia_label": "agricultural activities",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q11451"
+            },
+            {
+                "Wikipedia_label": "altitude",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q190200"
+            },
+            {
+                "Wikipedia_label": "arable land",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q843920"
+            },
+            {
+                "Wikipedia_label": "grassland",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q1006733"
+            },
+            {
+                "Wikipedia_label": "National Park",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q46169",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "mountains",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q8502"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "herb liquers",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q8508661"
+            },
+            {
+                "Wikipedia_label": "liquers",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q178780"
+            },
+            {
+                "Wikipedia_label": "unique selling proposition",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q963465"
+            },
+            {
+                "Wikipedia_label": "mountain regions",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q8502"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "marketing",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q39809"
+            },
+            {
+                "Wikipedia_label": "knowledge",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q9081"
+            },
+            {
+                "Wikipedia_label": "mountain area",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q8502"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Herb liquers",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q8508661"
+            },
+            {
+                "Wikipedia_label": "marketing strategy",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1363963"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q174165"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "mountain region",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q8502"
+            }
+        ]
+    }
+]

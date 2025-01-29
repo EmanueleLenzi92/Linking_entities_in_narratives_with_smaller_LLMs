@@ -1,0 +1,362 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "CZECH REPUBLIC",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "mountains",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q8502"
+            },
+            {
+                "Wikipedia_label": "fruit",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3314483"
+            },
+            {
+                "Wikipedia_label": "niche market",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1758705"
+            },
+            {
+                "Wikipedia_label": "eshops",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q212930"
+            },
+            {
+                "Wikipedia_label": "farmers markets",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1522620"
+            },
+            {
+                "Wikipedia_label": "tourism",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q49389"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Sumava",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q157290",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Cesky les",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Klatovy",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q602976",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359"
+            },
+            {
+                "Wikipedia_label": "agricultural land",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3395383"
+            },
+            {
+                "Wikipedia_label": "crops",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q235352"
+            },
+            {
+                "Wikipedia_label": "potato",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10998"
+            },
+            {
+                "Wikipedia_label": "Germany",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q183",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "forests",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4421"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "mountain regions",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q8502"
+            },
+            {
+                "Wikipedia_label": "Beekeeping",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q176353"
+            },
+            {
+                "Wikipedia_label": "pollutions",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q58734"
+            },
+            {
+                "Wikipedia_label": "bee keepers",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q852389"
+            },
+            {
+                "Wikipedia_label": "ecology",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q7150"
+            },
+            {
+                "Wikipedia_label": "marketing",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q39809"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Sumava Mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q157290",
+				"type":"ne"
+            },   
+            {
+                "Wikipedia_label": "socialist-era (1950s-1989)",
+                "Wikidata_ID": "http://www.wikidata.org/entity/null"
+            },
+            {
+                "Wikipedia_label": "landscape",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q107425"
+            },
+            {
+                "Wikipedia_label": "winter",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1311"
+            },
+            {
+                "Wikipedia_label": "summer",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1313"
+            },
+            {
+                "Wikipedia_label": "beekepers",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q852389"
+            },
+            {
+                "Wikipedia_label": "ecosystem",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q37813"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Beekepers",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q852389"
+            },
+            {
+                "Wikipedia_label": "honey",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q8502"
+            },
+            {
+                "Wikipedia_label": "mountain region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q8502"
+            },
+            {
+                "Wikipedia_label": "climate change",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7942"
+            },
+            {
+                "Wikipedia_label": "pollutions",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q58734"
+            },
+            {
+                "Wikipedia_label": "risk",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q104493"
+            },
+            {
+                "Wikipedia_label": "business",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q4830453"
+            },
+            {
+                "Wikipedia_label": "Czech Republic",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+			},
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            }
+            
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "Beekeepers",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q852389"
+            },
+            {
+                "Wikipedia_label": "varroa",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1766457"
+            },
+            {
+                "Wikipedia_label": "disease",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q12136"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Czech Republic",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+				
+            },
+            {
+                "Wikipedia_label": "beekeeping",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q176353"
+            },
+            {
+                "Wikipedia_label": "agriculture",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q11451"
+            }
+        ]
+    }
+]

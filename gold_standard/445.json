@@ -1,0 +1,369 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "TURKEY",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "2020 TURKSTAT data",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1375058"
+            },
+            {
+                "Wikipedia_label": "Mugla",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q216912",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "beekeepers",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q852389"
+            },
+            {
+                "Wikipedia_label": "beekeeping",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q176353"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Menteşe Mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1400572",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Ula",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1803032",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Mediterranean climate",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q13996"
+            },
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Mugla",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q216912",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "nature",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q7860"
+            },
+            {
+                "Wikipedia_label": "climate",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q7937"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "pine honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7195419"
+            },
+            {
+                "Wikipedia_label": "Turkish Patent and Trademark Office",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7855305",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "functional food",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q752276"
+            },
+            {
+                "Wikipedia_label": "medicine",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q11190"
+            },
+            {
+                "Wikipedia_label": "Agriculture",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q11451"
+            },
+            {
+                "Wikipedia_label": "Beekeeping",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q176353"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Pine honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7195419"
+            },
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Muğla",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q216912",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "forest",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4421"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "beekeeper",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q852389"
+            },
+            {
+                "Wikipedia_label": "beekeeping",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q176353"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "Rainforest Alliance",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2034373",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "pine honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7195419"
+            },
+            {
+                "Wikipedia_label": "Turkey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "honey",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10987"
+            },
+            {
+                "Wikipedia_label": "Switzerland",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q39",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Austria",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q40",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Czech Republic",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q213",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "France",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q142",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Greece",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q41",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Hungary",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q28",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Italy",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q38",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Romania",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q218",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Serbia",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q403",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Slovakia",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q214",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Spain",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q29",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "UK",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q145",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "North Macedonia",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q221",
+				"type":"ne"
+            }
+        ]
+    }
+]

@@ -1,0 +1,531 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "AUSTRIA",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q40",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "ALMO",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "'ALMO' (Almo Steirisches Almochsenfleisch)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"   
+            },
+            {
+                "Wikipedia_label": "Association Steirische Bergland Marktgemeinschaft",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"   
+            },
+            {
+                "Wikipedia_label": "Almenland Marketing GmbH",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Austrian Program for Environmentally Sound Agriculture (ÖPUL)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "AgrarMarkt Austria",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "cooperation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q380962",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "business",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4830453",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "farmers",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q131512",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "RR 11",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Austrian Alps",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q327434",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Weiz",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q875641",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Almenland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Styrian alpine pasture region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q998643",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Europe",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q46",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "pasture",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q30121",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "limestone",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q23757",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "phyllite",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q731880",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "slate",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q207079",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "greywacke",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q917545",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "ALMO",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Weiz",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q875641",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Gleisdorf",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q643600",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "NGO",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "cooperation",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q380962",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "value chain",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q646107",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourism",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q49389",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "regional development agency",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q7309207",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "veterinaries",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q202883",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "butcher",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q329737",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "Almenland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "cooperation",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q380962",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "landscape",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q107425",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "sheep farmers",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1790941",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "pig farmers",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q478672",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "butcher",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q329737",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "ALMO",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "tourism",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q49389",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "pasture",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q30121",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "climate",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q7937",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "drough",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q43059",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "heavy rain",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q18447212",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "pasture",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q30121",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "weather",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q11663",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "meat",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q10990",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "vegetation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q187997",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "winter",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q1311",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "ALMO",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q174165",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "implementation",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q245962",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "knowledge",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q9081",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "meat",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q10990",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "cooperation",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q380962",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "business",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q4830453",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "building",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q41176",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "stable",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q214252",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "Almenland",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },  
+            {
+                "Wikipedia_label": "System Haberl",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "New marketing strategies",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q39809",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "farmer",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q131512",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Austria",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q40",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Lower Austria",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q42497",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Carinthia",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q37985",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "marketing",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q39809",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "pasture",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q30121",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "beef",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q192628",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "ALMO",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107",
+				"type":"k"
+            }
+        ]
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "czech republic",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "EU PGI",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3104453",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Ostrava",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q8385",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Beskydy mountains",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q215573",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Vallachian region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Javorníky",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10816446",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Beskydy",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Western Carpathian",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q927233",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Czech Republic",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "highlands",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q878223"
+            },
+            {
+                "Wikipedia_label": "forests",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q4421"
+            },
+            {
+                "Wikipedia_label": "landscape",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q107425"
+            },
+            {
+                "Wikipedia_label": "protected area",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q473972"
+            },
+            {
+                "Wikipedia_label": "nature",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q7860"
+            },
+            {
+                "Wikipedia_label": "grassland",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q1006733"
+            },
+            {
+                "Wikipedia_label": "Vsetín",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q513417",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Europe",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q46",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "sheep",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q7368"
+            },
+            {
+                "Wikipedia_label": "cattle",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q830"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "EU Protected Geographical Indication (PGI)",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q3104453",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Beskydy",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q215573",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Valašský",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Vallachian",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Czechia",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "italians",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q50001"
+            },
+            {
+                "Wikipedia_label": "foothills",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1354045"
+            },
+            {
+                "Wikipedia_label": "fruit for topping",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q74048276"
+            },
+            {
+                "Wikipedia_label": "pears",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q13099586"
+            },
+            {
+                "Wikipedia_label": "cake",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q13276"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Vallachian",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "cake",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q13276"
+            },
+            {
+                "Wikipedia_label": "popularity",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q1357284"
+            },
+            {
+                "Wikipedia_label": "territory",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q183366"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "cake",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q13276"
+            },
+            {
+                "Wikipedia_label": "Vallachian",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "Beskydy",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q215573",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "valašský",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1957265",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Czechia",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "supermarkets",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q180846"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "cake",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q13276"
+            },
+            {
+                "Wikipedia_label": "local people",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q490933"
+            },
+            {
+                "Wikipedia_label": "Vallachian",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+				
+            }, 
+            {
+                "Wikipedia_label": "frgále",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "dialect",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q33384"
+            },
+            {
+                "Wikipedia_label": "brandy",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q146470"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "frgál",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "cakes",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q13276"
+            },
+            {
+                "Wikipedia_label": "Czechia",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/Q213",
+				"type":"ne"
+            }
+        ]
+    }
+]

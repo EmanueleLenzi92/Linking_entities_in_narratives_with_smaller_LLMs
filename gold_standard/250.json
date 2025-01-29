@@ -1,0 +1,372 @@
+[
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "MOVING",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "SCOTLAND HUTTON",
+                "Wikidata_ID": "http://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Caerphilly cheese",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1025407",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Euopean Protected Georgaphical Indication (PGI)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q363268",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "West Wales",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q3094812",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Caerphilly",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q909119",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Wales",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q25",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Cardiff",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10690",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Newport",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q101254",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "unemployment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q41171"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population density",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q22856",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "altimetry",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1309100",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "population",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2625603",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "per capita income",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q45918",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Province",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            }, 
+            {
+                "Wikipedia_label": "Gross Value Added (GVA)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q994873",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "Region",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type": "k" 
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type": "k" 
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "bed places (BPs)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "BPs",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "LAU",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q163359",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tourist accommodations",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q9323634",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "employment",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q656365",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "tertiary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55638",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "secondary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55639",
+				"type":"k"
+            },
+            {
+                "Wikipedia_label": "primary sector",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q55640",
+				"type":"k"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Caerphilly cheese",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1025407",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Caerphilly",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q909119",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Somerset",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q23157",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Wiltshire",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q23183",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Castle Dairies",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "cheese",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10943"
+            },
+            {
+                "Wikipedia_label": "festival",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q132241"
+            },
+            {
+                "Wikipedia_label": "The Big Cheese",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q96373526",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Gorwydd",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "International Cheese Awards",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q6049165",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "PGI",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q363268"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Caerphilly cheese",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1025407",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "dairy cattle",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q2915"
+            },
+            {
+                "Wikipedia_label": "Big Cheese festival",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q96373526",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "caerphilly",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q909119",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "England",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q21",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "cheese",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10943"
+            },
+            {
+                "Wikipedia_label": "coal minres",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q24489"
+            },
+            {
+                "Wikipedia_label": "tourism",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q49389"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "COVID",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q84263196",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "England",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q21",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "cheese",
+                "Wikidata_ID": "http://www.wikidata.org/entity/Q10943"
+            },
+            {
+                "Wikipedia_label": "Caerphilly",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q909119",
+				"type":"ne"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "VC (Value Chain)",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q646107"
+            },
+            {
+                "Wikipedia_label": "innovation",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q174165"
+            },
+            {
+                "Wikipedia_label": "Caerphilly cheese",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1025407",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "factory and machine-based methods",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/null"
+            },
+            {
+                "Wikipedia_label": "cheese",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q10943"
+            },
+            {
+                "Wikipedia_label": "traditional pre-war cheesemaking processes",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1281188"
+            },
+            {
+                "Wikipedia_label": "Caerphilly",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q909119"
+            },
+            {
+                "Wikipedia_label": "New marketing strategies",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q39809"
+            },
+            {
+                "Wikipedia_label": "grassland",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1006733"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "Wikipedia_label": "Caerphilly cheese",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q1025407",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Somerset",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q23157",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "Wiltshire",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q23183",
+				"type":"ne"
+            },
+            {
+                "Wikipedia_label": "England",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q21",
+				"type":"ne"
+            }
+        ]
+    }
+]
