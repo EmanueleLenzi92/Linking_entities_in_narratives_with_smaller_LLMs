@@ -1,0 +1,20 @@
+[
+    {
+        "sentence": "The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 1. The reference MOVING Card ID of this VC is VC 17 CH1. Honey from the alps is supposed to have an especially gourmet taste. It is often produced in small batches and then sold directly by the prodcuers or in nearby farm shops. Increasingly, these products are also sold in online shops. Some products are also sold to larger retailers. There are several labels and brands for alpine products, e.g. 'Pro Montagna', a retail brand for products from mountain zones 1-4.",
+        "entities": []
+    },
+    {
+        "sentence": "The reference mountain chain of this VC is unspecified. The reference mountain landscape of this VC is unspecified.",
+        "entities": []
+    },
+    {
+        "sentence": "The size of the area (km2) is unspecified. The minimum altimetry of the LAU (Local Administrative Unit) is unspecified. The maximum altimetry of the LAU is unspecified. The total population (in thousand) is unspecified. The population density (Inhabitants/km2) in the LAU is unspecified. The population change rate of the LAU in the last 10 years (%) is unspecified. The overall regional population density (Inhabitants/km2) is unspecified. The regional population change rate in the last 10 years (%) is unspecified.",
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikipedia_label": "Lau Islands",
+                "Wikidata_ID": "Q1062438"
+            }
+        ]
+    }
+]

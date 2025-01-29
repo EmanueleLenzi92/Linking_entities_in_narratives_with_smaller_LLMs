@@ -1,0 +1,437 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "MOVING reference member state",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "MOVING reference member state",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Kozak type pine nuts",
+    "wikipedia_title" : "Pine nut",
+    "originalKey" : "Kozak type pine nuts",
+    "original_value" : "Pine nut",
+    "Wikidata_ID" : "Q212933"
+  }, {
+    "entity_in_the_text" : "pick up activity of pine nuts",
+    "wikipedia_title" : "Harvesting",
+    "originalKey" : "pick up activity of pine nuts",
+    "original_value" : "Harvesting",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "processing of pine nuts",
+    "wikipedia_title" : "Processing",
+    "originalKey" : "processing of pine nuts",
+    "original_value" : "Processing",
+    "Wikidata_ID" : "Q1053535"
+  }, {
+    "entity_in_the_text" : "cooperative activities",
+    "wikipedia_title" : "Cooperatives",
+    "originalKey" : "cooperative activities",
+    "original_value" : "Cooperatives",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional SES",
+    "wikipedia_title" : "Social and economic development",
+    "originalKey" : "regional SES",
+    "original_value" : "Social and economic development",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Bergama",
+    "wikipedia_title" : "Bergama",
+    "originalKey" : "Bergama",
+    "original_value" : "Bergama",
+    "Wikidata_ID" : "Q737822"
+  }, {
+    "entity_in_the_text" : "Kozak",
+    "wikipedia_title" : "Kozak, Turkey",
+    "originalKey" : "Kozak",
+    "original_value" : "Kozak, Turkey",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Madra Mountains region",
+    "wikipedia_title" : "Madra Mountains",
+    "originalKey" : "Madra Mountains region",
+    "original_value" : "Madra Mountains",
+    "Wikidata_ID" : "Q4833452"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "size",
+    "wikipedia_title" : "Area",
+    "originalKey" : "size",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "minimum altimetry",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "minimum altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "entity_in_the_text" : "maximum altimetry",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "maximum altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "entity_in_the_text" : "total population",
+    "wikipedia_title" : "Population",
+    "originalKey" : "total population",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "population density",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "population change rate",
+    "wikipedia_title" : "Demographic trends",
+    "originalKey" : "population change rate",
+    "original_value" : "Demographic trends",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "overall regional population density",
+    "wikipedia_title" : "Regional population density",
+    "originalKey" : "overall regional population density",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional population change rate",
+    "wikipedia_title" : "Regional demographic trends",
+    "originalKey" : "regional population change rate",
+    "original_value" : "Regional demographic trends",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "average per capita income",
+    "wikipedia_title" : "Average per capita income",
+    "originalKey" : "average per capita income",
+    "original_value" : "Average per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "total Gross Value Added",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "entity_in_the_text" : "primary sector share",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector share",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector share",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector share",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "Gross Value Added",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "bed places",
+    "wikipedia_title" : "Bed",
+    "originalKey" : "bed places",
+    "original_value" : "Bed",
+    "Wikidata_ID" : "Q42177"
+  }, {
+    "entity_in_the_text" : "tourist accommodations/year",
+    "wikipedia_title" : "Tourism accommodation",
+    "originalKey" : "tourist accommodations/year",
+    "original_value" : "Tourism accommodation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU (Local Administrative Unit)",
+    "wikipedia_title" : "Local administrative division",
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Local administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional share",
+    "wikipedia_title" : "Region",
+    "originalKey" : "regional share",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural land use",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural land use",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "nearest settlement with population over 100000 (km)",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "nearest settlement with population over 100000 (km)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Peanut pine",
+    "wikipedia_title" : "Pinus pinea",
+    "originalKey" : "Peanut pine",
+    "original_value" : "Pinus pinea",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Bergama-Kozak plateau",
+    "wikipedia_title" : "Bergama-Kozak Plateau",
+    "originalKey" : "Bergama-Kozak plateau",
+    "original_value" : "Bergama-Kozak Plateau",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Turkey",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "Turkey",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "Madra Mountains",
+    "wikipedia_title" : "Madra Mountains",
+    "originalKey" : "Madra Mountains",
+    "original_value" : "Madra Mountains",
+    "Wikidata_ID" : "Q4833452"
+  }, {
+    "entity_in_the_text" : "pine forests",
+    "wikipedia_title" : "Pine forests",
+    "originalKey" : "pine forests",
+    "original_value" : "Pine forests",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "granite soils",
+    "wikipedia_title" : "Granite (mineral)",
+    "originalKey" : "granite soils",
+    "original_value" : "Granite (mineral)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "pine nuts/cones",
+    "wikipedia_title" : "Pine nuts",
+    "originalKey" : "pine nuts/cones",
+    "original_value" : "Pine nuts",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Ministry of Forestry",
+    "wikipedia_title" : "Ministry of Forestry (Turkey)",
+    "originalKey" : "Ministry of Forestry",
+    "original_value" : "Ministry of Forestry (Turkey)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "local administration",
+    "wikipedia_title" : "Local government",
+    "originalKey" : "local administration",
+    "original_value" : "Local government",
+    "Wikidata_ID" : "Q6501447"
+  }, {
+    "entity_in_the_text" : "niche market",
+    "wikipedia_title" : "Niche market",
+    "originalKey" : "niche market",
+    "original_value" : "Niche market",
+    "Wikidata_ID" : "Q1758705"
+  }, {
+    "entity_in_the_text" : "mountain farming",
+    "wikipedia_title" : "Mountain farming",
+    "originalKey" : "mountain farming",
+    "original_value" : "Mountain farming",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "pine nut areas",
+    "wikipedia_title" : "Pine nuts",
+    "originalKey" : "pine nut areas",
+    "original_value" : "Pine nuts",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kozak/Bergama",
+    "wikipedia_title" : "Kozak, Bergama",
+    "originalKey" : "Kozak/Bergama",
+    "original_value" : "Kozak, Bergama",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kozak type pine nuts",
+    "wikipedia_title" : "Kozak pine nuts",
+    "originalKey" : "Kozak type pine nuts",
+    "original_value" : "Kozak pine nuts",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Kozak plateau",
+    "wikipedia_title" : "Kozak Plateau",
+    "originalKey" : "Kozak plateau",
+    "original_value" : "Kozak Plateau",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "pests and diseases",
+    "wikipedia_title" : "Pests and diseases of pine trees",
+    "originalKey" : "pests and diseases",
+    "original_value" : "Pests and diseases of pine trees",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "lack of qualified personnel",
+    "wikipedia_title" : "Qualified personnel in agriculture",
+    "originalKey" : "lack of qualified personnel",
+    "original_value" : "Qualified personnel in agriculture",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "education",
+    "wikipedia_title" : "Education in agriculture",
+    "originalKey" : "education",
+    "original_value" : "Education in agriculture",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "inadequate advertisement and marketing",
+    "wikipedia_title" : "Advertising and marketing of agricultural products",
+    "originalKey" : "inadequate advertisement and marketing",
+    "original_value" : "Advertising and marketing of agricultural products",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "processing, marketing and promotion of pine nuts product",
+    "wikipedia_title" : "Pine nuts processing, marketing and promotion",
+    "originalKey" : "processing, marketing and promotion of pine nuts product",
+    "original_value" : "Pine nuts processing, marketing and promotion",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "VC (venture capital)",
+    "originalKey" : "VC",
+    "original_value" : "VC (venture capital)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Current and Predicted",
+    "wikipedia_title" : "Current and predicted",
+    "originalKey" : "Current and Predicted",
+    "original_value" : "Current and predicted",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Traditional",
+    "wikipedia_title" : "Traditional venture capital",
+    "originalKey" : "Traditional",
+    "original_value" : "Traditional venture capital",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "VC (Value chain)",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "VC (Value chain)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "innovation",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "land use systems",
+    "wikipedia_title" : "Land use",
+    "originalKey" : "land use systems",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "entity_in_the_text" : "Cropland",
+    "wikipedia_title" : "Cropland",
+    "originalKey" : "Cropland",
+    "original_value" : "Cropland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "local assets",
+    "wikipedia_title" : "Local assets",
+    "originalKey" : "local assets",
+    "original_value" : "Local assets",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Nature",
+    "originalKey" : "Natural",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  }, {
+    "entity_in_the_text" : "cultural",
+    "wikipedia_title" : "Culture",
+    "originalKey" : "cultural",
+    "original_value" : "Culture",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Pine nuts",
+    "wikipedia_title" : "Pine nut",
+    "originalKey" : "Pine nuts",
+    "original_value" : "Pine nut",
+    "Wikidata_ID" : "Q212933"
+  } ]
+} ]

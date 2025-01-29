@@ -1,0 +1,407 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "MOVING reference member state",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "MOVING reference member state",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "herb liquers",
+    "wikipedia_title" : "Herbal liqueur",
+    "originalKey" : "herb liquers",
+    "original_value" : "Herbal liqueur",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "producers",
+    "wikipedia_title" : "Producer (business)",
+    "originalKey" : "producers",
+    "original_value" : "Producer (business)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "niche market",
+    "wikipedia_title" : "Niche market",
+    "originalKey" : "niche market",
+    "original_value" : "Niche market",
+    "Wikidata_ID" : "Q1758705"
+  }, {
+    "entity_in_the_text" : "promotion of the regions identity",
+    "wikipedia_title" : "Regional identity",
+    "originalKey" : "promotion of the regions identity",
+    "original_value" : "Regional identity",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "eshops",
+    "wikipedia_title" : "E-commerce",
+    "originalKey" : "eshops",
+    "original_value" : "E-commerce",
+    "Wikidata_ID" : "Q484847"
+  }, {
+    "entity_in_the_text" : "farmers markets",
+    "wikipedia_title" : "Farmer's market",
+    "originalKey" : "farmers markets",
+    "original_value" : "Farmer's market",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "direct selling",
+    "wikipedia_title" : "Direct marketing",
+    "originalKey" : "direct selling",
+    "original_value" : "Direct marketing",
+    "Wikidata_ID" : "Q677073"
+  }, {
+    "entity_in_the_text" : "other specialized shops",
+    "wikipedia_title" : "Specialty store",
+    "originalKey" : "other specialized shops",
+    "original_value" : "Specialty store",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Giant Mountains",
+    "wikipedia_title" : "Giant Mountains",
+    "originalKey" : "Giant Mountains",
+    "original_value" : "Giant Mountains",
+    "Wikidata_ID" : "Q214644"
+  }, {
+    "entity_in_the_text" : "LAU 1 Trutnov",
+    "wikipedia_title" : "Trutnov (district)",
+    "originalKey" : "LAU 1 Trutnov",
+    "original_value" : "Trutnov (district)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "size",
+    "wikipedia_title" : "Area",
+    "originalKey" : "size",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "minimum altimetry",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "minimum altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "entity_in_the_text" : "maximum altimetry",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "maximum altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "entity_in_the_text" : "total population",
+    "wikipedia_title" : "Population",
+    "originalKey" : "total population",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "population density",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "population change rate",
+    "wikipedia_title" : "Demographic trends",
+    "originalKey" : "population change rate",
+    "original_value" : "Demographic trends",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "overall regional population density",
+    "wikipedia_title" : "Regional population density",
+    "originalKey" : "overall regional population density",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional population change rate",
+    "wikipedia_title" : "Regional demographic trends",
+    "originalKey" : "regional population change rate",
+    "original_value" : "Regional demographic trends",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "average per capita income",
+    "wikipedia_title" : "Average per capita income",
+    "originalKey" : "average per capita income",
+    "original_value" : "Average per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "total Gross Value Added",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "entity_in_the_text" : "primary sector share",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector share",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector share",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector share",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "Gross Value Added",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "bed places",
+    "wikipedia_title" : "Tourist accommodation",
+    "originalKey" : "bed places",
+    "original_value" : "Tourist accommodation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU (Local Administrative Unit)",
+    "wikipedia_title" : "Local administrative division",
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Local administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional share",
+    "wikipedia_title" : "Regional share",
+    "originalKey" : "regional share",
+    "original_value" : "Regional share",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural land use",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural land use",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "nearest settlement with population over 100000 (km)",
+    "wikipedia_title" : "Populated place",
+    "originalKey" : "nearest settlement with population over 100000 (km)",
+    "original_value" : "Populated place",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Vodka",
+    "originalKey" : "VC",
+    "original_value" : "Vodka",
+    "Wikidata_ID" : "Q374"
+  }, {
+    "entity_in_the_text" : "herb liquers",
+    "wikipedia_title" : "Herbal liqueur",
+    "originalKey" : "herb liquers",
+    "original_value" : "Herbal liqueur",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional product",
+    "wikipedia_title" : "Regional product",
+    "originalKey" : "regional product",
+    "original_value" : "Regional product",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "natural and symbolic values associated with the region",
+    "wikipedia_title" : "Natural resources of Europe",
+    "originalKey" : "natural and symbolic values associated with the region",
+    "original_value" : "Natural resources of Europe",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "produced",
+    "wikipedia_title" : "Production",
+    "originalKey" : "produced",
+    "original_value" : "Production",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "marketing",
+    "wikipedia_title" : "Marketing",
+    "originalKey" : "marketing",
+    "original_value" : "Marketing",
+    "Wikidata_ID" : "Q39809"
+  }, {
+    "entity_in_the_text" : "traditional knowledge",
+    "wikipedia_title" : "Traditional knowledge",
+    "originalKey" : "traditional knowledge",
+    "original_value" : "Traditional knowledge",
+    "Wikidata_ID" : "Q1428168"
+  }, {
+    "entity_in_the_text" : "product labels",
+    "wikipedia_title" : "Product labeling",
+    "originalKey" : "product labels",
+    "original_value" : "Product labeling",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "cultural traits",
+    "wikipedia_title" : "Culture",
+    "originalKey" : "cultural traits",
+    "original_value" : "Culture",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "mountain area",
+    "wikipedia_title" : "Mountains",
+    "originalKey" : "mountain area",
+    "original_value" : "Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "symbolic value",
+    "wikipedia_title" : "Symbolism",
+    "originalKey" : "symbolic value",
+    "original_value" : "Symbolism",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Herb liquers",
+    "wikipedia_title" : "Herb liqueur",
+    "originalKey" : "Herb liquers",
+    "original_value" : "Herb liqueur",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "mainstream food markets",
+    "wikipedia_title" : "Mainstream food market",
+    "originalKey" : "mainstream food markets",
+    "original_value" : "Mainstream food market",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "valorization of the product",
+    "wikipedia_title" : "Valorization",
+    "originalKey" : "valorization of the product",
+    "original_value" : "Valorization",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "marketing strategy",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "marketing strategy",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Current",
+    "wikipedia_title" : "Current (economics)",
+    "originalKey" : "Current",
+    "original_value" : "Current (economics)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Traditional",
+    "wikipedia_title" : "Traditional",
+    "originalKey" : "Traditional",
+    "original_value" : "Traditional",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "VC (Value chain)",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "VC (Value chain)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "innovation",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "land use systems",
+    "wikipedia_title" : "Land use",
+    "originalKey" : "land use systems",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Natural land use",
+    "originalKey" : "Natural land",
+    "original_value" : "Natural land use",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "local assets",
+    "wikipedia_title" : "Local assets",
+    "originalKey" : "local assets",
+    "original_value" : "Local assets",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Nature",
+    "originalKey" : "Natural",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  }, {
+    "entity_in_the_text" : "cultural",
+    "wikipedia_title" : "Culture",
+    "originalKey" : "cultural",
+    "original_value" : "Culture",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Valley",
+    "originalKey" : "VC",
+    "original_value" : "Valley",
+    "Wikidata_ID" : "Q39816"
+  }, {
+    "entity_in_the_text" : "mountain region",
+    "wikipedia_title" : "Mountain range",
+    "originalKey" : "mountain region",
+    "original_value" : "Mountain range",
+    "Wikidata_ID" : ""
+  } ]
+} ]
