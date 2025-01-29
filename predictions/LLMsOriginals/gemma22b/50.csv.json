@@ -1,0 +1,394 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "VC 09 CZ",
+                "wikipedia_title": "VC 09 CZ"
+            },
+            {
+                "entity_in_the_text": "EU PGI label",
+                "wikipedia_title": "European Protected Geographical Indication"
+            },
+            {
+                "entity_in_the_text": "Ostrava",
+                "wikipedia_title": "Ostrava"
+            },
+            {
+                "entity_in_the_text": "Vallachian region",
+                "wikipedia_title": "Vysocina"
+            },
+            {
+                "entity_in_the_text": "Beskydy mountains",
+                "wikipedia_title": "Beskydy Mountains"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Javorníky/Beskydy",
+                "wikipedia_title": " Javorníky"
+            },
+            {
+                "entity_in_the_text": "Western Carpathian",
+                "wikipedia_title": "Carpathian Mountains"
+            },
+            {
+                "entity_in_the_text": "LAU 1 Vsetín",
+                "wikipedia_title": "Vsetín LAU 1"
+            },
+            {
+                "entity_in_the_text": "Mountain Reference Landscape (LAU 1 - Vsetín)",
+                "wikipedia_title": "Czech Republic Mountain Landscapes"
+            },
+            {
+                "entity_in_the_text": "nature protected area",
+                "wikipedia_title": "Protected areas in the Czech Republic"
+            },
+            {
+                "entity_in_the_text": "555 km2",
+                "wikipedia_title": "Area of Protected Areas in the Czech Republic"
+            },
+            {
+                "entity_in_the_text": "unique nature",
+                "wikipedia_title": "Nature Conservation in the Czech Republic"
+            },
+            {
+                "entity_in_the_text": "tourism",
+                "wikipedia_title": "Tourism in the Czech Republic"
+            },
+            {
+                "entity_in_the_text": "nature protected area located in the region",
+                "wikipedia_title": "Protected areas in the Czech Republic"
+            },
+            {
+                "entity_in_the_text": "Europe",
+                "wikipedia_title": "European Union"
+            },
+            {
+                "entity_in_the_text": "extensive farming in perennial grassland, namely sheep and cattle",
+                "wikipedia_title": "Agriculture in the Czech Republic"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "area (km2)",
+                "wikipedia_title": "Area of a place"
+            },
+            {
+                "entity_in_the_text": "minimum altimetry",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "maximum altimetry",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "population (in thousand)",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "population density (Inhabitants/km2)",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "entity_in_the_text": "population change rate of the LAU in the last 10 years (%)",
+                "wikipedia_title": "Population growth rate"
+            },
+            {
+                "entity_in_the_text": "overall regional population density (Inhabitants/km2)",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "entity_in_the_text": "regional population change rate in the last 10 years (%)",
+                "wikipedia_title": "Population growth rate"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces in Europe"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions in Europe"
+            },
+            {
+                "entity_in_the_text": "EUR/year",
+                "wikipedia_title": "Euro (currency)"
+            },
+            {
+                "entity_in_the_text": "EUR million/year",
+                "wikipedia_title": "Million (unit of currency)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "bed places (BPs)",
+                "wikipedia_title": "Bed capacity"
+            },
+            {
+                "entity_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourist accommodation"
+            },
+            {
+                "entity_in_the_text": "year",
+                "wikipedia_title": "Year"
+            },
+            {
+                "entity_in_the_text": "regional (Region)",
+                "wikipedia_title": "Regional government"
+            },
+            {
+                "entity_in_the_text": "total BPs/year",
+                "wikipedia_title": "Bed capacity per year"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "entity_in_the_text": "population over 100000 (km)",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Region]",
+                "wikipedia_title": "Primary industry by region"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Region]",
+                "wikipedia_title": "Secondary industry by region"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Region]",
+                "wikipedia_title": "Tertiary industry by region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "EU Protected Geographical Indication (PGI) label",
+                "wikipedia_title": "List of protected geographical indications of the European Union"
+            },
+            {
+                "entity_in_the_text": "regional product label",
+                "wikipedia_title": "Regional product label"
+            },
+            {
+                "entity_in_the_text": "Valašský region",
+                "wikipedia_title": "Vlasky Region"
+            },
+            {
+                "entity_in_the_text": "Beskydy mountains",
+                "wikipedia_title": "Beskydy Mountains"
+            },
+            {
+                "entity_in_the_text": "Italians (Vallachians - valašský)",
+                "wikipedia_title": "Vallachian people"
+            },
+            {
+                "entity_in_the_text": "case",
+                "wikipedia_title": "Case (food)"
+            },
+            {
+                "entity_in_the_text": "foothills of Beskydy mountains",
+                "wikipedia_title": "Beskydy Mountains"
+            },
+            {
+                "entity_in_the_text": "200 years",
+                "wikipedia_title": "History of the Czech Republic"
+            },
+            {
+                "entity_in_the_text": "pears",
+                "wikipedia_title": "Pear"
+            },
+            {
+                "entity_in_the_text": "Czechia",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "territorial identity",
+                "wikipedia_title": "Territorial identity"
+            },
+            {
+                "entity_in_the_text": "innovative VC in term of its marketing sing regional name and references to mountain ('tradittional cake from Vallachian region in Beskydy')",
+                "wikipedia_title": "Marketing"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Vallachian region",
+                "wikipedia_title": "Valachia"
+            },
+            {
+                "entity_in_the_text": "200 years",
+                "wikipedia_title": "History of cake in the Valachian region"
+            },
+            {
+                "entity_in_the_text": "doue",
+                "wikipedia_title": "Doué (cake)"
+            },
+            {
+                "entity_in_the_text": "mountains",
+                "wikipedia_title": "Mountains of the Valachian region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "cake",
+                "wikipedia_title": "Cake"
+            },
+            {
+                "entity_in_the_text": "regional name ('Vallachian')",
+                "wikipedia_title": "Valachian"
+            },
+            {
+                "entity_in_the_text": "VC rotates about the name of the territory (not around the process of production or raw materials used)",
+                "wikipedia_title": "Geographical area"
+            },
+            {
+                "entity_in_the_text": "Beskydy mountains",
+                "wikipedia_title": "Beskydy Mountains"
+            },
+            {
+                "entity_in_the_text": "name Vallachian (valašský, lašský in Czech)",
+                "wikipedia_title": "Valachian language"
+            },
+            {
+                "entity_in_the_text": "popularity of this cake",
+                "wikipedia_title": "Popularity"
+            },
+            {
+                "entity_in_the_text": "fake products of similar type (using name 'frgále' but not being form the locality)",
+                "wikipedia_title": "Counterfeiting"
+            },
+            {
+                "entity_in_the_text": "challenge faced by this VC is Current and Predicted",
+                "wikipedia_title": "Challenge"
+            },
+            {
+                "entity_in_the_text": "VC is classified as Traditional and Innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "entity_in_the_text": "Endogenous innovation",
+                "wikipedia_title": "Endogenous Innovation"
+            },
+            {
+                "entity_in_the_text": "cake",
+                "wikipedia_title": "Cake"
+            },
+            {
+                "entity_in_the_text": "frgále",
+                "wikipedia_title": "Frägele"
+            },
+            {
+                "entity_in_the_text": "oven-done cake",
+                "wikipedia_title": "Oven-Done Cake"
+            },
+            {
+                "entity_in_the_text": "Vallachian people",
+                "wikipedia_title": "Valachians"
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing Strategy"
+            },
+            {
+                "entity_in_the_text": "Vallachian region",
+                "wikipedia_title": "Valachian Region"
+            },
+            {
+                "entity_in_the_text": "mountain region",
+                "wikipedia_title": "Mountainous Region"
+            },
+            {
+                "entity_in_the_text": "'frgále' cake",
+                "wikipedia_title": "Frägele Cake"
+            },
+            {
+                "entity_in_the_text": "pblum brandy (spirit)",
+                "wikipedia_title": "Plum Brandy"
+            },
+            {
+                "entity_in_the_text": "Social and cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "frgál",
+                "wikipedia_title": "Frgal"
+            },
+            {
+                "entity_in_the_text": "other producers",
+                "wikipedia_title": "List of food producers in the Czech Republic"
+            },
+            {
+                "entity_in_the_text": "these cakes",
+                "wikipedia_title": "Cakes"
+            },
+            {
+                "entity_in_the_text": "everywhere thourgout Czechia",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "utilization original VC for fake products",
+                "wikipedia_title": "Fake goods"
+            }
+        ]
+    }
+]

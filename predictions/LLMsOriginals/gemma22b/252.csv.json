@@ -1,0 +1,454 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SCOTLAND HUTTON",
+                "wikipedia_title": "Scotland Hutton"
+            },
+            {
+                "entity_in_the_text": "VC 04 UK",
+                "wikipedia_title": "Value Chain (VC) 04 UK"
+            },
+            {
+                "entity_in_the_text": "Deer hunting (stalking)",
+                "wikipedia_title": "Stalking"
+            },
+            {
+                "entity_in_the_text": "Highlands and Islands of Scotland",
+                "wikipedia_title": "Scottish Highlands"
+            },
+            {
+                "entity_in_the_text": "Highland",
+                "wikipedia_title": "Highland (Scotland)"
+            },
+            {
+                "entity_in_the_text": "Perth and Kinross (LAU1)",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "entity_in_the_text": "Blair Atholl Estates",
+                "wikipedia_title": "Blair Atholl Estate"
+            },
+            {
+                "entity_in_the_text": "Glen Lyon",
+                "wikipedia_title": "Glen Lyon"
+            },
+            {
+                "entity_in_the_text": "Venison meat",
+                "wikipedia_title": "Venison"
+            },
+            {
+                "entity_in_the_text": "Perth and Kinross and the wider Highlands and islands NUT3 region",
+                "wikipedia_title": "Perth and Kinross, Scotland"
+            },
+            {
+                "entity_in_the_text": "www.highlandgame.com",
+                "wikipedia_title": "Highland Game"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Highlands and Islands",
+                "wikipedia_title": "Highlands and Islands, Scotland"
+            },
+            {
+                "entity_in_the_text": "Eastern Scotland",
+                "wikipedia_title": "Eastern Scotland"
+            },
+            {
+                "entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "entity_in_the_text": "Tay",
+                "wikipedia_title": "River Tay"
+            },
+            {
+                "entity_in_the_text": "Earn",
+                "wikipedia_title": "River Earn"
+            },
+            {
+                "entity_in_the_text": "Perth",
+                "wikipedia_title": "Perth"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "5383.724292",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "8",
+                "wikipedia_title": "Minimum altimetry"
+            },
+            {
+                "entity_in_the_text": "1084",
+                "wikipedia_title": "Maximum altimetry"
+            },
+            {
+                "entity_in_the_text": "151.95",
+                "wikipedia_title": "Population (thousand)"
+            },
+            {
+                "entity_in_the_text": "28.22",
+                "wikipedia_title": "Population density (Inhabitants/km2)"
+            },
+            {
+                "entity_in_the_text": "5.25%",
+                "wikipedia_title": "Population change rate (%) in the last 10 years"
+            },
+            {
+                "entity_in_the_text": "149.76",
+                "wikipedia_title": "Overall regional population density (Inhabitants/km2)"
+            },
+            {
+                "entity_in_the_text": "6.86%",
+                "wikipedia_title": "Regional population change rate (%) in the last 10 years"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces in Europe"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions in Europe"
+            },
+            {
+                "entity_in_the_text": "EUR/year",
+                "wikipedia_title": "Euro (currency)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total number of bed places (BPs) in tourist accommodations/year",
+                "wikipedia_title": "List of hotels and motels in Los Angeles"
+            },
+            {
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Los Angeles metropolitan area"
+            },
+            {
+                "entity_in_the_text": "regional share of total BPs/year",
+                "wikipedia_title": "Regional tourism in Los Angeles"
+            },
+            {
+                "entity_in_the_text": "number of agricultural holdings in the LAU",
+                "wikipedia_title": "Agriculture in Los Angeles County"
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100000 (km)",
+                "wikipedia_title": "Los Angeles metropolitan area"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected areas in Los Angeles County"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Region]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Region]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Region]",
+                "wikipedia_title": "Tertiary industry"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Sporting game",
+                "wikipedia_title": "Game (sport)"
+            },
+            {
+                "entity_in_the_text": "Scottish estates",
+                "wikipedia_title": "List of Scottish estates"
+            },
+            {
+                "entity_in_the_text": "Deer stalking",
+                "wikipedia_title": "Deerstalking"
+            },
+            {
+                "entity_in_the_text": "£100 million industry",
+                "wikipedia_title": "Scottish deer stalking industry"
+            },
+            {
+                "entity_in_the_text": "Overstalking",
+                "wikipedia_title": "Overhunting"
+            },
+            {
+                "entity_in_the_text": "Gorse/heather",
+                "wikipedia_title": "Gorse"
+            },
+            {
+                "entity_in_the_text": "Mountains hares",
+                "wikipedia_title": "Mountain hare"
+            },
+            {
+                "entity_in_the_text": "Vension meat",
+                "wikipedia_title": "Venison"
+            },
+            {
+                "entity_in_the_text": "Scottish Quality Wild Vensions",
+                "wikipedia_title": "Game Meat Certification"
+            },
+            {
+                "entity_in_the_text": "Atholl estate",
+                "wikipedia_title": "Atholl Estates"
+            },
+            {
+                "entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "entity_in_the_text": "Blair Atholl and Glen Lyon estate",
+                "wikipedia_title": "Glen Lyon Estate"
+            },
+            {
+                "entity_in_the_text": "Innovative methods for counting deer numbers",
+                "wikipedia_title": "Deer population management"
+            },
+            {
+                "entity_in_the_text": "Drones/thermal imaging/camera traps",
+                "wikipedia_title": "Wildlife monitoring"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Natural assets",
+                "wikipedia_title": "Land management"
+            },
+            {
+                "entity_in_the_text": "wild (but managed) land",
+                "wikipedia_title": "Managed land"
+            },
+            {
+                "entity_in_the_text": "hospitable environment for the deer and grouse",
+                "wikipedia_title": "Wildlife habitat"
+            },
+            {
+                "entity_in_the_text": "nice and attractive scenery for stalking visitors",
+                "wikipedia_title": "Landscape"
+            },
+            {
+                "entity_in_the_text": "Social assets",
+                "wikipedia_title": "Community relations"
+            },
+            {
+                "entity_in_the_text": "good relations with the local communities living and working near and in these stalking estates (i.e., for tourist accomodation)",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "entity_in_the_text": "hikers",
+                "wikipedia_title": "Hikers"
+            },
+            {
+                "entity_in_the_text": "wildlife conservation organizations",
+                "wikipedia_title": "Conservation organization"
+            },
+            {
+                "entity_in_the_text": "Cultural assets",
+                "wikipedia_title": "Culture"
+            },
+            {
+                "entity_in_the_text": "sporting game relies on traditional and local knowledge for stalking practices, processes and habitat management",
+                "wikipedia_title": "Traditional hunting"
+            },
+            {
+                "entity_in_the_text": "processes for deer stalking have remained largely the same for centuries",
+                "wikipedia_title": "Hunting methods"
+            },
+            {
+                "entity_in_the_text": "use of ponies to remove deer trophies from the moutain",
+                "wikipedia_title": "Pony trekking"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "potential for or existing conflicts with other agricultural activities (i.e., sheep)",
+                "wikipedia_title": "Conflict of interest"
+            },
+            {
+                "entity_in_the_text": "hillwalking",
+                "wikipedia_title": "Hill walking"
+            },
+            {
+                "entity_in_the_text": "international tourists",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "entity_in_the_text": "COVID",
+                "wikipedia_title": "COVID-19 pandemic"
+            },
+            {
+                "entity_in_the_text": "land management practices",
+                "wikipedia_title": "Land management"
+            },
+            {
+                "entity_in_the_text": "mountain hares and burning of gorse",
+                "wikipedia_title": "Mountain hare"
+            },
+            {
+                "entity_in_the_text": "culling of mountain hares",
+                "wikipedia_title": "Mountain hare culling"
+            },
+            {
+                "entity_in_the_text": "burning of gorse",
+                "wikipedia_title": "Gorse burning"
+            },
+            {
+                "entity_in_the_text": "stalking purposes",
+                "wikipedia_title": "Stalking"
+            },
+            {
+                "entity_in_the_text": "deer culling",
+                "wikipedia_title": "Deer management"
+            },
+            {
+                "entity_in_the_text": "raptors",
+                "wikipedia_title": "Raptor"
+            },
+            {
+                "entity_in_the_text": "population numbers of other birds (i.e., raptors) being scared off/ accidentally killed",
+                "wikipedia_title": "Bird predation"
+            },
+            {
+                "entity_in_the_text": "venison eat abroad due to brexit",
+                "wikipedia_title": "Brexit"
+            },
+            {
+                "entity_in_the_text": "overgrazing of landscape",
+                "wikipedia_title": "Overgrazing"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            },
+            {
+                "entity_in_the_text": "challenges faced by this VC",
+                "wikipedia_title": "Challenges in venture capital"
+            },
+            {
+                "entity_in_the_text": "Traditional and Innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "methods of counting deer numbers",
+                "wikipedia_title": "Wildlife population estimation"
+            },
+            {
+                "entity_in_the_text": "drones",
+                "wikipedia_title": "Drones"
+            },
+            {
+                "entity_in_the_text": "camera traps",
+                "wikipedia_title": "Camera trap"
+            },
+            {
+                "entity_in_the_text": "GPS collars",
+                "wikipedia_title": "GPS tracking"
+            },
+            {
+                "entity_in_the_text": "thermal imaging",
+                "wikipedia_title": "Thermal imaging"
+            },
+            {
+                "entity_in_the_text": "innovation",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "entity_in_the_text": "land use systems",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Natural land"
+            },
+            {
+                "entity_in_the_text": "local assets",
+                "wikipedia_title": "Local resources"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Deer stalking",
+                "wikipedia_title": "Stalking"
+            },
+            {
+                "entity_in_the_text": "Highland and Islands NUT3 region of Scotland",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "entity_in_the_text": "Aberdeenshire",
+                "wikipedia_title": "Aberdeenshire"
+            },
+            {
+                "entity_in_the_text": "Badendoch",
+                "wikipedia_title": "Badenoch and Strathspey"
+            },
+            {
+                "entity_in_the_text": "Strathsphey LAU1 areas",
+                "wikipedia_title": "Strath Spey"
+            },
+            {
+                "entity_in_the_text": "Grouse shooting",
+                "wikipedia_title": "Grouse shooting"
+            },
+            {
+                "entity_in_the_text": "North east and North West England",
+                "wikipedia_title": "England"
+            },
+            {
+                "entity_in_the_text": "NUTS3 regions",
+                "wikipedia_title": "NUTS3 region"
+            }
+        ]
+    }
+]

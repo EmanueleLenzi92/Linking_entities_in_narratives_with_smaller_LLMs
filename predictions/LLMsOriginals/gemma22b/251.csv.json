@@ -1,0 +1,406 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SCOTLAND HUTTON",
+                "wikipedia_title": "Scotland Hutton"
+            },
+            {
+                "entity_in_the_text": "VC 03 UK",
+                "wikipedia_title": "Value Chain (VC) 03 UK"
+            },
+            {
+                "entity_in_the_text": "UK",
+                "wikipedia_title": "United Kingdom"
+            },
+            {
+                "entity_in_the_text": "Heather moorland",
+                "wikipedia_title": "Moorland"
+            },
+            {
+                "entity_in_the_text": "Heather honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "entity_in_the_text": "Scottish heather Honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "Heather Hills",
+                "wikipedia_title": "Heather Hills"
+            },
+            {
+                "entity_in_the_text": "Perthshire",
+                "wikipedia_title": "Perthshire"
+            },
+            {
+                "entity_in_the_text": "52 million honey bees",
+                "wikipedia_title": "Honeybee"
+            },
+            {
+                "entity_in_the_text": "Scottishheather honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "British Standards Institution Kitemark for Food Assurance",
+                "wikipedia_title": "Kitemark"
+            },
+            {
+                "entity_in_the_text": "Honey",
+                "wikipedia_title": "Honey"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Highlands and Islands",
+                "wikipedia_title": "Highlands and Islands, Scotland"
+            },
+            {
+                "entity_in_the_text": "Eastern Scotland",
+                "wikipedia_title": "Eastern Scotland"
+            },
+            {
+                "entity_in_the_text": "Perth and Kinross",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "entity_in_the_text": "Tay",
+                "wikipedia_title": "River Tay"
+            },
+            {
+                "entity_in_the_text": "Earn",
+                "wikipedia_title": "River Earn"
+            },
+            {
+                "entity_in_the_text": "Perth",
+                "wikipedia_title": "Perth"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "5383.724292",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "8",
+                "wikipedia_title": "Minimum altimetry"
+            },
+            {
+                "entity_in_the_text": "1084",
+                "wikipedia_title": "Maximum altimetry"
+            },
+            {
+                "entity_in_the_text": "151.95",
+                "wikipedia_title": "Population (thousand)"
+            },
+            {
+                "entity_in_the_text": "28.22",
+                "wikipedia_title": "Population density (Inhabitants/km2)"
+            },
+            {
+                "entity_in_the_text": "5.25%",
+                "wikipedia_title": "Population change rate (%) in the last 10 years"
+            },
+            {
+                "entity_in_the_text": "149.76",
+                "wikipedia_title": "Overall regional population density (Inhabitants/km2)"
+            },
+            {
+                "entity_in_the_text": "6.86%",
+                "wikipedia_title": "Regional population change rate (%) in the last 10 years"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces in Europe"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions in Europe"
+            },
+            {
+                "entity_in_the_text": "EUR/year",
+                "wikipedia_title": "Euro (currency)"
+            },
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces in Europe"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions in Europe"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total number of bed places (BPs) in tourist accommodations/year",
+                "wikipedia_title": "List of hotels and motels in the United States"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "21499",
+                "wikipedia_title": "List of hotels and motels in the United States"
+            },
+            {
+                "entity_in_the_text": "regional (Region) share of total BPs/year",
+                "wikipedia_title": "Regional tourism statistics"
+            },
+            {
+                "entity_in_the_text": "26.29%",
+                "wikipedia_title": "Regional tourism statistics"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings in the LAU",
+                "wikipedia_title": "Agricultural holdings in the United States"
+            },
+            {
+                "entity_in_the_text": "3635",
+                "wikipedia_title": "List of agricultural holdings in the United States"
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100000 (km)",
+                "wikipedia_title": "Population density in the United States"
+            },
+            {
+                "entity_in_the_text": "35.2",
+                "wikipedia_title": "Population density in the United States"
+            },
+            {
+                "entity_in_the_text": "protected areas are present",
+                "wikipedia_title": "Protected areas in the United States"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Region]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Region]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Region]",
+                "wikipedia_title": "Tertiary industry"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Scottish Heather honey",
+                "wikipedia_title": "Heather honey"
+            },
+            {
+                "entity_in_the_text": "Champagne of honeys",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "Scottish 'great taste gold award'",
+                "wikipedia_title": "Great Taste Awards"
+            },
+            {
+                "entity_in_the_text": "Heather Hills honey",
+                "wikipedia_title": "Heather Hills Honey"
+            },
+            {
+                "entity_in_the_text": "Perth and Kinross LAU1",
+                "wikipedia_title": "Perth and Kinross"
+            },
+            {
+                "entity_in_the_text": "Heather Hills farm",
+                "wikipedia_title": "Honey production"
+            },
+            {
+                "entity_in_the_text": "Manuka Honey",
+                "wikipedia_title": "Manuka honey"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Natural assets",
+                "wikipedia_title": "Environmental resources"
+            },
+            {
+                "entity_in_the_text": "Maintaining the terrain and climate (and heather)",
+                "wikipedia_title": "Land management"
+            },
+            {
+                "entity_in_the_text": "bees produce the same quality of honey",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "ability to room",
+                "wikipedia_title": "Honey production"
+            },
+            {
+                "entity_in_the_text": "Heather Hills",
+                "wikipedia_title": "Heather Hills Honey Company"
+            },
+            {
+                "entity_in_the_text": "1300 hives (52 million honey bees)",
+                "wikipedia_title": "Honeybee population"
+            },
+            {
+                "entity_in_the_text": "5 miles radius from their hives",
+                "wikipedia_title": "Bee foraging range"
+            },
+            {
+                "entity_in_the_text": "Cultural assets",
+                "wikipedia_title": "Traditional knowledge"
+            },
+            {
+                "entity_in_the_text": "use of traditional knowledge for the means of production and processing",
+                "wikipedia_title": "Traditional practices in agriculture"
+            },
+            {
+                "entity_in_the_text": "ensure goodness of the honey is maintained during harvesting, separating and bottling",
+                "wikipedia_title": "Honey quality control"
+            },
+            {
+                "entity_in_the_text": "Social assets",
+                "wikipedia_title": "Social capital"
+            },
+            {
+                "entity_in_the_text": "8 direct employees in the area including a 'Honey Sommelier'",
+                "wikipedia_title": "Employment"
+            },
+            {
+                "entity_in_the_text": "wider assets and employment figures when not solely considering heather hills company",
+                "wikipedia_title": "Economic impact"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Challenges from changing climate",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "entity_in_the_text": "quality of the product",
+                "wikipedia_title": "Product quality"
+            },
+            {
+                "entity_in_the_text": "collection methods",
+                "wikipedia_title": "Collection methods"
+            },
+            {
+                "entity_in_the_text": "costly/ less economically efficient",
+                "wikipedia_title": "Cost-effectiveness"
+            },
+            {
+                "entity_in_the_text": "type of challenge faced by this VC",
+                "wikipedia_title": "Challenge (business)"
+            },
+            {
+                "entity_in_the_text": "Current and predicted",
+                "wikipedia_title": "Predictability"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capitalist"
+            },
+            {
+                "entity_in_the_text": "Traditional and Innovative",
+                "wikipedia_title": "Business model"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Endogenous and Exogenous",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "innovative traditional methods of processing the honey",
+                "wikipedia_title": "Honey Processing"
+            },
+            {
+                "entity_in_the_text": "hives have a lot of space to ensure a quality product",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "First food product to attain BCI kitemark in UK",
+                "wikipedia_title": "British Crop Initiative (BCI)"
+            },
+            {
+                "entity_in_the_text": "New products, New processes and New marketing strategies",
+                "wikipedia_title": "Product Development"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "entity_in_the_text": "Local assets include Natural, Social and Cultural",
+                "wikipedia_title": "Community Development"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Heather hills",
+                "wikipedia_title": "Heather Hills"
+            },
+            {
+                "entity_in_the_text": "Aberdeenshire LAU1",
+                "wikipedia_title": "Aberdeenshire (UK)"
+            },
+            {
+                "entity_in_the_text": "Scotland",
+                "wikipedia_title": "Scotland"
+            },
+            {
+                "entity_in_the_text": "Germany",
+                "wikipedia_title": "Luneburg, Germany"
+            },
+            {
+                "entity_in_the_text": "Ireland",
+                "wikipedia_title": "Ireland"
+            },
+            {
+                "entity_in_the_text": "Heather honey",
+                "wikipedia_title": "Honey"
+            }
+        ]
+    }
+]

@@ -1,0 +1,546 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "VC 11 CZ",
+                "wikipedia_title": "Value Chain (VC) 11 CZ"
+            },
+            {
+                "entity_in_the_text": "mountains",
+                "wikipedia_title": "Mountains"
+            },
+            {
+                "entity_in_the_text": "Producers",
+                "wikipedia_title": "Producer"
+            },
+            {
+                "entity_in_the_text": "fruit",
+                "wikipedia_title": "Fruit"
+            },
+            {
+                "entity_in_the_text": "regional SES",
+                "wikipedia_title": "Regional economic system (SES)"
+            },
+            {
+                "entity_in_the_text": "tourism",
+                "wikipedia_title": "Tourism"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Sumava - Cesky les",
+                "wikipedia_title": "Sumava"
+            },
+            {
+                "entity_in_the_text": "LAU 1 Klatovy",
+                "wikipedia_title": "Klátov (administrative district)"
+            },
+            {
+                "entity_in_the_text": "Mountainm Reference Landscape",
+                "wikipedia_title": "Landscape of the Czech Republic"
+            },
+            {
+                "entity_in_the_text": "agricultural land",
+                "wikipedia_title": "Agriculture in the Czech Republic"
+            },
+            {
+                "entity_in_the_text": "wheat and rape seeds",
+                "wikipedia_title": "Crops of the Czech Republic"
+            },
+            {
+                "entity_in_the_text": "potato production",
+                "wikipedia_title": "Potato cultivation in the Czech Republic"
+            },
+            {
+                "entity_in_the_text": "Germany",
+                "wikipedia_title": "Germany"
+            },
+            {
+                "entity_in_the_text": "Sumava mountains",
+                "wikipedia_title": "Sumava Mountains"
+            },
+            {
+                "entity_in_the_text": "forests",
+                "wikipedia_title": "Forests of the Czech Republic"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "area (km2)",
+                "wikipedia_title": "Area of a place"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "minimum altimetry (m)",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "maximum altimetry (m)",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "population (thousand)",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "population density (Inhabitants/km2)",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "population change rate of the LAU in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            },
+            {
+                "entity_in_the_text": "overall regional population density (Inhabitants/km2)",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "regional population change rate in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces in Europe"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions in Europe"
+            },
+            {
+                "entity_in_the_text": "per capita income (EUR/year) [Province]",
+                "wikipedia_title": "Per capita income by country"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross Domestic Product (GDP)"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "entity_in_the_text": "per capita income (EUR/year) [Region]",
+                "wikipedia_title": "Per capita income by country"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross Domestic Product (GDP)"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary industry"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total number of bed places (BPs) in tourist accommodations/year",
+                "wikipedia_title": "List of hotels and motels in the United States"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "30828",
+                "wikipedia_title": "Number of bed places in tourist accommodations/year"
+            },
+            {
+                "entity_in_the_text": "regional (Region) share of total BPs/year",
+                "wikipedia_title": "Regional share of tourism"
+            },
+            {
+                "entity_in_the_text": "0.33%",
+                "wikipedia_title": "Percentage of regional tourism"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings in the LAU",
+                "wikipedia_title": "Agricultural holdings"
+            },
+            {
+                "entity_in_the_text": "3183",
+                "wikipedia_title": "Number of agricultural holdings"
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100000 (km)",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "entity_in_the_text": "85",
+                "wikipedia_title": "Nearest settlement to a specific location"
+            },
+            {
+                "entity_in_the_text": "protected areas are present",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Region]",
+                "wikipedia_title": "Primary industry by region"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Region]",
+                "wikipedia_title": "Secondary industry by region"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Region]",
+                "wikipedia_title": "Tertiary industry by region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Bee products",
+                "wikipedia_title": "Honeybee products"
+            },
+            {
+                "entity_in_the_text": "Mountain regions",
+                "wikipedia_title": "Mountains"
+            },
+            {
+                "entity_in_the_text": "Beekeeping",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "Farming",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "entity_in_the_text": "Environmental conditions",
+                "wikipedia_title": "Climate"
+            },
+            {
+                "entity_in_the_text": "Anthropogenic pollutions",
+                "wikipedia_title": "Pollution"
+            },
+            {
+                "entity_in_the_text": "Mountain regions",
+                "wikipedia_title": "Mountains"
+            },
+            {
+                "entity_in_the_text": "Bee keepers",
+                "wikipedia_title": "Beekeeper"
+            },
+            {
+                "entity_in_the_text": "Quality of bee products",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "Mountain regions",
+                "wikipedia_title": "Mountains"
+            },
+            {
+                "entity_in_the_text": "Human settlements",
+                "wikipedia_title": "Urbanization"
+            },
+            {
+                "entity_in_the_text": "Ecology",
+                "wikipedia_title": "Ecology"
+            },
+            {
+                "entity_in_the_text": "Symbolic value of the products' origin",
+                "wikipedia_title": "Brand"
+            },
+            {
+                "entity_in_the_text": "Marketing",
+                "wikipedia_title": "Marketing"
+            },
+            {
+                "entity_in_the_text": "Bee colonies",
+                "wikipedia_title": "Honeybee colony"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Sumava Mountains",
+                "wikipedia_title": "Sumava Mountains"
+            },
+            {
+                "entity_in_the_text": "pictoresque landscape",
+                "wikipedia_title": "Landscape"
+            },
+            {
+                "entity_in_the_text": "unique natural assects",
+                "wikipedia_title": "Natural features"
+            },
+            {
+                "entity_in_the_text": "regions",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "socialist-era",
+                "wikipedia_title": "Cold War"
+            },
+            {
+                "entity_in_the_text": "1950s-1989",
+                "wikipedia_title": "1950s and 1980s"
+            },
+            {
+                "entity_in_the_text": "farms",
+                "wikipedia_title": "Farm"
+            },
+            {
+                "entity_in_the_text": "pre-WII tradition",
+                "wikipedia_title": "Pre-World War II"
+            },
+            {
+                "entity_in_the_text": "Winter season",
+                "wikipedia_title": "Winter"
+            },
+            {
+                "entity_in_the_text": "Summer season",
+                "wikipedia_title": "Summer"
+            },
+            {
+                "entity_in_the_text": "tourist",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "entity_in_the_text": "beekeepers",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "local ecosystems",
+                "wikipedia_title": "Ecosystem"
+            },
+            {
+                "entity_in_the_text": "Sumava mountains",
+                "wikipedia_title": "Sumava Mountains"
+            },
+            {
+                "entity_in_the_text": "bee products",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "symbolic value of the region",
+                "wikipedia_title": "Cultural heritage"
+            },
+            {
+                "entity_in_the_text": "unique ecosystem",
+                "wikipedia_title": "Ecosystem"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Beekeepers",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "mountain region",
+                "wikipedia_title": "Mountainous regions"
+            },
+            {
+                "entity_in_the_text": "honey",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "bee products",
+                "wikipedia_title": "Bee products"
+            },
+            {
+                "entity_in_the_text": "mainstream, large-scale bee-keepers",
+                "wikipedia_title": "Commercial beekeeping"
+            },
+            {
+                "entity_in_the_text": "intensive methods of production",
+                "wikipedia_title": "Intensive agriculture"
+            },
+            {
+                "entity_in_the_text": "honey from abroad",
+                "wikipedia_title": "Honey imports"
+            },
+            {
+                "entity_in_the_text": "small-scale beekeepers",
+                "wikipedia_title": "Small-scale agriculture"
+            },
+            {
+                "entity_in_the_text": "quality",
+                "wikipedia_title": "Quality control"
+            },
+            {
+                "entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "entity_in_the_text": "pollutions",
+                "wikipedia_title": "Pollution"
+            },
+            {
+                "entity_in_the_text": "bee colonies",
+                "wikipedia_title": "Honeybees"
+            },
+            {
+                "entity_in_the_text": "business",
+                "wikipedia_title": "Business"
+            },
+            {
+                "entity_in_the_text": "organic standards",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "entity_in_the_text": "beekeeping",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "beekeepers",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "proffesional",
+                "wikipedia_title": "Profession"
+            },
+            {
+                "entity_in_the_text": "interest groups",
+                "wikipedia_title": "Interest group"
+            },
+            {
+                "entity_in_the_text": "regulation",
+                "wikipedia_title": "Regulation"
+            },
+            {
+                "entity_in_the_text": "standards",
+                "wikipedia_title": "Standards"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Current and Predicted",
+                "wikipedia_title": "Challenges in business"
+            },
+            {
+                "entity_in_the_text": "Traditional",
+                "wikipedia_title": "Business model"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Beekeepers",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "varroa disease",
+                "wikipedia_title": "Varroa mite"
+            },
+            {
+                "entity_in_the_text": "chemical inputs",
+                "wikipedia_title": "Pesticide"
+            },
+            {
+                "entity_in_the_text": "solutions that utilize natural processes and potentials of bee colonies",
+                "wikipedia_title": "Integrated Pest Management (IPM)"
+            },
+            {
+                "entity_in_the_text": "land use systems",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "entity_in_the_text": "Forestry",
+                "wikipedia_title": "Forestry"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "entity_in_the_text": "local assets",
+                "wikipedia_title": "Local resources"
+            },
+            {
+                "entity_in_the_text": "Natural and cultural",
+                "wikipedia_title": "Cultural heritage"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "beekeeping",
+                "wikipedia_title": "Beekeeping"
+            },
+            {
+                "entity_in_the_text": "Czech Republic",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "agriculture",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "entity_in_the_text": "entry barriers",
+                "wikipedia_title": "Entry Barriers (Economics)"
+            },
+            {
+                "entity_in_the_text": "agriculture",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "entity_in_the_text": "generation renewal",
+                "wikipedia_title": "Agricultural Revolution"
+            }
+        ]
+    }
+]

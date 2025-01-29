@@ -1,0 +1,390 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Scandinavian UCO"
+            },
+            {
+                "entity_in_the_text": "VC 07 SCA",
+                "wikipedia_title": "VC 07 SCA"
+            },
+            {
+                "entity_in_the_text": "Barley",
+                "wikipedia_title": "Barley"
+            },
+            {
+                "entity_in_the_text": "Roros",
+                "wikipedia_title": "Roros"
+            },
+            {
+                "entity_in_the_text": "fungui",
+                "wikipedia_title": "Fungi"
+            },
+            {
+                "entity_in_the_text": "Rorosmat",
+                "wikipedia_title": "Rorosmat"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Scandinavean Mountains - Scandes",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "entity_in_the_text": "Tynset",
+                "wikipedia_title": "Tynset"
+            },
+            {
+                "entity_in_the_text": "Østerdalen",
+                "wikipedia_title": "Østerdalen"
+            },
+            {
+                "entity_in_the_text": "Norway's longest valley",
+                "wikipedia_title": "Valdres Valley"
+            },
+            {
+                "entity_in_the_text": "family farms",
+                "wikipedia_title": "Farming in Norway"
+            },
+            {
+                "entity_in_the_text": "farming and forestry",
+                "wikipedia_title": "Agriculture in Norway"
+            },
+            {
+                "entity_in_the_text": "recreational assets",
+                "wikipedia_title": "Recreation in Norway"
+            },
+            {
+                "entity_in_the_text": "skiing, fishing, hiking, and hunting",
+                "wikipedia_title": "Outdoor recreation in Norway"
+            },
+            {
+                "entity_in_the_text": "subarctic climate",
+                "wikipedia_title": "Subarctic Climate"
+            },
+            {
+                "entity_in_the_text": "annual average precipitation is only 400mm",
+                "wikipedia_title": "Precipitation in Norway"
+            },
+            {
+                "entity_in_the_text": "mean temperature is 0 C (winter average -13 C and summer average 12 C)",
+                "wikipedia_title": "Climate of Norway"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "area (km2)",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "minimum altimetry of the LAU",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "maximum altimetry of the LAU",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "total population (in thousand)",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "population density (Inhabitants/km2) in the LAU",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "population change rate of the LAU in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            },
+            {
+                "entity_in_the_text": "overall regional population density (Inhabitants/km2)",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "regional population change rate in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces in Europe"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions in Europe"
+            },
+            {
+                "entity_in_the_text": "per capita income (EUR/year)",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year)",
+                "wikipedia_title": "Gross Domestic Product (GDP)"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year",
+                "wikipedia_title": "Tertiary industry"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total number of bed places (BPs) in tourist accommodations/year",
+                "wikipedia_title": "List of hotels and motels in the United States"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "regional (Region) share of total BPs/year",
+                "wikipedia_title": "Regionalism in the United States"
+            },
+            {
+                "entity_in_the_text": "number of agricultural holdings in the LAU",
+                "wikipedia_title": "Agriculture in the United States"
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100000 (km)",
+                "wikipedia_title": "Urbanization in the United States"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Region]",
+                "wikipedia_title": "Primary industry by region"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Region]",
+                "wikipedia_title": "Secondary industry by region"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Region]",
+                "wikipedia_title": "Tertiary industry by region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Ancient crop",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "entity_in_the_text": "extreme climate conditions",
+                "wikipedia_title": "Climate extremes"
+            },
+            {
+                "entity_in_the_text": "farmers",
+                "wikipedia_title": "Farmer"
+            },
+            {
+                "entity_in_the_text": "grain",
+                "wikipedia_title": "Grain"
+            },
+            {
+                "entity_in_the_text": "flour",
+                "wikipedia_title": "Flour"
+            },
+            {
+                "entity_in_the_text": "e-commerce platform",
+                "wikipedia_title": "E-commerce"
+            },
+            {
+                "entity_in_the_text": "markets",
+                "wikipedia_title": "Market"
+            },
+            {
+                "entity_in_the_text": "product",
+                "wikipedia_title": "Product"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "natural asset",
+                "wikipedia_title": "Natural resources"
+            },
+            {
+                "entity_in_the_text": "weather",
+                "wikipedia_title": "Weather"
+            },
+            {
+                "entity_in_the_text": "location",
+                "wikipedia_title": "Location"
+            },
+            {
+                "entity_in_the_text": "barley",
+                "wikipedia_title": "Barley"
+            },
+            {
+                "entity_in_the_text": "500masl",
+                "wikipedia_title": "Altitude"
+            },
+            {
+                "entity_in_the_text": "Norway",
+                "wikipedia_title": "Norway"
+            },
+            {
+                "entity_in_the_text": "social asset",
+                "wikipedia_title": "Social capital"
+            },
+            {
+                "entity_in_the_text": "Rorosmat",
+                "wikipedia_title": "Rorosmat"
+            },
+            {
+                "entity_in_the_text": "local brand",
+                "wikipedia_title": "Brand"
+            },
+            {
+                "entity_in_the_text": "labels local products",
+                "wikipedia_title": "Labeling"
+            },
+            {
+                "entity_in_the_text": "promotes them",
+                "wikipedia_title": "Promotion"
+            },
+            {
+                "entity_in_the_text": "sells them on the website",
+                "wikipedia_title": "E-commerce"
+            },
+            {
+                "entity_in_the_text": "cultural aspect",
+                "wikipedia_title": "Culture"
+            },
+            {
+                "entity_in_the_text": "stone mill",
+                "wikipedia_title": "Stone mill"
+            },
+            {
+                "entity_in_the_text": "traditional techniques",
+                "wikipedia_title": "Traditional crafts"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Keep improving the growing techniques to decrease the need of fertilizers and pesticides",
+                "wikipedia_title": "Sustainable agriculture"
+            },
+            {
+                "entity_in_the_text": "The low consumption of barley by humans in comparison with wheat",
+                "wikipedia_title": "Barley Consumption"
+            },
+            {
+                "entity_in_the_text": "The challenge to increase the human consumption of barley and its corresponding market due to its great nutritious value",
+                "wikipedia_title": "Nutritional value of barley"
+            },
+            {
+                "entity_in_the_text": "Climate Change may enhance the development of plant diseases and pest that are nowadays limited by the cold temperatures.",
+                "wikipedia_title": "Impact of climate change on agriculture"
+            },
+            {
+                "entity_in_the_text": "Overall the type of challenge faced by this VC is Current. This VC is classified as Traditional and Innovative",
+                "wikipedia_title": "Venture Capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Exogenous innovation",
+                "wikipedia_title": "Exogenous innovation"
+            },
+            {
+                "entity_in_the_text": "Rorosmat brand",
+                "wikipedia_title": "Rorosmat"
+            },
+            {
+                "entity_in_the_text": "e-commerce",
+                "wikipedia_title": "E-commerce"
+            },
+            {
+                "entity_in_the_text": "website",
+                "wikipedia_title": "Website"
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "entity_in_the_text": "Cropland",
+                "wikipedia_title": "Cropland"
+            },
+            {
+                "entity_in_the_text": "Natural assets",
+                "wikipedia_title": "Natural resources"
+            },
+            {
+                "entity_in_the_text": "social assets",
+                "wikipedia_title": "Social capital"
+            },
+            {
+                "entity_in_the_text": "cultural assets",
+                "wikipedia_title": "Cultural heritage"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Apple",
+                "wikipedia_title": "Apple Inc."
+            },
+            {
+                "entity_in_the_text": "iPhone",
+                "wikipedia_title": "iPhone"
+            },
+            {
+                "entity_in_the_text": "Siri",
+                "wikipedia_title": "Siri"
+            }
+        ]
+    }
+]

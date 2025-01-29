@@ -1,0 +1,338 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "CZECH REPUBLIC",
+                "wikipedia_title": "Czech Republic"
+            },
+            {
+                "entity_in_the_text": "VC 10 CZ",
+                "wikipedia_title": "List of Value Chains in the European Union"
+            },
+            {
+                "entity_in_the_text": "herb liquers",
+                "wikipedia_title": "Herbal liqueur"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Giant Mountains",
+                "wikipedia_title": "Giant Mountains (Czech Republic)"
+            },
+            {
+                "entity_in_the_text": "LAU 1 Trutnov",
+                "wikipedia_title": "Trutnov District"
+            },
+            {
+                "entity_in_the_text": "NUTS 3 Kralovehradecky",
+                "wikipedia_title": "Kralovehradecký Region (NUTS)"
+            },
+            {
+                "entity_in_the_text": "LAU 1 - Trutnov",
+                "wikipedia_title": "Trutnov District"
+            },
+            {
+                "entity_in_the_text": "43,2%",
+                "wikipedia_title": "Agricultural land in the Czech Republic"
+            },
+            {
+                "entity_in_the_text": "53%",
+                "wikipedia_title": "Arable land in the Czech Republic"
+            },
+            {
+                "entity_in_the_text": "41,6%",
+                "wikipedia_title": "Perennial grassland in the Czech Republic"
+            },
+            {
+                "entity_in_the_text": "46,9%",
+                "wikipedia_title": "Forest land in the Czech Republic"
+            },
+            {
+                "entity_in_the_text": "National Park",
+                "wikipedia_title": "Czech National Parks"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "area (km2)",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "minimum altimetry of the LAU",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "maximum altimetry of the LAU",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "total population (in thousand)",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "population density (Inhabitants/km2) in the LAU",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "population change rate of the LAU in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            },
+            {
+                "entity_in_the_text": "overall regional population density (Inhabitants/km2)",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "regional population change rate in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            },
+            {
+                "entity_in_the_text": "EUR/year",
+                "wikipedia_title": "Euro (currency)"
+            },
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total number of bed places (BPs) in tourist accommodations/year",
+                "wikipedia_title": "List of hotels and motels in the United States"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "55419",
+                "wikipedia_title": "List of cities and towns in the United States by population"
+            },
+            {
+                "entity_in_the_text": "regional (Region) share of total BPs/year",
+                "wikipedia_title": "Regional economy"
+            },
+            {
+                "entity_in_the_text": "0.45%",
+                "wikipedia_title": "Percentage of the population in a country or region"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "entity_in_the_text": "1759",
+                "wikipedia_title": "Number of agricultural holdings in the United States"
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100000 (km)",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "entity_in_the_text": "100",
+                "wikipedia_title": "Distance between two points"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Region]",
+                "wikipedia_title": "Primary industry by region"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Region]",
+                "wikipedia_title": "Secondary industry by region"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Region]",
+                "wikipedia_title": "Tertiary industry by region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            },
+            {
+                "entity_in_the_text": "herb liquers",
+                "wikipedia_title": "Liqueur"
+            },
+            {
+                "entity_in_the_text": "regional product",
+                "wikipedia_title": "Regional Product"
+            },
+            {
+                "entity_in_the_text": "symbolic assets of the region",
+                "wikipedia_title": "Cultural Heritage"
+            },
+            {
+                "entity_in_the_text": "mountain regions",
+                "wikipedia_title": "Mountain Region"
+            },
+            {
+                "entity_in_the_text": "natural and symbolic values associated with the region",
+                "wikipedia_title": "Cultural Significance"
+            },
+            {
+                "entity_in_the_text": "unique selling proposition",
+                "wikipedia_title": "Marketing Strategy"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "natural assets",
+                "wikipedia_title": "Natural resources"
+            },
+            {
+                "entity_in_the_text": "social construction of quality",
+                "wikipedia_title": "Marketing"
+            },
+            {
+                "entity_in_the_text": "traditional knowledge",
+                "wikipedia_title": "Traditional knowledge"
+            },
+            {
+                "entity_in_the_text": "product labels",
+                "wikipedia_title": "Product labeling"
+            },
+            {
+                "entity_in_the_text": "cultural traits",
+                "wikipedia_title": "Cultural traits"
+            },
+            {
+                "entity_in_the_text": "mountains",
+                "wikipedia_title": "Mountains"
+            },
+            {
+                "entity_in_the_text": "products",
+                "wikipedia_title": "Product"
+            },
+            {
+                "entity_in_the_text": "symbolic value",
+                "wikipedia_title": "Symbolic value"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Herb liquers",
+                "wikipedia_title": "Liqueurs"
+            },
+            {
+                "entity_in_the_text": "Mainstream food markets",
+                "wikipedia_title": "Grocery stores"
+            },
+            {
+                "entity_in_the_text": "Highly competetive",
+                "wikipedia_title": "Competition (business)"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capitalist"
+            },
+            {
+                "entity_in_the_text": "valorization of the product",
+                "wikipedia_title": "Product valuation"
+            },
+            {
+                "entity_in_the_text": "marketing strategy",
+                "wikipedia_title": "Marketing"
+            },
+            {
+                "entity_in_the_text": "challenge faced by this VC",
+                "wikipedia_title": "Business challenge"
+            },
+            {
+                "entity_in_the_text": "Current",
+                "wikipedia_title": "Present"
+            },
+            {
+                "entity_in_the_text": "Traditional",
+                "wikipedia_title": "Traditional business model"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "entity_in_the_text": "innovation",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "land use systems",
+                "wikipedia_title": "Land Use System"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Natural Land"
+            },
+            {
+                "entity_in_the_text": "local assets",
+                "wikipedia_title": "Local Assets"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Village Community"
+            },
+            {
+                "entity_in_the_text": "mountain region",
+                "wikipedia_title": "Mountainous regions"
+            }
+        ]
+    }
+]

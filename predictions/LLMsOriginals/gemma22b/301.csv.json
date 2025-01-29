@@ -1,0 +1,346 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SKANDINAVIAN UCO",
+                "wikipedia_title": "Skandinavian UCO"
+            },
+            {
+                "entity_in_the_text": "VC 08 SCA",
+                "wikipedia_title": "VC 08 SCA"
+            },
+            {
+                "entity_in_the_text": "Pultost",
+                "wikipedia_title": "Pultost"
+            },
+            {
+                "entity_in_the_text": "sour milk cheese",
+                "wikipedia_title": "Sour Milk Cheese"
+            },
+            {
+                "entity_in_the_text": "cow's milk",
+                "wikipedia_title": "Cow's Milk"
+            },
+            {
+                "entity_in_the_text": "rennet",
+                "wikipedia_title": "Rennet"
+            },
+            {
+                "entity_in_the_text": "lactic bacteria",
+                "wikipedia_title": "Lactic Acid Bacteria"
+            },
+            {
+                "entity_in_the_text": "salt",
+                "wikipedia_title": "Salt"
+            },
+            {
+                "entity_in_the_text": "caraway seeds",
+                "wikipedia_title": "Caraway Seeds"
+            },
+            {
+                "entity_in_the_text": "sour cream",
+                "wikipedia_title": "Sour Cream"
+            },
+            {
+                "entity_in_the_text": "butter",
+                "wikipedia_title": "Butter"
+            },
+            {
+                "entity_in_the_text": "Slowfood Foundation for Biodiversity",
+                "wikipedia_title": "Slow Food"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Scandinavean Mountains - Scandes",
+                "wikipedia_title": "Scandinavian Mountains"
+            },
+            {
+                "entity_in_the_text": "Lesja",
+                "wikipedia_title": "Lesja"
+            },
+            {
+                "entity_in_the_text": "Lesjaskogsvatnet (Lesjas lake)",
+                "wikipedia_title": "Lake Lesjaskogsvatn"
+            },
+            {
+                "entity_in_the_text": "Rauma river",
+                "wikipedia_title": "Rauma River"
+            },
+            {
+                "entity_in_the_text": "Gudbrandsdalslågen river",
+                "wikipedia_title": "Gudbrandsdalslågen"
+            },
+            {
+                "entity_in_the_text": "Lesjas lake",
+                "wikipedia_title": "Lake Lesja"
+            },
+            {
+                "entity_in_the_text": "Norwegian trout",
+                "wikipedia_title": "Atlantic salmon"
+            },
+            {
+                "entity_in_the_text": "Lesjas municipality",
+                "wikipedia_title": "Municipality of Lesja"
+            },
+            {
+                "entity_in_the_text": "traditional summer farms",
+                "wikipedia_title": "Summer farm"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "area (km2)",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "minimum altimetry of the LAU",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "maximum altimetry of the LAU",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "total population (in thousand)",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "population density (Inhabitants/km2) in the LAU",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "population change rate of the LAU in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            },
+            {
+                "entity_in_the_text": "overall regional population density (Inhabitants/km2)",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "regional population change rate in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces in Europe"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions in Europe"
+            },
+            {
+                "entity_in_the_text": "per capita income (EUR/year)",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year)",
+                "wikipedia_title": "Gross Domestic Product (GDP)"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year",
+                "wikipedia_title": "Tertiary industry"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total number of bed places (BPs) in tourist accommodations/year",
+                "wikipedia_title": "List of hotels and motels in the United States"
+            },
+            {
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Administrative divisions of Lebanon"
+            },
+            {
+                "entity_in_the_text": "regional share of total BPs/year",
+                "wikipedia_title": "Regionalism in the United States"
+            },
+            {
+                "entity_in_the_text": "number of agricultural holdings in the LAU",
+                "wikipedia_title": "Agriculture in Lebanon"
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100000 (km)",
+                "wikipedia_title": "List of cities and towns by population in the United States"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected areas in Lebanon"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Region]",
+                "wikipedia_title": "Primary industry by region"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Region]",
+                "wikipedia_title": "Secondary industry by region"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Region]",
+                "wikipedia_title": "Tertiary industry by region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "High quality product",
+                "wikipedia_title": "Product"
+            },
+            {
+                "entity_in_the_text": "high reputation",
+                "wikipedia_title": "Reputation"
+            },
+            {
+                "entity_in_the_text": "tradition in the area",
+                "wikipedia_title": "Tradition"
+            },
+            {
+                "entity_in_the_text": "natural pastures",
+                "wikipedia_title": "Pasture"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "mountain pastures",
+                "wikipedia_title": "Mountain pasture"
+            },
+            {
+                "entity_in_the_text": "cooperation among Pultost producers",
+                "wikipedia_title": "Pultost cooperative"
+            },
+            {
+                "entity_in_the_text": "Pultosts BA",
+                "wikipedia_title": "Pultosts BA"
+            },
+            {
+                "entity_in_the_text": "Pultost Innlandet SA",
+                "wikipedia_title": "Pultost Innlandet SA"
+            },
+            {
+                "entity_in_the_text": "Slowfood Foundation",
+                "wikipedia_title": "Slow Food"
+            },
+            {
+                "entity_in_the_text": "traditional knowledge",
+                "wikipedia_title": "Traditional knowledge"
+            },
+            {
+                "entity_in_the_text": "cheese and butter production",
+                "wikipedia_title": "Cheesemaking"
+            },
+            {
+                "entity_in_the_text": "cattle management",
+                "wikipedia_title": "Cattle farming"
+            },
+            {
+                "entity_in_the_text": "ecological system",
+                "wikipedia_title": "Ecosystem"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            },
+            {
+                "entity_in_the_text": "industrial dairies",
+                "wikipedia_title": "Dairy industry"
+            },
+            {
+                "entity_in_the_text": "artisanal cheese making",
+                "wikipedia_title": "Artisan cheesemaking"
+            },
+            {
+                "entity_in_the_text": "VC is classified as Traditional",
+                "wikipedia_title": "Traditional business model"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "innovation",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "land use systems",
+                "wikipedia_title": "Land use system"
+            },
+            {
+                "entity_in_the_text": "Grassland",
+                "wikipedia_title": "Grassland"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use type"
+            },
+            {
+                "entity_in_the_text": "local assets",
+                "wikipedia_title": "Local asset"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Voluntary Community Service"
+            },
+            {
+                "entity_in_the_text": "Etnedal",
+                "wikipedia_title": "Etnedal, Norway"
+            }
+        ]
+    }
+]

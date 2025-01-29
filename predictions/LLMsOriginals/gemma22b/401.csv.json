@@ -1,0 +1,246 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SWITZERLAND 1",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "entity_in_the_text": "VC 17 CH1",
+                "wikipedia_title": "Value Chain (VC)"
+            },
+            {
+                "entity_in_the_text": "Honey from the alps",
+                "wikipedia_title": "Honey"
+            },
+            {
+                "entity_in_the_text": "prodcuers",
+                "wikipedia_title": "Producer"
+            },
+            {
+                "entity_in_the_text": "farm shops",
+                "wikipedia_title": "Farm shop"
+            },
+            {
+                "entity_in_the_text": "online shops",
+                "wikipedia_title": "Online shopping"
+            },
+            {
+                "entity_in_the_text": "larger retailers",
+                "wikipedia_title": "Retailer"
+            },
+            {
+                "entity_in_the_text": "'Pro Montagna'",
+                "wikipedia_title": "Pro Montagna"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "reference mountain chain",
+                "wikipedia_title": "Mountain range"
+            },
+            {
+                "entity_in_the_text": "reference mountain landscape",
+                "wikipedia_title": "Landscape"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "size of the area (km2)",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "minimum altimetry of the LAU",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "maximum altimetry of the LAU",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "total population (in thousand)",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "population density (Inhabitants/km2) in the LAU",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "population change rate of the LAU in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            },
+            {
+                "entity_in_the_text": "overall regional population density (Inhabitants/km2)",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "regional population change rate in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "List of countries by GDP per capita"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross Domestic Product (GDP)"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "entity_in_the_text": "per capita income (EUR/year) [Region]",
+                "wikipedia_title": "GDP per capita"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross Domestic Product (GDP)"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary industry"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "tourist accommodations",
+                "wikipedia_title": "List of tourist accommodation establishments in the world"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Region]",
+                "wikipedia_title": "Primary industry by region"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Region]",
+                "wikipedia_title": "Secondary industry by region"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Region]",
+                "wikipedia_title": "Tertiary industry by region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "traditional VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "well sought after",
+                "wikipedia_title": "Sought-after"
+            },
+            {
+                "entity_in_the_text": "working well",
+                "wikipedia_title": "Successful business"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "bees",
+                "wikipedia_title": "Bee extinction"
+            },
+            {
+                "entity_in_the_text": "endangered",
+                "wikipedia_title": "Endangered species"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capitalist"
+            },
+            {
+                "entity_in_the_text": "Predicted",
+                "wikipedia_title": "Prediction (general)"
+            },
+            {
+                "entity_in_the_text": "Traditional",
+                "wikipedia_title": "Traditional business model"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "innovation",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "land use systems",
+                "wikipedia_title": "Land use system"
+            },
+            {
+                "entity_in_the_text": "Beehives",
+                "wikipedia_title": "Hive"
+            },
+            {
+                "entity_in_the_text": "local assets",
+                "wikipedia_title": "Local asset"
+            }
+        ]
+    }
+]

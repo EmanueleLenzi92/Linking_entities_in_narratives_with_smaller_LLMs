@@ -1,0 +1,290 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "MOVING reference member state of this VC",
+                "wikipedia_title": "Value Chain (economics)"
+            },
+            {
+                "entity_in_the_text": "SWITZERLAND 1",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "entity_in_the_text": "MOVING Card ID of this VC",
+                "wikipedia_title": "Value Chain (economics)"
+            },
+            {
+                "entity_in_the_text": "VC 18 CH1",
+                "wikipedia_title": "Switzerland"
+            },
+            {
+                "entity_in_the_text": "Alpine tourism",
+                "wikipedia_title": "Tourism in the Alps"
+            },
+            {
+                "entity_in_the_text": "hotels, restaurants and sports attractions such as ski lifts",
+                "wikipedia_title": "Tourism infrastructure"
+            },
+            {
+                "entity_in_the_text": "standard with which these tourism infrastructures are built differs greatly between richer and less prosperous regions",
+                "wikipedia_title": "Economic disparity"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "reference mountain chain",
+                "wikipedia_title": "Mountain range"
+            },
+            {
+                "entity_in_the_text": "reference mountain landscape",
+                "wikipedia_title": "Landscape"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "size of the area (km2)",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "minimum altimetry of the LAU",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "maximum altimetry of the LAU",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "total population (in thousand)",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "population density (Inhabitants/km2) in the LAU",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "population change rate of the LAU in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            },
+            {
+                "entity_in_the_text": "overall regional population density (Inhabitants/km2)",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "regional population change rate in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "average per capita income (EUR/year) [Province]",
+                "wikipedia_title": "List of countries by GDP per capita"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "wikipedia_title": "Gross Domestic Product (GDP)"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "entity_in_the_text": "per capita income (EUR/year) [Region]",
+                "wikipedia_title": "GDP per capita"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "wikipedia_title": "Gross Domestic Product (GDP)"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary industry"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "tourist accommodations",
+                "wikipedia_title": "List of tourist accommodation establishments in the world"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "Region (geography)"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Region]",
+                "wikipedia_title": "Primary industry by region"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Region]",
+                "wikipedia_title": "Secondary industry by region"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Region]",
+                "wikipedia_title": "Tertiary industry by region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC-systems",
+                "wikipedia_title": "Venture capital system"
+            },
+            {
+                "entity_in_the_text": "alps",
+                "wikipedia_title": "Alps"
+            },
+            {
+                "entity_in_the_text": "impact",
+                "wikipedia_title": "Impact (social science)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "tourism",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate Change"
+            },
+            {
+                "entity_in_the_text": "mountains",
+                "wikipedia_title": "Mountains"
+            },
+            {
+                "entity_in_the_text": "young people",
+                "wikipedia_title": "Young People"
+            },
+            {
+                "entity_in_the_text": "revenue",
+                "wikipedia_title": "Revenue"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capitalist"
+            },
+            {
+                "entity_in_the_text": "challenge",
+                "wikipedia_title": "Challenge (general term)"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Endogenous and Exogenous",
+                "wikipedia_title": "Endogenous innovation"
+            },
+            {
+                "entity_in_the_text": "touristic attractions",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "entity_in_the_text": "skiing",
+                "wikipedia_title": "Skiing"
+            },
+            {
+                "entity_in_the_text": "innovative",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "traditional",
+                "wikipedia_title": "Traditional tourism"
+            },
+            {
+                "entity_in_the_text": "New products",
+                "wikipedia_title": "Product development"
+            },
+            {
+                "entity_in_the_text": "New processes",
+                "wikipedia_title": "Process improvement"
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "entity_in_the_text": "Landscape in general",
+                "wikipedia_title": "Landscape architecture"
+            },
+            {
+                "entity_in_the_text": "local assets",
+                "wikipedia_title": "Local resources"
+            },
+            {
+                "entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "entity_in_the_text": "social",
+                "wikipedia_title": "Social capital"
+            },
+            {
+                "entity_in_the_text": "cultural",
+                "wikipedia_title": "Culture"
+            }
+        ]
+    }
+]

@@ -1,0 +1,366 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ITALY UNIMOL",
+                "wikipedia_title": "UniMol"
+            },
+            {
+                "entity_in_the_text": "UNIPI",
+                "wikipedia_title": "UniPi"
+            },
+            {
+                "entity_in_the_text": "VC 21 IT",
+                "wikipedia_title": "Value Chain (VC) 21 IT"
+            },
+            {
+                "entity_in_the_text": "infusion herbs",
+                "wikipedia_title": "Herbal infusion"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Northern Apennines",
+                "wikipedia_title": "Apennine Mountains"
+            },
+            {
+                "entity_in_the_text": "Tuscan Emilian Apennines",
+                "wikipedia_title": "Tuscan Apennines"
+            },
+            {
+                "entity_in_the_text": "Anghiari",
+                "wikipedia_title": "Anghiari"
+            },
+            {
+                "entity_in_the_text": "Arezzo Province",
+                "wikipedia_title": "Province of Arezzo"
+            },
+            {
+                "entity_in_the_text": "Tuscany Region - Italy",
+                "wikipedia_title": "Tuscany"
+            },
+            {
+                "entity_in_the_text": "Italy",
+                "wikipedia_title": "Italy"
+            },
+            {
+                "entity_in_the_text": "Anghiari",
+                "wikipedia_title": "Anghiari"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "area (km2)",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "minimum altimetry of the LAU",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "maximum altimetry of the LAU",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "total population (in thousand)",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "population density (Inhabitants/km2) in the LAU",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "population change rate of the LAU in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            },
+            {
+                "entity_in_the_text": "overall regional population density (Inhabitants/km2)",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "regional population change rate in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces in Europe"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions in Europe"
+            },
+            {
+                "entity_in_the_text": "per capita income (EUR/year)",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year)",
+                "wikipedia_title": "Gross Domestic Product"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "entity_in_the_text": "per capita income (EUR/year)",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year)",
+                "wikipedia_title": "Gross Domestic Product"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year [Region]",
+                "wikipedia_title": "Tertiary industry"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local administrative unit"
+            },
+            {
+                "entity_in_the_text": "bed places (BPs)",
+                "wikipedia_title": "Bed capacity"
+            },
+            {
+                "entity_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourist accommodation"
+            },
+            {
+                "entity_in_the_text": "year",
+                "wikipedia_title": "Year"
+            },
+            {
+                "entity_in_the_text": "regional (Region)",
+                "wikipedia_title": "Regional government"
+            },
+            {
+                "entity_in_the_text": "total BPs/year",
+                "wikipedia_title": "Bed capacity per year"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "entity_in_the_text": "population over 100000 (km)",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Region]",
+                "wikipedia_title": "Primary industry by region"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Region]",
+                "wikipedia_title": "Secondary industry by region"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Region]",
+                "wikipedia_title": "Tertiary industry by region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Organic farm",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "entity_in_the_text": "Mountain Product",
+                "wikipedia_title": "Mountain product"
+            },
+            {
+                "entity_in_the_text": "Pontepietra",
+                "wikipedia_title": "Pontepietra"
+            },
+            {
+                "entity_in_the_text": "small organic farm",
+                "wikipedia_title": "Organic farm"
+            },
+            {
+                "entity_in_the_text": "hand",
+                "wikipedia_title": "Handwork"
+            },
+            {
+                "entity_in_the_text": "machinery",
+                "wikipedia_title": "Machinery"
+            },
+            {
+                "entity_in_the_text": "herbal teas and herb salt preserve the flavors and properties that nature has given them",
+                "wikipedia_title": "Preservation of flavor"
+            },
+            {
+                "entity_in_the_text": "small farm",
+                "wikipedia_title": "Small business"
+            },
+            {
+                "entity_in_the_text": "communication strategy",
+                "wikipedia_title": "Marketing and communication"
+            },
+            {
+                "entity_in_the_text": "uncontaminated nature, the flavors and smells of the Apennines to the city",
+                "wikipedia_title": "Nature"
+            },
+            {
+                "entity_in_the_text": "values of quality, genuineness and sustainability",
+                "wikipedia_title": "Sustainability"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "brother Steinbruck",
+                "wikipedia_title": "Steinbrück family"
+            },
+            {
+                "entity_in_the_text": "hills",
+                "wikipedia_title": "Hill"
+            },
+            {
+                "entity_in_the_text": "thousand different colors and scents",
+                "wikipedia_title": "Color"
+            },
+            {
+                "entity_in_the_text": "organic and natural cultivation of medicinal and aromatic herbs",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "entity_in_the_text": "medicinal and aromatic herbs",
+                "wikipedia_title": "Herbal medicine"
+            },
+            {
+                "entity_in_the_text": "Apennines",
+                "wikipedia_title": "Apennine Mountains"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "brother Steinbruck",
+                "wikipedia_title": "Steinbrück"
+            },
+            {
+                "entity_in_the_text": "hills bloom",
+                "wikipedia_title": "Hill"
+            },
+            {
+                "entity_in_the_text": "thousand different colours and scents",
+                "wikipedia_title": "Color"
+            },
+            {
+                "entity_in_the_text": "organic and natural cultivation of medicinal and aromatic herbs",
+                "wikipedia_title": "Organic farming"
+            },
+            {
+                "entity_in_the_text": "Apennines",
+                "wikipedia_title": "Apennine Mountains"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capitalist"
+            },
+            {
+                "entity_in_the_text": "challenge faced by this VC is Current",
+                "wikipedia_title": "Current Challenges in Venture Capital"
+            },
+            {
+                "entity_in_the_text": "VC is classified as Innovative",
+                "wikipedia_title": "Innovative Business Model"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Endogenous and Exogenous",
+                "wikipedia_title": "Endogenous innovation"
+            },
+            {
+                "entity_in_the_text": "New products",
+                "wikipedia_title": "Product development"
+            },
+            {
+                "entity_in_the_text": "communication based on: Nature, sostenibility and quality",
+                "wikipedia_title": "Sustainability communication"
+            },
+            {
+                "entity_in_the_text": "New products and New marketing strategies",
+                "wikipedia_title": "Marketing strategy"
+            },
+            {
+                "entity_in_the_text": "Natural land",
+                "wikipedia_title": "Land use"
+            },
+            {
+                "entity_in_the_text": "aromatic herbs",
+                "wikipedia_title": "Herbs"
+            },
+            {
+                "entity_in_the_text": "Natural",
+                "wikipedia_title": "Nature"
+            }
+        ]
+    }
+]

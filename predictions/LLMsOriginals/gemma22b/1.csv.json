@@ -1,0 +1,518 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria"
+            },
+            {
+                "entity_in_the_text": "VC 01 AT",
+                "wikipedia_title": "Value Chain (VC)"
+            },
+            {
+                "entity_in_the_text": "ALMO",
+                "wikipedia_title": "Almo Steirisches Almochsenfleisch"
+            },
+            {
+                "entity_in_the_text": "Almenland Marketing GmbH",
+                "wikipedia_title": "Almenland Marketing GmbH"
+            },
+            {
+                "entity_in_the_text": "ÖPUL",
+                "wikipedia_title": "Austrian Environmental Protection Program (ÖPUL)"
+            },
+            {
+                "entity_in_the_text": "Genussregion Almenland",
+                "wikipedia_title": "Almenland Region"
+            },
+            {
+                "entity_in_the_text": "Urlaub am Bauernhof",
+                "wikipedia_title": "Farm Stay"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Valleys of the Alps"
+            },
+            {
+                "entity_in_the_text": "RR 11",
+                "wikipedia_title": "Roraima Range"
+            },
+            {
+                "entity_in_the_text": "Austrian Alps",
+                "wikipedia_title": "Austrian Alps"
+            },
+            {
+                "entity_in_the_text": "Weiz (No: 617)",
+                "wikipedia_title": "Weiz, Austria"
+            },
+            {
+                "entity_in_the_text": "Almenland",
+                "wikipedia_title": "Almenland"
+            },
+            {
+                "entity_in_the_text": "Europe",
+                "wikipedia_title": "Europe"
+            },
+            {
+                "entity_in_the_text": "pastures",
+                "wikipedia_title": "Pasture (agriculture)"
+            },
+            {
+                "entity_in_the_text": "1.200 and 1.500 m above sea level",
+                "wikipedia_title": "Elevation"
+            },
+            {
+                "entity_in_the_text": "humid",
+                "wikipedia_title": "Humidity"
+            },
+            {
+                "entity_in_the_text": "thunderstorms",
+                "wikipedia_title": "Thunderstorm"
+            },
+            {
+                "entity_in_the_text": "limestone",
+                "wikipedia_title": "Limestone"
+            },
+            {
+                "entity_in_the_text": "phylite, slate and greywacke",
+                "wikipedia_title": "Phyllite, Slate, and Greywacke"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "area (km2)",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "minimum altimetry",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "maximum altimetry",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "population (in thousand)",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "population density (Inhabitants/km2)",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "population change rate of the LAU in the last 10 years (%)",
+                "wikipedia_title": "Population Growth Rate"
+            },
+            {
+                "entity_in_the_text": "overall regional population density (Inhabitants/km2)",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "regional population change rate in the last 10 years (%)",
+                "wikipedia_title": "Population Growth Rate"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces in Europe"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions in Europe"
+            },
+            {
+                "entity_in_the_text": "average per capita income (EUR/year)",
+                "wikipedia_title": "Per capita income"
+            },
+            {
+                "entity_in_the_text": "total Gross Value Added (GVA) (EUR million/year)",
+                "wikipedia_title": "Gross Domestic Product"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total GVA/year",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total GVA/year",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total GVA/year",
+                "wikipedia_title": "Tertiary industry"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "tourist accommodations",
+                "wikipedia_title": "Tourist accommodation"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "bed places (BPs)",
+                "wikipedia_title": "Bed capacity"
+            },
+            {
+                "entity_in_the_text": "Regional",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "entity_in_the_text": "population over 100000 (km)",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Region]",
+                "wikipedia_title": "Primary industry by region"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Region]",
+                "wikipedia_title": "Secondary industry by region"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Region]",
+                "wikipedia_title": "Tertiary industry by region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ALMO",
+                "wikipedia_title": "ALMO (association)"
+            },
+            {
+                "entity_in_the_text": "alp oxen farmers association",
+                "wikipedia_title": "Alpine cattle farming"
+            },
+            {
+                "entity_in_the_text": "500 members",
+                "wikipedia_title": "Number of members in organizations"
+            },
+            {
+                "entity_in_the_text": "registered brand",
+                "wikipedia_title": "Trademark"
+            },
+            {
+                "entity_in_the_text": "LEADER-region Almenland and Energieregion Weiz-Gleisdorf",
+                "wikipedia_title": "LEADER program"
+            },
+            {
+                "entity_in_the_text": "high quality product",
+                "wikipedia_title": "Product"
+            },
+            {
+                "entity_in_the_text": "animal welfare standards",
+                "wikipedia_title": "Animal welfare"
+            },
+            {
+                "entity_in_the_text": "cooperation with an Austrian animal welfare NGO",
+                "wikipedia_title": "Animal welfare organizations in Austria"
+            },
+            {
+                "entity_in_the_text": "farmers and other value chain actors",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "veterinaries, butchers, retailers, tourism, regional development agency",
+                "wikipedia_title": "Stakeholders in the food industry"
+            },
+            {
+                "entity_in_the_text": "innovations emerged",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "special relationships of the initiators with other value chain actors",
+                "wikipedia_title": "Networking in business"
+            },
+            {
+                "entity_in_the_text": "well embedded into regional development, tourism and local culture",
+                "wikipedia_title": "Regional development"
+            },
+            {
+                "entity_in_the_text": "Business relations are exceptional (e.g. purchase and price guarantee)",
+                "wikipedia_title": "Business relationships"
+            },
+            {
+                "entity_in_the_text": "partly based on personal relationships and trust",
+                "wikipedia_title": "Trust in business"
+            },
+            {
+                "entity_in_the_text": "initiative combines an originally traditional practice with very innovative elements",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "continuously further developed",
+                "wikipedia_title": "Development"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "own regional slaughter house",
+                "wikipedia_title": "Regional slaughterhouse"
+            },
+            {
+                "entity_in_the_text": "cooperation with sheep farmers",
+                "wikipedia_title": "Sheep farming"
+            },
+            {
+                "entity_in_the_text": "free range pig farmers",
+                "wikipedia_title": "Pig farming"
+            },
+            {
+                "entity_in_the_text": "local butcher",
+                "wikipedia_title": "Butcher"
+            },
+            {
+                "entity_in_the_text": "regional value creation",
+                "wikipedia_title": "Regional development"
+            },
+            {
+                "entity_in_the_text": "ALMO serving as lead product",
+                "wikipedia_title": "Lead Product"
+            },
+            {
+                "entity_in_the_text": "preservation of the landscape",
+                "wikipedia_title": "Landscape preservation"
+            },
+            {
+                "entity_in_the_text": "hiking tourism in the region",
+                "wikipedia_title": "Tourism"
+            },
+            {
+                "entity_in_the_text": "pasture farming",
+                "wikipedia_title": "Pasture farming"
+            },
+            {
+                "entity_in_the_text": "tradition over centuries",
+                "wikipedia_title": "Tradition"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "climate",
+                "wikipedia_title": "Climate change"
+            },
+            {
+                "entity_in_the_text": "drough",
+                "wikipedia_title": "Drought"
+            },
+            {
+                "entity_in_the_text": "heavy rain",
+                "wikipedia_title": "Heavy rainfall"
+            },
+            {
+                "entity_in_the_text": "feedbase",
+                "wikipedia_title": "Animal feed"
+            },
+            {
+                "entity_in_the_text": "pasture based meat production",
+                "wikipedia_title": "Pastured livestock farming"
+            },
+            {
+                "entity_in_the_text": "vegetation",
+                "wikipedia_title": "Vegetation"
+            },
+            {
+                "entity_in_the_text": "cultivation",
+                "wikipedia_title": "Agriculture"
+            },
+            {
+                "entity_in_the_text": "winter time",
+                "wikipedia_title": "Winter"
+            },
+            {
+                "entity_in_the_text": "alpine pasture areas",
+                "wikipedia_title": "Alpine meadows"
+            },
+            {
+                "entity_in_the_text": "waste",
+                "wikipedia_title": "Waste management"
+            },
+            {
+                "entity_in_the_text": "pasture intensity",
+                "wikipedia_title": "Pasture management"
+            },
+            {
+                "entity_in_the_text": "forage plant growth",
+                "wikipedia_title": "Forage crops"
+            },
+            {
+                "entity_in_the_text": "ALMO producers",
+                "wikipedia_title": "Small-scale farmers"
+            },
+            {
+                "entity_in_the_text": "women led farms",
+                "wikipedia_title": "Women in agriculture"
+            },
+            {
+                "entity_in_the_text": "income security",
+                "wikipedia_title": "Financial stability"
+            },
+            {
+                "entity_in_the_text": "stable price arrangements",
+                "wikipedia_title": "Market prices"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture capital"
+            },
+            {
+                "entity_in_the_text": "Current and Predicted",
+                "wikipedia_title": "Challenges"
+            },
+            {
+                "entity_in_the_text": "Traditional and Innovative",
+                "wikipedia_title": "Business models"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain"
+            },
+            {
+                "entity_in_the_text": "Endogenous and Exogenous",
+                "wikipedia_title": "Endogenous Innovation"
+            },
+            {
+                "entity_in_the_text": "social relations",
+                "wikipedia_title": "Social Relations"
+            },
+            {
+                "entity_in_the_text": "ALMO",
+                "wikipedia_title": "ALMO (Agricultural Land Management Organization)"
+            },
+            {
+                "entity_in_the_text": "LEADER",
+                "wikipedia_title": "LEADER (Leader Programme)"
+            },
+            {
+                "entity_in_the_text": "cross-sectoral exchange of ideas and insights",
+                "wikipedia_title": "Cross-Sector Collaboration"
+            },
+            {
+                "entity_in_the_text": "knowledge and expertise",
+                "wikipedia_title": "Expertise"
+            },
+            {
+                "entity_in_the_text": "feeding practices",
+                "wikipedia_title": "Animal Husbandry"
+            },
+            {
+                "entity_in_the_text": "business partners",
+                "wikipedia_title": "Business Partner"
+            },
+            {
+                "entity_in_the_text": "consultant",
+                "wikipedia_title": "Consultant"
+            },
+            {
+                "entity_in_the_text": "innovation based practice and academic knowledge",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "building of stables",
+                "wikipedia_title": "Stable Construction"
+            },
+            {
+                "entity_in_the_text": "free-range stable",
+                "wikipedia_title": "Free-Range Farming"
+            },
+            {
+                "entity_in_the_text": "System Haberl",
+                "wikipedia_title": "Haberl System"
+            },
+            {
+                "entity_in_the_text": "New processes",
+                "wikipedia_title": "Process Innovation"
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing Strategy"
+            },
+            {
+                "entity_in_the_text": "pasture farming",
+                "wikipedia_title": "Pasture Farming"
+            },
+            {
+                "entity_in_the_text": "local assets",
+                "wikipedia_title": "Local Assets"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ALMO producing farmers",
+                "wikipedia_title": "Alm farming"
+            },
+            {
+                "entity_in_the_text": "Lower Austria",
+                "wikipedia_title": "Lower Austria"
+            },
+            {
+                "entity_in_the_text": "Carinthia",
+                "wikipedia_title": "Carinthia"
+            },
+            {
+                "entity_in_the_text": "alp oxen",
+                "wikipedia_title": "Alpine cattle"
+            },
+            {
+                "entity_in_the_text": "marketing initiatives",
+                "wikipedia_title": "Beef marketing in Austria"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            }
+        ]
+    }
+]

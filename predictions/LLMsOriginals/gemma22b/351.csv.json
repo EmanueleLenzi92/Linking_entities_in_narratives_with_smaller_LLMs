@@ -1,0 +1,410 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "SPAIN ADEGUA",
+                "wikipedia_title": "Spain Adega"
+            },
+            {
+                "entity_in_the_text": "VC 34 ES",
+                "wikipedia_title": "VC 34 ES"
+            },
+            {
+                "entity_in_the_text": "elderly people",
+                "wikipedia_title": "Elderly people"
+            },
+            {
+                "entity_in_the_text": "local and immigrant women",
+                "wikipedia_title": "Women in Spain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Betic System",
+                "wikipedia_title": "Betics"
+            },
+            {
+                "entity_in_the_text": "Carcabuey",
+                "wikipedia_title": "Carcabuey"
+            },
+            {
+                "entity_in_the_text": "Sierra Subbética",
+                "wikipedia_title": "Sierra de Bética"
+            },
+            {
+                "entity_in_the_text": "Natural Park",
+                "wikipedia_title": "List of Natural Parks in Spain"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "area (km2)",
+                "wikipedia_title": "Area"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "minimum altimetry of the LAU",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "maximum altimetry of the LAU",
+                "wikipedia_title": "Altimetry"
+            },
+            {
+                "entity_in_the_text": "total population (in thousand)",
+                "wikipedia_title": "Population"
+            },
+            {
+                "entity_in_the_text": "population density (Inhabitants/km2) in the LAU",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "population change rate of the LAU in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            },
+            {
+                "entity_in_the_text": "overall regional population density (Inhabitants/km2)",
+                "wikipedia_title": "Population Density"
+            },
+            {
+                "entity_in_the_text": "regional population change rate in the last 10 years (%)",
+                "wikipedia_title": "Population Change Rate"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            },
+            {
+                "entity_in_the_text": "EUR/year",
+                "wikipedia_title": "Euro (currency)"
+            },
+            {
+                "entity_in_the_text": "Province",
+                "wikipedia_title": "List of provinces of Europe"
+            },
+            {
+                "entity_in_the_text": "Region",
+                "wikipedia_title": "List of regions of Europe"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "tourist accommodations",
+                "wikipedia_title": "List of tourist accommodation in the world"
+            },
+            {
+                "entity_in_the_text": "LAU",
+                "wikipedia_title": "Local Administrative Unit"
+            },
+            {
+                "entity_in_the_text": "bed places (BPs)",
+                "wikipedia_title": "Bed and breakfast"
+            },
+            {
+                "entity_in_the_text": "Regional",
+                "wikipedia_title": "Region"
+            },
+            {
+                "entity_in_the_text": "agricultural holdings",
+                "wikipedia_title": "Agricultural holding"
+            },
+            {
+                "entity_in_the_text": "settlement",
+                "wikipedia_title": "Settlement"
+            },
+            {
+                "entity_in_the_text": "population over 100000 (km)",
+                "wikipedia_title": "Population density"
+            },
+            {
+                "entity_in_the_text": "protected areas",
+                "wikipedia_title": "Protected area"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Province]",
+                "wikipedia_title": "Primary industry"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Province]",
+                "wikipedia_title": "Secondary industry"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Province]",
+                "wikipedia_title": "Tertiary industry"
+            },
+            {
+                "entity_in_the_text": "primary sector share of total employment/year [Region]",
+                "wikipedia_title": "Primary industry by region"
+            },
+            {
+                "entity_in_the_text": "secondary sector share of total employment/year [Region]",
+                "wikipedia_title": "Secondary industry by region"
+            },
+            {
+                "entity_in_the_text": "tertiary sector share of total employment/year [Region]",
+                "wikipedia_title": "Tertiary industry by region"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ageing population",
+                "wikipedia_title": "Aging Population"
+            },
+            {
+                "entity_in_the_text": "care of the elderly",
+                "wikipedia_title": "Elder Care"
+            },
+            {
+                "entity_in_the_text": "local peculiarities",
+                "wikipedia_title": "Local Culture"
+            },
+            {
+                "entity_in_the_text": "mountain centres",
+                "wikipedia_title": "Mountainous Regions"
+            },
+            {
+                "entity_in_the_text": "intergenerational social cohesion",
+                "wikipedia_title": "Intergenerational Solidarity"
+            },
+            {
+                "entity_in_the_text": "private care company",
+                "wikipedia_title": "Home Care Agency"
+            },
+            {
+                "entity_in_the_text": "local women",
+                "wikipedia_title": "Women in Rural Communities"
+            },
+            {
+                "entity_in_the_text": "professionalisation",
+                "wikipedia_title": "Professionalization"
+            },
+            {
+                "entity_in_the_text": "certificates of professionalism",
+                "wikipedia_title": "Certification"
+            },
+            {
+                "entity_in_the_text": "informal sector",
+                "wikipedia_title": "Informal Economy"
+            },
+            {
+                "entity_in_the_text": "female population under 65",
+                "wikipedia_title": "Youth Population"
+            },
+            {
+                "entity_in_the_text": "immigrant female population",
+                "wikipedia_title": "Immigrant Women"
+            },
+            {
+                "entity_in_the_text": "value chain",
+                "wikipedia_title": "Supply Chain Management"
+            },
+            {
+                "entity_in_the_text": "governance system",
+                "wikipedia_title": "Governance"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Municipal residence for the elderly",
+                "wikipedia_title": "Elderly care facility"
+            },
+            {
+                "entity_in_the_text": "managed by private company (PROMI)",
+                "wikipedia_title": "Private nursing home"
+            },
+            {
+                "entity_in_the_text": "Active participation centre",
+                "wikipedia_title": "Community center"
+            },
+            {
+                "entity_in_the_text": "Dependency assistance company hired by municipality",
+                "wikipedia_title": "Social services agency"
+            },
+            {
+                "entity_in_the_text": "Emergency carers",
+                "wikipedia_title": "Emergency medical service"
+            },
+            {
+                "entity_in_the_text": "Assistance in the framework of the informal economy",
+                "wikipedia_title": "Informal economy"
+            },
+            {
+                "entity_in_the_text": "Organised civil society groups (there are 40 associations)",
+                "wikipedia_title": "Non-profit organization"
+            },
+            {
+                "entity_in_the_text": "Neighbourhood mutual aid",
+                "wikipedia_title": "Neighborhood watch"
+            },
+            {
+                "entity_in_the_text": "Older people themselves",
+                "wikipedia_title": "Elderly population"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Ageing population",
+                "wikipedia_title": "Aging population"
+            },
+            {
+                "entity_in_the_text": "negative replacement rate",
+                "wikipedia_title": "Negative replacement rate"
+            },
+            {
+                "entity_in_the_text": "depopulation",
+                "wikipedia_title": "Population decline"
+            },
+            {
+                "entity_in_the_text": "exodus of young population",
+                "wikipedia_title": "Youth exodus"
+            },
+            {
+                "entity_in_the_text": "public resources do not cover all needs",
+                "wikipedia_title": "Public services underfunding"
+            },
+            {
+                "entity_in_the_text": "informal economy",
+                "wikipedia_title": "Informal economy"
+            },
+            {
+                "entity_in_the_text": "professionalisation process under development but not consolidated",
+                "wikipedia_title": "Economic transition"
+            },
+            {
+                "entity_in_the_text": "precarisation of female work",
+                "wikipedia_title": "Gender wage gap"
+            },
+            {
+                "entity_in_the_text": "disappearance of local and social cultures of small Sierra communities",
+                "wikipedia_title": "Cultural decline"
+            },
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            },
+            {
+                "entity_in_the_text": "Current",
+                "wikipedia_title": "Present day"
+            },
+            {
+                "entity_in_the_text": "Traditional and Innovative",
+                "wikipedia_title": "Innovation"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain"
+            },
+            {
+                "entity_in_the_text": "Endogenous and Exogenous",
+                "wikipedia_title": "Endogenous innovation"
+            },
+            {
+                "entity_in_the_text": "Informal and traditional care",
+                "wikipedia_title": "Traditional care"
+            },
+            {
+                "entity_in_the_text": "public services",
+                "wikipedia_title": "Public service"
+            },
+            {
+                "entity_in_the_text": "elderly population",
+                "wikipedia_title": "Elderly care"
+            },
+            {
+                "entity_in_the_text": "public-private partnerships",
+                "wikipedia_title": "Public-private partnership"
+            },
+            {
+                "entity_in_the_text": "innovation",
+                "wikipedia_title": "Innovation"
+            },
+            {
+                "entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance"
+            },
+            {
+                "entity_in_the_text": "urban space",
+                "wikipedia_title": "Urban planning"
+            },
+            {
+                "entity_in_the_text": "infrastructures",
+                "wikipedia_title": "Infrastructure"
+            },
+            {
+                "entity_in_the_text": "local assets",
+                "wikipedia_title": "Local resources"
+            },
+            {
+                "entity_in_the_text": "Social and cultural",
+                "wikipedia_title": "Social capital"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Venture Capital"
+            },
+            {
+                "entity_in_the_text": "Sierra",
+                "wikipedia_title": "Sierra Nevada"
+            },
+            {
+                "entity_in_the_text": "Subbética",
+                "wikipedia_title": "Subbética"
+            },
+            {
+                "entity_in_the_text": "depopulation",
+                "wikipedia_title": "Population decline"
+            },
+            {
+                "entity_in_the_text": "ageing",
+                "wikipedia_title": "Aging"
+            },
+            {
+                "entity_in_the_text": "social balances",
+                "wikipedia_title": "Social equilibrium"
+            },
+            {
+                "entity_in_the_text": "social cohesion",
+                "wikipedia_title": "Social cohesion"
+            },
+            {
+                "entity_in_the_text": "resources",
+                "wikipedia_title": "Resources"
+            }
+        ]
+    }
+]
