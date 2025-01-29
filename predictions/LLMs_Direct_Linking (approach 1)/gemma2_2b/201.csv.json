@@ -1,0 +1,338 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state",
+                "Wikidata_ID": "Q10478956"
+            },
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "VC 17 NMK",
+                "Wikidata_ID": "Q10478956"
+            },
+            {
+                "originalKey": "tobacco seeds",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "planting seedlings",
+                "Wikidata_ID": "Q10478956"
+            },
+            {
+                "originalKey": "harvesting",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "selling the row material",
+                "Wikidata_ID": "Q10478956"
+            },
+            {
+                "originalKey": "processing",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "selling the final tobacco product to the end users",
+                "Wikidata_ID": "Q10478956"
+            },
+            {
+                "originalKey": "Jaka Prilep",
+                "Wikidata_ID": "Q237777"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Mountain Meleshevija",
+                "Wikidata_ID": "Q147968"
+            },
+            {
+                "originalKey": "Maleshevski mountains",
+                "Wikidata_ID": "Q205377"
+            },
+            {
+                "originalKey": "Republic of North Macedonia",
+                "Wikidata_ID": "Q14698"
+            },
+            {
+                "originalKey": "Berovo",
+                "Wikidata_ID": "Q207537"
+            },
+            {
+                "originalKey": "Pehchevo",
+                "Wikidata_ID": "Q14698"
+            },
+            {
+                "originalKey": "Bregalnica",
+                "Wikidata_ID": "Q207537"
+            },
+            {
+                "originalKey": "Strumica",
+                "Wikidata_ID": "Q14698"
+            },
+            {
+                "originalKey": "Maleshevija region",
+                "Wikidata_ID": "Q205377"
+            },
+            {
+                "originalKey": "forests",
+                "Wikidata_ID": "Q14698"
+            },
+            {
+                "originalKey": "pastures",
+                "Wikidata_ID": "Q14698"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size of the area (km2)",
+                "Wikidata_ID": "Q147586"
+            },
+            {
+                "originalKey": "minimum altimetry of the LAU",
+                "Wikidata_ID": "Q103977"
+            },
+            {
+                "originalKey": "maximum altimetry of the LAU",
+                "Wikidata_ID": "Q103978"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "Wikidata_ID": "Q147586"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2) in the LAU",
+                "Wikidata_ID": "Q103977"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": "Q147586"
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q103977"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q147586"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q14398"
+            },
+            {
+                "originalKey": "GVA (EUR million/year)",
+                "Wikidata_ID": "Q20756"
+            },
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "Wikidata_ID": "Q14398"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q14398"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q108901"
+            },
+            {
+                "originalKey": "regional (Region)",
+                "Wikidata_ID": "Q576456"
+            },
+            {
+                "originalKey": "number of agricultural holdings in the LAU",
+                "Wikidata_ID": "Q108901"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q576456"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q1234567"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q1047685"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q1047686"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q1047687"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Republic of Macedonia",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "tobacco production",
+                "Wikidata_ID": "Q23587"
+            },
+            {
+                "originalKey": "oriental types",
+                "Wikidata_ID": "Q104967"
+            },
+            {
+                "originalKey": "Macedonia",
+                "Wikidata_ID": "Q2538"
+            },
+            {
+                "originalKey": "state policy",
+                "Wikidata_ID": "Q147906"
+            },
+            {
+                "originalKey": "tobacco production",
+                "Wikidata_ID": "Q23587"
+            },
+            {
+                "originalKey": "subsiding policy of the state",
+                "Wikidata_ID": "Q104967"
+            },
+            {
+                "originalKey": "reestablished",
+                "Wikidata_ID": "Q23587"
+            },
+            {
+                "originalKey": "good opportunities even to increase",
+                "Wikidata_ID": "Q104967"
+            },
+            {
+                "originalKey": "alternative crop",
+                "Wikidata_ID": "Q23587"
+            },
+            {
+                "originalKey": "labor force",
+                "Wikidata_ID": "Q104967"
+            },
+            {
+                "originalKey": "economic impact",
+                "Wikidata_ID": "Q23587"
+            },
+            {
+                "originalKey": "tobacco production",
+                "Wikidata_ID": "Q23587"
+            },
+            {
+                "originalKey": "Macedonian agriculture",
+                "Wikidata_ID": "Q104967"
+            },
+            {
+                "originalKey": "poorer soils",
+                "Wikidata_ID": "Q23587"
+            },
+            {
+                "originalKey": "one-year culture",
+                "Wikidata_ID": "Q104967"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Production of oriental tobacco",
+                "Wikidata_ID": "Q104759"
+            },
+            {
+                "originalKey": "tobacco",
+                "Wikidata_ID": "Q263"
+            },
+            {
+                "originalKey": "agricultural products",
+                "Wikidata_ID": "Q14750"
+            },
+            {
+                "originalKey": "smoking tobacco",
+                "Wikidata_ID": "Q23968"
+            },
+            {
+                "originalKey": "labor intensive",
+                "Wikidata_ID": "Q104759"
+            },
+            {
+                "originalKey": "solid soil potential",
+                "Wikidata_ID": "Q23687"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q104759"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "innovation",
+                "Wikidata_ID": "Q5238"
+            },
+            {
+                "originalKey": "land use systems",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q2538"
+            },
+            {
+                "originalKey": "local assets",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q2538"
+            },
+            {
+                "originalKey": "social",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "cultural",
+                "Wikidata_ID": "Q104796"
+            }
+        ]
+    }
+]

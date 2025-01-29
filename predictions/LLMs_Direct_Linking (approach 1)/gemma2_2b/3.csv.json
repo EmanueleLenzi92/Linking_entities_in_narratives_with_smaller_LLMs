@@ -1,0 +1,490 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "Wikidata_ID": "Q10479"
+            },
+            {
+                "originalKey": "VC 03 AT",
+                "Wikidata_ID": "https://www.wikidata.org/wiki/Q258677"
+            },
+            {
+                "originalKey": "farms",
+                "Wikidata_ID": "Q149770"
+            },
+            {
+                "originalKey": "organic",
+                "Wikidata_ID": "Q23568"
+            },
+            {
+                "originalKey": "processing",
+                "Wikidata_ID": "Q10479"
+            },
+            {
+                "originalKey": "cooperation",
+                "Wikidata_ID": "Q258677"
+            },
+            {
+                "originalKey": "shops",
+                "Wikidata_ID": "Q10479"
+            },
+            {
+                "originalKey": "hotels",
+                "Wikidata_ID": "Q258677"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q104789"
+            },
+            {
+                "originalKey": "RR 11",
+                "Wikidata_ID": "Q256374"
+            },
+            {
+                "originalKey": "Austrian Alps",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Weiz",
+                "Wikidata_ID": "Q24563"
+            },
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q10798"
+            },
+            {
+                "originalKey": "Europe",
+                "Wikidata_ID": "Q56"
+            },
+            {
+                "originalKey": "pastures",
+                "Wikidata_ID": "Q10798"
+            },
+            {
+                "originalKey": "1.200 and 1.500 m above sea level",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "humid",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "thunderstorms",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "limestone",
+                "Wikidata_ID": "Q104789"
+            },
+            {
+                "originalKey": "phylite",
+                "Wikidata_ID": "Q256374"
+            },
+            {
+                "originalKey": "slate",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "greywacke",
+                "Wikidata_ID": "Q256374"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size of the area (km2)",
+                "Wikidata_ID": "Q147596"
+            },
+            {
+                "originalKey": "minimum altimetry of the LAU",
+                "Wikidata_ID": "Q103877"
+            },
+            {
+                "originalKey": "maximum altimetry of the LAU",
+                "Wikidata_ID": "Q103878"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "Wikidata_ID": "Q147596"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2) in the LAU",
+                "Wikidata_ID": "Q103877"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": "Q103878"
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q103877"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q103878"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q17935"
+            },
+            {
+                "originalKey": "GVA (EUR million/year)",
+                "Wikidata_ID": "Q20468"
+            },
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "Wikidata_ID": "Q17935"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q20468"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "Wikidata_ID": "Q124756"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q30987"
+            },
+            {
+                "originalKey": "regional (Region) share of total BPs/year",
+                "Wikidata_ID": "Q124756"
+            },
+            {
+                "originalKey": "number of agricultural holdings in the LAU",
+                "Wikidata_ID": "Q103987"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q54627"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q3897"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q104583"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q104583"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q104583"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q104583"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q104583"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q104583"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland Nature Park",
+                "Wikidata_ID": "Q1047968"
+            },
+            {
+                "originalKey": "herb farmers",
+                "Wikidata_ID": "Q523777"
+            },
+            {
+                "originalKey": "Almenland Kräuter",
+                "Wikidata_ID": "Q10694877"
+            },
+            {
+                "originalKey": "herbs",
+                "Wikidata_ID": "Q523777"
+            },
+            {
+                "originalKey": "organic cultivation",
+                "Wikidata_ID": "Q104968"
+            },
+            {
+                "originalKey": "wild nature",
+                "Wikidata_ID": "Q27357"
+            },
+            {
+                "originalKey": "hand harvested",
+                "Wikidata_ID": "Q104968"
+            },
+            {
+                "originalKey": "food and drinks",
+                "Wikidata_ID": "Q27357"
+            },
+            {
+                "originalKey": "cosmetic and wellness products",
+                "Wikidata_ID": "Q104968"
+            },
+            {
+                "originalKey": "business model",
+                "Wikidata_ID": "Q104968"
+            },
+            {
+                "originalKey": "product range",
+                "Wikidata_ID": "Q104968"
+            },
+            {
+                "originalKey": "regional development",
+                "Wikidata_ID": "Q104968"
+            },
+            {
+                "originalKey": "nature park",
+                "Wikidata_ID": "Q1047968"
+            },
+            {
+                "originalKey": "gastronomy",
+                "Wikidata_ID": "Q27357"
+            },
+            {
+                "originalKey": "hotels",
+                "Wikidata_ID": "Q104968"
+            },
+            {
+                "originalKey": "educational/touristic programmes",
+                "Wikidata_ID": "Q104968"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q104798"
+            },
+            {
+                "originalKey": "Genussregion",
+                "Wikidata_ID": "Q253677"
+            },
+            {
+                "originalKey": "AgrarMarkt Austria",
+                "Wikidata_ID": "Q104987"
+            },
+            {
+                "originalKey": "nature park",
+                "Wikidata_ID": "Q253677"
+            },
+            {
+                "originalKey": "local food specialities",
+                "Wikidata_ID": "Q104987"
+            },
+            {
+                "originalKey": "health related aspects",
+                "Wikidata_ID": "Q253677"
+            },
+            {
+                "originalKey": "touristic programme",
+                "Wikidata_ID": "Q104987"
+            },
+            {
+                "originalKey": "ecological perspective",
+                "Wikidata_ID": "Q253677"
+            },
+            {
+                "originalKey": "herbs",
+                "Wikidata_ID": "Q104987"
+            },
+            {
+                "originalKey": "near-natural areas",
+                "Wikidata_ID": "Q253677"
+            },
+            {
+                "originalKey": "pesticide",
+                "Wikidata_ID": "Q104987"
+            },
+            {
+                "originalKey": "flowering plants",
+                "Wikidata_ID": "Q253677"
+            },
+            {
+                "originalKey": "insects",
+                "Wikidata_ID": "Q104987"
+            },
+            {
+                "originalKey": "habitat fragmentation",
+                "Wikidata_ID": "Q253677"
+            },
+            {
+                "originalKey": "wild collection",
+                "Wikidata_ID": "Q104987"
+            },
+            {
+                "originalKey": "permanent grasslands",
+                "Wikidata_ID": "Q253677"
+            },
+            {
+                "originalKey": "local farmers",
+                "Wikidata_ID": "Q104987"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Extreme weather conditions",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q2385"
+            },
+            {
+                "originalKey": "natural vegetation",
+                "Wikidata_ID": "Q10746"
+            },
+            {
+                "originalKey": "cultivation practices",
+                "Wikidata_ID": "Q23859"
+            },
+            {
+                "originalKey": "herbs",
+                "Wikidata_ID": "Q10746"
+            },
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q2385"
+            },
+            {
+                "originalKey": "irrigation",
+                "Wikidata_ID": "Q10746"
+            },
+            {
+                "originalKey": "varieties",
+                "Wikidata_ID": "Q23859"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q10746"
+            },
+            {
+                "originalKey": "Current and Predicted",
+                "Wikidata_ID": "Q23859"
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "Wikidata_ID": "Q10746"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q1047968"
+            },
+            {
+                "originalKey": "Endogenous and Exogenous innovation",
+                "Wikidata_ID": "Q123456"
+            },
+            {
+                "originalKey": "products",
+                "Wikidata_ID": "Q107987"
+            },
+            {
+                "originalKey": "herb-based products",
+                "Wikidata_ID": "Q243567"
+            },
+            {
+                "originalKey": "spice mixes",
+                "Wikidata_ID": "Q108978"
+            },
+            {
+                "originalKey": "liquor",
+                "Wikidata_ID": "Q243568"
+            },
+            {
+                "originalKey": "syrups",
+                "Wikidata_ID": "Q108979"
+            },
+            {
+                "originalKey": "sweets with birch sugar",
+                "Wikidata_ID": "Q243570"
+            },
+            {
+                "originalKey": "soaps",
+                "Wikidata_ID": "Q108980"
+            },
+            {
+                "originalKey": "creams",
+                "Wikidata_ID": "Q108981"
+            },
+            {
+                "originalKey": "incense materials",
+                "Wikidata_ID": "Q243571"
+            },
+            {
+                "originalKey": "New products",
+                "Wikidata_ID": "Q108982"
+            },
+            {
+                "originalKey": "New processes",
+                "Wikidata_ID": "Q108983"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q108984"
+            },
+            {
+                "originalKey": "land use systems",
+                "Wikidata_ID": "Q243572"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q108985"
+            },
+            {
+                "originalKey": "local assets",
+                "Wikidata_ID": "Q243573"
+            },
+            {
+                "originalKey": "Natural assets",
+                "Wikidata_ID": "Q108986"
+            },
+            {
+                "originalKey": "Cultural assets",
+                "Wikidata_ID": "Q243574"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Products made from herbs",
+                "Wikidata_ID": "Q147508"
+            },
+            {
+                "originalKey": "Austrian mountainous regions",
+                "Wikidata_ID": "Q29637"
+            }
+        ]
+    }
+]

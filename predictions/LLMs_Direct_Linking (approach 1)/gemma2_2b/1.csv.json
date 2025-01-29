@@ -1,0 +1,530 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "Wikidata_ID": "Q10479"
+            },
+            {
+                "originalKey": "VC 01 AT",
+                "Wikidata_ID": "Q123568"
+            },
+            {
+                "originalKey": "ALMO",
+                "Wikidata_ID": "Q147977"
+            },
+            {
+                "originalKey": "Almo Steirisches Almochsenfleisch",
+                "Wikidata_ID": "Q205683"
+            },
+            {
+                "originalKey": "Association Steirische Bergland Marktgemeinschaft",
+                "Wikidata_ID": "Q147977"
+            },
+            {
+                "originalKey": "ÖPUL",
+                "Wikidata_ID": "Q205683"
+            },
+            {
+                "originalKey": "Almenland Marketing GmbH",
+                "Wikidata_ID": "Q147977"
+            },
+            {
+                "originalKey": "regional restaurants",
+                "Wikidata_ID": "Q205683"
+            },
+            {
+                "originalKey": "Genussregion Almenland",
+                "Wikidata_ID": "Q147977"
+            },
+            {
+                "originalKey": "Urlaub am Bauernhof",
+                "Wikidata_ID": "Q205683"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q104789"
+            },
+            {
+                "originalKey": "RR 11",
+                "Wikidata_ID": "Q256377"
+            },
+            {
+                "originalKey": "Austrian Alps",
+                "Wikidata_ID": "Q10498"
+            },
+            {
+                "originalKey": "Weiz",
+                "Wikidata_ID": "Q27653"
+            },
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q10498"
+            },
+            {
+                "originalKey": "Europe",
+                "Wikidata_ID": "Q57"
+            },
+            {
+                "originalKey": "pastures",
+                "Wikidata_ID": "Q10498"
+            },
+            {
+                "originalKey": "1.200 and 1.500 m above sea level",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "humid",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "thunderstorms",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "limestone",
+                "Wikidata_ID": "Q10498"
+            },
+            {
+                "originalKey": "phylite",
+                "Wikidata_ID": "Q10498"
+            },
+            {
+                "originalKey": "slate",
+                "Wikidata_ID": "Q10498"
+            },
+            {
+                "originalKey": "greywacke",
+                "Wikidata_ID": "Q10498"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size of the area (km2)",
+                "Wikidata_ID": "Q147568"
+            },
+            {
+                "originalKey": "minimum altimetry of the LAU",
+                "Wikidata_ID": "Q103977"
+            },
+            {
+                "originalKey": "maximum altimetry of the LAU",
+                "Wikidata_ID": "Q103978"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "Wikidata_ID": "Q147569"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2) in the LAU",
+                "Wikidata_ID": "Q103980"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": "Q147570"
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q103981"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q147571"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q17895"
+            },
+            {
+                "originalKey": "GVA (EUR million/year)",
+                "Wikidata_ID": "Q20463"
+            },
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "Wikidata_ID": "Q17895"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q20463"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "Wikidata_ID": "Q124789"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q50637"
+            },
+            {
+                "originalKey": "regional (Region) share of total BPs/year",
+                "Wikidata_ID": "Q124790"
+            },
+            {
+                "originalKey": "number of agricultural holdings in the LAU",
+                "Wikidata_ID": "Q136587"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q249777"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q35687"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q104583"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q104582"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q104584"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q104583"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q104582"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q104584"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "Wikidata_ID": "Q10479865"
+            },
+            {
+                "originalKey": "alp oxen farmers association",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "LEADER-region Almenland",
+                "Wikidata_ID": "Q1049685"
+            },
+            {
+                "originalKey": "Energieregion Weiz-Gleisdorf",
+                "Wikidata_ID": "Q1073277"
+            },
+            {
+                "originalKey": "ALMO",
+                "Wikidata_ID": "Q10479865"
+            },
+            {
+                "originalKey": "animal welfare standards",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "Austrian animal welfare NGO",
+                "Wikidata_ID": "Q1049685"
+            },
+            {
+                "originalKey": "farmers",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "veterinaries",
+                "Wikidata_ID": "Q1049685"
+            },
+            {
+                "originalKey": "butchers",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "retailers",
+                "Wikidata_ID": "Q1049685"
+            },
+            {
+                "originalKey": "tourism",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "regional development agency",
+                "Wikidata_ID": "Q1049685"
+            },
+            {
+                "originalKey": "business relations",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "purchase and price guarantee",
+                "Wikidata_ID": "Q1049685"
+            },
+            {
+                "originalKey": "personal relationships and trust",
+                "Wikidata_ID": "Q237777"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "own regional slaughter house",
+                "Wikidata_ID": "Q10479586"
+            },
+            {
+                "originalKey": "cooperation with sheep farmers",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "free range pig farmers",
+                "Wikidata_ID": "Q1048695"
+            },
+            {
+                "originalKey": "local butcher",
+                "Wikidata_ID": "Q27377"
+            },
+            {
+                "originalKey": "regional value creation",
+                "Wikidata_ID": "Q1048695"
+            },
+            {
+                "originalKey": "ALMO",
+                "Wikidata_ID": "Q27377"
+            },
+            {
+                "originalKey": "regional development",
+                "Wikidata_ID": "Q1048695"
+            },
+            {
+                "originalKey": "preservation of the landscape",
+                "Wikidata_ID": "Q27377"
+            },
+            {
+                "originalKey": "hiking tourism in the region",
+                "Wikidata_ID": "Q1048695"
+            },
+            {
+                "originalKey": "pasture farming",
+                "Wikidata_ID": "Q27377"
+            },
+            {
+                "originalKey": "regional identity",
+                "Wikidata_ID": "Q1048695"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "climate",
+                "Wikidata_ID": "Q10476"
+            },
+            {
+                "originalKey": "drough",
+                "Wikidata_ID": "Q23598"
+            },
+            {
+                "originalKey": "heavy rain",
+                "Wikidata_ID": "Q10746"
+            },
+            {
+                "originalKey": "feedbase",
+                "Wikidata_ID": "Q23598"
+            },
+            {
+                "originalKey": "pasture based meat production",
+                "Wikidata_ID": "Q10746"
+            },
+            {
+                "originalKey": "vegetation",
+                "Wikidata_ID": "Q23598"
+            },
+            {
+                "originalKey": "cultivation",
+                "Wikidata_ID": "Q10746"
+            },
+            {
+                "originalKey": "feed for the winter time",
+                "Wikidata_ID": "Q23598"
+            },
+            {
+                "originalKey": "alpine pasture areas",
+                "Wikidata_ID": "Q10746"
+            },
+            {
+                "originalKey": "waste",
+                "Wikidata_ID": "Q23598"
+            },
+            {
+                "originalKey": "pasture intensity",
+                "Wikidata_ID": "Q10746"
+            },
+            {
+                "originalKey": "forage plant growth",
+                "Wikidata_ID": "Q23598"
+            },
+            {
+                "originalKey": "income security",
+                "Wikidata_ID": "Q10746"
+            },
+            {
+                "originalKey": "stable price arrangements",
+                "Wikidata_ID": "Q23598"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q10746"
+            },
+            {
+                "originalKey": "Current and Predicted",
+                "Wikidata_ID": "Q23598"
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "Wikidata_ID": "Q10746"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "Endogenous innovation",
+                "Wikidata_ID": "Q123456"
+            },
+            {
+                "originalKey": "Exogenous innovation",
+                "Wikidata_ID": "Q123457"
+            },
+            {
+                "originalKey": "social relations",
+                "Wikidata_ID": "Q106987"
+            },
+            {
+                "originalKey": "members of the initiative",
+                "Wikidata_ID": "Q123458"
+            },
+            {
+                "originalKey": "network",
+                "Wikidata_ID": "Q106988"
+            },
+            {
+                "originalKey": "LEADER",
+                "Wikidata_ID": "Q24753"
+            },
+            {
+                "originalKey": "local action groups",
+                "Wikidata_ID": "Q106989"
+            },
+            {
+                "originalKey": "cross-sectoral exchange of ideas and insights",
+                "Wikidata_ID": "Q106990"
+            },
+            {
+                "originalKey": "different knowledge and different expertise",
+                "Wikidata_ID": "Q123460"
+            },
+            {
+                "originalKey": "feeding practices",
+                "Wikidata_ID": "Q123461"
+            },
+            {
+                "originalKey": "business partners",
+                "Wikidata_ID": "Q106991"
+            },
+            {
+                "originalKey": "consultant",
+                "Wikidata_ID": "Q123462"
+            },
+            {
+                "originalKey": "innovation based practice and academic knowledge",
+                "Wikidata_ID": "Q106992"
+            },
+            {
+                "originalKey": "stables",
+                "Wikidata_ID": "Q123463"
+            },
+            {
+                "originalKey": "free-range stable",
+                "Wikidata_ID": "Q106993"
+            },
+            {
+                "originalKey": "Almenland region",
+                "Wikidata_ID": "Q24754"
+            },
+            {
+                "originalKey": "System Haberl",
+                "Wikidata_ID": "Q106994"
+            },
+            {
+                "originalKey": "New processes",
+                "Wikidata_ID": "Q123465"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q123466"
+            },
+            {
+                "originalKey": "pasture farming",
+                "Wikidata_ID": "Q106995"
+            },
+            {
+                "originalKey": "local assets",
+                "Wikidata_ID": "Q123467"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO producing farmers",
+                "Wikidata_ID": "Q1047965"
+            },
+            {
+                "originalKey": "Lower Austria",
+                "Wikidata_ID": "Q2830"
+            },
+            {
+                "originalKey": "Carinthia",
+                "Wikidata_ID": "Q14795"
+            },
+            {
+                "originalKey": "alp oxen",
+                "Wikidata_ID": "Q203687"
+            },
+            {
+                "originalKey": "pasture farmed beef",
+                "Wikidata_ID": "Q14957"
+            },
+            {
+                "originalKey": "Austria",
+                "Wikidata_ID": "Q2063"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q14795"
+            }
+        ]
+    }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state of this VC",
+                "Wikidata_ID": "Q10479685"
+            },
+            {
+                "originalKey": "TURKEY",
+                "Wikidata_ID": "Q237"
+            },
+            {
+                "originalKey": "MOVING Card ID of this VC",
+                "Wikidata_ID": "Q10479685"
+            },
+            {
+                "originalKey": "Kozak type pine nuts",
+                "Wikidata_ID": "Q237"
+            },
+            {
+                "originalKey": "Turkey",
+                "Wikidata_ID": "Q10479685"
+            },
+            {
+                "originalKey": "producers and exporters of pine nuts (Pinus pinea L.)",
+                "Wikidata_ID": "Q237"
+            },
+            {
+                "originalKey": "Çetin, 2003; Öztürk and Küçükerdem, 2017",
+                "Wikidata_ID": "Q10479685"
+            },
+            {
+                "originalKey": "small family farmers",
+                "Wikidata_ID": "Q30777"
+            },
+            {
+                "originalKey": "special pole/stake",
+                "Wikidata_ID": "Q149568"
+            },
+            {
+                "originalKey": "processing",
+                "Wikidata_ID": "Q20737"
+            },
+            {
+                "originalKey": "cooperatives and firms",
+                "Wikidata_ID": "Q149568"
+            },
+            {
+                "originalKey": "specific rules",
+                "Wikidata_ID": "Q20737"
+            },
+            {
+                "originalKey": "cooperative activities",
+                "Wikidata_ID": "Q149568"
+            },
+            {
+                "originalKey": "regional SES",
+                "Wikidata_ID": "Q20737"
+            },
+            {
+                "originalKey": "farmers, the local government, cooperatives and firms",
+                "Wikidata_ID": "Q149568"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Bergama",
+                "Wikidata_ID": "Q104975"
+            },
+            {
+                "originalKey": "İzmir",
+                "Wikidata_ID": "Q2638"
+            },
+            {
+                "originalKey": "Kozak",
+                "Wikidata_ID": "Q104975"
+            },
+            {
+                "originalKey": "Madra Mountains region",
+                "Wikidata_ID": "Q23687"
+            },
+            {
+                "originalKey": "peanut pine",
+                "Wikidata_ID": "Q104975"
+            },
+            {
+                "originalKey": "pinus pinea",
+                "Wikidata_ID": "Q12368"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size of the area (km2)",
+                "Wikidata_ID": "Q147596"
+            },
+            {
+                "originalKey": "minimum altimetry of the LAU",
+                "Wikidata_ID": "Q103877"
+            },
+            {
+                "originalKey": "maximum altimetry of the LAU",
+                "Wikidata_ID": "Q103878"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "Wikidata_ID": "Q147596"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2) in the LAU",
+                "Wikidata_ID": "Q103877"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": "Q147596"
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q103877"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q147596"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12879"
+            },
+            {
+                "originalKey": "EUR/year",
+                "Wikidata_ID": "Q30456"
+            },
+            {
+                "originalKey": "GVA (EUR million/year)",
+                "Wikidata_ID": "Q12879"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12879"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "Wikidata_ID": "Q12879"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "Wikidata_ID": "Q12879"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "Wikidata_ID": "Q12879"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q12879"
+            },
+            {
+                "originalKey": "EUR/year",
+                "Wikidata_ID": "Q30456"
+            },
+            {
+                "originalKey": "GVA (EUR million/year)",
+                "Wikidata_ID": "Q12879"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "Wikidata_ID": "Q12879"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "Wikidata_ID": "Q12879"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "Wikidata_ID": "Q12879"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "Wikidata_ID": "Q143596"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q20787"
+            },
+            {
+                "originalKey": "regional (Region) share of total BPs/year",
+                "Wikidata_ID": "Q143596"
+            },
+            {
+                "originalKey": "number of agricultural holdings in the LAU",
+                "Wikidata_ID": "Q107827"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q54963"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q27877"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q146832"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q146832"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q146832"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q146832"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q146832"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q146832"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Peanut pine",
+                "Wikidata_ID": "Q104759"
+            },
+            {
+                "originalKey": "Mediterranean climate",
+                "Wikidata_ID": "Q2368"
+            },
+            {
+                "originalKey": "Bergama-Kozak plateau",
+                "Wikidata_ID": "Q104759"
+            },
+            {
+                "originalKey": "Turkey",
+                "Wikidata_ID": "Q263"
+            },
+            {
+                "originalKey": "Kozak plateau",
+                "Wikidata_ID": "Q104759"
+            },
+            {
+                "originalKey": "Madra Mountains",
+                "Wikidata_ID": "Q263"
+            },
+            {
+                "originalKey": "Pine forests",
+                "Wikidata_ID": "Q104759"
+            },
+            {
+                "originalKey": "Bergama",
+                "Wikidata_ID": "Q263"
+            },
+            {
+                "originalKey": "Kozak",
+                "Wikidata_ID": "Q104759"
+            },
+            {
+                "originalKey": "Farmers",
+                "Wikidata_ID": "Q263"
+            },
+            {
+                "originalKey": "Pine nuts agriculture",
+                "Wikidata_ID": "Q104759"
+            },
+            {
+                "originalKey": "Ministry of Forestry",
+                "Wikidata_ID": "Q263"
+            },
+            {
+                "originalKey": "local administration",
+                "Wikidata_ID": "Q104759"
+            },
+            {
+                "originalKey": "Pine nut",
+                "Wikidata_ID": "Q263"
+            },
+            {
+                "originalKey": "Mountain farming",
+                "Wikidata_ID": "Q104759"
+            },
+            {
+                "originalKey": "Higher region",
+                "Wikidata_ID": "Q263"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "30% of the pine nut areas of Turkey",
+                "Wikidata_ID": "Q1247896"
+            },
+            {
+                "originalKey": "Kozak/Bergama",
+                "Wikidata_ID": "Q507377"
+            },
+            {
+                "originalKey": "Kozak type pine nuts",
+                "Wikidata_ID": "Q1247896"
+            },
+            {
+                "originalKey": "pine nuts",
+                "Wikidata_ID": "Q10537"
+            },
+            {
+                "originalKey": "Turkey",
+                "Wikidata_ID": "Q249"
+            },
+            {
+                "originalKey": "Geographical Indication",
+                "Wikidata_ID": "Q107658"
+            },
+            {
+                "originalKey": "Turkish Patent and Trademark Office",
+                "Wikidata_ID": "Q249"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Kozak plateau",
+                "Wikidata_ID": "Q1049785"
+            },
+            {
+                "originalKey": "pine seedlings",
+                "Wikidata_ID": "Q236777"
+            },
+            {
+                "originalKey": "pests and diseases",
+                "Wikidata_ID": "Q149085"
+            },
+            {
+                "originalKey": "lack of qualified personnel",
+                "Wikidata_ID": "Q273677"
+            },
+            {
+                "originalKey": "education",
+                "Wikidata_ID": "Q104985"
+            },
+            {
+                "originalKey": "inadequate advertisement and marketing",
+                "Wikidata_ID": "Q273678"
+            },
+            {
+                "originalKey": "establishments such as cooperative",
+                "Wikidata_ID": "Q1049785"
+            },
+            {
+                "originalKey": "pine nuts product",
+                "Wikidata_ID": "Q236777"
+            },
+            {
+                "originalKey": "processing, marketing and promotion",
+                "Wikidata_ID": "Q104985"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q273678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q104789"
+            },
+            {
+                "originalKey": "innovation",
+                "Wikidata_ID": "Q2365"
+            },
+            {
+                "originalKey": "land use systems",
+                "Wikidata_ID": "Q104789"
+            },
+            {
+                "originalKey": "Cropland",
+                "Wikidata_ID": "Q2365"
+            },
+            {
+                "originalKey": "Forestry",
+                "Wikidata_ID": "Q104789"
+            },
+            {
+                "originalKey": "local assets",
+                "Wikidata_ID": "Q2365"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q104789"
+            },
+            {
+                "originalKey": "cultural",
+                "Wikidata_ID": "Q2365"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pine nuts",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "MRLs",
+                "Wikidata_ID": "Q23587"
+            }
+        ]
+    }
+]
