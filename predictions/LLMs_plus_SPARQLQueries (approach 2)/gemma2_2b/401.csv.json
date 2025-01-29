@@ -1,0 +1,331 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SWITZERLAND 1",
+    "wikipedia_title" : "Switzerland",
+    "originalKey" : "SWITZERLAND 1",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "entity_in_the_text" : "VC 17 CH1",
+    "wikipedia_title" : "Value Chain (VC)",
+    "originalKey" : "VC 17 CH1",
+    "original_value" : "Value Chain (VC)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Honey from the alps",
+    "wikipedia_title" : "Honey",
+    "originalKey" : "Honey from the alps",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "entity_in_the_text" : "prodcuers",
+    "wikipedia_title" : "Producer",
+    "originalKey" : "prodcuers",
+    "original_value" : "Producer",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "farm shops",
+    "wikipedia_title" : "Farm shop",
+    "originalKey" : "farm shops",
+    "original_value" : "Farm shop",
+    "Wikidata_ID" : "Q1371823"
+  }, {
+    "entity_in_the_text" : "online shops",
+    "wikipedia_title" : "Online shopping",
+    "originalKey" : "online shops",
+    "original_value" : "Online shopping",
+    "Wikidata_ID" : "Q212930"
+  }, {
+    "entity_in_the_text" : "larger retailers",
+    "wikipedia_title" : "Retailer",
+    "originalKey" : "larger retailers",
+    "original_value" : "Retailer",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "'Pro Montagna'",
+    "wikipedia_title" : "Pro Montagna",
+    "originalKey" : "'Pro Montagna'",
+    "original_value" : "Pro Montagna",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "reference mountain chain",
+    "wikipedia_title" : "Mountain range",
+    "originalKey" : "reference mountain chain",
+    "original_value" : "Mountain range",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "reference mountain landscape",
+    "wikipedia_title" : "Landscape",
+    "originalKey" : "reference mountain landscape",
+    "original_value" : "Landscape",
+    "Wikidata_ID" : "Q107425"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "size of the area (km2)",
+    "wikipedia_title" : "Area",
+    "originalKey" : "size of the area (km2)",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "minimum altimetry of the LAU",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "minimum altimetry of the LAU",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "maximum altimetry of the LAU",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "maximum altimetry of the LAU",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total population (in thousand)",
+    "wikipedia_title" : "Population",
+    "originalKey" : "total population (in thousand)",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density (Inhabitants/km2) in the LAU",
+    "wikipedia_title" : "Population Density",
+    "originalKey" : "population density (Inhabitants/km2) in the LAU",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "population change rate of the LAU in the last 10 years (%)",
+    "wikipedia_title" : "Population Change Rate",
+    "originalKey" : "population change rate of the LAU in the last 10 years (%)",
+    "original_value" : "Population Change Rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "overall regional population density (Inhabitants/km2)",
+    "wikipedia_title" : "Population Density",
+    "originalKey" : "overall regional population density (Inhabitants/km2)",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "regional population change rate in the last 10 years (%)",
+    "wikipedia_title" : "Population Change Rate",
+    "originalKey" : "regional population change rate in the last 10 years (%)",
+    "original_value" : "Population Change Rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "average per capita income (EUR/year) [Province]",
+    "wikipedia_title" : "List of countries by GDP per capita",
+    "originalKey" : "average per capita income (EUR/year) [Province]",
+    "original_value" : "List of countries by GDP per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year) [Province]",
+    "wikipedia_title" : "Gross Domestic Product (GDP)",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Province]",
+    "original_value" : "Gross Domestic Product (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total GVA/year [Province]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total GVA/year [Province]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total GVA/year [Province]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income (EUR/year) [Region]",
+    "wikipedia_title" : "GDP per capita",
+    "originalKey" : "per capita income (EUR/year) [Region]",
+    "original_value" : "GDP per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year) [Region]",
+    "wikipedia_title" : "Gross Domestic Product (GDP)",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Region]",
+    "original_value" : "Gross Domestic Product (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total GVA/year [Region]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total GVA/year [Region]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total GVA/year [Region]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "tourist accommodations",
+    "wikipedia_title" : "List of tourist accommodation establishments in the world",
+    "originalKey" : "tourist accommodations",
+    "original_value" : "List of tourist accommodation establishments in the world",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region (geography)",
+    "originalKey" : "Region",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total employment/year [Province]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total employment/year [Province]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total employment/year [Province]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Primary industry by region",
+    "originalKey" : "primary sector share of total employment/year [Region]",
+    "original_value" : "Primary industry by region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Secondary industry by region",
+    "originalKey" : "secondary sector share of total employment/year [Region]",
+    "original_value" : "Secondary industry by region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Tertiary industry by region",
+    "originalKey" : "tertiary sector share of total employment/year [Region]",
+    "original_value" : "Tertiary industry by region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "traditional VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "traditional VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "well sought after",
+    "wikipedia_title" : "Sought-after",
+    "originalKey" : "well sought after",
+    "original_value" : "Sought-after",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "working well",
+    "wikipedia_title" : "Successful business",
+    "originalKey" : "working well",
+    "original_value" : "Successful business",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "bees",
+    "wikipedia_title" : "Bee extinction",
+    "originalKey" : "bees",
+    "original_value" : "Bee extinction",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "endangered",
+    "wikipedia_title" : "Endangered species",
+    "originalKey" : "endangered",
+    "original_value" : "Endangered species",
+    "Wikidata_ID" : "Q11394"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capitalist",
+    "originalKey" : "VC",
+    "original_value" : "Venture capitalist",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Predicted",
+    "wikipedia_title" : "Prediction (general)",
+    "originalKey" : "Predicted",
+    "original_value" : "Prediction (general)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Traditional",
+    "wikipedia_title" : "Traditional business model",
+    "originalKey" : "Traditional",
+    "original_value" : "Traditional business model",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "innovation",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "land use systems",
+    "wikipedia_title" : "Land use system",
+    "originalKey" : "land use systems",
+    "original_value" : "Land use system",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Beehives",
+    "wikipedia_title" : "Hive",
+    "originalKey" : "Beehives",
+    "original_value" : "Hive",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "local assets",
+    "wikipedia_title" : "Local asset",
+    "originalKey" : "local assets",
+    "original_value" : "Local asset",
+    "Wikidata_ID" : ""
+  } ]
+} ]

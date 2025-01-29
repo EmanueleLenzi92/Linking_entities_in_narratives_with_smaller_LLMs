@@ -1,0 +1,485 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "TURKEY",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "TURKEY",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "VC 17 TR",
+    "wikipedia_title" : "Value Chain (VC) - Wikipedia",
+    "originalKey" : "VC 17 TR",
+    "original_value" : "Value Chain (VC) - Wikipedia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kozak type pine nuts",
+    "wikipedia_title" : "Pine nut",
+    "originalKey" : "Kozak type pine nuts",
+    "original_value" : "Pine nut",
+    "Wikidata_ID" : "Q212933"
+  }, {
+    "entity_in_the_text" : "Pinus pinea L.",
+    "wikipedia_title" : "Pinyon Pine",
+    "originalKey" : "Pinus pinea L.",
+    "original_value" : "Pinyon Pine",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Çetin, 2003",
+    "wikipedia_title" : "Çetin (Author)",
+    "originalKey" : "Çetin, 2003",
+    "original_value" : "Çetin (Author)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Öztürk and Küçükerdem, 2017",
+    "wikipedia_title" : "Öztürk and Küçükerdem (Authors)",
+    "originalKey" : "Öztürk and Küçükerdem, 2017",
+    "original_value" : "Öztürk and Küçükerdem (Authors)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "small family farmers",
+    "wikipedia_title" : "Farmer",
+    "originalKey" : "small family farmers",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  }, {
+    "entity_in_the_text" : "special pole/stake",
+    "wikipedia_title" : "Pole (agriculture)",
+    "originalKey" : "special pole/stake",
+    "original_value" : "Pole (agriculture)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "cooperatives and firms",
+    "wikipedia_title" : "Cooperative",
+    "originalKey" : "cooperatives and firms",
+    "original_value" : "Cooperative",
+    "Wikidata_ID" : "Q4539"
+  }, {
+    "entity_in_the_text" : "SES",
+    "wikipedia_title" : "Social-economic status",
+    "originalKey" : "SES",
+    "original_value" : "Social-economic status",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Bergama",
+    "wikipedia_title" : "Bergama, İzmir",
+    "originalKey" : "Bergama",
+    "original_value" : "Bergama, İzmir",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "İzmir",
+    "wikipedia_title" : "Izmir Province",
+    "originalKey" : "İzmir",
+    "original_value" : "Izmir Province",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kozak",
+    "wikipedia_title" : "Kozak (mountain)",
+    "originalKey" : "Kozak",
+    "original_value" : "Kozak (mountain)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Madra Mountains region",
+    "wikipedia_title" : "Madra Mountains",
+    "originalKey" : "Madra Mountains region",
+    "original_value" : "Madra Mountains",
+    "Wikidata_ID" : "Q4833452"
+  }, {
+    "entity_in_the_text" : "peanut pine",
+    "wikipedia_title" : "Peanut Pine",
+    "originalKey" : "peanut pine",
+    "original_value" : "Peanut Pine",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "size (km2)",
+    "wikipedia_title" : "Area",
+    "originalKey" : "size (km2)",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "minimum altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "minimum altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "maximum altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "maximum altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population (thousand)",
+    "wikipedia_title" : "Population",
+    "originalKey" : "population (thousand)",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density (Inhabitants/km2)",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "population density (Inhabitants/km2)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "population change rate of the LAU in the last 10 years (%)",
+    "wikipedia_title" : "Population growth rate",
+    "originalKey" : "population change rate of the LAU in the last 10 years (%)",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "overall regional population density (Inhabitants/km2)",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "overall regional population density (Inhabitants/km2)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "regional population change rate in the last 10 years (%)",
+    "wikipedia_title" : "Population growth rate",
+    "originalKey" : "regional population change rate in the last 10 years (%)",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces in Europe",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "List of regions in Europe",
+    "originalKey" : "Region",
+    "original_value" : "List of regions in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income (EUR/year)",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income (EUR/year)",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year)",
+    "wikipedia_title" : "Gross Domestic Product (GDP)",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year)",
+    "original_value" : "Gross Domestic Product (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total GVA/year",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total GVA/year",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total GVA/year",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "total number of bed places (BPs) in tourist accommodations/year",
+    "wikipedia_title" : "List of hotels and motels in Los Angeles",
+    "originalKey" : "total number of bed places (BPs) in tourist accommodations/year",
+    "original_value" : "List of hotels and motels in Los Angeles",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU (Local Administrative Unit)",
+    "wikipedia_title" : "Los Angeles County",
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Los Angeles County",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional share of total BPs/year",
+    "wikipedia_title" : "Regional tourism in Los Angeles",
+    "originalKey" : "regional share of total BPs/year",
+    "original_value" : "Regional tourism in Los Angeles",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "number of agricultural holdings in the LAU",
+    "wikipedia_title" : "Agriculture in Los Angeles County",
+    "originalKey" : "number of agricultural holdings in the LAU",
+    "original_value" : "Agriculture in Los Angeles County",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "nearest settlement with population over 100000 (km)",
+    "wikipedia_title" : "Los Angeles metropolitan area",
+    "originalKey" : "nearest settlement with population over 100000 (km)",
+    "original_value" : "Los Angeles metropolitan area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected areas in Los Angeles County",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected areas in Los Angeles County",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total employment/year [Province]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total employment/year [Province]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total employment/year [Province]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total employment/year [Region]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total employment/year [Region]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total employment/year [Region]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Peanut pine",
+    "wikipedia_title" : "Mediterranean Pine",
+    "originalKey" : "Peanut pine",
+    "original_value" : "Mediterranean Pine",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Bergama-Kozak plateau",
+    "wikipedia_title" : "Bergama Plateau",
+    "originalKey" : "Bergama-Kozak plateau",
+    "original_value" : "Bergama Plateau",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Turkey",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "Turkey",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "Kozak plateau",
+    "wikipedia_title" : "Kozak Plateau",
+    "originalKey" : "Kozak plateau",
+    "original_value" : "Kozak Plateau",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Madra Mountains",
+    "wikipedia_title" : "Madra Mountains",
+    "originalKey" : "Madra Mountains",
+    "original_value" : "Madra Mountains",
+    "Wikidata_ID" : "Q4833452"
+  }, {
+    "entity_in_the_text" : "Farmers",
+    "wikipedia_title" : "Farmer",
+    "originalKey" : "Farmers",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  }, {
+    "entity_in_the_text" : "Pine nutes/cones",
+    "wikipedia_title" : "Pine nuts",
+    "originalKey" : "Pine nutes/cones",
+    "original_value" : "Pine nuts",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "October to april",
+    "wikipedia_title" : "Autumn",
+    "originalKey" : "October to april",
+    "original_value" : "Autumn",
+    "Wikidata_ID" : "Q1314"
+  }, {
+    "entity_in_the_text" : "Pine nuts agriculture",
+    "wikipedia_title" : "Pine nut farming",
+    "originalKey" : "Pine nuts agriculture",
+    "original_value" : "Pine nut farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Ministry of Forestry",
+    "wikipedia_title" : "Turkish Ministry of Forestry and Agriculture",
+    "originalKey" : "Ministry of Forestry",
+    "original_value" : "Turkish Ministry of Forestry and Agriculture",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Orchards",
+    "wikipedia_title" : "Orchard",
+    "originalKey" : "Orchards",
+    "original_value" : "Orchard",
+    "Wikidata_ID" : "Q236371"
+  }, {
+    "entity_in_the_text" : "Pine nut",
+    "wikipedia_title" : "Pine nut",
+    "originalKey" : "Pine nut",
+    "original_value" : "Pine nut",
+    "Wikidata_ID" : "Q212933"
+  }, {
+    "entity_in_the_text" : "Mountain farming",
+    "wikipedia_title" : "Mountain agriculture",
+    "originalKey" : "Mountain farming",
+    "original_value" : "Mountain agriculture",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "30% of the pine nut areas of Turkey",
+    "wikipedia_title" : "Pine nuts in Turkey",
+    "originalKey" : "30% of the pine nut areas of Turkey",
+    "original_value" : "Pine nuts in Turkey",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kozak/Bergama",
+    "wikipedia_title" : "Kozak (Turkey)",
+    "originalKey" : "Kozak/Bergama",
+    "original_value" : "Kozak (Turkey)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kozak type pine nuts",
+    "wikipedia_title" : "Kozak Pine Nuts",
+    "originalKey" : "Kozak type pine nuts",
+    "original_value" : "Kozak Pine Nuts",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Geographical Indication",
+    "wikipedia_title" : "Geographical indication",
+    "originalKey" : "Geographical Indication",
+    "original_value" : "Geographical indication",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Kozak plateau",
+    "wikipedia_title" : "Kozak Plateau",
+    "originalKey" : "Kozak plateau",
+    "original_value" : "Kozak Plateau",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "pests and diseases",
+    "wikipedia_title" : "Pests in forestry",
+    "originalKey" : "pests and diseases",
+    "original_value" : "Pests in forestry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "lack of qualified personnel",
+    "wikipedia_title" : "Forestry workforce shortage",
+    "originalKey" : "lack of qualified personnel",
+    "original_value" : "Forestry workforce shortage",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "education",
+    "wikipedia_title" : "Education in forestry",
+    "originalKey" : "education",
+    "original_value" : "Education in forestry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "inadequate advertisement and marketing",
+    "wikipedia_title" : "Marketing of forest products",
+    "originalKey" : "inadequate advertisement and marketing",
+    "original_value" : "Marketing of forest products",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "establishments such as cooperative",
+    "wikipedia_title" : "Cooperative",
+    "originalKey" : "establishments such as cooperative",
+    "original_value" : "Cooperative",
+    "Wikidata_ID" : "Q4539"
+  }, {
+    "entity_in_the_text" : "processing, marketing and promotion of pine nuts product",
+    "wikipedia_title" : "Pine nut processing",
+    "originalKey" : "processing, marketing and promotion of pine nuts product",
+    "original_value" : "Pine nut processing",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture Capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture Capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "Current and Predicted",
+    "wikipedia_title" : "Challenges in forestry",
+    "originalKey" : "Current and Predicted",
+    "original_value" : "Challenges in forestry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Traditional",
+    "wikipedia_title" : "Traditional business model",
+    "originalKey" : "Traditional",
+    "original_value" : "Traditional business model",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "innovation",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "Cropland",
+    "wikipedia_title" : "Cropland",
+    "originalKey" : "Cropland",
+    "original_value" : "Cropland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Natural resources",
+    "originalKey" : "Natural",
+    "original_value" : "Natural resources",
+    "Wikidata_ID" : "Q6980594"
+  }, {
+    "entity_in_the_text" : "cultural",
+    "wikipedia_title" : "Culture",
+    "originalKey" : "cultural",
+    "original_value" : "Culture",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Pine nuts",
+    "wikipedia_title" : "Pine nut",
+    "originalKey" : "Pine nuts",
+    "original_value" : "Pine nut",
+    "Wikidata_ID" : "Q212933"
+  }, {
+    "entity_in_the_text" : "MRLs",
+    "wikipedia_title" : "Monetary policy rate",
+    "originalKey" : "MRLs",
+    "original_value" : "Monetary policy rate",
+    "Wikidata_ID" : ""
+  } ]
+} ]

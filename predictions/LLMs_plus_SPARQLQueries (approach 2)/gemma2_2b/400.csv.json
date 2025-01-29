@@ -1,0 +1,373 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "MOVING reference member state of this VC",
+    "wikipedia_title" : "Value Chain (economics)",
+    "originalKey" : "MOVING reference member state of this VC",
+    "original_value" : "Value Chain (economics)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "SWITZERLAND 1",
+    "wikipedia_title" : "Switzerland",
+    "originalKey" : "SWITZERLAND 1",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "entity_in_the_text" : "MOVING Card ID of this VC",
+    "wikipedia_title" : "Value Chain (economics)",
+    "originalKey" : "MOVING Card ID of this VC",
+    "original_value" : "Value Chain (economics)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC 16 CH1",
+    "wikipedia_title" : "Switzerland",
+    "originalKey" : "VC 16 CH1",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "entity_in_the_text" : "transnational organisation",
+    "wikipedia_title" : "International Organization",
+    "originalKey" : "transnational organisation",
+    "original_value" : "International Organization",
+    "Wikidata_ID" : "Q484652"
+  }, {
+    "entity_in_the_text" : "farmers who breed old animal breeds and sell their products",
+    "wikipedia_title" : "Animal husbandry",
+    "originalKey" : "farmers who breed old animal breeds and sell their products",
+    "original_value" : "Animal husbandry",
+    "Wikidata_ID" : "Q80962"
+  }, {
+    "entity_in_the_text" : "old sheep and goat breeds such as 'Engadiner', 'Spiegelschaf', 'Nera Verzasca' or 'Capra Grigia'",
+    "wikipedia_title" : "Sheep breeds",
+    "originalKey" : "old sheep and goat breeds such as 'Engadiner', 'Spiegelschaf', 'Nera Verzasca' or 'Capra Grigia'",
+    "original_value" : "Sheep breeds",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Pigs such as the 'Black Alpine Pig' or chickens",
+    "wikipedia_title" : "Animal husbandry",
+    "originalKey" : "Pigs such as the 'Black Alpine Pig' or chickens",
+    "original_value" : "Animal husbandry",
+    "Wikidata_ID" : "Q80962"
+  }, {
+    "entity_in_the_text" : "products are labelled and can be sold at a better price",
+    "wikipedia_title" : "Marketing",
+    "originalKey" : "products are labelled and can be sold at a better price",
+    "original_value" : "Marketing",
+    "Wikidata_ID" : "Q39809"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "reference mountain chain",
+    "wikipedia_title" : "Mountain range",
+    "originalKey" : "reference mountain chain",
+    "original_value" : "Mountain range",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "reference mountain landscape",
+    "wikipedia_title" : "Landscape",
+    "originalKey" : "reference mountain landscape",
+    "original_value" : "Landscape",
+    "Wikidata_ID" : "Q107425"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "size of the area (km2)",
+    "wikipedia_title" : "Area",
+    "originalKey" : "size of the area (km2)",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "minimum altimetry of the LAU",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "minimum altimetry of the LAU",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "maximum altimetry of the LAU",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "maximum altimetry of the LAU",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total population (in thousand)",
+    "wikipedia_title" : "Population",
+    "originalKey" : "total population (in thousand)",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density (Inhabitants/km2) in the LAU",
+    "wikipedia_title" : "Population Density",
+    "originalKey" : "population density (Inhabitants/km2) in the LAU",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "population change rate of the LAU in the last 10 years (%)",
+    "wikipedia_title" : "Population Change Rate",
+    "originalKey" : "population change rate of the LAU in the last 10 years (%)",
+    "original_value" : "Population Change Rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "overall regional population density (Inhabitants/km2)",
+    "wikipedia_title" : "Population Density",
+    "originalKey" : "overall regional population density (Inhabitants/km2)",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "regional population change rate in the last 10 years (%)",
+    "wikipedia_title" : "Population Change Rate",
+    "originalKey" : "regional population change rate in the last 10 years (%)",
+    "original_value" : "Population Change Rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "average per capita income (EUR/year) [Province]",
+    "wikipedia_title" : "List of countries by GDP per capita",
+    "originalKey" : "average per capita income (EUR/year) [Province]",
+    "original_value" : "List of countries by GDP per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year) [Province]",
+    "wikipedia_title" : "Gross Domestic Product (GDP)",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Province]",
+    "original_value" : "Gross Domestic Product (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total GVA/year [Province]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total GVA/year [Province]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total GVA/year [Province]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income (EUR/year) [Region]",
+    "wikipedia_title" : "GDP per capita",
+    "originalKey" : "per capita income (EUR/year) [Region]",
+    "original_value" : "GDP per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year) [Region]",
+    "wikipedia_title" : "Gross Domestic Product (GDP)",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Region]",
+    "original_value" : "Gross Domestic Product (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total GVA/year [Region]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total GVA/year [Region]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total GVA/year [Region]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "tourist accommodations",
+    "wikipedia_title" : "List of tourist accommodation establishments in the world",
+    "originalKey" : "tourist accommodations",
+    "original_value" : "List of tourist accommodation establishments in the world",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region (geography)",
+    "originalKey" : "Region",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector share of total employment/year [Province]",
+    "wikipedia_title" : "List of primary industries by country",
+    "originalKey" : "primary sector share of total employment/year [Province]",
+    "original_value" : "List of primary industries by country",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Province]",
+    "wikipedia_title" : "List of secondary industries by country",
+    "originalKey" : "secondary sector share of total employment/year [Province]",
+    "original_value" : "List of secondary industries by country",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total employment/year [Province]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total employment/year [Region]",
+    "wikipedia_title" : "List of primary industries by country",
+    "originalKey" : "primary sector share of total employment/year [Region]",
+    "original_value" : "List of primary industries by country",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Region]",
+    "wikipedia_title" : "List of secondary industries by country",
+    "originalKey" : "secondary sector share of total employment/year [Region]",
+    "original_value" : "List of secondary industries by country",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total employment/year [Region]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "revival of old traditional breeds",
+    "wikipedia_title" : "Reintroduction of endangered livestock breeds",
+    "originalKey" : "revival of old traditional breeds",
+    "original_value" : "Reintroduction of endangered livestock breeds",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "farmer led initiative",
+    "wikipedia_title" : "Farmer-led initiatives",
+    "originalKey" : "farmer led initiative",
+    "original_value" : "Farmer-led initiatives",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "looking back to what used to work",
+    "wikipedia_title" : "Traditional agriculture",
+    "originalKey" : "looking back to what used to work",
+    "original_value" : "Traditional agriculture",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "introducing it again",
+    "wikipedia_title" : "Revival of traditional practices",
+    "originalKey" : "introducing it again",
+    "original_value" : "Revival of traditional practices",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "benefitting off the trend of localness being trendy",
+    "wikipedia_title" : "Localism",
+    "originalKey" : "benefitting off the trend of localness being trendy",
+    "original_value" : "Localism",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "veganism",
+    "wikipedia_title" : "Veganism",
+    "originalKey" : "veganism",
+    "original_value" : "Veganism",
+    "Wikidata_ID" : "Q181138"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture Capitalist",
+    "originalKey" : "VC",
+    "original_value" : "Venture Capitalist",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Predicted",
+    "wikipedia_title" : "Prediction (general)",
+    "originalKey" : "Predicted",
+    "original_value" : "Prediction (general)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Traditional",
+    "wikipedia_title" : "Traditional Venture Capital",
+    "originalKey" : "Traditional",
+    "original_value" : "Traditional Venture Capital",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Innovative",
+    "wikipedia_title" : "Innovation (general)",
+    "originalKey" : "Innovative",
+    "original_value" : "Innovation (general)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Endogenous",
+    "wikipedia_title" : "Endogenous innovation",
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "transnational organisation",
+    "wikipedia_title" : "Transnational organization",
+    "originalKey" : "transnational organisation",
+    "original_value" : "Transnational organization",
+    "Wikidata_ID" : "Q16926150"
+  }, {
+    "entity_in_the_text" : "farmers",
+    "wikipedia_title" : "Farmer",
+    "originalKey" : "farmers",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  }, {
+    "entity_in_the_text" : "breed old animal breeds",
+    "wikipedia_title" : "Animal breeding",
+    "originalKey" : "breed old animal breeds",
+    "original_value" : "Animal breeding",
+    "Wikidata_ID" : "Q227675"
+  }, {
+    "entity_in_the_text" : "sell their products",
+    "wikipedia_title" : "Product marketing",
+    "originalKey" : "sell their products",
+    "original_value" : "Product marketing",
+    "Wikidata_ID" : "Q5961771"
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Grassland",
+    "wikipedia_title" : "Grassland",
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  }, {
+    "entity_in_the_text" : "local assets include Natural and cultural",
+    "wikipedia_title" : "Local asset",
+    "originalKey" : "local assets include Natural and cultural",
+    "original_value" : "Local asset",
+    "Wikidata_ID" : ""
+  } ]
+} ]
