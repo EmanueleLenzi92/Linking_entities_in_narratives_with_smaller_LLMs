@@ -1,0 +1,276 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SCOTLAND HUTTON",
+                "original_value": "Hutton, Scotland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC 03 UK",
+                "original_value": "None found (VC stands for various things, could be a specific organization or something else)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "Heather Hills",
+                "original_value": "None found (could be a specific location or something else)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Highlands and Islands",
+                "original_value": "Highlands and Islands (Scotland)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Eastern Scotland",
+                "original_value": "Eastern Scotland",
+                "Wikidata_ID": "Q4391979"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "Tay",
+                "original_value": "River Tay",
+                "Wikidata_ID": "Q19719"
+            },
+            {
+                "originalKey": "Earn",
+                "original_value": "River Earn",
+                "Wikidata_ID": "Q1277544"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "original_value": "Gross domestic product per capita",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year)",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "original_value": "Gross domestic product per capita",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year)",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Bed place",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List of provinces in Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "List of regions in Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scottish Heather honey",
+                "original_value": "Heather honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Champagne of honeys",
+                "original_value": "Champagne (wine)",
+                "Wikidata_ID": "Q134862"
+            },
+            {
+                "originalKey": "Perth and Kinross LAU1",
+                "original_value": "Perth and Kinross (LAU 1E)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Heather Hills honey",
+                "original_value": "Heather Hills",
+                "Wikidata_ID": "Q16784459"
+            },
+            {
+                "originalKey": "Manuka Honey",
+                "original_value": "Manuka honey",
+                "Wikidata_ID": "Q953395"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Heather Hills",
+                "original_value": "Heather Hills",
+                "Wikidata_ID": "Q16784459"
+            },
+            {
+                "originalKey": "Honey Sommelier",
+                "original_value": "Honey sommelier",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Current",
+                "original_value": "Current (economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Predicted",
+                "original_value": "Predictive economics",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Traditional economics",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation economics",
+                "Wikidata_ID": "Q1664193"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "BCI kitemark",
+                "original_value": "British Columbia Institute of Technology Kitemark",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Natural land use",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aberdeenshire",
+                "original_value": "Aberdeenshire",
+                "Wikidata_ID": "Q189912"
+            },
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "Luneburg",
+                "original_value": "Lüneburg",
+                "Wikidata_ID": "Q3920"
+            },
+            {
+                "originalKey": "Ireland",
+                "original_value": "Ireland",
+                "Wikidata_ID": "Q22890"
+            }
+        ]
+    }
+]

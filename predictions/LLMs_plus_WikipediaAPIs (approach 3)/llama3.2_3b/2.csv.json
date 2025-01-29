@@ -1,0 +1,216 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "VC 02 AT",
+                "original_value": "None found, possibly a custom or private identifier",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Almenland Stollenkäse GmbH",
+                "original_value": "None found, possibly a private company",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Alpen",
+                "Wikidata_ID": "Q446296"
+            },
+            {
+                "originalKey": "Weiz",
+                "original_value": "Weiz",
+                "Wikidata_ID": "Q875641"
+            },
+            {
+                "originalKey": "Styrian alpine pasture region",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "original_value": "Gross domestic product per capita",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year)",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Bed place",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List of provinces in Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "List of regions in Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Almenland dairy",
+                "original_value": "Almenland dairy",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "AgrarMarkt Austria",
+                "original_value": "AgrarMarkt Austria",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland",
+                "original_value": "Alpenland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "Tunnel",
+                "original_value": "Mine tunnel",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Arzberger Ursteirer",
+                "original_value": "Arzberger Ursteiger",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "USA",
+                "original_value": "United States",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "Pasture farming",
+                "original_value": "Pasture farming",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "silver mine",
+                "original_value": "Silver mine",
+                "Wikidata_ID": "Q1048939"
+            }
+        ]
+    }
+]

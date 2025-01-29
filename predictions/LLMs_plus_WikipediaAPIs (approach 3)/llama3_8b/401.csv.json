@@ -1,0 +1,113 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SWITZERLAND",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "Pro Montagna",
+                "original_value": "Pro Montagna",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Valley_chain",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province (administrative division)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative region",
+                "Wikidata_ID": "Q56061"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province (administrative division)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative region",
+                "Wikidata_ID": "Q56061"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "traditional VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bees",
+                "original_value": "Honey bee",
+                "Wikidata_ID": "Q102857"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value_chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Beehives",
+                "original_value": "Beehive",
+                "Wikidata_ID": "Q165107"
+            }
+        ]
+    }
+]

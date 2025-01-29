@@ -1,0 +1,256 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "VC 11 CZ",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sumava - Cesky les",
+                "original_value": "Sumava Mountains",
+                "Wikidata_ID": "Q157290"
+            },
+            {
+                "originalKey": "LAU 1 Klatovy",
+                "original_value": "NUTS-2 region Klatovský kraj",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "original_value": "Gross domestic product per capita",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year)",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Bed place",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List of provinces in Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "List of regions in Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Bee",
+                "original_value": "Bee",
+                "Wikidata_ID": "Q7391"
+            },
+            {
+                "originalKey": "Mountain region",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "Farming",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "Beekeeping",
+                "original_value": "Apiary",
+                "Wikidata_ID": "Q857628"
+            },
+            {
+                "originalKey": "Pollution",
+                "original_value": "Pollution",
+                "Wikidata_ID": "Q58734"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sumava Mountains",
+                "original_value": "Sumava Mountains",
+                "Wikidata_ID": "Q157290"
+            },
+            {
+                "originalKey": "socialist-era",
+                "original_value": "Socialism in Europe",
+                "Wikidata_ID": "Q7272"
+            },
+            {
+                "originalKey": "WII",
+                "original_value": "World War II",
+                "Wikidata_ID": "Q362"
+            },
+            {
+                "originalKey": "beekeepers",
+                "original_value": "Beekeeper",
+                "Wikidata_ID": "Q852389"
+            },
+            {
+                "originalKey": "bee products",
+                "original_value": "Honey bee",
+                "Wikidata_ID": "Q102857"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Beekeepers",
+                "original_value": "List of beekeepers",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Bee products",
+                "original_value": "Bee products",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Mountain region",
+                "original_value": "Mountain region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Global climate change",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "Pollutions",
+                "original_value": "Air pollution",
+                "Wikidata_ID": "Q131123"
+            },
+            {
+                "originalKey": "Bee colonies",
+                "original_value": "Bee colony",
+                "Wikidata_ID": "Q165107"
+            },
+            {
+                "originalKey": "Organic standards",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "Czech Republic",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Beekeepers",
+                "original_value": "Apiary",
+                "Wikidata_ID": "Q857628"
+            },
+            {
+                "originalKey": "Varroa disease",
+                "original_value": "Varroa mite infestation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forest",
+                "Wikidata_ID": "Q4421"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Wildland",
+                "Wikidata_ID": "Q911871"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Beekeeping",
+                "original_value": "Apiary",
+                "Wikidata_ID": "Q857628"
+            },
+            {
+                "originalKey": "Czech Republic",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            }
+        ]
+    }
+]

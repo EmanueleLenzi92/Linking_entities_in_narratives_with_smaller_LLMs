@@ -1,0 +1,216 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "original_value": "Skandinavian Uco",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Roros",
+                "original_value": "Røros",
+                "Wikidata_ID": "Q108999"
+            },
+            {
+                "originalKey": "Barley",
+                "original_value": "Barley",
+                "Wikidata_ID": "Q11577"
+            },
+            {
+                "originalKey": "Rorosmat",
+                "original_value": "Rørosmat",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains",
+                "original_value": "Scandes",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Tynset",
+                "original_value": "Tynset",
+                "Wikidata_ID": "Q488779"
+            },
+            {
+                "originalKey": "Østerdalen",
+                "original_value": "Østerdalen",
+                "Wikidata_ID": "Q308349"
+            },
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "km2",
+                "original_value": "Square kilometre",
+                "Wikidata_ID": "Q712226"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_of_Spain",
+                "Wikidata_ID": "Q162620"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Autonomous_communities_of_Spain",
+                "Wikidata_ID": "Q10742"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative division",
+                "Wikidata_ID": "Q56061"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_and_territories_of_Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Economic_regions_of_Canada",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Ancient crop",
+                "original_value": "Quinoa",
+                "Wikidata_ID": "Q139925"
+            },
+            {
+                "originalKey": "Farmers",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            },
+            {
+                "originalKey": "Rorosmat",
+                "original_value": "Røros Mat",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "fertilizers",
+                "original_value": "Fertilizer",
+                "Wikidata_ID": "Q83323"
+            },
+            {
+                "originalKey": "pesticides",
+                "original_value": "Pesticide",
+                "Wikidata_ID": "Q131656"
+            },
+            {
+                "originalKey": "barley",
+                "original_value": "Barley",
+                "Wikidata_ID": "Q11577"
+            },
+            {
+                "originalKey": "wheat",
+                "original_value": "Wheat",
+                "Wikidata_ID": "Q15645384"
+            },
+            {
+                "originalKey": "Climate Change",
+                "original_value": "Global warming",
+                "Wikidata_ID": "Q125928"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Rorosmat",
+                "original_value": "Røros Mat",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Agricultural land use",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "John",
+                "original_value": "John_(name)",
+                "Wikidata_ID": "Q4925477"
+            },
+            {
+                "originalKey": "London",
+                "original_value": "London",
+                "Wikidata_ID": "Q84"
+            },
+            {
+                "originalKey": "Apple",
+                "original_value": "Apple_Inc.",
+                "Wikidata_ID": "Q312"
+            },
+            {
+                "originalKey": "Python",
+                "original_value": "Python_(programming_language)",
+                "Wikidata_ID": "Q28865"
+            },
+            {
+                "originalKey": "Google",
+                "original_value": "Alphabet_Inc.",
+                "Wikidata_ID": "Q20800404"
+            }
+        ]
+    }
+]

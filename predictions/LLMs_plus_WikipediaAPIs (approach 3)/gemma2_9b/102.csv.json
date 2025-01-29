@@ -1,0 +1,206 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "Region of Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "EU Geographical Indications (GIs)",
+                "original_value": "Protected designation of origin",
+                "Wikidata_ID": "Q13439060"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "White Mountains",
+                "original_value": "White Mountains (Crete)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "KISSAMOS",
+                "original_value": "Kissamos",
+                "Wikidata_ID": "Q1021629"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Kissamos mountains",
+                "original_value": "Kissamos",
+                "Wikidata_ID": "Q1021629"
+            },
+            {
+                "originalKey": "Pefkothimaromelo",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Topolia/Kissamos",
+                "original_value": "Kissamos",
+                "Wikidata_ID": "Q1021629"
+            },
+            {
+                "originalKey": "Cretan",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Minoan Civilization",
+                "original_value": "Minoan civilization",
+                "Wikidata_ID": "Q134178"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "bees",
+                "original_value": "Bee",
+                "Wikidata_ID": "Q7391"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "pesticide",
+                "original_value": "Pesticide",
+                "Wikidata_ID": "Q131656"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "PDO characterization",
+                "original_value": "Protected designation of origin",
+                "Wikidata_ID": "Q13439060"
+            },
+            {
+                "originalKey": "Kissamos",
+                "original_value": "Kissamos",
+                "Wikidata_ID": "Q1021629"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "EU katalog (eAmbrosia)",
+                "original_value": "eAmbrosia",
+                "Wikidata_ID": "Q363268"
+            },
+            {
+                "originalKey": "Peyfothymaromelo",
+                "original_value": "Peyfothymaromelo",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cretan honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            }
+        ]
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "Moving (VC)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ITALY UNIMOL",
+                "original_value": "UNIMOL",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "UNIPI",
+                "original_value": "UniPi",
+                "Wikidata_ID": "Q130268089"
+            },
+            {
+                "originalKey": "VC 21 IT",
+                "original_value": "Moving VC 21 IT",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Northern Apennines - Tuscan Emilian Apennines",
+                "original_value": "Tuscan-Emilian Apennines",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Anghiari",
+                "original_value": "Anghiari",
+                "Wikidata_ID": "Q52063"
+            },
+            {
+                "originalKey": "Arezzo Province, Tuscany Region - Italy",
+                "original_value": "Tuscany (region)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Umbria region",
+                "original_value": "Umbria",
+                "Wikidata_ID": "Q1280"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income (EUR/year) [Province]",
+                "original_value": "Gross Domestic Product per capita",
+                "Wikidata_ID": "Q108977"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross Domestic Product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Sectoral composition of GDP",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Sectoral composition of GDP",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Sectoral composition of GDP",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "per capita income (EUR/year) [Region]",
+                "original_value": "Gross Domestic Product per capita",
+                "Wikidata_ID": "Q108977"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross Domestic Product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Sectoral composition of GDP",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Sectoral composition of GDP",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Sectoral composition of GDP",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Bed place",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List of provinces in Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "List of regions in Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Reg.(UE) n.1151/2012",
+                "original_value": "Directive 2011/1151/EU",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Reg.(UE) n.665/2014",
+                "original_value": "Directive 2014/665/EU",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Steinbruck",
+                "original_value": "Jürgen Steinbrück",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Apennines",
+                "original_value": "Appennino",
+                "Wikidata_ID": "Q1285"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Steinbruck",
+                "original_value": "Matthias Steinbrück",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Apennines",
+                "original_value": "Appennino",
+                "Wikidata_ID": "Q1285"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Product innovation",
+                "Wikidata_ID": "Q7247768"
+            },
+            {
+                "originalKey": "Communication based on: Nature, sostenibility and quality",
+                "original_value": "Not found",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Agroecology",
+                "Wikidata_ID": "Q396338"
+            },
+            {
+                "originalKey": "Aromatic herbs",
+                "original_value": "Herbology",
+                "Wikidata_ID": "Q861699"
+            },
+            {
+                "originalKey": "Local assets include Natural",
+                "original_value": "Not found",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

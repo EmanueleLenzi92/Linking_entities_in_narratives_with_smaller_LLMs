@@ -1,0 +1,211 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "VC 10 GR",
+                "original_value": "Moving Card",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "chestnut trees",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "White Mountains",
+                "original_value": "White Mountains (Crete)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "KISSAMOS",
+                "original_value": "Kissamos",
+                "Wikidata_ID": "Q1021629"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year)",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Bed place",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List of provinces in Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "List of regions in Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Chania",
+                "original_value": "Chania",
+                "Wikidata_ID": "Q182299"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Cretan",
+                "original_value": "Cretan people",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Greek",
+                "original_value": "Greek people",
+                "Wikidata_ID": "Q539051"
+            },
+            {
+                "originalKey": "Italian",
+                "original_value": "Italian people",
+                "Wikidata_ID": "Q50001"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Western White Mountains",
+                "original_value": "White Mountain National Forest",
+                "Wikidata_ID": "Q2566939"
+            },
+            {
+                "originalKey": "chestnut activities",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            },
+            {
+                "originalKey": "agro-tourism",
+                "original_value": "Agrotourism",
+                "Wikidata_ID": "Q1956672"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "chestnut",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            },
+            {
+                "originalKey": "chestnut trees",
+                "original_value": "Chestnut tree",
+                "Wikidata_ID": "Q129324"
+            },
+            {
+                "originalKey": "chestnut cultivation/exploitation",
+                "original_value": "Chestnut cultivation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "olive oil trees",
+                "original_value": "Olive tree",
+                "Wikidata_ID": "Q37083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogeneity",
+                "Wikidata_ID": "Q293000"
+            },
+            {
+                "originalKey": "Region of Crete",
+                "original_value": "Region of Crete",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Creta",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    }
+]

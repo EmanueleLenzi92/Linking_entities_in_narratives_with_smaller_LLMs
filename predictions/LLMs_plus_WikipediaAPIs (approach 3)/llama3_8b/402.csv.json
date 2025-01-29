@@ -1,0 +1,168 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SWITZERLAND",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "Alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Valley_chain",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province (administrative division)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative region",
+                "Wikidata_ID": "Q56061"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province (administrative division)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative region",
+                "Wikidata_ID": "Q56061"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC-systems",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "climate change",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Touristic attractions",
+                "original_value": "Tourist attraction",
+                "Wikidata_ID": "Q570116"
+            },
+            {
+                "originalKey": "Skiing",
+                "original_value": "Alpine skiing",
+                "Wikidata_ID": "Q186222"
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Product innovation",
+                "Wikidata_ID": "Q7247768"
+            },
+            {
+                "originalKey": "New processes",
+                "original_value": "Process innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "New governance systems",
+                "original_value": "Governance",
+                "Wikidata_ID": "Q1553864"
+            },
+            {
+                "originalKey": "Landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "Social",
+                "original_value": "Society",
+                "Wikidata_ID": "Q8425"
+            },
+            {
+                "originalKey": "Cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    }
+]

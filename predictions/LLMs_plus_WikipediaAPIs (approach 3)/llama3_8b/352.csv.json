@@ -1,0 +1,281 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SPAIN",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "ADEGUA",
+                "original_value": "Adequa",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ATADES Gardeniers Special Employment Center",
+                "original_value": "Atades",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Torres de Berrellén melon",
+                "original_value": "Melon",
+                "Wikidata_ID": "Q5881191"
+            },
+            {
+                "originalKey": "European Agricultural Fund for Rural Development (EAFRD)",
+                "original_value": "European Agricultural Fund for Rural Development",
+                "Wikidata_ID": "Q1377910"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pyrenees",
+                "original_value": "Pyrenees",
+                "Wikidata_ID": "Q12431"
+            },
+            {
+                "originalKey": "Jaca (Ascara)",
+                "original_value": "Jaca, Huesca",
+                "Wikidata_ID": "Q49581"
+            },
+            {
+                "originalKey": "Canal de Berdún",
+                "original_value": "Canal de Berdún",
+                "Wikidata_ID": "Q987419"
+            },
+            {
+                "originalKey": "Huesca",
+                "original_value": "Province of Huesca",
+                "Wikidata_ID": "Q55182"
+            },
+            {
+                "originalKey": "Zaragoza",
+                "original_value": "Province of Zaragoza",
+                "Wikidata_ID": "Q55180"
+            },
+            {
+                "originalKey": "Torres de Berrellén",
+                "original_value": "Torres de Berrellén",
+                "Wikidata_ID": "Q1628472"
+            },
+            {
+                "originalKey": "Alagón",
+                "original_value": "Alagón, Zaragoza",
+                "Wikidata_ID": "Q1637315"
+            },
+            {
+                "originalKey": "Montañana",
+                "original_value": "Montañana, Zaragoza",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Gardeniers farm",
+                "original_value": "None (not a Wikipedia page)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cielos de Ascara agroecological social project",
+                "original_value": "None (not a Wikipedia page)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Sigpac",
+                "original_value": "SIGPAC",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Jacetania region",
+                "original_value": "Jacetania",
+                "Wikidata_ID": "Q549390"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "km2",
+                "original_value": "Square kilometre",
+                "Wikidata_ID": "Q712226"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_of_Spain",
+                "Wikidata_ID": "Q162620"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Autonomous_communities_of_Spain",
+                "Wikidata_ID": "Q10742"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative division",
+                "Wikidata_ID": "Q56061"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_of_[Country]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Regions_of_[Country]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Cielos de Ascara",
+                "original_value": "Cielos_de_Ascara",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Aragonese Pyrenees",
+                "original_value": "Pyrenees#Aragonese_Pyrenees",
+                "Wikidata_ID": "Q12431"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aragon",
+                "original_value": "Aragon",
+                "Wikidata_ID": "Q4040"
+            },
+            {
+                "originalKey": "Organic Production of Foodstuffs linked to the Aragonese Territory",
+                "original_value": "None",
+                "Wikidata_ID": "Q395712"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "rural development policies",
+                "original_value": "Rural development",
+                "Wikidata_ID": "Q3045473"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous growth theory",
+                "Wikidata_ID": "Q576355"
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Product innovation",
+                "Wikidata_ID": "Q7247768"
+            },
+            {
+                "originalKey": "New processes",
+                "original_value": "Process innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "New governance systems",
+                "original_value": "Governance",
+                "Wikidata_ID": "Q1553864"
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Agricultural land use",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "San Juan de la Peña",
+                "original_value": "Sierra y Cañones de Guara",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Monte Oroel",
+                "original_value": "Monte Oroel",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural Park of the Western Valleys",
+                "original_value": "Parque Natural de los Valles Occidentales",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Torres de Berrellén",
+                "original_value": "Torres de Berrellén",
+                "Wikidata_ID": "Q1628472"
+            },
+            {
+                "originalKey": "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+                "original_value": "Instituto Agroalimentario de Aragón",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Mercazaragoza",
+                "original_value": "Mercado Central de Zaragoza",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

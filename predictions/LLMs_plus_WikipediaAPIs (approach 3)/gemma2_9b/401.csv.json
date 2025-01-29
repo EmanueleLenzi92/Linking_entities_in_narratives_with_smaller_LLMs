@@ -1,0 +1,94 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SWITZERLAND",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "Honey from the alps",
+                "original_value": "Alpine honey",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "'Pro Montagna'",
+                "original_value": "Pro Montagna",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bees",
+                "original_value": "Bee",
+                "Wikidata_ID": "Q7391"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Beehives",
+                "original_value": "Beehive",
+                "Wikidata_ID": "Q165107"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            }
+        ]
+    }
+]

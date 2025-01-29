@@ -1,0 +1,120 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SWITZERLAND",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "Engadiner",
+                "original_value": "Engadine sheep",
+                "Wikidata_ID": "Q28231473"
+            },
+            {
+                "originalKey": "Spiegelschaf",
+                "original_value": "Spiegelschaf",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Nera Verzasca",
+                "original_value": "Nera Verzasca",
+                "Wikidata_ID": "Q15836540"
+            },
+            {
+                "originalKey": "Capra Grigia",
+                "original_value": "Capra Grigia",
+                "Wikidata_ID": "Q1543712"
+            },
+            {
+                "originalKey": "Black Alpine Pig",
+                "original_value": "Black Alpine pig",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "farmer led initiative",
+                "original_value": "Farmer",
+                "Wikidata_ID": "Q131512"
+            },
+            {
+                "originalKey": "localness being trendy",
+                "original_value": "Localism",
+                "Wikidata_ID": "Q20999658"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "veganism",
+                "original_value": "Veganism",
+                "Wikidata_ID": "Q181138"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            }
+        ]
+    }
+]

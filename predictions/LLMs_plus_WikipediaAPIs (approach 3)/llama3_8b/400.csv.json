@@ -1,0 +1,153 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SWITZERLAND",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "Engadiner",
+                "original_value": "Engadine (breed)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Spiegelschaf",
+                "original_value": "Spiegel sheep",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Nera Verzasca",
+                "original_value": "Verzasca Valley",
+                "Wikidata_ID": "Q666736"
+            },
+            {
+                "originalKey": "Capra Grigia",
+                "original_value": "Grigia goat",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Black Alpine Pig",
+                "original_value": "Alpine pig",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Valley_chain",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province (administrative division)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative region",
+                "Wikidata_ID": "Q56061"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province (administrative division)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative region",
+                "Wikidata_ID": "Q56061"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "farmer",
+                "original_value": "Farmer",
+                "Wikidata_ID": "Q131512"
+            },
+            {
+                "originalKey": "localness",
+                "original_value": "Localism",
+                "Wikidata_ID": "Q20999658"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "veganism",
+                "original_value": "Veganism",
+                "Wikidata_ID": "Q181138"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Supply chain",
+                "Wikidata_ID": "Q1824206"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous growth theory",
+                "Wikidata_ID": "Q576355"
+            },
+            {
+                "originalKey": "Transnational organisation",
+                "original_value": "Multinational corporation",
+                "Wikidata_ID": "Q161726"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            }
+        ]
+    }
+]

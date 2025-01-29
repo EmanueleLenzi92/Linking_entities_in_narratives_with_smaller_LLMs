@@ -1,0 +1,251 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "VC 01 AT",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "ALMO",
+                "original_value": "Almo Steirisches Almochsenfleisch",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ÖPUL",
+                "original_value": "Austrian Program for Environmentally Sound Agriculture",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "(agro-)tourism",
+                "original_value": "Agrotourism",
+                "Wikidata_ID": "Q1956672"
+            },
+            {
+                "originalKey": "Genussregion Almenland",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Alpen",
+                "Wikidata_ID": "Q446296"
+            },
+            {
+                "originalKey": "Weiz",
+                "original_value": "Weiz",
+                "Wikidata_ID": "Q875641"
+            },
+            {
+                "originalKey": "Styrian alpine pasture region",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income (EUR/year) [Province]",
+                "original_value": "Gross Domestic Product per capita",
+                "Wikidata_ID": "Q108977"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross Domestic Product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Sectoral composition of GDP",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Sectoral composition of GDP",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Sectoral composition of GDP",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "per capita income (EUR/year) [Region]",
+                "original_value": "Gross Domestic Product per capita",
+                "Wikidata_ID": "Q108977"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross Domestic Product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Sectoral composition of GDP",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Sectoral composition of GDP",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Sectoral composition of GDP",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Bed place",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List of provinces in Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "List of regions in Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "original_value": "Alp Oxen Farmers Association",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LEADER-region Almenland and Energieregion Weiz-Gleisdorf",
+                "original_value": "LEADER (European regional development fund)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "original_value": "Almo (regional development organization)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "sheep farmers",
+                "original_value": "Sheep farming",
+                "Wikidata_ID": "Q1790941"
+            },
+            {
+                "originalKey": "free range pig farmers",
+                "original_value": "Free-range pig farming",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local butcher",
+                "original_value": "Butcher",
+                "Wikidata_ID": "Q329737"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "original_value": "Alpine Livestock Management Organisation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "original_value": "ALMO (agricultural cooperative)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LEADER",
+                "original_value": "European Regional Development Fund",
+                "Wikidata_ID": "Q1361297"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "original_value": "Alpine Livestock Management Organisation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "NUTS-II AT 12",
+                "original_value": "Lower Austria (EU region)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "NUTS-II AT 21",
+                "original_value": "Carinthia (EU region)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "alp oxen",
+                "original_value": "Alpine Livestock Management Organisation#Alp Oxen",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

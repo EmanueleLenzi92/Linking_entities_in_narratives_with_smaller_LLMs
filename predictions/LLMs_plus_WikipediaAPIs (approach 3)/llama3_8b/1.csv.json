@@ -1,0 +1,216 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "ALMO",
+                "original_value": "Almo (meat)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Steirische Bergland Marktgemeinschaft",
+                "original_value": "Bergland Marktgemeinschaft",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Almenland Marketing GmbH",
+                "original_value": "None (company)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ÖPUL",
+                "original_value": "ÖPUL (program)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "AgrarMarkt Austria",
+                "original_value": "Austrian Chamber of Agriculture",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "RR 11",
+                "original_value": "Rottenmanner Riedler Höhenweg",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Austria#Mountains",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Weiz",
+                "original_value": "Weiz, Styria",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Almenland",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "km2",
+                "original_value": "Square kilometre",
+                "Wikidata_ID": "Q712226"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative division",
+                "Wikidata_ID": "Q56061"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_and_territories_of_Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Economic_regions_of_Canada",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LEADER-region Almenland and Energieregion Weiz-Gleisdorf",
+                "original_value": "LEADER (European Union)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Austrian animal welfare NGO",
+                "original_value": "Vier Pfoten",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "original_value": "Almö",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "sheep farmers",
+                "original_value": "Sheep farming",
+                "Wikidata_ID": "Q1790941"
+            },
+            {
+                "originalKey": "free range pig farmers",
+                "original_value": "Free-range farming",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local butcher",
+                "original_value": "Butcher",
+                "Wikidata_ID": "Q329737"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "drough",
+                "original_value": "Drought",
+                "Wikidata_ID": "Q43059"
+            },
+            {
+                "originalKey": "heavy rain",
+                "original_value": "Heavy rainfall",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ALMO producers",
+                "original_value": "Agroecology",
+                "Wikidata_ID": "Q396338"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LEADER",
+                "original_value": "Leader (European Union)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Lower Austria",
+                "original_value": "Lower Austria",
+                "Wikidata_ID": "Q42497"
+            },
+            {
+                "originalKey": "Carinthia",
+                "original_value": "Carinthia",
+                "Wikidata_ID": "Q37985"
+            }
+        ]
+    }
+]

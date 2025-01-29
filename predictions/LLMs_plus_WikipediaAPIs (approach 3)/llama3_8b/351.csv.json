@@ -1,0 +1,226 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SPAIN",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "ADEGUA",
+                "original_value": "Adeguas",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC 34 ES",
+                "original_value": "None",
+                "Wikidata_ID": "Q395712"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Betic System",
+                "original_value": "Betic System",
+                "Wikidata_ID": "Q831469"
+            },
+            {
+                "originalKey": "Carcabuey",
+                "original_value": "Carcabuey",
+                "Wikidata_ID": "Q842679"
+            },
+            {
+                "originalKey": "Sierra Subbética",
+                "original_value": "Sierra Subbética",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "km2",
+                "original_value": "Square kilometre",
+                "Wikidata_ID": "Q712226"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_of_Spain",
+                "Wikidata_ID": "Q162620"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Autonomous_communities_of_Spain",
+                "Wikidata_ID": "Q10742"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative division",
+                "Wikidata_ID": "Q56061"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List_of_provinces_of_[Country]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Regions_of_[Country]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "care of the elderly",
+                "original_value": "Long-term care",
+                "Wikidata_ID": "Q6672123"
+            },
+            {
+                "originalKey": "private care company",
+                "original_value": "Private healthcare",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "informal sector",
+                "original_value": "Informal economy",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "non-monetised and informal economy",
+                "original_value": "Shadow economy",
+                "Wikidata_ID": "Q50851"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "PROMI",
+                "original_value": "Private Management Institution",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Provincial Council",
+                "original_value": "Provincial council",
+                "Wikidata_ID": "Q2114076"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Ageing population",
+                "original_value": "Aging population",
+                "Wikidata_ID": "Q439112"
+            },
+            {
+                "originalKey": "negative replacement rate",
+                "original_value": "Total fertility rate",
+                "Wikidata_ID": "Q285897"
+            },
+            {
+                "originalKey": "depopulation",
+                "original_value": "Depopulation",
+                "Wikidata_ID": "Q284137"
+            },
+            {
+                "originalKey": "exodus of young population",
+                "original_value": "Brain drain",
+                "Wikidata_ID": "Q190222"
+            },
+            {
+                "originalKey": "public resources",
+                "original_value": "Public finance",
+                "Wikidata_ID": "Q274490"
+            },
+            {
+                "originalKey": "informal economy",
+                "original_value": "Informal sector",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "precarisation of female work",
+                "original_value": "Precariat",
+                "Wikidata_ID": "Q2118871"
+            },
+            {
+                "originalKey": "disappearance of local and social cultures of small Sierra communities",
+                "original_value": "Cultural heritage",
+                "Wikidata_ID": "Q210272"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous growth theory",
+                "Wikidata_ID": "Q576355"
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous variable",
+                "Wikidata_ID": "Q61985482"
+            },
+            {
+                "originalKey": "New governance systems",
+                "original_value": "Governance",
+                "Wikidata_ID": "Q1553864"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sierra",
+                "original_value": "Sierra_(geography)",
+                "Wikidata_ID": "Q27787236"
+            },
+            {
+                "originalKey": "Subbética",
+                "original_value": "Subbética",
+                "Wikidata_ID": "Q1117341"
+            }
+        ]
+    }
+]

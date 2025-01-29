@@ -1,0 +1,196 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "VC 10 GR",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "White Mountains",
+                "original_value": "White Mountains (Crete)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "KISSAMOS",
+                "original_value": "Kissamos",
+                "Wikidata_ID": "Q1021629"
+            },
+            {
+                "originalKey": "Chania international airport",
+                "original_value": "Chania International Airport",
+                "Wikidata_ID": "Q1232348"
+            },
+            {
+                "originalKey": "Souda bay international harbor",
+                "original_value": "Souda Bay",
+                "Wikidata_ID": "Q2633779"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Chania chestnut trees",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            },
+            {
+                "originalKey": "Cretan",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Greek market",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "Italian market",
+                "original_value": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "olive oil monoculture",
+                "original_value": "Monoculture",
+                "Wikidata_ID": "Q220212"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Western White Mountains",
+                "original_value": "White Mountains (New Hampshire)",
+                "Wikidata_ID": "Q1556007"
+            },
+            {
+                "originalKey": "chestnut",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "chestnut trees",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            },
+            {
+                "originalKey": "olive oil trees",
+                "original_value": "Olive oil",
+                "Wikidata_ID": "Q93165"
+            },
+            {
+                "originalKey": "Greek",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Region of Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    }
+]
