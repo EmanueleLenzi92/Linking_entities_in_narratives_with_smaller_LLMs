@@ -1,0 +1,244 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "Local beekeepers produce pefkothymaromelo with the traditional way of apicature.",
+                "original_value": "Pefkothymaromelo, Beekeeping in Greece",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The Region of Crete",
+                "original_value": "Crete (region)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "honey factories are certified by this regional label.",
+                "original_value": "Regional Labeling System for Quality Systems in Greece",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "White Mountains",
+                "original_value": "Mountain range in Crete",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "KISSAMOS",
+                "original_value": "Place name, possibly referring to a specific location within the White Mountains of Crete",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Island in Greece known for its diverse landscapes and endemic species.",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "334.2",
+                "original_value": "Area of LAU",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces and territories in the Netherlands",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "EUR/year",
+                "original_value": "European Union (currency)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "[Province]",
+                "original_value": "List of provinces and territories in the Netherlands corresponding to each entity, e.g., North Brabant for Province mentioned first.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Regions within a country or city; could refer to different regions like Belgian Regions",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places in tourist accommodations/year",
+                "original_value": "Tourism industry statistics",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1444 BPs per year",
+                "original_value": "Specific data point for Tourism in LAU (Local Administrative Unit)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "0.029% regional share of total bed places/year",
+                "original_value": "Regional contribution to tourism industry statistics",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "19873 agricultural holdings in the LAU",
+                "original_value": "Agriculture sector of Local Administrative Unit (LAU)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "nearest settlement with population over 100,000 km away",
+                "original_value": "Population density and distribution in the region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "52 kilometers (km)",
+                "original_value": "Distance measurement from settlement to LAU",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "protected areas present in the region",
+                "original_value": "Environmental conservation efforts and protected natural sites within a locality or administrative unit",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The primary sector",
+                "original_value": "Primary economic activity",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "total employment/year Province",
+                "original_value": "Employment by province in [Specific Country Name]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "14.78%",
+                "original_value": "Percentage of total employment from primary sector for the specified Province",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The secondary sector share of total employment/year Province",
+                "original_value": "Employment by industry in [Specific Country Name]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "11.46%",
+                "original_value": "Percentage of total employment from secondary sector for the specified Province",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The tertiary sector share of total employment/year Province",
+                "original_value": "Employment by industry in [Specific Country Name]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "73.76%",
+                "original_value": "Percentage of total employment from tertiary sector for the specified Province",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The primary sector share of total employment/year Region",
+                "original_value": "Employment by industry in [Specific Country Name]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "16.20%",
+                "original_value": "Percentage of total employment from primary sector for the specified Region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The secondary sector share of total employment/year Region",
+                "original_value": "Employment by industry in [Specific Country Name]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "11.84%",
+                "original_value": "Percentage of total employment from secondary sector for the specified Region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The tertiary sector share of total employment/year Region",
+                "original_value": "Employment by industry in [Specific Country Name]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "71.97%",
+                "original_value": "Percentage of total employment from tertiary sector for the specified Region",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Apicature",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "beekeeping",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pefkothymaromelo",
+                "original_value": "Pefkothymaromelo",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Kissamos area",
+                "original_value": "Kissamos (region)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "small processing units",
+                "original_value": "Apiculture",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Natural, social and cultural assets",
+                "original_value": "Cultural heritage of Greece",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    }
+]

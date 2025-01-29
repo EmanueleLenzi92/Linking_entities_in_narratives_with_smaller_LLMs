@@ -1,0 +1,36 @@
+[
+    {
+        "sentence": "The MOVING reference member state of this VC (Value Chain) is SWITZERLAND 1. The reference MOVING Card ID of this VC is VC 18 CH1. Alpine tourism has a long tradition in Switzerland. Many towns and rural areas in the Alps depend on the tourism industry (hotels, restaurants and sports attractions such as ski lifts). The standard with which these tourism infrastructures are built differs greatly between richer and less prosperous regions.",
+        "entities": [
+            {
+                "originalKey": "Alpine",
+                "Wikipedia_label": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "Switzerland",
+                "Wikipedia_label": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "Alps",
+                "Wikipedia_label": "Alps",
+                "Wikidata_ID": "Q1286"
+            }
+        ]
+    },
+    {
+        "sentence": "The reference mountain chain of this VC is unspecified. The reference mountain landscape of this VC is unspecified.",
+        "entities": []
+    },
+    {
+        "sentence": "The size of the area (km2) is unspecified. The minimum altimetry of the LAU (Local Administrative Unit) is unspecified. The maximum altimetry of the LAU is unspecified. The total population (in thousand) is unspecified. The population density (Inhabitants/km2) in the LAU is unspecified. The population change rate of the LAU in the last 10 years (%) is unspecified. The overall regional population density (Inhabitants/km2) is unspecified. The regional population change rate in the last 10 years (%) is unspecified.",
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikipedia_label": "Lau Islands",
+                "Wikidata_ID": "Q1062438"
+            }
+        ]
+    }
+]

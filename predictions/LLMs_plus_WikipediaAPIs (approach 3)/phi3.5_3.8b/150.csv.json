@@ -1,0 +1,125 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "ITALY UNIMOL",
+                "original_value": "Unione dei Monti Lirici d'Italia",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "The maximum altimetry of the LAU",
+                "original_value": "Local Administrative Unit (LAU) Altitude Maximum",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Total population in thousand: 2.358",
+                "original_value": "Population of LAU",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The population density (Inhabitants/km2): 13.52",
+                "original_value": "Population Density in Local Administrative Unit (LAU)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The regional population change rate: -10.93% over the last decade",
+                "original_value": "Local Population Change Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Overall Regional Population Density (Inhabitants/km2): 334",
+                "original_value": "Regional Population Density",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The regional population change rate: 5.38% over the last decade",
+                "original_value": "Overall Regional Population Change Rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "original_value": "List of provinces and territories in Belgium",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "2704.4 EUR million/year",
+                "original_value": "Gross Value Added (GVA) for a specific region or country, which could be found under the Economy section of Belgium's Wikipedia page",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "4.77% primary sector share",
+                "original_value": "Economic structure and sectors in a specific region or country, which could be found under the Economy section of Belgium's Wikipedia page",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "15.96% secondary sector share",
+                "original_value": "Economic structure and sectors in a specific region or country, which could be found under the Economy section of Belgium's Wikipedia page",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "79.27% tertiary sector share",
+                "original_value": "Economic structure and sectors in a specific region or country, which could be found under the Economy section of Belgium's Wikipedia page",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "List of regions of Belgium by Gross Value Added (GVA)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "178611.1 EUR million/year",
+                "original_value": "Total Gross Value Added for a specific region or country, which could be found under the Economy section of Belgium's Wikipedia page",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1.06% primary sector share",
+                "original_value": "Economic structure and sectors in a specific region or country, which could be found under the Economy section of Belgium's Wikipedia page",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "13.50% secondary sector share",
+                "original_value": "Economic structure and sectors in a specific region or country, which could be found under the Economy section of Belgium's Wikipedia page",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "85.44% tertiary sector share",
+                "original_value": "Economic structure and sectors in a specific region or country, which could be found under the Economy section of Belgium's Wikipedia page",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    }
+]

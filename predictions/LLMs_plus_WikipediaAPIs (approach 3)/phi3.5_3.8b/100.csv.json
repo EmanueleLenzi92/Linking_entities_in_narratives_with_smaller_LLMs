@@ -1,0 +1,471 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "MOVING Card ID of this VC is VC 09 GR.",
+                "original_value": "VC 09 GR (Value Chain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Aloe vera",
+                "original_value": "Aloe",
+                "Wikidata_ID": "Q127134"
+            },
+            {
+                "originalKey": "Cretan Diet Festival",
+                "original_value": "Cretan Diet Festival",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pancretan Network of Organic Farmers of Aloe Vera",
+                "original_value": "Pancretan Network of Organic Farmers of Aloe Vera",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Vilnius",
+                "Wikidata_ID": "Q216"
+            },
+            {
+                "originalKey": "Dikti Mountains",
+                "original_value": "Dikta mountains, Greece",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VIANNOS",
+                "original_value": "Viannos (mountain range), Crete, Greece",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pinus brutia",
+                "original_value": "Aleppo pine or Levantine pine (Pinus brutiae)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Quercus coccifera",
+                "original_value": "Kermes oak",
+                "Wikidata_ID": "Q158178"
+            },
+            {
+                "originalKey": "Cupressus sempervirens",
+                "original_value": "Moro cypress (Montezuma cypress)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Quercus ilex",
+                "original_value": "Holm oak",
+                "Wikidata_ID": "Q104552567"
+            },
+            {
+                "originalKey": "Acer sempervirens",
+                "original_value": "Crete maple (Greek: Σεμπέρικα)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "221.5 km2",
+                "original_value": "Size (km^2)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The minimum altimetry of the LAU",
+                "original_value": "Minimum Altitude",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "0 meters",
+                "original_value": "Altitude (meters)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The maximum altimetry of the LAU",
+                "original_value": "Maximum Altitude",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1147 meters",
+                "original_value": "Altitude (meters)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The total population of the LAU",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "315.162 thousand people",
+                "original_value": "Population (thousand)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The population density in the LAU",
+                "original_value": "Density of Population",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "119.40 Inhabitants/km^2",
+                "original_value": "Population Density (Inhab./km^2)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The population change rate of the LAU in the last 10 years",
+                "original_value": "Population Growth Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "0.02%",
+                "original_value": "Growth Rate (percentage)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The overall regional population density",
+                "original_value": "Regional Population Density",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "76.5 Inhabitants/km^2",
+                "original_value": "Population Density (Inhab./km^2)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The regional population change rate in the last 10 years",
+                "original_value": "Regional Population Growth Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "0.01%",
+                "original_value": "Growth Rate (percentage)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces and territories in France by GDP per capita",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "EUR/year",
+                "original_value": "Gross Domestic Product (GDP) or income measure, often used to compare economic productivity between regions.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "3752.14 EUR million/year GVA Province",
+                "original_value": "Total Value Added at Factor Cost (Gross Value Added), a measure of the economic output and productivity in an area.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "5.39% primary sector share total GVA/year Province",
+                "original_value": "Primary Sector Share, indicating agriculture's contribution to a region’s economy as measured by its portion of the Total Value Added.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "11.64% secondary sector share total GVA/year Province",
+                "original_value": "Secondary Sector Share, indicating manufacturing's contribution to a region’s economy as measured by its portion of the Total Value Added.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "82.97% tertiary sector share total GVA/year Province",
+                "original_value": "Tertiary Sector Share, indicating services' contribution to a region’s economy as measured by its portion of the Total Value Added.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions in France and their economic indicators",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "7862.21 EUR million/year GVA Region",
+                "original_value": "Total Value Added at Factor Cost (Gross Value Added), a measure of the economic output and productivity in an area.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "6.91% primary sector share total GVA/year Region",
+                "original_value": "Primary Sector Share, indicating agriculture's contribution to a region’s economy as measured by its portion of the Total Value Added.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "11.24% secondary sector share total GVA/year Region",
+                "original_value": "Secondary Sector Share, indicating manufacturing's contribution to a region’s economy as measured by its portion of the Total Value Added.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "81.85% tertiary sector share total GVA/year Region",
+                "original_value": "Tertiary Sector Share, indicating services' contribution to a region’s economy as measured by its portion of the Total Value Added.",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places (BPs)",
+                "original_value": "Tourist accommodations",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "original_value": "Tourist Accommodation Capacity",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "original_value": "Tourism Accommodation Capacity",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The primary sector",
+                "original_value": "Primary economic activity",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "total employment/year Province",
+                "original_value": "Employment by province in [Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "15.23%",
+                "original_value": "Percentage of total employment from primary sector for the specified Province",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The secondary sector",
+                "original_value": "Secondary economic activity",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total employment/year Province",
+                "original_value": "Employment by province in [Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "12.38%",
+                "original_value": "Percentage of total employment from secondary sector for the specified Province",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The tertiary sector",
+                "original_value": "Tertiary economic activity, also known as service industry",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total employment/year Province",
+                "original_value": "Employment by province in [Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "72.39%",
+                "original_value": "Percentage of total employment from tertiary sector for the specified Province",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The primary sector share of total employment/year Region",
+                "original_value": "Employment by region in [Region]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "16.20%",
+                "original_value": "Percentage of total employment from primary sector for the specified Region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The secondary sector share of total employment/year Region",
+                "original_value": "Employment by region in [Region]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "11.84%",
+                "original_value": "Percentage of total employment from secondary sector for the specified Region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The tertiary sector share of total employment/year Region",
+                "original_value": "Employment by region in [Region]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "71.97%",
+                "original_value": "Percentage of total employment from tertiary sector for the specified Region",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe vera",
+                "original_value": "aloe",
+                "Wikidata_ID": "Q127134"
+            },
+            {
+                "originalKey": "Dikti mountain landscape",
+                "original_value": "Mount Dikte",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "Crete, Greece",
+                "original_value": "Crete (island)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Viannos",
+                "original_value": "Viannos",
+                "Wikidata_ID": "Q693813"
+            },
+            {
+                "originalKey": "Minoan Land cooperative",
+                "original_value": "Coopérativa Minoon Lánd, Crete",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Dikti Mountain landscape",
+                "original_value": "Mount Dikta",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "olives",
+                "original_value": "Olive cultivation and production in Greece",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera farming, processing facilities for food/cosmetic industries, economic viability of Aloe Vera cultivation and e-commerce",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "food/cosmetic industries",
+                "original_value": "Food industry in Greece; Cosmetics production facilities around the world, employment opportunities from these sectors.",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "risk of extinction of rare plants",
+                "original_value": "Endemic species",
+                "Wikidata_ID": "Q123452"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Supply chain management",
+                "Wikidata_ID": "Q492886"
+            },
+            {
+                "originalKey": "network of partners farmers and byproduct producers",
+                "original_value": "Agricultural cooperative",
+                "Wikidata_ID": "Q2996615"
+            },
+            {
+                "originalKey": "Minoan Land Cooperative",
+                "original_value": "Agricultural cooperative",
+                "Wikidata_ID": "Q2996615"
+            },
+            {
+                "originalKey": "organic and contract farming",
+                "original_value": "Organic agriculture, Contract farming",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Aloe Vera plants",
+                "original_value": "aloevera (plant)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "high-quality leaves, free from residues of dangerous pesticides",
+                "original_value": "Pesticide",
+                "Wikidata_ID": "Q131656"
+            },
+            {
+                "originalKey": "nutritional supplements and herbal cosmetics based on modern green economy",
+                "original_value": "Herbal medicine, Cosmetic industry",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "natural fertilizers as a byproduct",
+                "original_value": "Organic farming composting methodologies",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "aromatic/medicinal plants in food industry, pharmaceuticals and nutraceutical industries research activities are new to the region",
+                "original_value": "Pharmacognosy",
+                "Wikidata_ID": "Q319616"
+            },
+            {
+                "originalKey": "Medical institutions have approved of the juice for specific medical conditions and diets.",
+                "original_value": "Clinical trials, Medical research on Aloe Vera (plant)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Product innovation",
+                "Wikidata_ID": "Q7247768"
+            },
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Supply chain management",
+                "Wikidata_ID": "Q492886"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "aloe",
+                "Wikidata_ID": "Q127134"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Andalusia, Spain",
+                "original_value": "province of Córdoba (Spain)",
+                "Wikidata_ID": "Q81972"
+            },
+            {
+                "originalKey": "European consumers",
+                "original_value": "consumer",
+                "Wikidata_ID": "Q22855"
+            },
+            {
+                "originalKey": "nutritional supplements and health products",
+                "original_value": "dietary supplement, pharmaceutical product",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

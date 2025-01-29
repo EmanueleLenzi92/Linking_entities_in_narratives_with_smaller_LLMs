@@ -1,0 +1,459 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state of this VC",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "VC 01 AT",
+                "original_value": "Not specified in the context, but likely refers to a specific Value Chain or product line within Austria.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ALMO Steirisches Almochsenfleisch",
+                "original_value": "Almo (brand)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "1098 km2",
+                "original_value": "Size (area)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The minimum altimetry of the LAU",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "464 meters",
+                "original_value": "Minimum Altitude (LAU)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The maximum altimetry of the LAU",
+                "original_value": "Maximum Altitude (LAU)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1720 meters",
+                "original_value": "Maximum Altitude (LAU)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The total population of the LAU",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "90.654 thousand people",
+                "original_value": "Total Population (LAU)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The population density in the LAU",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "82.56 Inhabitants/km2",
+                "original_value": "Density (LAU)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The population change rate of the LAU in the last 10 years",
+                "original_value": "Population Growth Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "3.68%",
+                "original_value": "Growth Rate (LAU, past decade)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The overall regional population density",
+                "original_value": "Regional Population Density",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "76.28 Inhabitants/km2",
+                "original_value": "Density (region)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The regional population change rate in the last 10 years",
+                "original_value": "Regional Population Growth Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "3.30%",
+                "original_value": "Growth Rate (region, past decade)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The average per capita income (EUR/year) Province",
+                "original_value": "GDP per Capita in the province",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "8141 EUR million/year GVA Province",
+                "original_value": "Total Value Added (GVA) of a region or country by sector annually",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Primary sector share 11.77% total GVA/year Province",
+                "original_value": "Sectoral contribution to the Total Value Added (GVA) of a region or country by primary, secondary and tertiary sectors annually",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Secondary sector share 32.50% total GVA/year Province",
+                "original_value": "Sectoral contribution to the Total Value Added (GVA) of a region or country by primary, secondary and tertiary sectors annually",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Tertiary sector share 55.73% total GVA/year Province",
+                "original_value": "Sectoral contribution to the Total Value Added (GVA) of a region or country by primary, secondary and tertiary sectors annually",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The per capita income (EUR/year) Region",
+                "original_value": "Regional GDP Per Capita",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "43050 EUR million/year total GVA of the region",
+                "original_value": "Total Value Added (GVA) by sector annually for a specific region or country, similar to 'The average per capita income in Province'",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Primary sector share 0.84% total GVA/year of the Region",
+                "original_value": "Sectoral contribution to Total Value Added (GVA) by primary, secondary and tertiary sectors annually for a specific region or country",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Secondary sector share 35.12% total GVA/year of the Region",
+                "original_value": "Sectoral contribution to Total Value Added (GVA) by primary, secondary and terti0ry sectors annually for a specific region or country",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Tertiary sector share 64.04% total GVA/year of the Region",
+                "original_value": "Sectoral contribution to Total Value Added (GVA) by primary, secondary and tertiary sectors annually for a specific region or country",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places (BPs)",
+                "original_value": "Tourist accommodations",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "original_value": "Tourist Accommodation Capacity",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "original_value": "Tourism Accommodation Capacity",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The primary sector",
+                "original_value": "Primary economic activity",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "total employment/year Province",
+                "original_value": "Employment by province in [Specific Country Name]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "11.55%",
+                "original_value": "Percentage of total employment from primary sector for the specified Province",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The secondary sector share of total employment/year Province",
+                "original_value": "Employment by industry in provinces and territories (if applicable)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "29.94%",
+                "original_value": "Percentage of total employment from secondary sector for the specified Province",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The tertiary sector share of total employment/year Province",
+                "original_value": "Employment by industry in provinces and territories (if applicable)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "58.50%",
+                "original_value": "Percentage of total employment from tertiary sector for the specified Province",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The primary sector share of total employment/year Region",
+                "original_value": "Employment by industry in regions (if applicable)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "5.55%",
+                "original_value": "Percentage of total employment from primary sector for the specified region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The secondary sector share of total employment/year Region",
+                "original_value": "Employment by industry in regions (if applicable)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "26.47%",
+                "original_value": "Percentage of total employment from secondary sector for the specified region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The tertiary sector share of total employment/year Region",
+                "original_value": "Employment by industry in regions (if applicable)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "67.99%",
+                "original_value": "Percentage of total employment from tertiary sector for the specified region",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "original_value": "Alm OXen Farmers Association",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LEADER-region Almenland and Energieregion Weiz-Gleisdorf",
+                "original_value": "Leader region of Almenland and Energy Region Weiz-Gleisdorf",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "traditional pasture framing",
+                "original_value": "Traditional Pastoralism",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Austrian animal welfare NGO",
+                "original_value": "Animal Welfare Organizations in Austria",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "veterinaries, butchers, retailers, tourism and regional development agency",
+                "original_value": "Value Chain Actors (Veterinary Medicine, Meat Processing Industry, Retail Trade, Tourism & Regional Development Agencies)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Almenland and Energieregion Weiz-Gleisdorf",
+                "original_value": "Regions of Almenland and Energy Region Weiz-Gleisdorf",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "regional slaughter house",
+                "original_value": "Slaughterhouse",
+                "Wikidata_ID": "Q385557"
+            },
+            {
+                "originalKey": "sheep farmers, free range pig farmers",
+                "original_value": "Shepherding and Pork production in agriculture",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ALMO serving as lead product",
+                "original_value": "Alm (food)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional development",
+                "original_value": "Regional Development",
+                "Wikidata_ID": "Q482379"
+            },
+            {
+                "originalKey": "(hiking) tourism in the region",
+                "original_value": "Hiking Tourism",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pasture farming, regional identity",
+                "original_value": "Pastoral Farming and Regional Identity",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Predicted changes in climate",
+                "original_value": "climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "feedbase for pasture based meat production",
+                "original_value": "pastoral farming",
+                "Wikidata_ID": "Q80962"
+            },
+            {
+                "originalKey": "vegetation might change, cultivation of feed changes as well",
+                "original_value": [
+                    "Impacts of climate change on agriculture and plant life",
+                    "Agricultural adaptation to climate change"
+                ],
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "alpine pasture areas wastage",
+                "original_value": "Alpine farming",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pasture intensity adjustment, forage plant growth quality improvement",
+                "original_value": [
+                    "Pastoralism and climate change adaptation strategies",
+                    "Forage crop management"
+                ],
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "small scale women led farms",
+                "original_value": "Women in agriculture",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "economic vulnerability, stable price arrangements maintenance risk to income security",
+                "original_value": [
+                    "Agricultural economics of smallholder farms",
+                    "Price volatility and food insecurity"
+                ],
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC (Vegetation Change)",
+                "original_value": "Climate change impact on vegetation",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous and Exogenous innovation",
+                "original_value": "Innovation (business)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "social relations",
+                "original_value": "Social Relations",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ALMO key persons",
+                "original_value": "Not specifically labeled, but likely refers to individuals involved with ALMO organization.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local action groups",
+                "original_value": "Local Action Groups",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LEADER for different projects",
+                "original_value": "Leader Framework Programme (European Union)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "feeding practices, meat quality",
+                "original_value": "Animal husbandry",
+                "Wikidata_ID": "Q80962"
+            },
+            {
+                "originalKey": "consultant, innovation based practice and academic knowledge",
+                "original_value": "Consultants in Innovation (business)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "System Haberl stables model",
+                "original_value": "Not specifically labeled, but likely refers to a specific agricultural innovation or system.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pasture farming land use systems",
+                "original_value": "Pastoralism",
+                "Wikidata_ID": "Q9056738"
+            },
+            {
+                "originalKey": "Natural, social and cultural local assets",
+                "original_value": "Local Assets (geography)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "original_value": "Almwirtschaftlicher Marketingverband",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Lower Austria (NUTS-II AT 12)",
+                "original_value": "Landeshauptstadt Wien, Niederösterreich",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Carinthia (NUTS-II AT 21)",
+                "original_value": "Kärntner Marketingverband für Almviehprodukte und Milchwirtschaft",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pasture farmed beef",
+                "original_value": "Grasfleisch (Lamm)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Österreich",
+                "Wikidata_ID": "Q40"
+            }
+        ]
+    }
+]

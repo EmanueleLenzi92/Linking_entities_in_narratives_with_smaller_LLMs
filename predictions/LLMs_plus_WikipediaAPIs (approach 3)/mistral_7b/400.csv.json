@@ -1,0 +1,297 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "MOVING",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "SWITZERLAND",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "VC 16 CH1",
+                "original_value": "VC 16 CH1",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "old animal breeds",
+                "original_value": "Animal breed",
+                "Wikidata_ID": "Q38829"
+            },
+            {
+                "originalKey": "Engadiner",
+                "original_value": "Engadiner",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Spiegelschaf",
+                "original_value": "Spiegelschaf",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Nera Verzasca",
+                "original_value": "Nera Verzasca",
+                "Wikidata_ID": "Q15836540"
+            },
+            {
+                "originalKey": "Capra Grigia",
+                "original_value": "Capra Grigia",
+                "Wikidata_ID": "Q1543712"
+            },
+            {
+                "originalKey": "Black Alpine Pig",
+                "original_value": "Black Alpine Pig",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "chickens",
+                "original_value": "Chicken",
+                "Wikidata_ID": "Q780"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "VC",
+                "Wikidata_ID": "Q226542"
+            },
+            {
+                "originalKey": "mountain chain",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "mountain landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "density",
+                "original_value": "Density",
+                "Wikidata_ID": "Q29539"
+            },
+            {
+                "originalKey": "change rate",
+                "original_value": "Change rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "Average per capita income",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA)",
+                "original_value": "Total Gross Value Added (GVA)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary sector share",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Secondary sector share",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary sector share",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA)",
+                "original_value": "Total Gross Value Added (GVA)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary sector share",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Secondary sector share",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary sector share",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bed places",
+                "original_value": "Tourist accommodation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative division",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Regional economy",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural land use",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "original_value": "List of cities by population",
+                "Wikidata_ID": "Q1496553"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "employment/year [Province]",
+                "original_value": "Employment by sector in [Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "employment/year [Region]",
+                "original_value": "Employment by sector in [Region]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "revival",
+                "original_value": "Revival",
+                "Wikidata_ID": "Q1356874"
+            },
+            {
+                "originalKey": "old traditional breeds",
+                "original_value": "Old traditional breeds",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "farmer led initiative",
+                "original_value": "Farmer-led initiative",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local situation",
+                "original_value": "Local situation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "introducing it again",
+                "original_value": "Introducing something again",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "trend of localness being trendy",
+                "original_value": "Trend of localness",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "VC (Value chain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "transnational organisation with regional branches",
+                "original_value": "Transnational organization",
+                "Wikidata_ID": "Q16926150"
+            },
+            {
+                "originalKey": "old animal breeds",
+                "original_value": "Old breeds of livestock",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "Natural and cultural",
+                "original_value": "Nature and culture",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]
