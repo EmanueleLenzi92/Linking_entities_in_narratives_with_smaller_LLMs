@@ -1,0 +1,183 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "SWITZERLAND",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "originalKey" : "Engadiner",
+    "original_value" : "Engadine sheep",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Spiegelschaf",
+    "original_value" : "Spiegelschafe",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Nera Verzasca",
+    "original_value" : "Verzasca sheep",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Capra Grigia",
+    "original_value" : "Grigia goat",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Black Alpine Pig",
+    "original_value" : "Black Alpine pig",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "mountain chain",
+    "original_value" : "Mountain range",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "mountain landscape",
+    "original_value" : "Landscape",
+    "Wikidata_ID" : "Q107425"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "km2",
+    "original_value" : "square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "originalKey" : "thousand",
+    "original_value" : "thousand",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "inhabitants/km2",
+    "original_value" : "population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "last 10 years",
+    "original_value" : "decade",
+    "Wikidata_ID" : "Q39911"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "GVA",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "primary sector",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Service sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Regional",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holdings",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "km",
+    "original_value" : "Kilometer",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Province",
+    "original_value" : "List of provinces and territories of Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "List of regions of Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "old traditional breeds",
+    "original_value" : "Heritage breed",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "local situation",
+    "original_value" : "Local food",
+    "Wikidata_ID" : "Q2674120"
+  }, {
+    "originalKey" : "farmer led initiative",
+    "original_value" : "Community-supported agriculture",
+    "Wikidata_ID" : "Q427249"
+  }, {
+    "originalKey" : "looking back to what used to work",
+    "original_value" : "Agroecology",
+    "Wikidata_ID" : "Q396338"
+  }, {
+    "originalKey" : "introducing it again",
+    "original_value" : "Sustainable agriculture",
+    "Wikidata_ID" : "Q2751054"
+  }, {
+    "originalKey" : "benefitting off the trend of localness being trendy",
+    "original_value" : "Local food movement",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "value chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "sustainability",
+    "original_value" : "Sustainability",
+    "Wikidata_ID" : "Q219416"
+  }, {
+    "originalKey" : "Wikidata",
+    "original_value" : "Wikidata",
+    "Wikidata_ID" : "Q2013"
+  }, {
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "originalKey" : "deforestation",
+    "original_value" : "Deforestation",
+    "Wikidata_ID" : "Q169940"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "transnational organisation",
+    "original_value" : "Transnational corporation",
+    "Wikidata_ID" : "Q3537745"
+  }, {
+    "originalKey" : "old animal breeds",
+    "original_value" : "Heritage breed",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "new marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "originalKey" : "grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  }, {
+    "originalKey" : "natural and cultural assets",
+    "original_value" : "Natural capital",
+    "Wikidata_ID" : "Q1540268"
+  } ]
+} ]

@@ -1,0 +1,171 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "CZECH REPUBLIC",
+    "original_value" : "Czech_Republic",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Ostrava",
+    "original_value" : "Ostrava",
+    "Wikidata_ID" : "Q8385"
+  }, {
+    "originalKey" : "Vallachian region",
+    "original_value" : "Central_Bohemia_Region",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Beskydy mountains",
+    "original_value" : "Beskydy_Mountains",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Javorníky/Beskydy",
+    "original_value" : "Javorníky",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Western Carpathian",
+    "original_value" : "Western Carpathians",
+    "Wikidata_ID" : "Q927233"
+  }, {
+    "originalKey" : "Vsetín",
+    "original_value" : "Vsetín District",
+    "Wikidata_ID" : "Q852541"
+  }, {
+    "originalKey" : "LAU 1 Vsetín",
+    "original_value" : "NUTS: CZ71",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Czech Republic",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita",
+    "Wikidata_ID" : "Q558635"
+  }, {
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector of the economy",
+    "Wikidata_ID" : "Q55640"
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector of the economy",
+    "Wikidata_ID" : "Q55639"
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector of the economy",
+    "Wikidata_ID" : "Q55638"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "settlement",
+    "original_value" : "Human settlement",
+    "Wikidata_ID" : "Q486972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Province",
+    "original_value" : "Province_(administrative_division)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region_(geography)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Valašský",
+    "original_value" : "Vallachians",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Beskydy mountains",
+    "original_value" : "Beskyd Mountains",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Vallachian region",
+    "original_value" : "Vallachia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "region",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Vallachian",
+    "original_value" : "Wallachia",
+    "Wikidata_ID" : "Q171393"
+  }, {
+    "originalKey" : "Beskydy mountains",
+    "original_value" : "Beskydy Mountains",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value_chain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "frgále",
+    "original_value" : "Frgale",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Vallachian",
+    "original_value" : "Ladin language",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "pblum brandy (spirit)",
+    "original_value" : "Brandy",
+    "Wikidata_ID" : "Q146470"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Czechia",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "originalKey" : "frgál",
+    "original_value" : "Frágol",
+    "Wikidata_ID" : ""
+  } ]
+} ]

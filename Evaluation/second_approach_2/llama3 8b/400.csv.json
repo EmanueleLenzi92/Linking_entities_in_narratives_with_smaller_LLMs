@@ -1,0 +1,135 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "SWITZERLAND",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "originalKey" : "Engadiner",
+    "original_value" : "Engadine (region)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Spiegelschaf",
+    "original_value" : "Spiegel sheep",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Nera Verzasca",
+    "original_value" : "Nera Verzasca",
+    "Wikidata_ID" : "Q15836540"
+  }, {
+    "originalKey" : "Capra Grigia",
+    "original_value" : "Capra grigia",
+    "Wikidata_ID" : "Q1543712"
+  }, {
+    "originalKey" : "Black Alpine Pig",
+    "original_value" : "Black Pied pig",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value_chain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita",
+    "Wikidata_ID" : "Q558635"
+  }, {
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector of the economy",
+    "Wikidata_ID" : "Q55640"
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector of the economy",
+    "Wikidata_ID" : "Q55639"
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector of the economy",
+    "Wikidata_ID" : "Q55638"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Administrative region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Province",
+    "original_value" : "Province_(administrative_division)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region_(geography)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "traditional breeds",
+    "original_value" : "Traditional breed",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "local situation",
+    "original_value" : "Local (disambiguation)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "farmer led initiative",
+    "original_value" : "Farmer-led initiative",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "veganism",
+    "original_value" : "Veganism",
+    "Wikidata_ID" : "Q181138"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value_chain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Venture_capital",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous_growth_theory",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  } ]
+} ]

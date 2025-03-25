@@ -1,0 +1,175 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Supply_chain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "SPAIN ADEGUA",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  }, {
+    "originalKey" : "VC 34 ES",
+    "original_value" : "Value_chain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Betic System",
+    "original_value" : "Betic System",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Carcabuey",
+    "original_value" : "Carcabuey",
+    "Wikidata_ID" : "Q842679"
+  }, {
+    "originalKey" : "Sierra Subbética",
+    "original_value" : "Sierra Subbética",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local_Administrative_Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "km2",
+    "original_value" : "Square_kilometre",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita",
+    "Wikidata_ID" : "Q558635"
+  }, {
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector of the economy",
+    "Wikidata_ID" : "Q55640"
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector of the economy",
+    "Wikidata_ID" : "Q55639"
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector of the economy",
+    "Wikidata_ID" : "Q55638"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "settlement",
+    "original_value" : "Human settlement",
+    "Wikidata_ID" : "Q486972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Province",
+    "original_value" : "Province_(administrative_division)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region_(geography)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "care of the elderly",
+    "original_value" : "Aged_care",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "intergenerational social cohesion",
+    "original_value" : "Intergenerational_cohesion",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "value chain",
+    "original_value" : "Value_chain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "PROMI",
+    "original_value" : "Private company",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Provincial Council",
+    "original_value" : "Provincial council",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Ageing population",
+    "original_value" : "Aging_of_population",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "replacement rate",
+    "original_value" : "Total_fertility_rate",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "depopulation",
+    "original_value" : "Depopulation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "informal economy",
+    "original_value" : "Informal_economy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "precarisation of female work",
+    "original_value" : "Precariat",
+    "Wikidata_ID" : "Q2118871"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value_chain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous_growth_theory",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Exogenous",
+    "original_value" : "Exogenous_variable",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance",
+    "Wikidata_ID" : "Q1553864"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Sierra",
+    "original_value" : "Sierra_Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Subbética",
+    "original_value" : "Subbética",
+    "Wikidata_ID" : ""
+  } ]
+} ]

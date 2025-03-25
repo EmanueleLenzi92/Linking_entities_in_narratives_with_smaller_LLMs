@@ -1,0 +1,183 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "Switzerland",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "originalKey" : "Alpine tourism",
+    "original_value" : "Alpine skiing",
+    "Wikidata_ID" : "Q186222"
+  }, {
+    "originalKey" : "tourism industry",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "originalKey" : "hotels",
+    "original_value" : "Hotel",
+    "Wikidata_ID" : "Q27686"
+  }, {
+    "originalKey" : "restaurants",
+    "original_value" : "Restaurant",
+    "Wikidata_ID" : "Q11707"
+  }, {
+    "originalKey" : "ski lifts",
+    "original_value" : "Ski lift",
+    "Wikidata_ID" : "Q891302"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "mountain chain",
+    "original_value" : "Mountain range",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "mountain landscape",
+    "original_value" : "Landscape",
+    "Wikidata_ID" : "Q107425"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "km2",
+    "original_value" : "square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "originalKey" : "thousand",
+    "original_value" : "thousand",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "inhabitants/km2",
+    "original_value" : "population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "last 10 years",
+    "original_value" : "decade",
+    "Wikidata_ID" : "Q39911"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "GVA",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "primary sector",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Service sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "BPs",
+    "original_value" : "Bed and breakfast",
+    "Wikidata_ID" : "Q367914"
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Regional",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Farm",
+    "Wikidata_ID" : "Q131596"
+  }, {
+    "originalKey" : "km",
+    "original_value" : "Kilometre",
+    "Wikidata_ID" : "Q828224"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Province",
+    "original_value" : "List of provinces and territories of Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "List of regions of Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "one of the biggest and most famous VC-systems in the alps",
+    "original_value" : "Swiss Alps",
+    "Wikidata_ID" : "Q25220"
+  }, {
+    "originalKey" : "varied",
+    "original_value" : "Biodiversity",
+    "Wikidata_ID" : "Q47041"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "sustainable way",
+    "original_value" : "Sustainable tourism",
+    "Wikidata_ID" : "Q1344240"
+  }, {
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "originalKey" : "young people",
+    "original_value" : "Youth",
+    "Wikidata_ID" : "Q190007"
+  }, {
+    "originalKey" : "mountains",
+    "original_value" : "Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "high revenue",
+    "original_value" : "Tourism revenue",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "touristic attractions",
+    "original_value" : "Tourist attraction",
+    "Wikidata_ID" : "Q570116"
+  }, {
+    "originalKey" : "skiing",
+    "original_value" : "Skiing",
+    "Wikidata_ID" : "Q130949"
+  }, {
+    "originalKey" : "innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "originalKey" : "new products",
+    "original_value" : "New product development",
+    "Wikidata_ID" : "Q1395034"
+  }, {
+    "originalKey" : "new processes",
+    "original_value" : "Business process innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "new marketing strategies",
+    "original_value" : "Marketing innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "new governance systems",
+    "original_value" : "Governance innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "landscape in general",
+    "original_value" : "Landscape",
+    "Wikidata_ID" : "Q107425"
+  }, {
+    "originalKey" : "natural, social and cultural assets",
+    "original_value" : "Natural, social and cultural assets",
+    "Wikidata_ID" : ""
+  } ]
+} ]

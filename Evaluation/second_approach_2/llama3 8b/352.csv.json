@@ -1,0 +1,223 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "SPAIN ADEGUA",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  }, {
+    "originalKey" : "ATADES Gardeniers Special Employment Center",
+    "original_value" : "Atades",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Torres de Berrellén melon",
+    "original_value" : "Melon",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "European Agricultural Fund for Rural Development (EAFRD)",
+    "original_value" : "European Agricultural Fund for Rural Development",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Pyrenees",
+    "original_value" : "Pyrenees",
+    "Wikidata_ID" : "Q12431"
+  }, {
+    "originalKey" : "Jaca (Ascara)",
+    "original_value" : "Jaca, Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Canal de Berdún",
+    "original_value" : "Canal de Berdún",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Huesca",
+    "original_value" : "Huesca",
+    "Wikidata_ID" : "Q11967"
+  }, {
+    "originalKey" : "Zaragoza",
+    "original_value" : "Zaragoza",
+    "Wikidata_ID" : "Q10305"
+  }, {
+    "originalKey" : "Gardeniers farm",
+    "original_value" : "None (not a Wikipedia page)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Cielos de Ascara agroecological social project",
+    "original_value" : "None (not a Wikipedia page)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Natura 2000 Network",
+    "original_value" : "Natura 2000",
+    "Wikidata_ID" : "Q503021"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income",
+    "original_value" : "Gross domestic product per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector of the economy",
+    "Wikidata_ID" : "Q55640"
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector of the economy",
+    "Wikidata_ID" : "Q55639"
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector of the economy",
+    "Wikidata_ID" : "Q55638"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "settlement",
+    "original_value" : "Human settlement",
+    "Wikidata_ID" : "Q486972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Province",
+    "original_value" : "Province_(administrative_division)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region_(geography)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Aragonese Pyrenees",
+    "original_value" : "Pyrenees",
+    "Wikidata_ID" : "Q12431"
+  }, {
+    "originalKey" : "Cielos de Ascara",
+    "original_value" : "Cielos_de_Ascara",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Aragon",
+    "original_value" : "Aragon",
+    "Wikidata_ID" : "Q4040"
+  }, {
+    "originalKey" : "Organic Production of Foodstuffs linked to the Aragonese Territory",
+    "original_value" : "None",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "sustainability",
+    "original_value" : "Sustainability",
+    "Wikidata_ID" : "Q219416"
+  }, {
+    "originalKey" : "rural development policies",
+    "original_value" : "Rural development",
+    "Wikidata_ID" : "Q3045473"
+  }, {
+    "originalKey" : "urban consumption environments",
+    "original_value" : "Urban planning",
+    "Wikidata_ID" : "Q69883"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value_chain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous_growth_theory",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New products",
+    "original_value" : "Innovation#Product_innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New processes",
+    "original_value" : "Process_innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing_strategy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance",
+    "Wikidata_ID" : "Q1553864"
+  }, {
+    "originalKey" : "Cropland",
+    "original_value" : "Agricultural_land_use",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Sites of Community Importance (SCI)",
+    "original_value" : "Natura_2000",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Special Protection Area for Birds (SPA)",
+    "original_value" : "Special_Protection_Area_for_Birds",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "San Juan de la Peña and Monte Oroel",
+    "original_value" : "San_Juan_de_la_Peña_and_Monte_Oroel",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Natural Park of the Western Valleys",
+    "original_value" : "Parque_Natural_de_las_Ventanas_del_Este",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+    "original_value" : "Centro_de_Investigación_y_Tecnología_Agroalimentaria_de_Aragón",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Processing Plant of organic vegetables and fruits",
+    "original_value" : "",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Special Employment Center Gardeniers of ATADES",
+    "original_value" : "",
+    "Wikidata_ID" : ""
+  } ]
+} ]

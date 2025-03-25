@@ -1,0 +1,205 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "ITALY UNIMOL",
+    "original_value" : "University of Milan",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "UNIPI",
+    "original_value" : "University of Pisa",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  }, {
+    "originalKey" : "Central Apennines",
+    "original_value" : "Central Apennines",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Lazio region",
+    "original_value" : "Lazio",
+    "Wikidata_ID" : "Q1282"
+  }, {
+    "originalKey" : "Rieti",
+    "original_value" : "Rieti",
+    "Wikidata_ID" : "Q13396"
+  }, {
+    "originalKey" : "Abruzzo region",
+    "original_value" : "Abruzzo",
+    "Wikidata_ID" : "Q1284"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "km2",
+    "original_value" : "square kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "thousand",
+    "original_value" : "thousand",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "inhabitants/km2",
+    "original_value" : "population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "10 years",
+    "original_value" : "decade",
+    "Wikidata_ID" : "Q39911"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "GVA",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "originalKey" : "primary sector",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Service sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourist accommodation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  }, {
+    "originalKey" : "honey certificate of origin",
+    "original_value" : "Certificate of Origin",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  }, {
+    "originalKey" : "nature park",
+    "original_value" : "Nature reserve",
+    "Wikidata_ID" : "Q179049"
+  }, {
+    "originalKey" : "organic honey",
+    "original_value" : "Organic honey",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "originalKey" : "honey production",
+    "original_value" : "Honey production",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "bees' ability to resist colder/warmer zones",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "originalKey" : "certification of origin",
+    "original_value" : "Certification of origin",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "organic label",
+    "original_value" : "Organic certification",
+    "Wikidata_ID" : "Q11680670"
+  }, {
+    "originalKey" : "marketing strategy",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "originalKey" : "farmer and promoter of certificate of origin",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Miele di Amatrice",
+    "original_value" : "Miele di Amatrice",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : " Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "local mountain farms",
+    "original_value" : "Local agriculture",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "consumers interested in the local cultural tradition on wine and food productions",
+    "original_value" : "Food tourism",
+    "Wikidata_ID" : ""
+  } ]
+} ]

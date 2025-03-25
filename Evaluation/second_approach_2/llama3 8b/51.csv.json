@@ -1,0 +1,159 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "CZECH REPUBLIC",
+    "original_value" : "Czech_Republic",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Value Chain",
+    "original_value" : "Supply_chain_management",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Giant Mountains",
+    "original_value" : "Krkonoše",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU 1 Trutnov",
+    "original_value" : "Trutnov District",
+    "Wikidata_ID" : "Q517734"
+  }, {
+    "originalKey" : "NUTS 3 Kralovehradecky",
+    "original_value" : "Královéhradecký Region",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "National Park",
+    "original_value" : "Krkonoše National Park",
+    "Wikidata_ID" : "Q2043817"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local_Administrative_Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "km2",
+    "original_value" : "Square_kilometre",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita",
+    "Wikidata_ID" : "Q558635"
+  }, {
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "settlement",
+    "original_value" : "Human settlement",
+    "Wikidata_ID" : "Q486972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Province",
+    "original_value" : "Province_(administrative_division)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region_(geography)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Village Council",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "region",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "traditional knowledge",
+    "original_value" : "Traditional_knowledge",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "cultural traits",
+    "original_value" : "Cultural_trait",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "symbolic value",
+    "original_value" : "Symbolic_value",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Herb liquers",
+    "original_value" : "Herbal liqueur",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "originalKey" : "Traditional",
+    "original_value" : "Traditional venture capital",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value_chain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Natural land",
+    "original_value" : "Land_use",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Natural and cultural",
+    "original_value" : "Cultural_heritage",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value_chain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "mountain region",
+    "original_value" : "Mountain_region",
+    "Wikidata_ID" : ""
+  } ]
+} ]

@@ -1,0 +1,201 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "ITALY",
+    "original_value" : "Italy",
+    "Wikidata_ID" : "Q38"
+  }, {
+    "originalKey" : "UNIMOL",
+    "original_value" : "University of Molise",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "UNIPI",
+    "original_value" : "University of Pisa",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Savigni",
+    "original_value" : "Savignano Irpino",
+    "Wikidata_ID" : "Q55109"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Northern Apennines",
+    "original_value" : "Apennine Mountains",
+    "Wikidata_ID" : "Q1285"
+  }, {
+    "originalKey" : "Tuscan Emilian Apennines",
+    "original_value" : "Apennine Mountains",
+    "Wikidata_ID" : "Q1285"
+  }, {
+    "originalKey" : "Sambuca Pistoiese",
+    "original_value" : "Sambuca Pistoiese",
+    "Wikidata_ID" : "Q102725"
+  }, {
+    "originalKey" : "Pistoia province",
+    "original_value" : "Province of Pistoia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Italian region of Tuscany",
+    "original_value" : "Tuscany",
+    "Wikidata_ID" : "Q1273"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local_Administrative_Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "km2",
+    "original_value" : "Square_kilometre",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita",
+    "Wikidata_ID" : "Q558635"
+  }, {
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector of the economy",
+    "Wikidata_ID" : "Q55640"
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector of the economy",
+    "Wikidata_ID" : "Q55639"
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector of the economy",
+    "Wikidata_ID" : "Q55638"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "settlement",
+    "original_value" : "Human settlement",
+    "Wikidata_ID" : "Q486972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Province",
+    "original_value" : "Province_(administrative_division)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region_(geography)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Bollo IT",
+    "original_value" : "Italian National Institute for Insurance",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "ANAS",
+    "original_value" : "Azienda Nazionale Autonoma delle Strade",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "BioAgriCert",
+    "original_value" : "None (private certification body)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "AIAB",
+    "original_value" : "Italian Association of Organic Agriculture",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "INEQ",
+    "original_value" : "Institute for Quality North-East",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "TUV",
+    "original_value" : "TÜV Rheinland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Consorzio Tutela of Cinta Senese",
+    "original_value" : "None (private organization)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Finocchiona PGI",
+    "original_value" : "Finocchiona",
+    "Wikidata_ID" : "Q3745769"
+  }, {
+    "originalKey" : "Vitellone Bianco dell Appennino Centrale PGI",
+    "original_value" : "None (protected designation of origin)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Chianina beef",
+    "original_value" : "Chianina cattle",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Savigni family",
+    "original_value" : "House of Savigni",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Porretta",
+    "original_value" : "Porretta Terme",
+    "Wikidata_ID" : "Q94983"
+  }, {
+    "originalKey" : "Suviana Lake",
+    "original_value" : "Lake Suviana",
+    "Wikidata_ID" : "Q3826053"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Venture Capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "originalKey" : "Predicted",
+    "original_value" : "Prediction",
+    "Wikidata_ID" : "Q748250"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value_chain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous_growth_theory",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "organic farm",
+    "original_value" : "Organic_farming",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "originalKey" : "Natural",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  } ]
+} ]

@@ -1,0 +1,181 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "ITALY",
+    "original_value" : "Italy",
+    "Wikidata_ID" : "Q38"
+  }, {
+    "originalKey" : "UNIMOL",
+    "original_value" : "University of Molise",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "UNIPI",
+    "original_value" : "University of Perugia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Central Apennines",
+    "original_value" : "Apennine Mountains",
+    "Wikidata_ID" : "Q1285"
+  }, {
+    "originalKey" : "Lazio region",
+    "original_value" : "Lazio",
+    "Wikidata_ID" : "Q1282"
+  }, {
+    "originalKey" : "Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  }, {
+    "originalKey" : "Rieti",
+    "original_value" : "Rieti",
+    "Wikidata_ID" : "Q13396"
+  }, {
+    "originalKey" : "Abruzzo region",
+    "original_value" : "Abruzzo",
+    "Wikidata_ID" : "Q1284"
+  }, {
+    "originalKey" : "Gran Sasso e Monti della Laga",
+    "original_value" : "Gran Sasso and Monti della Laga National Park",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Montana del Velino community",
+    "original_value" : "Montagna dei Veli",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Club of Borghi più belli d Italia",
+    "original_value" : "Most Beautiful Villages in Italy",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local_Administrative_Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "km2",
+    "original_value" : "Square_kilometre",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita",
+    "Wikidata_ID" : "Q558635"
+  }, {
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector of the economy",
+    "Wikidata_ID" : "Q55640"
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector of the economy",
+    "Wikidata_ID" : "Q55639"
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector of the economy",
+    "Wikidata_ID" : "Q55638"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "settlement",
+    "original_value" : "Human settlement",
+    "Wikidata_ID" : "Q486972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary_sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Province",
+    "original_value" : "Province_(administrative_division)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region_(geography)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "beekeeping farm",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "originalKey" : "Municipality of Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  }, {
+    "originalKey" : "honey certificate of origin",
+    "original_value" : "Certificate of Origin",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Mielene di Amatric",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  }, {
+    "originalKey" : "nature park",
+    "original_value" : "Nature reserve",
+    "Wikidata_ID" : "Q179049"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "climate change",
+    "original_value" : "Climate_change",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "honey production",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "originalKey" : "Municipality of Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Supply_chain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Miele di Amatrice",
+    "original_value" : "Miele_di_Amartice",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  } ]
+} ]

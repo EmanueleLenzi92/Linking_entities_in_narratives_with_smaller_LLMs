@@ -1,0 +1,307 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "MOVING",
+    "original_value" : "Moving",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "AUSTRIA",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  }, {
+    "originalKey" : "VC 03 AT",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "organic",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "processing",
+    "original_value" : "Food processing",
+    "Wikidata_ID" : "Q627371"
+  }, {
+    "originalKey" : "cooperation",
+    "original_value" : "Cooperative",
+    "Wikidata_ID" : "Q4539"
+  }, {
+    "originalKey" : "small shops",
+    "original_value" : "Retail",
+    "Wikidata_ID" : "Q126793"
+  }, {
+    "originalKey" : "joint shop",
+    "original_value" : "Retail",
+    "Wikidata_ID" : "Q126793"
+  }, {
+    "originalKey" : "online",
+    "original_value" : "E-commerce",
+    "Wikidata_ID" : "Q484847"
+  }, {
+    "originalKey" : "hotels",
+    "original_value" : "Hospitality",
+    "Wikidata_ID" : "Q815825"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Austrian Alps",
+    "original_value" : "Austrian Alps",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Weiz",
+    "original_value" : "Weiz",
+    "Wikidata_ID" : "Q875641"
+  }, {
+    "originalKey" : "Almenland",
+    "original_value" : "Styrian alpine pasture region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "km2",
+    "original_value" : "square kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "thousand",
+    "original_value" : "thousand",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "inhabitants/km2",
+    "original_value" : "population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "last 10 years",
+    "original_value" : "decade",
+    "Wikidata_ID" : "Q39911"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Autonomous community",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Regional",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "BPs",
+    "original_value" : "Bed Places",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourist Accommodations",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural Holdings",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected Areas",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Almenland Nature Park",
+    "original_value" : "Almenland Nature Park",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "herbs",
+    "original_value" : "Herb",
+    "Wikidata_ID" : "Q207123"
+  }, {
+    "originalKey" : "association",
+    "original_value" : "Association",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "cooperation",
+    "original_value" : "Cooperation",
+    "Wikidata_ID" : "Q380962"
+  }, {
+    "originalKey" : "product range",
+    "original_value" : "Product range",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "innovative",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "originalKey" : "regional development",
+    "original_value" : "Regional development",
+    "Wikidata_ID" : "Q482379"
+  }, {
+    "originalKey" : "educational/touristic programmes",
+    "original_value" : "Educational tourism",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Genussregion",
+    "original_value" : "Genussregion",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "AgrarMarkt Austria",
+    "original_value" : "AgrarMarkt Austria",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "nature park",
+    "original_value" : "Nature park",
+    "Wikidata_ID" : "Q728904"
+  }, {
+    "originalKey" : "herbs",
+    "original_value" : "Herbs",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "permanent grasslands",
+    "original_value" : "Permanent grasslands",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "originalKey" : "natural vegetation",
+    "original_value" : "Natural vegetation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "herbs",
+    "original_value" : "Herbs",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "irrigation",
+    "original_value" : "Irrigation",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "herbs",
+    "original_value" : "Herb",
+    "Wikidata_ID" : "Q207123"
+  }, {
+    "originalKey" : "tea",
+    "original_value" : "Tea",
+    "Wikidata_ID" : "Q6097"
+  }, {
+    "originalKey" : "herbal salt",
+    "original_value" : "Herbal salt",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "pure herbs",
+    "original_value" : "Pure herbs",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "spice mixes",
+    "original_value" : "Spice mix",
+    "Wikidata_ID" : "Q1521067"
+  }, {
+    "originalKey" : "liquor",
+    "original_value" : "Liquor",
+    "Wikidata_ID" : "Q56139"
+  }, {
+    "originalKey" : "syrups",
+    "original_value" : "Syrup",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "sweets",
+    "original_value" : "Sweet",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "birch sugar",
+    "original_value" : "Birch sugar",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "soaps",
+    "original_value" : "Soap",
+    "Wikidata_ID" : "Q34396"
+  }, {
+    "originalKey" : "creams",
+    "original_value" : "Cream",
+    "Wikidata_ID" : "Q13228"
+  }, {
+    "originalKey" : "incense materials",
+    "original_value" : "Incense",
+    "Wikidata_ID" : "Q273131"
+  }, {
+    "originalKey" : "New products",
+    "original_value" : "New product development",
+    "Wikidata_ID" : "Q1395034"
+  }, {
+    "originalKey" : "New processes",
+    "original_value" : "Process innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "originalKey" : "Natural land",
+    "original_value" : "Natural resource",
+    "Wikidata_ID" : "Q188460"
+  }, {
+    "originalKey" : "Local assets",
+    "original_value" : "Local asset",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "herbs",
+    "original_value" : "Herb",
+    "Wikidata_ID" : "Q207123"
+  }, {
+    "originalKey" : "Austrian mountainous regions",
+    "original_value" : "Mountains of Austria",
+    "Wikidata_ID" : ""
+  } ]
+} ]

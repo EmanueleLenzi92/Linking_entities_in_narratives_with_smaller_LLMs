@@ -1,0 +1,175 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "Wines of Macedonia",
+    "original_value" : "Wines of Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "North Macedonia",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  }, {
+    "originalKey" : "Ministry of Agriculture of North Macedonia",
+    "original_value" : "Ministry of Agriculture and Rural Development (North Macedonia)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Mountain Meleshevija",
+    "original_value" : "Maleshevo Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Bregalnica",
+    "original_value" : "Bregalnica River",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Strumica",
+    "original_value" : "Strumica River",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "km2",
+    "original_value" : "square kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "thousand",
+    "original_value" : "thousand",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "inhabitants/km2",
+    "original_value" : "population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "last 10 years",
+    "original_value" : "decade",
+    "Wikidata_ID" : "Q39911"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Autonomous community",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourist accommodation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "List of regions of Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Vardar planning region",
+    "original_value" : "Vardar Region",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural land",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "arable land",
+    "original_value" : "Arable land",
+    "Wikidata_ID" : "Q843920"
+  }, {
+    "originalKey" : "pastures",
+    "original_value" : "Pasture",
+    "Wikidata_ID" : "Q30121"
+  }, {
+    "originalKey" : "vineyards",
+    "original_value" : "Vineyard",
+    "Wikidata_ID" : "Q22715"
+  }, {
+    "originalKey" : "wineries",
+    "original_value" : "Winery",
+    "Wikidata_ID" : "Q156362"
+  }, {
+    "originalKey" : "wine",
+    "original_value" : "Wine",
+    "Wikidata_ID" : "Q282"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Maleshevski mountain",
+    "original_value" : "Maleshevo Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Traditional and Innovative",
+    "original_value" : "Traditional and innovative value chain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "originalKey" : "technology",
+    "original_value" : "Technology",
+    "Wikidata_ID" : "Q11016"
+  }, {
+    "originalKey" : "production",
+    "original_value" : "Production",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "distribution",
+    "original_value" : "Distribution",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "originalKey" : "natural land",
+    "original_value" : "Natural land",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "local assets",
+    "original_value" : "Local assets",
+    "Wikidata_ID" : ""
+  } ]
+} ]
