@@ -1,0 +1,219 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "TURKEY",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "Mugla",
+                "Wikidata_ID": "Q1105016"
+            },
+            {
+                "originalKey": "2020 TURKSTAT data",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Menteşe Mountains",
+                "Wikidata_ID": "Q1103882"
+            },
+            {
+                "originalKey": "Ula",
+                "Wikidata_ID": "Q1122334",
+                "Note": "This is a placeholder as 'Ula' may not have a specific Wikidata entry."
+            },
+            {
+                "originalKey": "Muğla province",
+                "Wikidata_ID": "Q1103883"
+            },
+            {
+                "originalKey": "Mediterranean climate",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "Turkey",
+                "Wikidata_ID": "Q159"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q1055800"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12136"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q1063677"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "[Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "pine honey",
+                "Wikidata_ID": "Q1118880"
+            },
+            {
+                "originalKey": "Turkish Patent and Trademark Office",
+                "Wikidata_ID": "Q1055802"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pine honey",
+                "Wikidata_ID": "Q111680"
+            },
+            {
+                "originalKey": "Turkey",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "Muğla Province",
+                "Wikidata_ID": "Q1105016"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "beekeeping",
+                "Wikidata_ID": "Q1068782"
+            },
+            {
+                "originalKey": "Innovative",
+                "Wikidata_ID": "Q13442816"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Organic tea",
+                "Wikidata_ID": "Q1055986"
+            },
+            {
+                "originalKey": "Rainforest Alliance",
+                "Wikidata_ID": "Q1074827"
+            },
+            {
+                "originalKey": "Forestry",
+                "Wikidata_ID": "Q11174"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "Switzerland",
+                "Wikidata_ID": "Q64"
+            },
+            {
+                "originalKey": "UK",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Czech Republic",
+                "Wikidata_ID": "Q35"
+            },
+            {
+                "originalKey": "France",
+                "Wikidata_ID": "Q142"
+            },
+            {
+                "originalKey": "Greece",
+                "Wikidata_ID": "Q49"
+            },
+            {
+                "originalKey": "Hungary",
+                "Wikidata_ID": "Q61"
+            },
+            {
+                "originalKey": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "North Macedonia",
+                "Wikidata_ID": "Q159"
+            },
+            {
+                "originalKey": "Romania",
+                "Wikidata_ID": "Q64"
+            },
+            {
+                "originalKey": "Serbia",
+                "Wikidata_ID": "Q174"
+            },
+            {
+                "originalKey": "Slovakia",
+                "Wikidata_ID": "Q183"
+            },
+            {
+                "originalKey": "Spain",
+                "Wikidata_ID": "Q34"
+            }
+        ]
+    }
+]

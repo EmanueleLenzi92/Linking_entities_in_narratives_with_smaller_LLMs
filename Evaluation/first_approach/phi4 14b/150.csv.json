@@ -1,0 +1,203 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "ITALY",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "UNIMOL",
+                "Wikidata_ID": "Q106470580"
+            },
+            {
+                "originalKey": "UNIPI",
+                "Wikidata_ID": "Q106470581"
+            },
+            {
+                "originalKey": "Amatrice",
+                "Wikidata_ID": "Q1053577"
+            },
+            {
+                "originalKey": "Honey of Amatrice (Miele di Amatrice)",
+                "Wikidata_ID": "Q110123580"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Central Apennines",
+                "Wikidata_ID": "Q105580"
+            },
+            {
+                "originalKey": "Lazio region",
+                "Wikidata_ID": "Q1696"
+            },
+            {
+                "originalKey": "Amatrice",
+                "Wikidata_ID": "Q168965"
+            },
+            {
+                "originalKey": "province of Rieti",
+                "Wikidata_ID": "Q105581"
+            },
+            {
+                "originalKey": "Rieti",
+                "Wikidata_ID": "Q1697"
+            },
+            {
+                "originalKey": "Abruzzo region",
+                "Wikidata_ID": "Q1689"
+            },
+            {
+                "originalKey": "National park of Gran Sasso e Monti della Laga",
+                "Wikidata_ID": "Q105582"
+            },
+            {
+                "originalKey": "Montana del Velino community",
+                "Wikidata_ID": "Q1100122"
+            },
+            {
+                "originalKey": "Club of Borghi più belli d'Italia",
+                "Wikidata_ID": "Q1100123"
+            },
+            {
+                "originalKey": "spaghetti amatriciana",
+                "Wikidata_ID": "Q105583"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q1055980"
+            },
+            {
+                "originalKey": "inhabitants/km2",
+                "Wikidata_ID": "Q11173",
+                "Note": "This is a unit of measurement, not an entity.\n        }\n    ]"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12136"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q1063677"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q1074100"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12136"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "beekeeping farm",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "honey certificate of origin",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Municipality of Amatrice",
+                "Wikidata_ID": "Q110501"
+            },
+            {
+                "originalKey": "Adoption of honey of Amatrice (Mielene di Amatric) certificate",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Amatrice",
+                "Wikidata_ID": "Q119019"
+            },
+            {
+                "originalKey": "organic honey",
+                "Wikidata_ID": "Q11174"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "honey production",
+                "Wikidata_ID": "Q105580"
+            },
+            {
+                "originalKey": "plants' biological cycles",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "bees",
+                "Wikidata_ID": "Q159786"
+            },
+            {
+                "originalKey": "honey market",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Municipality of Amatrice",
+                "Wikidata_ID": "Q1055803"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Miele di Amatrice",
+                "Wikidata_ID": "Q110680580"
+            },
+            {
+                "originalKey": "Amatrice",
+                "Wikidata_ID": "Q1114440"
+            }
+        ]
+    }
+]

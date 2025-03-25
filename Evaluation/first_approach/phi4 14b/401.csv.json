@@ -1,0 +1,101 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SWITZERLAND",
+                "Wikidata_ID": "Q64"
+            },
+            {
+                "originalKey": "Honey",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "Alps",
+                "Wikidata_ID": "Q1860"
+            },
+            {
+                "originalKey": "Pro Montagna",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q1055980"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12136"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q6256"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12136"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q515"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q11173"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bees",
+                "Wikidata_ID": "Q212"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q7432"
+            }
+        ]
+    }
+]

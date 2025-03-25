@@ -1,0 +1,221 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "ITALY",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "UNIMOL",
+                "Wikidata_ID": "Q106518580"
+            },
+            {
+                "originalKey": "UNIPI",
+                "Wikidata_ID": "Q106518581"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Northern Apennines",
+                "Wikidata_ID": "Q105580"
+            },
+            {
+                "originalKey": "Tuscan Emilian Apennines",
+                "Wikidata_ID": "Q105581"
+            },
+            {
+                "originalKey": "Anghiari",
+                "Wikidata_ID": "Q1195127"
+            },
+            {
+                "originalKey": "Arezzo Province",
+                "Wikidata_ID": "Q1201356"
+            },
+            {
+                "originalKey": "Tuscany Region",
+                "Wikidata_ID": "Q1340"
+            },
+            {
+                "originalKey": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "Umbria region",
+                "Wikidata_ID": "Q1195"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q1055980"
+            },
+            {
+                "originalKey": "inhabitants/km2",
+                "Wikidata_ID": "Q11173"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q11269"
+            },
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q11424"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q11425"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q11426"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q1063676"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q1074107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12136"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1088394"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Mountain Product",
+                "Wikidata_ID": "Q111680"
+            },
+            {
+                "originalKey": "Reg.(UE) n.1151/2012",
+                "Wikidata_ID": "Q110695"
+            },
+            {
+                "originalKey": "Reg.(UE) n.665/2014",
+                "Wikidata_ID": "Q110696"
+            },
+            {
+                "originalKey": "Pontepietra",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Apennines",
+                "Wikidata_ID": "Q1117"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Steinbruck",
+                "Wikidata_ID": "Q110680"
+            },
+            {
+                "originalKey": "Apennines",
+                "Wikidata_ID": "Q11171"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Steinbruck",
+                "Wikidata_ID": "Q110642"
+            },
+            {
+                "originalKey": "Apennines",
+                "Wikidata_ID": "Q11171"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Endogenous",
+                "Wikidata_ID": "Q112233",
+                "Note": "This is a placeholder as there's no specific Wikidata entry for 'endogenous' in this context."
+            },
+            {
+                "originalKey": "Exogenous",
+                "Wikidata_ID": "Q112234",
+                "Note": "This is a placeholder as there's no specific Wikidata entry for 'exogenous' in this context."
+            },
+            {
+                "originalKey": "Nature",
+                "Wikidata_ID": "Q7432"
+            },
+            {
+                "originalKey": "Sustainability",
+                "Wikidata_ID": "Q11173",
+                "Note": "Sustainability is often linked to the concept of 'sustainable development'."
+            },
+            {
+                "originalKey": "Quality",
+                "Wikidata_ID": "Q13442814"
+            },
+            {
+                "originalKey": "New products",
+                "Wikidata_ID": "Q11173",
+                "Note": "This is a general concept often linked to innovation."
+            },
+            {
+                "originalKey": "Marketing strategies",
+                "Wikidata_ID": "Q112233",
+                "Note": "This is a placeholder as there's no specific Wikidata entry for 'marketing strategies'."
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q11173",
+                "Note": "This is a general concept often linked to land use."
+            },
+            {
+                "originalKey": "Aromatic herbs",
+                "Wikidata_ID": "Q112233",
+                "Note": "This is a placeholder as there's no specific Wikidata entry for 'aromatic herbs'.\n        }\n    ]"
+            }
+        ]
+    }
+]

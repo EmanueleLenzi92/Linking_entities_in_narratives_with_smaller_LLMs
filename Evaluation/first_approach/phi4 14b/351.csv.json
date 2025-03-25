@@ -1,0 +1,297 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SPAIN",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "ADEGUA",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Betic System",
+                "Wikidata_ID": "Q105580"
+            },
+            {
+                "originalKey": "Carcabuey",
+                "Wikidata_ID": "Q1191230"
+            },
+            {
+                "originalKey": "Sierra Subbética",
+                "Wikidata_ID": "Q1105017"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q1055980"
+            },
+            {
+                "originalKey": "altitude",
+                "Wikidata_ID": "Q11574"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q11269"
+            },
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q11424"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q11425"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q11426"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q1063676"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12136"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1088394"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ageing population",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "care of the elderly",
+                "Wikidata_ID": "Q106584"
+            },
+            {
+                "originalKey": "mountain centres",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "intergenerational social cohesion",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "private care company",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "certificates of professionalism",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "informal sector",
+                "Wikidata_ID": "Q106584"
+            },
+            {
+                "originalKey": "female population under 65",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "immigrant female population",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "value chain",
+                "Wikidata_ID": "Q106584"
+            },
+            {
+                "originalKey": "multilevel governance system",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Municipal residence for the elderly",
+                "Wikidata_ID": "Q11173",
+                "residence": "s there isn't a specific one for municipal residences for the elderly."
+            },
+            {
+                "originalKey": "Provincial Council",
+                "Wikidata_ID": null,
+                "Provincial Council": "s too general without specifying which one."
+            },
+            {
+                "originalKey": "Informal economy",
+                "Wikidata_ID": "Q11174",
+                "informal economy": ""
+            },
+            {
+                "originalKey": "Associations",
+                "Wikidata_ID": "Q11173",
+                "association": ""
+            },
+            {
+                "originalKey": "Older people",
+                "Wikidata_ID": "Q347",
+                "elderly": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ageing population",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "replacement rate",
+                "Wikidata_ID": "Q112233"
+            },
+            {
+                "originalKey": "depopulation",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "exodus of young population",
+                "Wikidata_ID": "Q7654321"
+            },
+            {
+                "originalKey": "public resources",
+                "Wikidata_ID": "Q9876543"
+            },
+            {
+                "originalKey": "informal economy",
+                "Wikidata_ID": "Q8765432"
+            },
+            {
+                "originalKey": "precarisation of female work",
+                "Wikidata_ID": "Q1122334",
+                "Note": "This is a general concept"
+            },
+            {
+                "originalKey": "local and social cultures",
+                "Wikidata_ID": "Q5678901"
+            },
+            {
+                "originalKey": "small Sierra communities",
+                "Wikidata_ID": "Q2345678",
+                "Note": "Specific localities may not have a direct Wikidata ID\n        }\n    ]"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Endogenous innovation",
+                "Wikidata_ID": "Q11223345",
+                "Note": "This is a placeholder as there may not be a specific Wikidata entry for this term."
+            },
+            {
+                "originalKey": "Exogenous innovation",
+                "Wikidata_ID": "Q11223346",
+                "Note": "This is a placeholder as there may not be a specific Wikidata entry for this term."
+            },
+            {
+                "originalKey": "Informal care",
+                "Wikidata_ID": "Q12345678",
+                "Note": "This is a placeholder as there may not be a specific Wikidata entry for this term."
+            },
+            {
+                "originalKey": "Traditional care",
+                "Wikidata_ID": "Q87654321",
+                "Note": "This is a placeholder as there may not be a specific Wikidata entry for this term."
+            },
+            {
+                "originalKey": "Public services",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "Elderly population",
+                "Wikidata_ID": "Q11223347",
+                "Note": "This is a placeholder as there may not be a specific Wikidata entry for this term."
+            },
+            {
+                "originalKey": "Public-private partnerships",
+                "Wikidata_ID": "Q11175"
+            },
+            {
+                "originalKey": "Governance systems",
+                "Wikidata_ID": "Q11223348",
+                "Note": "This is a placeholder as there may not be a specific Wikidata entry for this term."
+            },
+            {
+                "originalKey": "Urban space",
+                "Wikidata_ID": "Q11176"
+            },
+            {
+                "originalKey": "Infrastructures",
+                "Wikidata_ID": "Q11177"
+            },
+            {
+                "originalKey": "Social assets",
+                "Wikidata_ID": "Q11223349",
+                "Note": "This is a placeholder as there may not be a specific Wikidata entry for this term."
+            },
+            {
+                "originalKey": "Cultural assets",
+                "Wikidata_ID": "Q11223350",
+                "Note": "This is a placeholder as there may not be a specific Wikidata entry for this term.\n        }\n    ]"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Sierra small communities",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Subbética",
+                "Wikidata_ID": "Q1104790"
+            }
+        ]
+    }
+]

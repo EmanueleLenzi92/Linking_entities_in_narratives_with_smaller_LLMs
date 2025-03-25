@@ -1,0 +1,270 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SCOTLAND",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "Highlands and Islands of Scotland",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "Wikidata_ID": "Q1699"
+            },
+            {
+                "originalKey": "Highland Game",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Highlands and Islands",
+                "Wikidata_ID": "Q177580"
+            },
+            {
+                "originalKey": "RR9",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Eastern Scotland",
+                "Wikidata_ID": "Q1114880"
+            },
+            {
+                "originalKey": "NUTS2",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "Wikidata_ID": "Q177582"
+            },
+            {
+                "originalKey": "Tay",
+                "Wikidata_ID": "Q1769"
+            },
+            {
+                "originalKey": "Earn",
+                "Wikidata_ID": "Q1800846"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q1055980"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q112233"
+            },
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q7654321"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q9876543"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q10559"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12136"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1088394"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scotland",
+                "Wikidata_ID": "Q222"
+            },
+            {
+                "originalKey": "Deer stalking",
+                "Wikidata_ID": "Q1068782"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "Wikidata_ID": "Q177580"
+            },
+            {
+                "originalKey": "Atholl estate",
+                "Wikidata_ID": "Q1100120"
+            },
+            {
+                "originalKey": "Blair Atholl",
+                "Wikidata_ID": "Q1068783"
+            },
+            {
+                "originalKey": "Glen Lyon",
+                "Wikidata_ID": "Q1068784"
+            },
+            {
+                "originalKey": "Scottish Quality Wild Venison",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "deer",
+                "Wikidata_ID": "Q152"
+            },
+            {
+                "originalKey": "grouse",
+                "Wikidata_ID": "Q154"
+            },
+            {
+                "originalKey": "wildlife conservation organisations",
+                "Wikidata_ID": "Q1055982"
+            },
+            {
+                "originalKey": "ponies",
+                "Wikidata_ID": "Q1523"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "sheep",
+                "Wikidata_ID": "Q152"
+            },
+            {
+                "originalKey": "COVID",
+                "Wikidata_ID": "Q965063"
+            },
+            {
+                "originalKey": "hillwalking",
+                "Wikidata_ID": "Q1055982"
+            },
+            {
+                "originalKey": "mountain hares",
+                "Wikidata_ID": "Q1595805"
+            },
+            {
+                "originalKey": "gorse",
+                "Wikidata_ID": "Q15245"
+            },
+            {
+                "originalKey": "deer",
+                "Wikidata_ID": "Q1346"
+            },
+            {
+                "originalKey": "grouse shooting",
+                "Wikidata_ID": "Q1055983"
+            },
+            {
+                "originalKey": "raptors",
+                "Wikidata_ID": "Q1595804"
+            },
+            {
+                "originalKey": "venison",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "Brexit",
+                "Wikidata_ID": "Q1985727"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "drones",
+                "Wikidata_ID": "Q11712"
+            },
+            {
+                "originalKey": "camera traps",
+                "Wikidata_ID": "Q1055802"
+            },
+            {
+                "originalKey": "thermal imaging",
+                "Wikidata_ID": "Q1074827"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q1086424"
+            },
+            {
+                "originalKey": "Cultural assets",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Highland",
+                "Wikidata_ID": "Q177"
+            },
+            {
+                "originalKey": "Aberdeenshire",
+                "Wikidata_ID": "Q1770"
+            },
+            {
+                "originalKey": "Badenoch and Strathspey",
+                "Wikidata_ID": "Q1781"
+            },
+            {
+                "originalKey": "Scotland",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "North East England",
+                "Wikidata_ID": "Q1772"
+            },
+            {
+                "originalKey": "North West England",
+                "Wikidata_ID": "Q1773"
+            }
+        ]
+    }
+]

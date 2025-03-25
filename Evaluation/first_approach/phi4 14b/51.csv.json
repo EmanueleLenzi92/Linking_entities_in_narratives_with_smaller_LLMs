@@ -1,0 +1,179 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "Wikidata_ID": "Q28"
+            },
+            {
+                "originalKey": "VC 10 CZ",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Giant Mountains",
+                "Wikidata_ID": "Q105580"
+            },
+            {
+                "originalKey": "Trutnov",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "Kralovehradecky",
+                "Wikidata_ID": "Q1068406"
+            },
+            {
+                "originalKey": "Czech Republic",
+                "Wikidata_ID": "Q28"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q1055980"
+            },
+            {
+                "originalKey": "Inhabitants/km2",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q11269"
+            },
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q11424"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q11425"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q11426"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q1063677"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12140"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "mountain regions",
+                "Wikidata_ID": "Q1067"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "traditional knowledge",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "product labels",
+                "Wikidata_ID": "Q11236"
+            },
+            {
+                "originalKey": "cultural traits",
+                "Wikidata_ID": "Q11424"
+            },
+            {
+                "originalKey": "mountain area",
+                "Wikidata_ID": "Q11173"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Herb liquers",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "mainstream food markets",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "valorization of the product",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "marketing strategy",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Natural and cultural",
+                "Wikidata_ID": null,
+                "include": "Natural: Q10864 (Natural environment)\n                               // - Cultural: Q11173 (Cultural heritage)\n        }\n    ]"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "natural (tangible) resources",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "mountain region",
+                "Wikidata_ID": "Q10668"
+            }
+        ]
+    }
+]

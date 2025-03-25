@@ -1,0 +1,294 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "Wikidata_ID": "Q16"
+            },
+            {
+                "originalKey": "ALMO Steirisches Almochsenfleisch",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Steirische Bergland Marktgemeinschaft",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Almenland Marketing GmbH",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Austrian Program for Environmentally Sound Agriculture (ÖPUL)",
+                "Wikidata_ID": "Q110680"
+            },
+            {
+                "originalKey": "Genussregion Almenland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "AgrarMarkt Austria",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "Wikidata_ID": "Q1056"
+            },
+            {
+                "originalKey": "Weiz",
+                "Wikidata_ID": "Q1106887"
+            },
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q1120659"
+            },
+            {
+                "originalKey": "Styrian alpine pasture region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "limestone",
+                "Wikidata_ID": "Q12345"
+            },
+            {
+                "originalKey": "phyllite",
+                "Wikidata_ID": "Q12456"
+            },
+            {
+                "originalKey": "slate",
+                "Wikidata_ID": "Q12567"
+            },
+            {
+                "originalKey": "greywacke",
+                "Wikidata_ID": "Q12678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q1055980"
+            },
+            {
+                "originalKey": "altitude",
+                "Wikidata_ID": "Q11574"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q112233"
+            },
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q7654321"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q9876543"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q1063676"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12136"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1088394"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "alp oxen farmers association",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "LEADER-region Almenland",
+                "Wikidata_ID": "Q110680"
+            },
+            {
+                "originalKey": "Energieregion Weiz-Gleisdorf",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Austrian animal welfare NGO",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "regional slaughter house",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "sheep farmers",
+                "Wikidata_ID": "Q10670"
+            },
+            {
+                "originalKey": "free range pig farmers",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "local butcher",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "regional development",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "ALMO",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "landscape",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "(hiking) tourism",
+                "Wikidata_ID": "Q10578"
+            },
+            {
+                "originalKey": "pasture farming",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "climate",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "drought",
+                "Wikidata_ID": "Q11174",
+                "Note": "This is a general concept"
+            },
+            {
+                "originalKey": "heavy rain",
+                "Wikidata_ID": "Q11268",
+                "Note": "This is part of the general concept of extreme weather conditions"
+            },
+            {
+                "originalKey": "feedbase",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "vegetation",
+                "Wikidata_ID": "Q11174",
+                "Note": "This is a general term for plant life"
+            },
+            {
+                "originalKey": "women led farms",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Endogenous",
+                "Wikidata_ID": "Q105580"
+            },
+            {
+                "originalKey": "Exogenous",
+                "Wikidata_ID": "Q105581"
+            },
+            {
+                "originalKey": "ALMO",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LEADER",
+                "Wikidata_ID": "Q1068782"
+            },
+            {
+                "originalKey": "System Haberl",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pasture farming",
+                "Wikidata_ID": "Q11173",
+                "Note": "This is a general term for Value Chain, specific pasture farming may not have a direct Wikidata ID.\n        }\n    ]"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Lower Austria",
+                "Wikidata_ID": "Q1103"
+            },
+            {
+                "originalKey": "NUTS-II AT 12",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Carinthia",
+                "Wikidata_ID": "Q1116"
+            },
+            {
+                "originalKey": "NUTS-II AT 21",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Austria",
+                "Wikidata_ID": "Q28"
+            }
+        ]
+    }
+]

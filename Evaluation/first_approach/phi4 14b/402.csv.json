@@ -1,0 +1,161 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SWITZERLAND",
+                "Wikidata_ID": "Q64"
+            },
+            {
+                "originalKey": "Alpine tourism",
+                "Wikidata_ID": "Q1055806"
+            },
+            {
+                "originalKey": "hotels",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "restaurants",
+                "Wikidata_ID": "Q11424"
+            },
+            {
+                "originalKey": "ski lifts",
+                "Wikidata_ID": "Q1055807"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q1055806"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12136"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q6256"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12136"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q515"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "alps",
+                "Wikidata_ID": "Q1549"
+            },
+            {
+                "originalKey": "VC-systems",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "tourism",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q7830"
+            },
+            {
+                "originalKey": "mountains",
+                "Wikidata_ID": "Q1860"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Endogenous",
+                "Wikidata_ID": "Q112018"
+            },
+            {
+                "originalKey": "Exogenous",
+                "Wikidata_ID": "Q112019"
+            },
+            {
+                "originalKey": "touristic attractions",
+                "Wikidata_ID": "Q111769"
+            },
+            {
+                "originalKey": "skiing",
+                "Wikidata_ID": "Q11424"
+            },
+            {
+                "originalKey": "New products",
+                "Wikidata_ID": "Q112018"
+            },
+            {
+                "originalKey": "New processes",
+                "Wikidata_ID": "Q112019"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q111769"
+            },
+            {
+                "originalKey": "New governance systems",
+                "Wikidata_ID": "Q11424"
+            },
+            {
+                "originalKey": "Landscape",
+                "Wikidata_ID": "Q112018"
+            },
+            {
+                "originalKey": "Natural assets",
+                "Wikidata_ID": "Q111769"
+            },
+            {
+                "originalKey": "social assets",
+                "Wikidata_ID": "Q11424"
+            },
+            {
+                "originalKey": "cultural assets",
+                "Wikidata_ID": "Q112018"
+            }
+        ]
+    }
+]

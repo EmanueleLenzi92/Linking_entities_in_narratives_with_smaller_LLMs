@@ -1,0 +1,200 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Pultost",
+                "Wikidata_ID": "Q1068782"
+            },
+            {
+                "originalKey": "cow's milk",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "rennet",
+                "Wikidata_ID": "Q1071237"
+            },
+            {
+                "originalKey": "lactic bacteria",
+                "Wikidata_ID": "Q1068782",
+                "Note": "This is a general term; specific strains may not have individual Wikidata entries."
+            },
+            {
+                "originalKey": "caraway seeds",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "wooden containers",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Slowfood Foundation for Biodiversity",
+                "Wikidata_ID": "Q1068782",
+                "Note": "This is a general reference; specific entries may vary.\n        }\n    ]"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains - Scandes",
+                "Wikidata_ID": "Q1056"
+            },
+            {
+                "originalKey": "Lesja",
+                "Wikidata_ID": "Q1069617"
+            },
+            {
+                "originalKey": "Lesjaskogsvatnet (Lesjas lake)",
+                "Wikidata_ID": "Q1070019"
+            },
+            {
+                "originalKey": "Rauma river",
+                "Wikidata_ID": "Q1057646"
+            },
+            {
+                "originalKey": "Gudbrandsdalslågen river",
+                "Wikidata_ID": "Q1060007"
+            },
+            {
+                "originalKey": "Norwegian trout",
+                "Wikidata_ID": "Q1070020"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q1055980"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12136"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q1063677"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q515"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q12136"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "natural pastures",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "mountain pastures",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "Pultost producers",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cooperative Pultosts BA",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pultost Innlandet SA",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Slowfood Foundation",
+                "Wikidata_ID": "Q105580"
+            },
+            {
+                "originalKey": "traditional knowledge",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cattle management",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ecological system",
+                "Wikidata_ID": "Q22386"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "artisanal cheese making",
+                "Wikidata_ID": "Q11174"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Grassland",
+                "Wikidata_ID": "Q10869"
+            },
+            {
+                "originalKey": "cultural",
+                "Wikidata_ID": "Q1656682"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Etnedal",
+                "Wikidata_ID": "Q1069610"
+            },
+            {
+                "originalKey": "0541",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

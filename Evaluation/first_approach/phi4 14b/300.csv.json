@@ -1,0 +1,211 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "Wikidata_ID": "Q1067286"
+            },
+            {
+                "originalKey": "Barley",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "Roros",
+                "Wikidata_ID": "Q1058677"
+            },
+            {
+                "originalKey": "Rorosmat",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains",
+                "Wikidata_ID": "Q1056"
+            },
+            {
+                "originalKey": "Scandes",
+                "Wikidata_ID": "Q1056"
+            },
+            {
+                "originalKey": "Tynset",
+                "Wikidata_ID": "Q1069617"
+            },
+            {
+                "originalKey": "Østerdalen",
+                "Wikidata_ID": "Q1070249"
+            },
+            {
+                "originalKey": "Norway",
+                "Wikidata_ID": "Q39"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q1055980"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q112233"
+            },
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q7654321"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q9876543"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q10559"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12136"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1088394"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "extreme climate conditions",
+                "Wikidata_ID": "Q11268",
+                "Example": "Desert climate"
+            },
+            {
+                "originalKey": "e-commerce platform",
+                "Wikidata_ID": "Q180081"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Norway",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "barley",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "Rorosmat",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "fertilizers",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "pesticides",
+                "Wikidata_ID": "Q11236"
+            },
+            {
+                "originalKey": "barley",
+                "Wikidata_ID": "Q11998"
+            },
+            {
+                "originalKey": "wheat",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "Climate Change",
+                "Wikidata_ID": "Q7836"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Exogenous",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Rorosmat brand",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "e-commerce",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "Cropland",
+                "Wikidata_ID": "Q11268"
+            },
+            {
+                "originalKey": "Natural assets",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Social assets",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Cultural assets",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Paris",
+                "Wikidata_ID": "Q90"
+            },
+            {
+                "originalKey": "Eiffel Tower",
+                "Wikidata_ID": "Q7456"
+            }
+        ]
+    }
+]

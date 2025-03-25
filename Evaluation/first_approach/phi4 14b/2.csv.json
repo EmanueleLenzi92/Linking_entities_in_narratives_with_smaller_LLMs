@@ -1,0 +1,255 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "Wikidata_ID": "Q16"
+            },
+            {
+                "originalKey": "VC 02 AT",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Almenland small local diary",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Almenland Stollenkäse GmbH",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "South of Germany",
+                "Wikidata_ID": "Q1204"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "Wikidata_ID": "Q1056"
+            },
+            {
+                "originalKey": "Weiz",
+                "Wikidata_ID": "Q1106887"
+            },
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q1065182"
+            },
+            {
+                "originalKey": "Styrian alpine pasture region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "limestone",
+                "Wikidata_ID": "Q12345"
+            },
+            {
+                "originalKey": "phyllite",
+                "Wikidata_ID": "Q12456"
+            },
+            {
+                "originalKey": "slate",
+                "Wikidata_ID": "Q12567"
+            },
+            {
+                "originalKey": "greywacke",
+                "Wikidata_ID": "Q12678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q1055980"
+            },
+            {
+                "originalKey": "inhabitants/km2",
+                "Wikidata_ID": "Q11173",
+                "Note": "This is a unit of measurement, not an entity.\n        }\n    ]"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q112233"
+            },
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q7654321"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q9876543"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q1063676"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12136"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "cow",
+                "Wikidata_ID": "Q134428"
+            },
+            {
+                "originalKey": "sheep",
+                "Wikidata_ID": "Q15284"
+            },
+            {
+                "originalKey": "goat",
+                "Wikidata_ID": "Q15498"
+            },
+            {
+                "originalKey": "Almenland dairy",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q1106880"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q1106802"
+            },
+            {
+                "originalKey": "Genussregion",
+                "Wikidata_ID": "Q1116215"
+            },
+            {
+                "originalKey": "AgrarMarkt Austria",
+                "Wikidata_ID": "Q1122334"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q110680"
+            },
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "drought",
+                "Wikidata_ID": "Q1086"
+            },
+            {
+                "originalKey": "heavy rain",
+                "Wikidata_ID": "Q1074"
+            },
+            {
+                "originalKey": "alpine pasture areas",
+                "Wikidata_ID": "Q110680"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Endogenous and Exogenous",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cheese",
+                "Wikidata_ID": "Q11578"
+            },
+            {
+                "originalKey": "silver mine",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "Arzberger Ursteirer",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "USA",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "New products",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New processes",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pasture farming",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "Wikidata_ID": "Q1056"
+            },
+            {
+                "originalKey": "hay milk",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

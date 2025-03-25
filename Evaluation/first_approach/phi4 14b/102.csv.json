@@ -1,0 +1,243 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "Wikidata_ID": "Q49"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q1696"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "White Mountains",
+                "Wikidata_ID": "Q1068785"
+            },
+            {
+                "originalKey": "KISSAMOS",
+                "Wikidata_ID": "Q1105012"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q1690"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q1055980"
+            },
+            {
+                "originalKey": "inhabitants/km2",
+                "Wikidata_ID": "Q11173"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q11496"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q11175"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q10545"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q11175"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Kissamos mountains",
+                "Wikidata_ID": "Q1104702"
+            },
+            {
+                "originalKey": "Pefkothimaromelo",
+                "Wikidata_ID": "Q111123456",
+                "Note": "This is a placeholder as Pefkothimaromelo may not have an official Wikidata entry."
+            },
+            {
+                "originalKey": "PDO",
+                "Wikidata_ID": "Q105598"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q1696"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Topolia/Kissamos",
+                "Wikidata_ID": "Q1103880"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q1696"
+            },
+            {
+                "originalKey": "Minoan Civilization",
+                "Wikidata_ID": "Q1118945"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q1696"
+            },
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q2139"
+            },
+            {
+                "originalKey": "bees",
+                "Wikidata_ID": "Q159786"
+            },
+            {
+                "originalKey": "honey production",
+                "Wikidata_ID": "Q1055981"
+            },
+            {
+                "originalKey": "pesticides",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "Pefkothymaromelo",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Endogenous",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "apiculture",
+                "Wikidata_ID": "Q11236"
+            },
+            {
+                "originalKey": "pefkothymaromelo",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "PDO characterization",
+                "Wikidata_ID": "Q111888"
+            },
+            {
+                "originalKey": "Kissamos",
+                "Wikidata_ID": "Q1105015"
+            },
+            {
+                "originalKey": "honey",
+                "Wikidata_ID": "Q11929"
+            },
+            {
+                "originalKey": "New products",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "New governance systems",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Forestry",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Natural assets",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "social assets",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "cultural assets",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Greece",
+                "Wikidata_ID": "Q49"
+            },
+            {
+                "originalKey": "EU",
+                "Wikidata_ID": "Q458"
+            },
+            {
+                "originalKey": "eAmbrosia",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Peyfothymaromelo",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cretan honey",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,153 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SWITZERLAND",
+                "Wikidata_ID": "Q64"
+            },
+            {
+                "originalKey": "Engadiner",
+                "Wikidata_ID": "Q1104362"
+            },
+            {
+                "originalKey": "Spiegelschaf",
+                "Wikidata_ID": "Q1104363"
+            },
+            {
+                "originalKey": "Nera Verzasca",
+                "Wikidata_ID": "Q1104364"
+            },
+            {
+                "originalKey": "Capra Grigia",
+                "Wikidata_ID": "Q1104365"
+            },
+            {
+                "originalKey": "Black Alpine Pig",
+                "Wikidata_ID": "Q1104366"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q1055806"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12136"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q6256"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1086424"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12140"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q515"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "local situation",
+                "Wikidata_ID": null,
+                "Local situation": "s too broad and context-dependent to have a specific Wikidata entry."
+            },
+            {
+                "originalKey": "localness",
+                "Wikidata_ID": null,
+                "Localness": "s a general concept and does not have a specific Wikidata entry.\n        }\n    ]"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "veganism",
+                "Wikidata_ID": "Q105439"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q11173"
+            },
+            {
+                "originalKey": "Endogenous innovation",
+                "Wikidata_ID": "Q112233445",
+                "Note": "This is a placeholder as there may not be a specific Wikidata entry for this term."
+            },
+            {
+                "originalKey": "transnational organisation",
+                "Wikidata_ID": "Q11174"
+            },
+            {
+                "originalKey": "farmers",
+                "Wikidata_ID": "Q112",
+                "Note": "This is a general category for people working in agriculture."
+            },
+            {
+                "originalKey": "old animal breeds",
+                "Wikidata_ID": "Q112233445",
+                "Note": "This is a placeholder as there may not be a specific Wikidata entry for this term."
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q112233445",
+                "Note": "This is a placeholder as there may not be a specific Wikidata entry for this term."
+            },
+            {
+                "originalKey": "Grassland",
+                "Wikidata_ID": "Q11175"
+            },
+            {
+                "originalKey": "Natural assets",
+                "Wikidata_ID": "Q112233445",
+                "Note": "This is a placeholder as there may not be a specific Wikidata entry for this term."
+            },
+            {
+                "originalKey": "cultural assets",
+                "Wikidata_ID": "Q112233445",
+                "Note": "This is a placeholder as there may not be a specific Wikidata entry for this term.\n        }\n    ]"
+            }
+        ]
+    }
+]
