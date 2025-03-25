@@ -1,0 +1,216 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech_Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Supply_chain_management",
+                "Wikidata_ID": "Q492886"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Giant Mountains",
+                "original_value": "Krkonoše",
+                "Wikidata_ID": "Q214644"
+            },
+            {
+                "originalKey": "LAU 1 Trutnov",
+                "original_value": "Trutnov District",
+                "Wikidata_ID": "Q517734"
+            },
+            {
+                "originalKey": "NUTS 3 Kralovehradecky",
+                "original_value": "Královéhradecký Region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "National Park",
+                "original_value": "Krkonoše National Park",
+                "Wikidata_ID": "Q2043817"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local_Administrative_Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "km2",
+                "original_value": "Square_kilometre",
+                "Wikidata_ID": "Q712226"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita",
+                "Wikidata_ID": "Q558635"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative division",
+                "Wikidata_ID": "Q56061"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary_sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary_sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary_sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province_(administrative_division)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region_(geography)",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Village Council",
+                "Wikidata_ID": "Q701632"
+            },
+            {
+                "originalKey": "region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "traditional knowledge",
+                "original_value": "Traditional_knowledge",
+                "Wikidata_ID": "Q1428168"
+            },
+            {
+                "originalKey": "cultural traits",
+                "original_value": "Cultural_trait",
+                "Wikidata_ID": "Q7552789"
+            },
+            {
+                "originalKey": "symbolic value",
+                "original_value": "Symbolic_value",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Herb liquers",
+                "original_value": "Herbal liqueur",
+                "Wikidata_ID": "Q178780"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Traditional venture capital",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value_chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Land_use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Natural and cultural",
+                "original_value": "Cultural_heritage",
+                "Wikidata_ID": "Q210272"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value_chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "mountain region",
+                "original_value": "Mountain_region",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

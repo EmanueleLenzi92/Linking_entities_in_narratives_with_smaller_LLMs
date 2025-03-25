@@ -1,0 +1,116 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "tobacco",
+                "original_value": "Tobacco",
+                "Wikidata_ID": "Q1566"
+            },
+            {
+                "originalKey": "Prilep",
+                "original_value": "Prilep",
+                "Wikidata_ID": "Q157032"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "the Republic of North Macedonia",
+                "original_value": "North Macedonia",
+                "Wikidata_ID": "Q221"
+            },
+            {
+                "originalKey": "Strumica",
+                "original_value": "Strumica",
+                "Wikidata_ID": "Q48814"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Republic of Macedonia",
+                "original_value": "North Macedonia",
+                "Wikidata_ID": "Q221"
+            },
+            {
+                "originalKey": "tobacco",
+                "original_value": "Tobacco",
+                "Wikidata_ID": "Q1566"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "oriental tobacco",
+                "original_value": "Turkish tobacco",
+                "Wikidata_ID": "Q4357899"
+            },
+            {
+                "originalKey": "tobacco",
+                "original_value": "Tobacco",
+                "Wikidata_ID": "Q1566"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "land use",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            }
+        ]
+    }
+]

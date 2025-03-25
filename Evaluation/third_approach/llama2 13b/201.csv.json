@@ -1,0 +1,208 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "Moving",
+                "Wikidata_ID": "Q1047402"
+            },
+            {
+                "originalKey": "NMK",
+                "original_value": "NMK",
+                "Wikidata_ID": "Q1038553"
+            },
+            {
+                "originalKey": "Jaka Prilep",
+                "original_value": "Jaka Prilep",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Mountain Meleshevija",
+                "original_value": "Maleshevo Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Bregalnica",
+                "original_value": "Bregalnica River",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Strumica",
+                "original_value": "Strumica River",
+                "Wikidata_ID": "Q149214"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "km2",
+                "original_value": "square kilometer",
+                "Wikidata_ID": "Q712226"
+            },
+            {
+                "originalKey": "thousand",
+                "original_value": "thousand",
+                "Wikidata_ID": "Q43016"
+            },
+            {
+                "originalKey": "inhabitants/km2",
+                "original_value": "population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "last 10 years",
+                "original_value": "decade",
+                "Wikidata_ID": "Q39911"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Spain",
+                "Wikidata_ID": "Q162620"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Autonomous community",
+                "Wikidata_ID": "Q10742"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Bed places",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourist accommodation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Canada",
+                "Wikidata_ID": "Q2879"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions of Canada",
+                "Wikidata_ID": "Q795166"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Macedonia",
+                "original_value": "North Macedonia",
+                "Wikidata_ID": "Q221"
+            },
+            {
+                "originalKey": "tobacco production",
+                "original_value": "Tobacco cultivation",
+                "Wikidata_ID": "Q1566"
+            },
+            {
+                "originalKey": "oriental types",
+                "original_value": "Oriental tobacco",
+                "Wikidata_ID": "Q4357899"
+            },
+            {
+                "originalKey": "state policy",
+                "original_value": "Government policies and laws regarding tobacco",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "labor force",
+                "original_value": "Human labor in tobacco cultivation",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "oriental tobacco",
+                "original_value": "Oriental tobacco",
+                "Wikidata_ID": "Q4357899"
+            },
+            {
+                "originalKey": "agricultural products",
+                "original_value": "Agricultural product",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "smoking",
+                "original_value": "Smoking",
+                "Wikidata_ID": "Q662860"
+            },
+            {
+                "originalKey": "labor intensive",
+                "original_value": "Labor intensity",
+                "Wikidata_ID": "Q2992784"
+            },
+            {
+                "originalKey": "solid soil",
+                "original_value": "Soil",
+                "Wikidata_ID": "Q36133"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Natural, social and cultural",
+                "original_value": "Local assets",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,296 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "Aloe vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "Minoan Land",
+                "original_value": "Minoan Land",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cretan Diet Festival",
+                "original_value": "Cretan Diet Festival",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pancretan Network of Organic Farmers of Aloe Vera",
+                "original_value": "Pancretan Network of Organic Farmers of Aloe Vera",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Dikti Mountains",
+                "original_value": "Dikti_Mountains",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "VIANNOS",
+                "original_value": "Viannos",
+                "Wikidata_ID": "Q693813"
+            },
+            {
+                "originalKey": "Pinus brutia",
+                "original_value": "Pinus_brutia",
+                "Wikidata_ID": "Q628329"
+            },
+            {
+                "originalKey": "Quercus coccifera",
+                "original_value": "Quercus_coccifera",
+                "Wikidata_ID": "Q158178"
+            },
+            {
+                "originalKey": "Cupressus sempervirens",
+                "original_value": "Cupressus_sempervirens",
+                "Wikidata_ID": "Q147513"
+            },
+            {
+                "originalKey": "Quercus ilex",
+                "original_value": "Quercus_ilex",
+                "Wikidata_ID": "Q218155"
+            },
+            {
+                "originalKey": "Acer sempervirens",
+                "original_value": "Acer_sempervirens",
+                "Wikidata_ID": "Q1788044"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local_Administrative_Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "km2",
+                "original_value": "Square_kilometre",
+                "Wikidata_ID": "Q712226"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative division",
+                "Wikidata_ID": "Q56061"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary_sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary_sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary_sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province_(administrative_division)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region_(geography)",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "Dikti mountain landscape",
+                "original_value": "Dikti Mountains",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "Europe",
+                "original_value": "Europe",
+                "Wikidata_ID": "Q46"
+            },
+            {
+                "originalKey": "North America",
+                "original_value": "North America",
+                "Wikidata_ID": "Q49"
+            },
+            {
+                "originalKey": "Viannos",
+                "original_value": "Viannos",
+                "Wikidata_ID": "Q693813"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "agricultural sector",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "Dikti Mountain landscape",
+                "original_value": "Dikti Mountains",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "olives",
+                "original_value": "Olive oil",
+                "Wikidata_ID": "Q93165"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Dikti area",
+                "original_value": "Dikti Mountains",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "Viannos",
+                "original_value": "Viannos",
+                "Wikidata_ID": "Q693813"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Supply_chain",
+                "Wikidata_ID": "Q1824206"
+            },
+            {
+                "originalKey": "Aloe Vera plants",
+                "original_value": "Aloe_vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "Minoan Land",
+                "original_value": "Minoa_(region)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "organic and contract farming",
+                "original_value": "Organic_farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "green economy",
+                "original_value": "Green_economy",
+                "Wikidata_ID": "Q598188"
+            },
+            {
+                "originalKey": "nutraceuticals industries",
+                "original_value": "Nutraceutical",
+                "Wikidata_ID": "Q533025"
+            },
+            {
+                "originalKey": "pharmaceutical industries",
+                "original_value": "Pharmaceutical_industry",
+                "Wikidata_ID": "Q507443"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Andalusia, Spain",
+                "original_value": "Andalusia",
+                "Wikidata_ID": "Q5783"
+            }
+        ]
+    }
+]

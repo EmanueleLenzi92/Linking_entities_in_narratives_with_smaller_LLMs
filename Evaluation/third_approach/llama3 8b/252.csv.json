@@ -1,0 +1,326 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SCOTLAND HUTTON",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "VC 04 UK",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "Blair Atholl Estates",
+                "original_value": "Blair Atholl Estate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Glen Lyon",
+                "original_value": "Glen Lyon",
+                "Wikidata_ID": "Q2451934"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Highlands and Islands",
+                "original_value": "Highlands_and_Islands_of_Scotland",
+                "Wikidata_ID": "Q729025"
+            },
+            {
+                "originalKey": "Eastern Scotland",
+                "original_value": "East_Scottish_Regions",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth_and_Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "Tay",
+                "original_value": "River_Tay",
+                "Wikidata_ID": "Q19719"
+            },
+            {
+                "originalKey": "Earn",
+                "original_value": "River_Earn",
+                "Wikidata_ID": "Q1277544"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local_Administrative_Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "km2",
+                "original_value": "Square_kilometre",
+                "Wikidata_ID": "Q712226"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita",
+                "Wikidata_ID": "Q558635"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative division",
+                "Wikidata_ID": "Q56061"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary_sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary_sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary_sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province_(administrative_division)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region_(geography)",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scottish estates",
+                "original_value": "Estate (Scotland)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Deer stalking",
+                "original_value": "Stalking (hunting)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Atholl estate",
+                "original_value": "Blair Atholl",
+                "Wikidata_ID": "Q881156"
+            },
+            {
+                "originalKey": "Glen Lyon estate",
+                "original_value": "Glen Lyon",
+                "Wikidata_ID": "Q2451934"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "deer",
+                "original_value": "Red_deer",
+                "Wikidata_ID": "Q79794"
+            },
+            {
+                "originalKey": "grouse",
+                "original_value": "Grouse",
+                "Wikidata_ID": "Q201240"
+            },
+            {
+                "originalKey": "wildlife conservation organsiations",
+                "original_value": "Wildlife_conservation",
+                "Wikidata_ID": "Q766328"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "COVID",
+                "original_value": "COVID-19 pandemic",
+                "Wikidata_ID": "Q81068910"
+            },
+            {
+                "originalKey": "sheep",
+                "original_value": "Sheep",
+                "Wikidata_ID": "Q7368"
+            },
+            {
+                "originalKey": "hillwalking",
+                "original_value": "Hill walking",
+                "Wikidata_ID": "Q11347618"
+            },
+            {
+                "originalKey": "mountain hares",
+                "original_value": "Mountain hare",
+                "Wikidata_ID": "Q180035"
+            },
+            {
+                "originalKey": "gorse",
+                "original_value": "Ulex europaeus",
+                "Wikidata_ID": "Q161794"
+            },
+            {
+                "originalKey": "deer",
+                "original_value": "Deer",
+                "Wikidata_ID": "Q23390"
+            },
+            {
+                "originalKey": "raptors",
+                "original_value": "Raptor (bird)",
+                "Wikidata_ID": "Q48428"
+            },
+            {
+                "originalKey": "Brexit",
+                "original_value": "United Kingdom withdrawal from the European Union",
+                "Wikidata_ID": "Q7888194"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value_chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture_capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "drones",
+                "original_value": "Drone",
+                "Wikidata_ID": "Q298743"
+            },
+            {
+                "originalKey": "camera traps",
+                "original_value": "Camera_trap",
+                "Wikidata_ID": "Q1723004"
+            },
+            {
+                "originalKey": "GPS collars",
+                "original_value": "Global_Positioning_System#GPS_devices",
+                "Wikidata_ID": "Q18822"
+            },
+            {
+                "originalKey": "thermal imaging",
+                "original_value": "Thermal_imaging",
+                "Wikidata_ID": "Q624587"
+            },
+            {
+                "originalKey": "New governance systems",
+                "original_value": "Governance",
+                "Wikidata_ID": "Q1553864"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Land_use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Natural, Social and Cultural",
+                "original_value": "Sustainable_development#Triple_bottom_line",
+                "Wikidata_ID": "Q131201"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Highland",
+                "original_value": "Highlands_of_Scotland",
+                "Wikidata_ID": "Q106652"
+            },
+            {
+                "originalKey": "Islands NUT3 region of Scotland",
+                "original_value": "Scottish_Islands",
+                "Wikidata_ID": "Q587046"
+            },
+            {
+                "originalKey": "Aberdeenshire",
+                "original_value": "Aberdeenshire",
+                "Wikidata_ID": "Q189912"
+            },
+            {
+                "originalKey": "Badendoch",
+                "original_value": "Badenoch",
+                "Wikidata_ID": "Q45850"
+            },
+            {
+                "originalKey": "Strathsphey LAU1 area",
+                "original_value": "Strathspey",
+                "Wikidata_ID": "Q7622167"
+            },
+            {
+                "originalKey": "North east and North West England (NUTS3 regions)",
+                "original_value": "North_East_England_and_North_West_England",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

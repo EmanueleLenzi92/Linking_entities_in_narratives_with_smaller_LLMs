@@ -1,0 +1,256 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "TURKEY",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "pine nuts",
+                "original_value": "Pine nuts",
+                "Wikidata_ID": "Q212933"
+            },
+            {
+                "originalKey": "Çetin",
+                "original_value": "Nilüfer Çetin",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Öztürk",
+                "original_value": "Mehmet Öztürk",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Küçükerdem",
+                "original_value": "İbrahim Küçükerdem",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Bergama",
+                "original_value": "Bergama",
+                "Wikidata_ID": "Q737822"
+            },
+            {
+                "originalKey": "İzmir",
+                "original_value": "İzmir",
+                "Wikidata_ID": "Q35997"
+            },
+            {
+                "originalKey": "Kozak",
+                "original_value": "Kozak, Turkey",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Madra Mountains",
+                "original_value": "Madra Mountains",
+                "Wikidata_ID": "Q4833452"
+            },
+            {
+                "originalKey": "Pinus pinea",
+                "original_value": "Pinus pinea",
+                "Wikidata_ID": "Q106094"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "km2",
+                "original_value": "square kilometer",
+                "Wikidata_ID": "Q712226"
+            },
+            {
+                "originalKey": "thousand",
+                "original_value": "thousand",
+                "Wikidata_ID": "Q43016"
+            },
+            {
+                "originalKey": "inhabitants/km2",
+                "original_value": "population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "last 10 years",
+                "original_value": "decade",
+                "Wikidata_ID": "Q39911"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Spain",
+                "Wikidata_ID": "Q162620"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Autonomous community",
+                "Wikidata_ID": "Q10742"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Bed places",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourist accommodation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Peanut pine",
+                "original_value": "Pinus pinea",
+                "Wikidata_ID": "Q106094"
+            },
+            {
+                "originalKey": "Kozak plateau",
+                "original_value": "Madra Mountains",
+                "Wikidata_ID": "Q4833452"
+            },
+            {
+                "originalKey": "Bergama",
+                "original_value": "Bergama, Turkey",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Kozak",
+                "original_value": "Kozak pine nut",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Bergama",
+                "original_value": "Bergama, Turkey",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Kozak plateau",
+                "original_value": "Kozak Plateau",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pine seedlings",
+                "original_value": "Pine seedlings",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pests and diseases",
+                "original_value": "Pests and diseases",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "lack of qualified personnel",
+                "original_value": "Lack of qualified personnel",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "education",
+                "original_value": "Education",
+                "Wikidata_ID": "Q8434"
+            },
+            {
+                "originalKey": "inadequate advertisement and marketing",
+                "original_value": "Inadequate advertisement and marketing",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Agricultural land",
+                "Wikidata_ID": "Q3395383"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "pine nuts",
+                "original_value": "Pine nut",
+                "Wikidata_ID": "Q212933"
+            },
+            {
+                "originalKey": "MRLs",
+                "original_value": "Maximum Residue Limits",
+                "Wikidata_ID": "Q3241116"
+            }
+        ]
+    }
+]

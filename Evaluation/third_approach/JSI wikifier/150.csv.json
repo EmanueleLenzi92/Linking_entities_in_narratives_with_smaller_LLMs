@@ -1,0 +1,200 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Amatrice",
+                "original_value": "Amatrice",
+                "Wikidata_ID": "Q223427"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Central Apennines",
+                "original_value": "Apennine Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Lazio",
+                "original_value": "Lazio",
+                "Wikidata_ID": "Q1282"
+            },
+            {
+                "originalKey": "Amatrice",
+                "original_value": "Amatrice",
+                "Wikidata_ID": "Q223427"
+            },
+            {
+                "originalKey": "province of Rieti",
+                "original_value": "Province of Rieti",
+                "Wikidata_ID": "Q16267"
+            },
+            {
+                "originalKey": "Rieti",
+                "original_value": "Rieti",
+                "Wikidata_ID": "Q13396"
+            },
+            {
+                "originalKey": "central Italy",
+                "original_value": "Central Italy",
+                "Wikidata_ID": "Q1127320"
+            },
+            {
+                "originalKey": "Italy",
+                "original_value": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "Abruzzo",
+                "original_value": "Abruzzo",
+                "Wikidata_ID": "Q1284"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "farm",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Amatrice",
+                "original_value": "Amatrice",
+                "Wikidata_ID": "Q223427"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Amatrice",
+                "original_value": "Amatrice",
+                "Wikidata_ID": "Q223427"
+            },
+            {
+                "originalKey": "agriculture",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "nature park",
+                "original_value": "Nature park",
+                "Wikidata_ID": "Q728904"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "climate",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q7942"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "bees",
+                "original_value": "Bee",
+                "Wikidata_ID": "Q7391"
+            },
+            {
+                "originalKey": "Amatrice",
+                "original_value": "Amatrice",
+                "Wikidata_ID": "Q223427"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Amatrice",
+                "original_value": "Amatrice",
+                "Wikidata_ID": "Q223427"
+            },
+            {
+                "originalKey": "mountain farms",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            }
+        ]
+    }
+]

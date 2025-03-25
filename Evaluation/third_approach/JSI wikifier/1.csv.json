@@ -1,0 +1,429 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "ALMO",
+                "original_value": "Arms-length management organisation",
+                "Wikidata_ID": "Q4793851"
+            },
+            {
+                "originalKey": "ox",
+                "original_value": "Ox",
+                "Wikidata_ID": "Q473194"
+            },
+            {
+                "originalKey": "Almo",
+                "original_value": "Almo, Idaho",
+                "Wikidata_ID": "Q4733860"
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "marketed",
+                "original_value": "Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "meat",
+                "original_value": "Meat",
+                "Wikidata_ID": "Q10990"
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "business",
+                "original_value": "Business",
+                "Wikidata_ID": "Q4830453"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Central Eastern Alps",
+                "Wikidata_ID": "Q190348"
+            },
+            {
+                "originalKey": "Alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "Styrian",
+                "original_value": "Styria",
+                "Wikidata_ID": "Q41358"
+            },
+            {
+                "originalKey": "pasture",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            },
+            {
+                "originalKey": "Europe",
+                "original_value": "Europe",
+                "Wikidata_ID": "Q46"
+            },
+            {
+                "originalKey": "m",
+                "original_value": "Sea level",
+                "Wikidata_ID": "Q125465"
+            },
+            {
+                "originalKey": "limestone",
+                "original_value": "Limestone",
+                "Wikidata_ID": "Q23757"
+            },
+            {
+                "originalKey": "phyllite",
+                "original_value": "Phyllite",
+                "Wikidata_ID": "Q731880"
+            },
+            {
+                "originalKey": "slate",
+                "original_value": "Slate",
+                "Wikidata_ID": "Q207079"
+            },
+            {
+                "originalKey": "greywacke",
+                "original_value": "Greywacke",
+                "Wikidata_ID": "Q917545"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "oxen",
+                "original_value": "Ox",
+                "Wikidata_ID": "Q473194"
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "animal welfare",
+                "original_value": "Animal welfare",
+                "Wikidata_ID": "Q459426"
+            },
+            {
+                "originalKey": "NGO",
+                "original_value": "Non-governmental organization",
+                "Wikidata_ID": "Q79913"
+            },
+            {
+                "originalKey": "cooperation",
+                "original_value": "Cooperative",
+                "Wikidata_ID": "Q4539"
+            },
+            {
+                "originalKey": "Austrian",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "value chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "regional development agency",
+                "original_value": "Regional development agency",
+                "Wikidata_ID": "Q7309207"
+            },
+            {
+                "originalKey": "innovations",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "Business",
+                "original_value": "Business",
+                "Wikidata_ID": "Q4830453"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "slaughter",
+                "original_value": "Slaughterhouse",
+                "Wikidata_ID": "Q385557"
+            },
+            {
+                "originalKey": "sheep",
+                "original_value": "Sheep",
+                "Wikidata_ID": "Q7368"
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "free range",
+                "original_value": "Free range",
+                "Wikidata_ID": "Q1755357"
+            },
+            {
+                "originalKey": "pig",
+                "original_value": "Pig",
+                "Wikidata_ID": "Q787"
+            },
+            {
+                "originalKey": "butcher",
+                "original_value": "Butcher",
+                "Wikidata_ID": "Q329737"
+            },
+            {
+                "originalKey": "hiking",
+                "original_value": "Hiking",
+                "Wikidata_ID": "Q12014035"
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "pasture",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "changes in climate",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q7942"
+            },
+            {
+                "originalKey": "pasture",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            },
+            {
+                "originalKey": "meat",
+                "original_value": "Meat",
+                "Wikidata_ID": "Q10990"
+            },
+            {
+                "originalKey": "meat production",
+                "original_value": "Animal husbandry",
+                "Wikidata_ID": "Q80962"
+            },
+            {
+                "originalKey": "vegetation",
+                "original_value": "Vegetation",
+                "Wikidata_ID": "Q187997"
+            },
+            {
+                "originalKey": "cultivation",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "feed",
+                "original_value": "Forage",
+                "Wikidata_ID": "Q13377214"
+            },
+            {
+                "originalKey": "alpine pasture",
+                "original_value": "Alpine transhumance",
+                "Wikidata_ID": "Q14774083"
+            },
+            {
+                "originalKey": "income",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "social relations",
+                "original_value": "Social relation",
+                "Wikidata_ID": "Q853725"
+            },
+            {
+                "originalKey": "embedded",
+                "original_value": "Embeddedness",
+                "Wikidata_ID": "Q1079747"
+            },
+            {
+                "originalKey": "regional development",
+                "original_value": "Regional development",
+                "Wikidata_ID": "Q482379"
+            },
+            {
+                "originalKey": "knowledge",
+                "original_value": "Knowledge",
+                "Wikidata_ID": "Q9081"
+            },
+            {
+                "originalKey": "meat",
+                "original_value": "Meat",
+                "Wikidata_ID": "Q10990"
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "business",
+                "original_value": "Business",
+                "Wikidata_ID": "Q4830453"
+            },
+            {
+                "originalKey": "stables",
+                "original_value": "Stable",
+                "Wikidata_ID": "Q214252"
+            },
+            {
+                "originalKey": "free-range",
+                "original_value": "Free range",
+                "Wikidata_ID": "Q1755357"
+            },
+            {
+                "originalKey": "processes",
+                "original_value": "Scientific method",
+                "Wikidata_ID": "Q46857"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "land use",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "pasture",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            },
+            {
+                "originalKey": "cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Lower",
+                "original_value": "Lower Austria",
+                "Wikidata_ID": "Q42497"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "NUTS-II",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    }
+]

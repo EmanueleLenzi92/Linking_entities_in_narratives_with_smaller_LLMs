@@ -1,0 +1,241 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Supply chain",
+                "Wikidata_ID": "Q1824206"
+            },
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "original_value": "Scandinavian Airlines",
+                "Wikidata_ID": "Q187854"
+            },
+            {
+                "originalKey": "Roros",
+                "original_value": "Røros",
+                "Wikidata_ID": "Q131648592"
+            },
+            {
+                "originalKey": "Barley",
+                "original_value": "Barley",
+                "Wikidata_ID": "Q11577"
+            },
+            {
+                "originalKey": "Rorosmat",
+                "original_value": "Rørosmat",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains",
+                "original_value": "Scandes",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Tynset",
+                "original_value": "Tynset",
+                "Wikidata_ID": "Q488779"
+            },
+            {
+                "originalKey": "Østerdalen",
+                "original_value": "Østerdalen",
+                "Wikidata_ID": "Q308349"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local_Administrative_Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "km2",
+                "original_value": "Square_kilometre",
+                "Wikidata_ID": "Q712226"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita",
+                "Wikidata_ID": "Q558635"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative division",
+                "Wikidata_ID": "Q56061"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary_sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary_sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary_sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province_(administrative_division)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region_(geography)",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Ancient crop",
+                "original_value": "Quinoa",
+                "Wikidata_ID": "Q139925"
+            },
+            {
+                "originalKey": "Farmers",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            },
+            {
+                "originalKey": "Rorosmat",
+                "original_value": "Røros Mat",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "fertilizers",
+                "original_value": "Fertilizer",
+                "Wikidata_ID": "Q83323"
+            },
+            {
+                "originalKey": "pesticides",
+                "original_value": "Pesticide",
+                "Wikidata_ID": "Q131656"
+            },
+            {
+                "originalKey": "barley",
+                "original_value": "Barley",
+                "Wikidata_ID": "Q11577"
+            },
+            {
+                "originalKey": "wheat",
+                "original_value": "Wheat",
+                "Wikidata_ID": "Q15645384"
+            },
+            {
+                "originalKey": "Climate Change",
+                "original_value": "Global warming",
+                "Wikidata_ID": "Q125928"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value_chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Rorosmat",
+                "original_value": "Rorosmat",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Agricultural_land_use",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "value chain",
+                "original_value": "Value_chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "sustainability",
+                "original_value": "Sustainability",
+                "Wikidata_ID": "Q219416"
+            },
+            {
+                "originalKey": "climate change",
+                "original_value": "Climate_change",
+                "Wikidata_ID": "Q125928"
+            }
+        ]
+    }
+]

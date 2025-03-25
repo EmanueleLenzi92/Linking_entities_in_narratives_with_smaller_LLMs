@@ -1,0 +1,267 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "ITALY UNIMOL",
+                "original_value": "Università degli Studi di Milano",
+                "Wikidata_ID": "Q46210"
+            },
+            {
+                "originalKey": "UNIPI",
+                "original_value": "Università Politecnica delle Marche",
+                "Wikidata_ID": "Q1084409"
+            },
+            {
+                "originalKey": "Savigni",
+                "original_value": "null",
+                "Wikidata_ID": "Q1179138"
+            },
+            {
+                "originalKey": "cured meat factory",
+                "original_value": "Prosciutto di Parma",
+                "Wikidata_ID": "Q1065033"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Northern Apennines",
+                "original_value": "Apennine Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Tuscan Emilian Apennines",
+                "original_value": "Tuscan-Emilian Apennines",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Sambuca Pistoiese",
+                "original_value": "Sambuca Pistoiese",
+                "Wikidata_ID": "Q102725"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area (km2)",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "LAU",
+                "Wikidata_ID": "Q414916"
+            },
+            {
+                "originalKey": "population (in thousand)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "original_value": "Demography",
+                "Wikidata_ID": "Q37732"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "original_value": "Demography",
+                "Wikidata_ID": "Q37732"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Spain",
+                "Wikidata_ID": "Q162620"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Autonomous communities of Spain",
+                "Wikidata_ID": "Q10742"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Bollo IT",
+                "original_value": "Bollo (certification)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "IT R152E",
+                "original_value": "International Organization for Standardization",
+                "Wikidata_ID": "Q15028"
+            },
+            {
+                "originalKey": "CE ANAS",
+                "original_value": "Agence de l'Union européenne pour la gestion de la coopération dans les domaines de la recherche et de l'innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Japan Export",
+                "original_value": "Japan External Trade Organization",
+                "Wikidata_ID": "Q1364370"
+            },
+            {
+                "originalKey": "BioAgriCert",
+                "original_value": "BioAgriCert",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "AIAB",
+                "original_value": "Associazione Italiana per l'Agricoltura Biologica",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "INEQ",
+                "original_value": "Istituto di Valutazione della Qualità",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "TUV",
+                "original_value": "Technischer Überwachungsverein",
+                "Wikidata_ID": "Q659206"
+            },
+            {
+                "originalKey": "PGI",
+                "original_value": "Protected Geographical Indication",
+                "Wikidata_ID": "Q363268"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Suviana Lake",
+                "original_value": "Lake Suviana",
+                "Wikidata_ID": "Q3826053"
+            },
+            {
+                "originalKey": "Porretta",
+                "original_value": "Porretta",
+                "Wikidata_ID": "Q94983"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "local animal",
+                "original_value": "Animal husbandry",
+                "Wikidata_ID": "Q80962"
+            },
+            {
+                "originalKey": "international market demand",
+                "original_value": "International trade",
+                "Wikidata_ID": "Q178803"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "organic farm",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "certification",
+                "original_value": "Certification",
+                "Wikidata_ID": "Q374814"
+            },
+            {
+                "originalKey": "new marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            }
+        ]
+    }
+]

@@ -1,0 +1,326 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "Scotland Hutton",
+                "original_value": "Hutton, Scotland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Highlands and Islands of Scotland",
+                "original_value": "Highlands and Islands",
+                "Wikidata_ID": "Q729025"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "Blair Atholl Estates",
+                "original_value": "Blair Atholl",
+                "Wikidata_ID": "Q881156"
+            },
+            {
+                "originalKey": "Glen Lyon",
+                "original_value": "Glen Lyon",
+                "Wikidata_ID": "Q2451934"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Highlands and Islands",
+                "original_value": "Highlands and Islands",
+                "Wikidata_ID": "Q729025"
+            },
+            {
+                "originalKey": "Eastern Scotland",
+                "original_value": "Eastern Scotland",
+                "Wikidata_ID": "Q4391979"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "km2",
+                "original_value": "square kilometer",
+                "Wikidata_ID": "Q712226"
+            },
+            {
+                "originalKey": "inhabitants/km2",
+                "original_value": "population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "10 years",
+                "original_value": "decade",
+                "Wikidata_ID": "Q39911"
+            },
+            {
+                "originalKey": "percent",
+                "original_value": "percentage",
+                "Wikidata_ID": "Q11229"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces of Spain",
+                "Wikidata_ID": "Q162620"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Autonomous community",
+                "Wikidata_ID": "Q10742"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Regional",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Bed Places",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourist Accommodations",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural Holdings",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected Areas",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "deer stalking",
+                "original_value": "Deer stalking",
+                "Wikidata_ID": "Q16249440"
+            },
+            {
+                "originalKey": "Scottish Quality Wild Venison",
+                "original_value": "Scottish Quality Wild Venison",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Atholl estate",
+                "original_value": "Atholl Estates",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Blair Atholl",
+                "original_value": "Blair Atholl",
+                "Wikidata_ID": "Q881156"
+            },
+            {
+                "originalKey": "Glen Lyon estate",
+                "original_value": "Glen Lyon Estate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "deer",
+                "original_value": "Deer",
+                "Wikidata_ID": "Q23390"
+            },
+            {
+                "originalKey": "grouse",
+                "original_value": "Grouse",
+                "Wikidata_ID": "Q201240"
+            },
+            {
+                "originalKey": "stalking estates",
+                "original_value": "Shooting sport",
+                "Wikidata_ID": "Q206989"
+            },
+            {
+                "originalKey": "local communities",
+                "original_value": "Community",
+                "Wikidata_ID": "Q177634"
+            },
+            {
+                "originalKey": "hikers",
+                "original_value": "Hiking",
+                "Wikidata_ID": "Q12014035"
+            },
+            {
+                "originalKey": "wildlife conservation organisations",
+                "original_value": "Wildlife conservation",
+                "Wikidata_ID": "Q766328"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "sheep",
+                "original_value": "Sheep",
+                "Wikidata_ID": "Q7368"
+            },
+            {
+                "originalKey": "mountain hares",
+                "original_value": "Mountain hare",
+                "Wikidata_ID": "Q180035"
+            },
+            {
+                "originalKey": "gorse",
+                "original_value": "Gorse",
+                "Wikidata_ID": "Q393278"
+            },
+            {
+                "originalKey": "raptors",
+                "original_value": "Raptor",
+                "Wikidata_ID": "Q137956"
+            },
+            {
+                "originalKey": "venison",
+                "original_value": "Venison",
+                "Wikidata_ID": "Q2296872"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "drones",
+                "original_value": "Drone",
+                "Wikidata_ID": "Q298743"
+            },
+            {
+                "originalKey": "camera traps",
+                "original_value": "Camera trap",
+                "Wikidata_ID": "Q1723004"
+            },
+            {
+                "originalKey": "GPS collars",
+                "original_value": "GPS collar",
+                "Wikidata_ID": "Q5514344"
+            },
+            {
+                "originalKey": "thermal imaging",
+                "original_value": "Thermal imaging",
+                "Wikidata_ID": "Q624587"
+            },
+            {
+                "originalKey": "New governance systems",
+                "original_value": "Governance",
+                "Wikidata_ID": "Q1553864"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Natural, Social and Cultural",
+                "original_value": "Sustainability",
+                "Wikidata_ID": "Q219416"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Highland and Islands",
+                "original_value": "Highland and Islands",
+                "Wikidata_ID": "Q729025"
+            },
+            {
+                "originalKey": "Aberdeenshire",
+                "original_value": "Aberdeenshire",
+                "Wikidata_ID": "Q189912"
+            },
+            {
+                "originalKey": "Badendoch",
+                "original_value": "Badendoch",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Strathsphey",
+                "original_value": "Strathsphey",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

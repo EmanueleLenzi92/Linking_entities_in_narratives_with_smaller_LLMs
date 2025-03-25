@@ -1,0 +1,261 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SCOTLAND HUTTON",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "Caerphilly cheese",
+                "original_value": "Caerphilly cheese",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "Euopean Protected Georgaphical Indication",
+                "original_value": "Protected Designation of Origin",
+                "Wikidata_ID": "Q13439060"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "West Wales",
+                "original_value": "West Wales",
+                "Wikidata_ID": "Q3094812"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "original_value": "Caerphilly (county borough)",
+                "Wikidata_ID": "Q748065"
+            },
+            {
+                "originalKey": "Wales",
+                "original_value": "Wales",
+                "Wikidata_ID": "Q25"
+            },
+            {
+                "originalKey": "Cardiff",
+                "original_value": "Cardiff",
+                "Wikidata_ID": "Q10690"
+            },
+            {
+                "originalKey": "Newport",
+                "original_value": "Newport, Wales",
+                "Wikidata_ID": "Q101254"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "km2",
+                "original_value": "Square kilometre",
+                "Wikidata_ID": "Q712226"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita",
+                "Wikidata_ID": "Q558635"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Administrative division",
+                "Wikidata_ID": "Q56061"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary_sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary_sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary_sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province_(administrative_division)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region_(geography)",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "original_value": "Caerphilly_cheese",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "Somerset",
+                "original_value": "Somerset",
+                "Wikidata_ID": "Q23157"
+            },
+            {
+                "originalKey": "Wiltshire",
+                "original_value": "Wiltshire",
+                "Wikidata_ID": "Q23183"
+            },
+            {
+                "originalKey": "The Big Cheese",
+                "original_value": "The_Big_Cheese_(Caerphilly_festival)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "International Cheese Awards",
+                "original_value": "International_Cheese_Awards",
+                "Wikidata_ID": "Q6049165"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "original_value": "Caerphilly",
+                "Wikidata_ID": "Q909119"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "original_value": "Caerphilly_(cheese)",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "Big Cheese festival",
+                "original_value": "The Big Cheese (festival)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "PGI status",
+                "original_value": "Protected Geographical Indication",
+                "Wikidata_ID": "Q363268"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly",
+                "original_value": "Caerphilly_(cheese)",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "COVID",
+                "original_value": "COVID-19",
+                "Wikidata_ID": "Q84263196"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value_chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Caerphilly cheese",
+                "original_value": "Caerphilly_cheese",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "original_value": "Caerphilly_cheese",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "Somerset",
+                "original_value": "Somerset",
+                "Wikidata_ID": "Q23157"
+            },
+            {
+                "originalKey": "South Somerset LAU1",
+                "original_value": "South_Somerset_District",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Wiltshire LAU1",
+                "original_value": "Wiltshire",
+                "Wikidata_ID": "Q23183"
+            },
+            {
+                "originalKey": "England",
+                "original_value": "England",
+                "Wikidata_ID": "Q21"
+            }
+        ]
+    }
+]
