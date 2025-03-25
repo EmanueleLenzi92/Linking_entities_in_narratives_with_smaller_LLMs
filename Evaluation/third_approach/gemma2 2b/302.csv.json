@@ -1,0 +1,401 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "original_value": "Skandinavian UCO",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC 09 SCA",
+                "original_value": "Value Chain (VC) 09 SCA",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Undredal Stølsysteri SA",
+                "original_value": "Undredal Stølsysteri SA",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Slowfood Foundation for Biodiversity",
+                "original_value": "Slow Food Foundation for Biodiversity",
+                "Wikidata_ID": "Q335823"
+            },
+            {
+                "originalKey": "Brimost cheese",
+                "original_value": "Brimost Cheese",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Undredal Brown Cheese Presidium",
+                "original_value": "Presidium (Undredal Brown Cheese Presidium)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "SES",
+                "original_value": "Sustainable Development Goals (SDGs)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains - Scandes",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Aurland",
+                "original_value": "Aurland",
+                "Wikidata_ID": "Q486700"
+            },
+            {
+                "originalKey": "Sognefjorden",
+                "original_value": "Sognefjord",
+                "Wikidata_ID": "Q208495"
+            },
+            {
+                "originalKey": "West Norwegian Fjords of Geirangefjord and Nærøyfjord",
+                "original_value": "Geirangerfjord and Nærøyfjord",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Nærøyfjorden",
+                "original_value": "Nærøyfjord",
+                "Wikidata_ID": "Q212205"
+            },
+            {
+                "originalKey": "Undredal",
+                "original_value": "Undredal",
+                "Wikidata_ID": "Q1006480"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "1467.70",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "0",
+                "original_value": "Minimum altimetry",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1809",
+                "original_value": "Maximum altimetry",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1.781",
+                "original_value": "Population (in thousand)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1.21",
+                "original_value": "Population density (Inhabitants/km2) in the LAU",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "5.86%",
+                "original_value": "Population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "23.99",
+                "original_value": "Overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "9.70%",
+                "original_value": "Regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces in Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions in Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "average per capita income (EUR/year)",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year)",
+                "original_value": "Gross Domestic Product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total bed places (BPs)",
+                "original_value": "List of accommodations in the United States",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Regional government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "high reputation nationwide",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "long history of connectedness with the natural ecosystem",
+                "original_value": "",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cultural heritage",
+                "original_value": "Cultural Heritage",
+                "Wikidata_ID": "Q210272"
+            },
+            {
+                "originalKey": "identity",
+                "original_value": "Identity",
+                "Wikidata_ID": "Q227672"
+            },
+            {
+                "originalKey": "website",
+                "original_value": "Website",
+                "Wikidata_ID": "Q35127"
+            },
+            {
+                "originalKey": "online store",
+                "original_value": "Online Store",
+                "Wikidata_ID": "Q212930"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "natural pastures",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            },
+            {
+                "originalKey": "forage for the winter months",
+                "original_value": "Winter fodder",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "goats",
+                "original_value": "Goat",
+                "Wikidata_ID": "Q2934"
+            },
+            {
+                "originalKey": "Undfredal",
+                "original_value": "Undfredal",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "cultural assets",
+                "original_value": "Cultural heritage",
+                "Wikidata_ID": "Q210272"
+            },
+            {
+                "originalKey": "territorial identity of the inhabitants",
+                "original_value": "Identity",
+                "Wikidata_ID": "Q227672"
+            },
+            {
+                "originalKey": "road comunication",
+                "original_value": "Road communication",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local dairy production",
+                "original_value": "Dairy farming",
+                "Wikidata_ID": "Q14096331"
+            },
+            {
+                "originalKey": "cheese market",
+                "original_value": "Cheese market",
+                "Wikidata_ID": "Q2066998"
+            },
+            {
+                "originalKey": "Norsk Gardsost",
+                "original_value": "Norwegian Dairy Association",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Slowfood Presidium",
+                "original_value": "Slow Food Presidium",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "industrial dairies",
+                "original_value": "Dairy industry",
+                "Wikidata_ID": "Q637776"
+            },
+            {
+                "originalKey": "traditional cheeses",
+                "original_value": "Traditional cheesemaking",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture Capitalist",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Current and Predicted",
+                "original_value": "Challenge (business)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "original_value": "Business model",
+                "Wikidata_ID": "Q815823"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous Innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "website and e-commerce marketing",
+                "original_value": "E-commerce",
+                "Wikidata_ID": "Q484847"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing Strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Grassland and Natural land",
+                "original_value": "Land Use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Natural, social and cultural",
+                "original_value": "Local Assets",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sweden Jämtland Cellar-Matured Goat Cheese",
+                "original_value": "Jämtland cheese",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "NUTS3 SE322",
+                "original_value": "NUTS codes",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Presidium of the Slowfood Foundation for Biodiversity",
+                "original_value": "Slow Food",
+                "Wikidata_ID": "Q335823"
+            }
+        ]
+    }
+]

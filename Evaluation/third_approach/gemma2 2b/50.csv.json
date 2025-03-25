@@ -1,0 +1,451 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "MOVING Card ID",
+                "original_value": "Moving Card",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "EU PGI label",
+                "original_value": "European Protected Geographical Indication",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Ostrava",
+                "original_value": "Ostrava",
+                "Wikidata_ID": "Q8385"
+            },
+            {
+                "originalKey": "Vallachian region",
+                "original_value": "Vysocina",
+                "Wikidata_ID": "Q346210"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Javorníky/Beskydy",
+                "original_value": " Javorníky",
+                "Wikidata_ID": "Q1387301"
+            },
+            {
+                "originalKey": "Western Carpathian",
+                "original_value": "Carpathian Mountains",
+                "Wikidata_ID": "Q1288"
+            },
+            {
+                "originalKey": "LAU 1 Vsetín",
+                "original_value": "Vsetín LAU 1",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Mountain Reference Landscape (LAU 1 - Vsetín)",
+                "original_value": "Czech Republic Mountain Landscapes",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "nature protected area",
+                "original_value": "Protected areas of the Czech Republic",
+                "Wikidata_ID": "Q1418124"
+            },
+            {
+                "originalKey": "555 km2",
+                "original_value": "Area of Protected Areas in the Czech Republic",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "unique nature",
+                "original_value": "Nature Conservation in the Czech Republic",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism in the Czech Republic",
+                "Wikidata_ID": "Q1641451"
+            },
+            {
+                "originalKey": "nature protected area located in the region",
+                "original_value": "Protected areas of the Czech Republic",
+                "Wikidata_ID": "Q1418124"
+            },
+            {
+                "originalKey": "Europe",
+                "original_value": "European Union",
+                "Wikidata_ID": "Q458"
+            },
+            {
+                "originalKey": "extensive farming in perennial grassland, namely sheep and cattle",
+                "original_value": "Agriculture in the Czech Republic",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "1143",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "173",
+                "original_value": "Minimum altimetry",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1206",
+                "original_value": "Maximum altimetry",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "143.334",
+                "original_value": "Population (in thousand)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "125.4",
+                "original_value": "Population density (Inhabitants/km2) in the LAU",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "-0.95%",
+                "original_value": "Population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "131.62",
+                "original_value": "Overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "-1.49%",
+                "original_value": "Regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income (EUR/year) [Province]",
+                "original_value": "GDP per capita",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "average per capita income (EUR/year) [Region]",
+                "original_value": "GDP per capita",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross Domestic Product (GDP)",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary industry",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total bed places (BPs)",
+                "original_value": "List of accommodations in the United States",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "regional (Region)",
+                "original_value": "Regional government of the United States",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture in the United States",
+                "Wikidata_ID": "Q783770"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement (geography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "original_value": "Secondary industry",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "original_value": "Tertiary industry",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "EU Protected Geographical Indication (PGI) label",
+                "original_value": "Protected geographical indication",
+                "Wikidata_ID": "Q363268"
+            },
+            {
+                "originalKey": "regional product label",
+                "original_value": "Regional product label",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Valašský region",
+                "original_value": "Vlasky Region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "Italians (Vallachians)",
+                "original_value": "Vallachian people",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "case",
+                "original_value": "Case (food)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "foothills of Beskydy mountains",
+                "original_value": "Beskydy Mountains foothills",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "200 years",
+                "original_value": "200 years (time period)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pears",
+                "original_value": "Pear",
+                "Wikidata_ID": "Q434"
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "territorial identity",
+                "original_value": "Territorial identity",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "innovative VC in term of its marketing sing regional name and references to mountain ('tradittional cake from Vallachian region in Beskydy')",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vallachian region",
+                "original_value": "Valachia",
+                "Wikidata_ID": "Q171393"
+            },
+            {
+                "originalKey": "region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vallachian",
+                "original_value": "Valachian cake",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "original_value": "Beskydy Mountains",
+                "Wikidata_ID": "Q215573"
+            },
+            {
+                "originalKey": "frgále",
+                "original_value": "Frgale",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "fake products",
+                "original_value": "Counterfeiting",
+                "Wikidata_ID": "Q502918"
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "original_value": "Traditional vs. innovative",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous Innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "frgále",
+                "original_value": "Frägele",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "oven-done cake",
+                "original_value": "Oven-baked Cake",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Vallachian",
+                "original_value": "Valachian",
+                "Wikidata_ID": "Q47092983"
+            },
+            {
+                "originalKey": "pblum brandy",
+                "original_value": "Plum Brandy",
+                "Wikidata_ID": "Q731639"
+            },
+            {
+                "originalKey": "Social and cultural",
+                "original_value": "Social and Cultural Aspects",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "frgál",
+                "original_value": "Frgal",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "other producers",
+                "original_value": "List of food producers in the Czech Republic",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "these cakes",
+                "original_value": "Czech cake",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "everywhere thourgout Czechia",
+                "original_value": "Czech Republic",
+                "Wikidata_ID": "Q213"
+            },
+            {
+                "originalKey": "utilization original VC for fake products",
+                "original_value": "Fake goods",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

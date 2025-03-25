@@ -1,0 +1,248 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state of this VC (Value Chain)",
+                "original_value": "List of countries in the European Union",
+                "Wikidata_ID": "Q185441"
+            },
+            {
+                "originalKey": "SWITZERLAND 1",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "MOVING Card ID of this VC is VC 16 CH1",
+                "original_value": "VC (Value Chain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "transnational organisation with regional branches",
+                "original_value": "International Organization",
+                "Wikidata_ID": "Q3381810"
+            },
+            {
+                "originalKey": "farmers who breed old animal breeds and sell their products",
+                "original_value": "Animal husbandry",
+                "Wikidata_ID": "Q80962"
+            },
+            {
+                "originalKey": "Engadiner, Spiegelschaf, Nera Verzasca or Capra Grigia",
+                "original_value": "Sheep breeds",
+                "Wikidata_ID": "Q198423"
+            },
+            {
+                "originalKey": "Pigs such as the 'Black Alpine Pig' or chickens",
+                "original_value": "Pig breeds",
+                "Wikidata_ID": "Q1593381"
+            },
+            {
+                "originalKey": "products are labelled and can be sold at a better price",
+                "original_value": "Branding",
+                "Wikidata_ID": "Q898030"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "reference mountain chain of this VC",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "reference mountain landscape of this VC",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "population",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth rate",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "List of provinces in Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "List of regions in Europe",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total bed places (BPs)",
+                "original_value": "List of hotels in the world",
+                "Wikidata_ID": "Q17099394"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Regional government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "nearest settlement",
+                "original_value": "Town",
+                "Wikidata_ID": "Q3957"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "original_value": "Employment by industry in Canada",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "original_value": "Industry in Canada",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "original_value": "Tertiary industry in Canada",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "original_value": "Employment by industry in Canada",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "original_value": "Industry in Canada",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "original_value": "Tertiary industry in Canada",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "revival of old traditional breeds",
+                "original_value": "Traditional livestock breeding",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "farmer led initiative",
+                "original_value": "Farmer-led initiatives",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "looking back to what used to work",
+                "original_value": "Traditional agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "introducing it again",
+                "original_value": "Reintroduction of livestock breeds",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "localness being trendy",
+                "original_value": "Localism",
+                "Wikidata_ID": "Q20999658"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "clashing with the trend of veganism",
+                "original_value": "Veganism",
+                "Wikidata_ID": "Q181138"
+            },
+            {
+                "originalKey": "Predicted",
+                "original_value": "Prediction (data science)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous innovation",
+                "original_value": "Endogenous Innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Transnational organisation",
+                "original_value": "Transnational Organization",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "Farmer",
+                "Wikidata_ID": "Q131512"
+            },
+            {
+                "originalKey": "old animal breeds",
+                "original_value": "Animal Breed",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing Strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "Local assets",
+                "original_value": "Local Assets",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]
