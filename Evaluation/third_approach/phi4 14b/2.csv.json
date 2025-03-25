@@ -1,0 +1,376 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Supply chain",
+                "Wikidata_ID": "Q1824206"
+            },
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Almenland small local diary",
+                "original_value": null,
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Almenland Stollenkäse GmbH",
+                "original_value": null,
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "cow milk",
+                "original_value": "Cow's milk",
+                "Wikidata_ID": "Q8495"
+            },
+            {
+                "originalKey": "sheep milk",
+                "original_value": "Sheep's milk",
+                "Wikidata_ID": "Q2736146"
+            },
+            {
+                "originalKey": "goat milk",
+                "original_value": "Goat's milk",
+                "Wikidata_ID": "Q1418287"
+            },
+            {
+                "originalKey": "pasture farming",
+                "original_value": "Pastoralism",
+                "Wikidata_ID": "Q9056738"
+            },
+            {
+                "originalKey": "hay",
+                "original_value": "Hay",
+                "Wikidata_ID": "Q336989"
+            },
+            {
+                "originalKey": "South of Germany",
+                "original_value": null,
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "Weiz",
+                "original_value": "Weiz",
+                "Wikidata_ID": "Q875641"
+            },
+            {
+                "originalKey": "Almenland",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "limestone",
+                "original_value": "Limestone",
+                "Wikidata_ID": "Q23757"
+            },
+            {
+                "originalKey": "phyllite",
+                "original_value": "Phyllite",
+                "Wikidata_ID": "Q731880"
+            },
+            {
+                "originalKey": "slate",
+                "original_value": "Slate (rock)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "greywacke",
+                "original_value": "Greywacke",
+                "Wikidata_ID": "Q917545"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "km2",
+                "original_value": "Square kilometre",
+                "Wikidata_ID": "Q712226"
+            },
+            {
+                "originalKey": "Local Administrative Unit (LAU)",
+                "original_value": "Nomenclature of Territorial Units for Statistics#Local administrative units",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per_capita_income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Gross_value_added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "NUTS",
+                "Wikidata_ID": "Q1265417"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "cow milk",
+                "original_value": "Cow's milk",
+                "Wikidata_ID": "Q8495"
+            },
+            {
+                "originalKey": "sheep milk",
+                "original_value": "Sheep's milk",
+                "Wikidata_ID": "Q2736146"
+            },
+            {
+                "originalKey": "goat milk",
+                "original_value": "Goat's milk",
+                "Wikidata_ID": "Q1418287"
+            },
+            {
+                "originalKey": "silver mine",
+                "original_value": "Silver mining",
+                "Wikidata_ID": "Q1048939"
+            },
+            {
+                "originalKey": "Almenland dairy",
+                "original_value": null,
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Almenland umbrella quality brand",
+                "original_value": null,
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "touristic programme",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland 'Genussregion",
+                "original_value": "Genusshandelsorganisation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "AgrarMarkt Austria",
+                "original_value": "Agrarmarkt Austria",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "climate change",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "extreme weather conditions: drought, heavy rain",
+                "original_value": "Extreme weather",
+                "Wikidata_ID": "Q1277161"
+            },
+            {
+                "originalKey": "feedbase",
+                "original_value": "Feed base (agriculture)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pasture based meat production",
+                "original_value": "Pastoralism",
+                "Wikidata_ID": "Q9056738"
+            },
+            {
+                "originalKey": "alpine pasture areas",
+                "original_value": "Alpine pastures",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous and Exogenous",
+                "original_value": "Endogenous and exogenous growth theory",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "silver mine",
+                "original_value": "Silver mining",
+                "Wikidata_ID": "Q1048939"
+            },
+            {
+                "originalKey": "Arzberger Ursteirer",
+                "original_value": "Ursteiner cheese",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "USA",
+                "original_value": "United States",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Product development",
+                "Wikidata_ID": "Q1395034"
+            },
+            {
+                "originalKey": "New processes",
+                "original_value": "Business process management",
+                "Wikidata_ID": "Q7007379"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "pasture farming",
+                "original_value": "Pastoralism",
+                "Wikidata_ID": "Q9056738"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "hay milk",
+                "original_value": "Hay milk",
+                "Wikidata_ID": "Q109237299"
+            },
+            {
+                "originalKey": "silver mine",
+                "original_value": "Silver mining",
+                "Wikidata_ID": "Q1048939"
+            }
+        ]
+    }
+]

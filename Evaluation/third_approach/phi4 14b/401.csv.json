@@ -1,0 +1,198 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Supply chain",
+                "Wikidata_ID": "Q1824206"
+            },
+            {
+                "originalKey": "SWITZERLAND",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "Honey from the alps",
+                "original_value": "Alpine honey",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pro Montagna",
+                "original_value": "Pro Montagna",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "mountain chain",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "mountain landscape",
+                "original_value": "Mountain landscape",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "km2",
+                "original_value": "Square kilometre",
+                "Wikidata_ID": "Q712226"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Nomenclature of Territorial Units for Statistics#Local administrative units",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population (in thousand)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "Inhabitants/km2",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per_capita_income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Value_added",
+                "Wikidata_ID": "Q1434924"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bed places",
+                "original_value": "Bed",
+                "Wikidata_ID": "Q42177"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourism accommodation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement (human habitation)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bees",
+                "original_value": "Honey bee",
+                "Wikidata_ID": "Q102857"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Beehives",
+                "original_value": "Hive (bee)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            }
+        ]
+    }
+]

@@ -1,0 +1,273 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "SWITZERLAND",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "Alpine tourism",
+                "original_value": "Tourism in Switzerland#Mountain and alpine tourism",
+                "Wikidata_ID": "Q2072983"
+            },
+            {
+                "originalKey": "hotels",
+                "original_value": "Hotel",
+                "Wikidata_ID": "Q27686"
+            },
+            {
+                "originalKey": "restaurants",
+                "original_value": "Restaurant",
+                "Wikidata_ID": "Q11707"
+            },
+            {
+                "originalKey": "ski lifts",
+                "original_value": "Ski lift",
+                "Wikidata_ID": "Q891302"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "mountain chain",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "mountain landscape",
+                "original_value": "Mountain landscape",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "km2",
+                "original_value": "Square kilometre",
+                "Wikidata_ID": "Q712226"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Nomenclature of Territorial Units for Statistics#Local administrative units",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population (in thousand)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "Inhabitants/km2",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per_capita_income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Value_added",
+                "Wikidata_ID": "Q1434924"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary_sector_of_the_economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary_sector_of_the_economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary_sector_of_the_economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bed places",
+                "original_value": "Bed",
+                "Wikidata_ID": "Q42177"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "original_value": "Tourism accommodation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Settlement (human habitation)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC-systems",
+                "original_value": "Valley glacier",
+                "Wikidata_ID": "Q2116384"
+            },
+            {
+                "originalKey": "alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "sustainable",
+                "original_value": "Sustainability",
+                "Wikidata_ID": "Q219416"
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "climate change",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "value chain (VC)",
+                "original_value": "Value_chain_(business)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogeneity (econometrics)",
+                "Wikidata_ID": "Q1340706"
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous and endogenous variables",
+                "Wikidata_ID": "Q61985482"
+            },
+            {
+                "originalKey": "touristic attractions",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "skiing",
+                "original_value": "Skiing",
+                "Wikidata_ID": "Q130949"
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Product development",
+                "Wikidata_ID": "Q1395034"
+            },
+            {
+                "originalKey": "New processes",
+                "original_value": "Business process management",
+                "Wikidata_ID": "Q7007379"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "New governance systems",
+                "original_value": "Governance",
+                "Wikidata_ID": "Q1553864"
+            },
+            {
+                "originalKey": "Landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            },
+            {
+                "originalKey": "Natural assets",
+                "original_value": "Natural capital",
+                "Wikidata_ID": "Q1540268"
+            },
+            {
+                "originalKey": "social assets",
+                "original_value": "Social capital",
+                "Wikidata_ID": "Q214693"
+            },
+            {
+                "originalKey": "cultural assets",
+                "original_value": "Cultural heritage",
+                "Wikidata_ID": "Q210272"
+            }
+        ]
+    }
+]
