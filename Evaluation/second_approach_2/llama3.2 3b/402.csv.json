@@ -1,0 +1,223 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "SWITZERLAND",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "originalKey" : "VC 18 CH1",
+    "original_value" : "Moving (company)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "The size of the area (km2) is unspecified.",
+    "original_value" : "Unknown or unspecified geographic area",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The minimum altimetry of the LAU (Local Administrative Unit) is unspecified.",
+    "original_value" : "Unknown or unspecified elevation range",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The maximum altimetry of the LAU is unspecified.",
+    "original_value" : "Unknown or unspecified elevation range",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The total population (in thousand) is unspecified.",
+    "original_value" : "Unknown or unspecified population",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The population density (Inhabitants/km2) in the LAU is unspecified.",
+    "original_value" : "Unknown or unspecified population density",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The population change rate of the LAU in the last 10 years (%) is unspecified.",
+    "original_value" : "Unknown or unspecified population growth rate",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The overall regional population density (Inhabitants/km2) is unspecified.",
+    "original_value" : "Unknown or unspecified regional population density",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The regional population change rate in the last 10 years (%) is unspecified.",
+    "original_value" : "Unknown or unspecified regional population growth rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "The average per capita income (EUR/year) [Province] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The total Gross Value Added (GVA) (EUR million/year) [Province] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The primary sector share of total GVA/year [Province] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The secondary sector share of total GVA/year [Province] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The tertiary sector share of total GVA/year [Province] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The per capita income (EUR/year) [Region] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The total Gross Value Added (GVA) (EUR million/year) [Region] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The primary sector share of total GVA/year [Region] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The secondary sector share of total GVA/year [Region] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The tertiary sector share of total GVA/year [Region] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "total number of bed places (BPs) in tourist accommodations/year",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "originalKey" : "regional share",
+    "original_value" : "Share",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "number of agricultural holdings",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "nearest settlement with population over 100000 (km)",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC-systems in the Alps",
+    "original_value" : "Alpine biogeography",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "varied",
+    "original_value" : "Biodiversity",
+    "Wikidata_ID" : "Q47041"
+  }, {
+    "originalKey" : "high impact on region",
+    "original_value" : "Ecological footprint",
+    "Wikidata_ID" : "Q234173"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "sustainable way",
+    "original_value" : "Sustainable tourism",
+    "Wikidata_ID" : "Q1344240"
+  }, {
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "originalKey" : "young people",
+    "original_value" : "Demographics of youth",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "mountains",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  }, {
+    "originalKey" : "revenue",
+    "original_value" : "Revenue",
+    "Wikidata_ID" : "Q850210"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Exogenous",
+    "original_value" : "Exogenous innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New products",
+    "original_value" : "Innovation in product development",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New processes",
+    "original_value" : "Process innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Landscape",
+    "original_value" : "Landscape ecology",
+    "Wikidata_ID" : "Q738011"
+  }, {
+    "originalKey" : "Natural",
+    "original_value" : "Ecological conservation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Social",
+    "original_value" : "Social capital",
+    "Wikidata_ID" : "Q214693"
+  }, {
+    "originalKey" : "Cultural",
+    "original_value" : "Intangible cultural heritage",
+    "Wikidata_ID" : "Q84036549"
+  } ]
+} ]

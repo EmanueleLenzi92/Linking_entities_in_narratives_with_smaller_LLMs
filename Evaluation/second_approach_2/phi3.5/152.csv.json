@@ -1,0 +1,285 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "MOVING reference member state",
+    "original_value" : "Moving Reference Member State (Italy)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "ITALY UNIMOL and UNIPI",
+    "original_value" : "Unione Italiana Molitori e Pastifici",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "organic production of aromatic herbs",
+    "original_value" : "Organic farming (Herb cultivation)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "honey production",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "originalKey" : "small farm",
+    "original_value" : "Smallholder farming",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "infusion herbs box",
+    "original_value" : "Infused Herb Box (Product)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "life cycle of the product from seeds to final infusion herbs box",
+    "original_value" : "Crop production life-cycle",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Northern Apennines",
+    "original_value" : "Apennine Mountains",
+    "Wikidata_ID" : "Q1285"
+  }, {
+    "originalKey" : "Tuscan Emilian Apennines",
+    "original_value" : "Appenino Tosco-Emiliano",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Anghiari",
+    "original_value" : "Anghiari, Arezzo Province, Italy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Arezzo Province",
+    "original_value" : "Province of Arezzo",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Tuscany Region - Italy",
+    "original_value" : "Tuscany (region)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Umbria region",
+    "original_value" : "Umbria",
+    "Wikidata_ID" : "Q1280"
+  }, {
+    "originalKey" : "typical products",
+    "original_value" : "Agricultural Products of Italy",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "The size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "130.92 km2",
+    "original_value" : "Size (area)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The minimum altimetry of the LAU",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "originalKey" : "298",
+    "original_value" : "Minimum Altitude (LAU)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The maximum altimetry of the LAU",
+    "original_value" : "Maximum Altitude (LAU)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "1379",
+    "original_value" : "Maximum Altitude (LAU)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The total population of the LAU",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "5.484 thousand",
+    "original_value" : "Total Population (LAU)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The population density in the LAU",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "41.88 Inhabitants/km2",
+    "original_value" : "Density (LAU)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The population change rate of the LAU in the last 10 years",
+    "original_value" : "Population Growth Rate",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "-6.09%",
+    "original_value" : "Decline (LAU Population Change)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The overall regional population density",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "160.64 Inhabitants/km2",
+    "original_value" : "Density (Region)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The regional population change rate in the last 10 years",
+    "original_value" : "Population Growth Rate",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "0.48%",
+    "original_value" : "Growth (Region)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "average per capita income (EUR/year) Province",
+    "original_value" : "List of provinces and territories in the European Union by GDP per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "total Gross Value Added (GVA) EUR million/year Province",
+    "original_value" : "Economy of Spain#Regional economies and statistics for the autonomous communities by economic activity, 2013",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total GVA/year Province",
+    "original_value" : "Agriculture in Spain#Regional agricultural production and employment (by autonomous community)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year Province",
+    "original_value" : "Industry in Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year Province",
+    "original_value" : "Tourism industry#Spain by region and autonomous community (2013)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "per capita income (EUR/year) Region",
+    "original_value" : "List of countries by GDP per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "total Gross Value Added (GVA) EUR million/year Region",
+    "original_value" : "Economy of Spain#Regional economies and statistics for the autonomous communities by economic activity, 2013",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total GVA/year Region",
+    "original_value" : "Agriculture in Spain#Regional agricultural production and employment (by autonomous community)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "...",
+    "original_value" : "...",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "total number of bed places in tourist accommodations/year",
+    "original_value" : "Tourism industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Subnational administrative divisions by country or dependent territory, including states and provinces in the United States of America.",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional share",
+    "original_value" : "Regions (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings in the LAU",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "nearest settlement with population over 100,000 (km)",
+    "original_value" : "Populated places by population size and density in the United States of America",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "protected areas present",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary economic activities",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary industry and manufacturing jobs in the United States by state or territory (2015)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary economic activities",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "[Region]",
+    "original_value" : " // Similar to above, without a specified region or area mentioned, we cannot provide an exact Wikipedia page title.\n        }\n    ]",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Organic farm",
+    "original_value" : "List of organic farming topics",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Steinbruck",
+    "original_value" : "Johann Heinrich Steinbrück (1742–1806), German botanist and pharmacologist",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "medicinal herbs",
+    "original_value" : "Herbal medicine, Herbology - Wikipedia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "aromatic herbs",
+    "original_value" : "Aromatherapy (alternative medical practice) - Wikipedia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Apennines",
+    "original_value" : "Apennines, the Apennine Mountains of Italy and Malta – Geography & Environmental Science articles on Wikiquote",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "brother Steinbruck",
+    "original_value" : "Steinbrück (disambiguation)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "goodness of wild herbs",
+    "original_value" : "Herbalism",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Apennines",
+    "original_value" : "Apennine Mountains",
+    "Wikidata_ID" : "Q1285"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Endogenous innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "originalKey" : "Exogenous innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "originalKey" : "Nature-based products",
+    "original_value" : "Sustainable product design and development",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "sostenibility",
+    "original_value" : "Environmental sustainability",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "quality products",
+    "original_value" : "Product quality management",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "originalKey" : "Natural land use systems",
+    "original_value" : "Land management and conservation agriculture",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "aromatic herbs",
+    "original_value" : "Herb cultivation for culinary or medicinal purposes",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Natural assets",
+    "original_value" : "Asset management in natural resources",
+    "Wikidata_ID" : ""
+  } ]
+} ]

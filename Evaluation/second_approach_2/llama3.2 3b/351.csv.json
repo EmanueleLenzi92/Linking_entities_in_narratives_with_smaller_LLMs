@@ -1,0 +1,251 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "SPAIN ADEGUA",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  }, {
+    "originalKey" : "VC 34 ES",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Betic System",
+    "original_value" : "Betic System",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Carcabuey",
+    "original_value" : "Carcabuey",
+    "Wikidata_ID" : "Q842679"
+  }, {
+    "originalKey" : "Sierra Subbética",
+    "original_value" : "Sierra Subbética",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Natural Park",
+    "original_value" : "Natural park",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "olive growing",
+    "original_value" : "Olive cultivation",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "originalKey" : "population density",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Province",
+    "original_value" : "Province (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Regional unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "km",
+    "original_value" : "Kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "care of the elderly",
+    "original_value" : "Care for the elderly",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "ageing population",
+    "original_value" : "Demography of aging",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "depopulation in mountain centres",
+    "original_value" : "Rural depopulation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "intergenerational social cohesion",
+    "original_value" : "Intergenerational relationships",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "professionalisation",
+    "original_value" : "Vocational training",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "informal sector",
+    "original_value" : "Informal economy",
+    "Wikidata_ID" : "Q944235"
+  }, {
+    "originalKey" : "value chain",
+    "original_value" : "Value chain (economics)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "multilevel governance system",
+    "original_value" : "Multilevel governance",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "PROMI",
+    "original_value" : "PROMI (Municipal residence for the elderly)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Provincial Council",
+    "original_value" : "Provincial Council",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "informal economy",
+    "original_value" : "Informal economy",
+    "Wikidata_ID" : "Q944235"
+  }, {
+    "originalKey" : "civil society groups",
+    "original_value" : "Civil society",
+    "Wikidata_ID" : "Q181865"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Ageing population",
+    "original_value" : "Demographic ageing",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Negative replacement rate",
+    "original_value" : "Replacement rate (demography)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Depopulation",
+    "original_value" : "Depopulation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Exodus of young population",
+    "original_value" : "Brain drain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Informal economy",
+    "original_value" : "Informal economy",
+    "Wikidata_ID" : "Q944235"
+  }, {
+    "originalKey" : "Professionalisation process",
+    "original_value" : "Vocational training",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Precarisation of female work",
+    "original_value" : "Precarious work",
+    "Wikidata_ID" : "Q17009677"
+  }, {
+    "originalKey" : "Disappearance of local and social cultures",
+    "original_value" : "Cultural homogenization",
+    "Wikidata_ID" : "Q5193366"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Exogenous",
+    "original_value" : "Exogenous innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Informal",
+    "original_value" : "Informal care",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Traditional",
+    "original_value" : "Traditional care",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Public services",
+    "original_value" : "Public health care",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New governance systems",
+    "original_value" : "New public management",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Urban space",
+    "original_value" : "Urban planning",
+    "Wikidata_ID" : "Q69883"
+  }, {
+    "originalKey" : "Infrastructures",
+    "original_value" : "Infrastructure",
+    "Wikidata_ID" : "Q121359"
+  }, {
+    "originalKey" : "Social assets",
+    "original_value" : "Social capital",
+    "Wikidata_ID" : "Q214693"
+  }, {
+    "originalKey" : "Cultural assets",
+    "original_value" : "Intangible cultural heritage",
+    "Wikidata_ID" : "Q84036549"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Sierra",
+    "original_value" : "Sierra de Guadarrama",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Subbética",
+    "original_value" : "Subbética",
+    "Wikidata_ID" : ""
+  } ]
+} ]

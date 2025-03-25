@@ -1,0 +1,231 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "CZECH REPUBLIC",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "originalKey" : "VC 10 CZ",
+    "original_value" : "Moving (company)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Giant Mountains",
+    "original_value" : "Giant Mountains",
+    "Wikidata_ID" : "Q214644"
+  }, {
+    "originalKey" : "LAU 1 Trutnov",
+    "original_value" : "Trutnov District",
+    "Wikidata_ID" : "Q517734"
+  }, {
+    "originalKey" : "NUTS 3 Kralovehradecky",
+    "original_value" : "Kralovehradecký kraj",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "originalKey" : "population density",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income (EUR/year) [Province]",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added (GVA) (EUR million/year) [Province]",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "primary sector share of total GVA/year [Province]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year [Province]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year [Province]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "per capita income (EUR/year) [Region]",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added (GVA) (EUR million/year) [Region]",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "primary sector share of total GVA/year [Region]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year [Region]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year [Region]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Regional unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "km",
+    "original_value" : "Kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector (economics)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "traditional knowledge",
+    "original_value" : "Traditional knowledge",
+    "Wikidata_ID" : "Q1428168"
+  }, {
+    "originalKey" : "cultural traits",
+    "original_value" : "Cultural trait",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "symbolic value",
+    "original_value" : "Symbolic value",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Herb liquers",
+    "original_value" : "Liqueur",
+    "Wikidata_ID" : "Q178780"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "originalKey" : "Valorization",
+    "original_value" : "Value creation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Marketing strategy",
+    "original_value" : "Marketing mix",
+    "Wikidata_ID" : "Q193959"
+  }, {
+    "originalKey" : "Competitive market",
+    "original_value" : "Market competition",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Natural land",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "originalKey" : "Natural",
+    "original_value" : "Natural resource",
+    "Wikidata_ID" : "Q188460"
+  }, {
+    "originalKey" : "Cultural",
+    "original_value" : "Intangible asset",
+    "Wikidata_ID" : "Q427581"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  } ]
+} ]

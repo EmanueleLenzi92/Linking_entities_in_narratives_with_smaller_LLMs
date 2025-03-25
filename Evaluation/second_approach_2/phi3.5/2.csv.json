@@ -1,0 +1,287 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "AUSTRIA",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  }, {
+    "originalKey" : "Almenland small local diary",
+    "original_value" : "Dairy farming in Austria",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "cheese (cow, sheep, goat all milk)",
+    "original_value" : "Cheesemaking process and types of cheese from different animals like cow, sheep or goat.",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "pasture farming",
+    "original_value" : "Pastoralism",
+    "Wikidata_ID" : "Q9056738"
+  }, {
+    "originalKey" : "Almenland Stollenkäse GmbH",
+    "original_value" : "Stollenkäse (Austrian cheese company)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "South of Germany",
+    "original_value" : "Germany",
+    "Wikidata_ID" : "Q183"
+  }, {
+    "originalKey" : "international sales",
+    "original_value" : "International trade and exportation, specifically related to food products like cheese.",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "small delicacy shops",
+    "original_value" : "Delis",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "web shop",
+    "original_value" : "Online shopping platforms for food products.",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Verwaltungsregion",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "RR 11, Austrian Alps",
+    "original_value" : "Alpenhauptkamm Nr. 11 in Österreich (Austrian Alps)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Weiz",
+    "original_value" : "Weiz",
+    "Wikidata_ID" : "Q875641"
+  }, {
+    "originalKey" : "Almenland",
+    "original_value" : "Styrian Alps (Region)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "125 pastures, 36.6 km2",
+    "original_value" : "Pastoralism in the Styrian Alps",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "between 1.200 and 1.500 m above sea level",
+    "original_value" : "Altitudinal range of pastures in the Austrian Alps (Styria)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "humid climate, a lot of thunderstorms",
+    "original_value" : "Climate of Styria",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "diverse rock formation: limestone, phyllite, slate and greywacke",
+    "original_value" : "Geology of the Austrian Alps (Styria)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "The size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "1098 km2",
+    "original_value" : "Size (area)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The minimum altimetry of the LAU",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "originalKey" : "464 meters",
+    "original_value" : "Elevation (altitude)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The maximum altimetry of the LAU",
+    "original_value" : "Maximum elevation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "1720 meters",
+    "original_value" : "Elevation (altitude)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The total population of the LAU",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "90.654 thousand people",
+    "original_value" : "Demographics (population)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The population density of the LAU in inhabitants/km2",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "82.56 inhabitants/km2",
+    "original_value" : "Density (population)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The population change rate of the LAU in the last 10 years",
+    "original_value" : "Population growth",
+    "Wikidata_ID" : "Q386191"
+  }, {
+    "originalKey" : "3.68%",
+    "original_value" : "Demographics (population change)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The overall regional population density in inhabitants/km2",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "76.28 inhabitants/km2",
+    "original_value" : "Density (population)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "average per capita income (EUR/year)",
+    "original_value" : "List of regions by GDP per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year)",
+    "original_value" : "Regional economies and economic indicators in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total GVA/year",
+    "original_value" : "Agricultural economy by country or region (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year",
+    "original_value" : "Industrialization and manufacturing in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year",
+    "original_value" : "Service economy by country or region (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "per capita income (EUR/year) [Region]",
+    "original_value" : "List of countries and territories by GDP per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "[Province or Region's Name] Economy, Industry & Income Level (EUR)",
+    "original_value" : "[Specific Province/Region's Name] economic overview and indicators",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "total number of bed places in tourist accommodations/year",
+    "original_value" : "Tourism industry statistics by country or worldwide",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Administrative division of a region, which can vary greatly in size and scope depending on the context.",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional share",
+    "original_value" : "Percentage contribution to regional statistics",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings in the LAU",
+    "original_value" : "Agriculture and farming within a specific administrative division.",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "nearest settlement with population over 100,000 (km)",
+    "original_value" : "Populated places near each other",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "protected areas in the region",
+    "original_value" : "Protected area or National Park within a specific administrative division.",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary economic activities",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary industry and manufacturing jobs in the United States by state or territory (2015)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary economic activities",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "[Province]",
+    "original_value" : " // Specific province title not provided in the text. Please provide a specific name for accurate Wikipedia page reference.",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "[Region]",
+    "original_value" : " // Specific region title not provided in the text. Please provide a specific name or area for accurate Wikipedia page reference.\n        }\n    ]",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "14 different types of cheese",
+    "original_value" : "List of artisanal and regional cheeses",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "'pit house' in a former silver mine 100m deep, mountain tunnel built for maturation process",
+    "original_value" : "Silver mines - Mining history of the Alpen region (Switzerland)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "'cheese workshop' initiated by a cheese lover in 2009, local dairy",
+    "original_value" : "Artisanal Cheesemaking",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Almenland region and its contribution to tourism through educational programmes about the cheese production process.",
+    "original_value" : "Tourism in Switzerland - Alpen Region (Switzerland)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Almenland",
+    "original_value" : "Alm",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "'Genussregion ( region of culinary delight)",
+    "original_value" : "Gastronomic Region, Food Tourism in Austria",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "AgrarMarkt Austria",
+    "original_value" : "Agromarket.at ( Austrian Agricultural Market)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "milk producing sector in the area",
+    "original_value" : "Dairy Industry",
+    "Wikidata_ID" : "Q13554450"
+  }, {
+    "originalKey" : "cooperation with tourist sector",
+    "original_value" : "Tourism and Agriculture (Austria)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Almenland producers",
+    "original_value" : "Local Food Production in Austria",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "online marketing platform",
+    "original_value" : "E-commerce (Agriculture)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "cheese production",
+    "original_value" : "Cheesemaking",
+    "Wikidata_ID" : "Q1281188"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Supply chain management",
+    "Wikidata_ID" : "Q492886"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Cheese",
+    "original_value" : "Cheese",
+    "Wikidata_ID" : "Q10943"
+  }, {
+    "originalKey" : "Austrian Alps",
+    "original_value" : "Alpine region of Austria",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "hay milk",
+    "original_value" : "Hay cheese, also known as haywax or heybrylkas (Austrian dialect)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "former silver mine maturing process",
+    "original_value" : "Silverminenmethode",
+    "Wikidata_ID" : ""
+  } ]
+} ]

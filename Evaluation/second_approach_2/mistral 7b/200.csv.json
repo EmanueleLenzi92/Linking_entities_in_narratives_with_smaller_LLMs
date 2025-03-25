@@ -1,0 +1,271 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "NMK",
+    "original_value" : "Moving (company)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "VC 16 NMK",
+    "original_value" : "VC 16 NMK",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Kozuvcanka",
+    "original_value" : "Kozuvcanka",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Pelisterka",
+    "original_value" : "Pelisterka",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Maya",
+    "original_value" : "Maya (company)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Mountain Meleshevija",
+    "original_value" : "Maleshevski Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Mountain landscape of this VC",
+    "original_value" : "Unspecified",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Republic of North Macedonia",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  }, {
+    "originalKey" : "Berovo and Pehchevo municipalities",
+    "original_value" : "Berovo, North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Bregalnica and Strumica rivers",
+    "original_value" : "Bregalnica River",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Forests covers 52% of the Maleshevija region",
+    "original_value" : "Forestry in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Pastures around 20%",
+    "original_value" : "Grazing in North Macedonia",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "originalKey" : "population",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional population density",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "average per capita income",
+    "original_value" : "Average income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "total Gross Value Added",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "originalKey" : "primary sector share",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "bed places",
+    "original_value" : "Bed",
+    "Wikidata_ID" : "Q42177"
+  }, {
+    "originalKey" : "tourist accommodations/year",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Local administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional share",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "nearest settlement with population over 100000 (km)",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "employment/year [Province]",
+    "original_value" : "Employment by sector in [Province]",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "employment/year [Region]",
+    "original_value" : "Employment by sector in [Region]",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Vardar planning region",
+    "original_value" : "Vardar Planning Region",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "climatic conditions",
+    "original_value" : "Climate",
+    "Wikidata_ID" : "Q7937"
+  }, {
+    "originalKey" : "water resources",
+    "original_value" : "Water resources",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "hydro reservoirs",
+    "original_value" : "Hydroelectric power",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Tikvesh",
+    "original_value" : "Tikvesh Reservoir",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Lices",
+    "original_value" : "Lices Reservoir",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Mladost",
+    "original_value" : "Mladost Reservoir",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Kozuvcanka",
+    "original_value" : "Kozuvcanka",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "mineral water",
+    "original_value" : "Mineral water",
+    "Wikidata_ID" : "Q178921"
+  }, {
+    "originalKey" : "source of the mineral water",
+    "original_value" : "Springs",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Kozuvcanka",
+    "original_value" : "Kozuvcanka",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Maleshevski mountain",
+    "original_value" : "Maleshevski mountain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Vardarski region",
+    "original_value" : "Vardarski region",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Current and Predicted",
+    "original_value" : "Current and predicted",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Traditional and Innovative",
+    "original_value" : "Traditional and innovative",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "New processes",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "originalKey" : "Natural land",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "originalKey" : "Natural assets",
+    "original_value" : "Natural resources",
+    "Wikidata_ID" : "Q6980594"
+  }, {
+    "originalKey" : "Social assets",
+    "original_value" : "Social capital",
+    "Wikidata_ID" : "Q214693"
+  }, {
+    "originalKey" : "Cultural assets",
+    "original_value" : "Culture",
+    "Wikidata_ID" : ""
+  } ]
+} ]

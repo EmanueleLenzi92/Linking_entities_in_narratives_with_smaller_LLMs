@@ -1,0 +1,363 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "MOVING",
+    "original_value" : "Moving (company)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Scotland Hutton",
+    "original_value" : "Hutton, Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "VC 04 UK",
+    "original_value" : "VC 04 (United Kingdom)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "deer hunting",
+    "original_value" : "Deer hunting",
+    "Wikidata_ID" : "Q1025479"
+  }, {
+    "originalKey" : "Highlands and Islands of Scotland",
+    "original_value" : "Highlands and Islands of Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "wild land",
+    "original_value" : "Wild land",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "mountain hares",
+    "original_value" : "Mountain hare",
+    "Wikidata_ID" : "Q180035"
+  }, {
+    "originalKey" : "burning of heather/ gorse",
+    "original_value" : "Heather burning",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "stalking season for stags",
+    "original_value" : "Stag stalking",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "roe and fallow bucks",
+    "original_value" : "Roe deer",
+    "Wikidata_ID" : "Q122069"
+  }, {
+    "originalKey" : "Blair Atholl Estates",
+    "original_value" : "Blair Atholl Estates",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Glen Lyon",
+    "original_value" : "Glen Lyon",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "venison meat",
+    "original_value" : "Venison",
+    "Wikidata_ID" : "Q2296872"
+  }, {
+    "originalKey" : "Perth and Kinross (LAU1)",
+    "original_value" : "Perth and Kinross",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "NUT3 region",
+    "original_value" : "NUTS 3: Scotland",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Highlands and Islands",
+    "original_value" : "Highlands and Islands",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Eastern Scotland",
+    "original_value" : "Eastern Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Perth and Kinross",
+    "original_value" : "Perth and Kinross",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Tay",
+    "original_value" : "River Tay",
+    "Wikidata_ID" : "Q19719"
+  }, {
+    "originalKey" : "Earn",
+    "original_value" : "Loch Earn",
+    "Wikidata_ID" : "Q1549069"
+  }, {
+    "originalKey" : "High quality agricultural land",
+    "original_value" : "Agriculture in Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "major road and rail links",
+    "original_value" : "Transport in Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "largest settlement of Perth",
+    "original_value" : "Perth, Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Highlands",
+    "original_value" : "Highlands",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Outdoor recreation",
+    "original_value" : "Tourism in Scotland",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional population density",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "average per capita income",
+    "original_value" : "Average per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "originalKey" : "primary sector share",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "bed places",
+    "original_value" : "Bed",
+    "Wikidata_ID" : "Q42177"
+  }, {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural land use",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "settlement with population over 100000",
+    "original_value" : "City",
+    "Wikidata_ID" : "Q515"
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Sporting game",
+    "original_value" : "Game hunting",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Deer stalking",
+    "original_value" : "Deer stalking",
+    "Wikidata_ID" : "Q16249440"
+  }, {
+    "originalKey" : "Vension meat",
+    "original_value" : "Venison",
+    "Wikidata_ID" : "Q2296872"
+  }, {
+    "originalKey" : "Scottish Quality Wild Vensions",
+    "original_value" : "Scottish Quality Wild Venison",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Atholl estate",
+    "original_value" : "Atholl Estates",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Blair Atholl and Glen Lyon estate",
+    "original_value" : "Blair Atholl and Glen Lyon Estate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "natural assets",
+    "original_value" : "Natural resources",
+    "Wikidata_ID" : "Q6980594"
+  }, {
+    "originalKey" : "wild (but managed) land",
+    "original_value" : "Wildlife conservation",
+    "Wikidata_ID" : "Q766328"
+  }, {
+    "originalKey" : "deer and grouse",
+    "original_value" : "Deer",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "scenery for stalking visitors",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "originalKey" : "social assets",
+    "original_value" : "Community development",
+    "Wikidata_ID" : "Q718998"
+  }, {
+    "originalKey" : "local communities living and working near and in these stalking estates (i.e., for tourist accommodation)",
+    "original_value" : "Local tourism",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "hikers",
+    "original_value" : "Hiking",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "wildlife conservation organizations",
+    "original_value" : "Wildlife conservation",
+    "Wikidata_ID" : "Q766328"
+  }, {
+    "originalKey" : "traditional and local knowledge for stalking practices, processes and habitat management",
+    "original_value" : "Traditional ecological knowledge",
+    "Wikidata_ID" : "Q7832334"
+  }, {
+    "originalKey" : "processes for deer stalking have remained largely the same for centuries",
+    "original_value" : "Deer hunting",
+    "Wikidata_ID" : "Q1025479"
+  }, {
+    "originalKey" : "use of ponies to remove deer trophies from the moutain",
+    "original_value" : "Horseback riding",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "potential conflicts with other agricultural activities",
+    "original_value" : "Agricultural conflict",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "potential conflicts over land management practices and culling of mountain hares and burning of gorse",
+    "original_value" : "Land use conflict",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "conflicts between organisations promoting the culling of deer and those visiting for stalking purposes",
+    "original_value" : "Deer culling controversy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "potential difficulties in sale of venison eat abroad due to brexit",
+    "original_value" : "Brexit and trade",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "risk of overgrazing of landscape",
+    "original_value" : "Overgrazing",
+    "Wikidata_ID" : "Q334487"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance",
+    "Wikidata_ID" : "Q1553864"
+  }, {
+    "originalKey" : "Natural land",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "originalKey" : "Natural assets",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  }, {
+    "originalKey" : "Social assets",
+    "original_value" : "Society",
+    "Wikidata_ID" : "Q8425"
+  }, {
+    "originalKey" : "Cultural assets",
+    "original_value" : "Culture",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Deer stalking",
+    "original_value" : "Deer stalking",
+    "Wikidata_ID" : "Q16249440"
+  }, {
+    "originalKey" : "Highland and Islands NUT3 region",
+    "original_value" : "Highlands and Islands (NUTS3)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Aberdeenshire",
+    "original_value" : "Aberdeenshire",
+    "Wikidata_ID" : "Q189912"
+  }, {
+    "originalKey" : "Badendoch and Strathsphey LAU1 areas",
+    "original_value" : "Badendoch and Strathspey (LAU1)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Grouse shooting",
+    "original_value" : "Grouse shooting",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "NUTS3 regions",
+    "original_value" : "NUTS3 (Nomenclature of Territorial Units for Statistics)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "North east and North West England",
+    "original_value" : "North East England",
+    "Wikidata_ID" : "Q47983"
+  } ]
+} ]

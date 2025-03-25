@@ -1,0 +1,183 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "SWITZERLAND",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "originalKey" : "VC 17 CH1",
+    "original_value" : "Value Chain 17 CH1",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "alps",
+    "original_value" : "Alps",
+    "Wikidata_ID" : "Q1286"
+  }, {
+    "originalKey" : "Pro Montagna",
+    "original_value" : "Pro Montagna",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "The size of the area (km2) is unspecified.",
+    "original_value" : "Unknown or unspecified geographic area",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The minimum altimetry of the LAU (Local Administrative Unit) is unspecified.",
+    "original_value" : "Unknown or unspecified elevation range",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The maximum altimetry of the LAU is unspecified.",
+    "original_value" : "Unknown or unspecified elevation range",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The total population (in thousand) is unspecified.",
+    "original_value" : "Unknown or unspecified population",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The population density (Inhabitants/km2) in the LAU is unspecified.",
+    "original_value" : "Unknown or unspecified population density",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The population change rate of the LAU in the last 10 years (%) is unspecified.",
+    "original_value" : "Unknown or unspecified population growth rate",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The overall regional population density (Inhabitants/km2) is unspecified.",
+    "original_value" : "Unknown or unspecified regional population density",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "The regional population change rate in the last 10 years (%) is unspecified.",
+    "original_value" : "Unknown or unspecified regional population growth rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "The average per capita income (EUR/year) [Province] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The total Gross Value Added (GVA) (EUR million/year) [Province] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The primary sector share of total GVA/year [Province] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The secondary sector share of total GVA/year [Province] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The tertiary sector share of total GVA/year [Province] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The per capita income (EUR/year) [Region] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The total Gross Value Added (GVA) (EUR million/year) [Region] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The primary sector share of total GVA/year [Region] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The secondary sector share of total GVA/year [Region] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "The tertiary sector share of total GVA/year [Region] is unspecified.",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "total number of bed places (BPs) in tourist accommodations/year",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "originalKey" : "regional share",
+    "original_value" : "Share",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "number of agricultural holdings",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "nearest settlement with population over 100000 (km)",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "traditional VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "originalKey" : "well sought after",
+    "original_value" : "Desired",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "working well",
+    "original_value" : "Functioning",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Traditional",
+    "original_value" : "Sustainability",
+    "Wikidata_ID" : "Q219416"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Beehives",
+    "original_value" : "Apiary",
+    "Wikidata_ID" : "Q857628"
+  }, {
+    "originalKey" : "Natural",
+    "original_value" : "Ecology",
+    "Wikidata_ID" : "Q7150"
+  } ]
+} ]

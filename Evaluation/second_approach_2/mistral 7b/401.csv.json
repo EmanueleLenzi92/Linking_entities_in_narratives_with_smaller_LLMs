@@ -1,0 +1,211 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "MOVING",
+    "original_value" : "Moving (company)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Switzerland",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "originalKey" : "alps",
+    "original_value" : "Alps",
+    "Wikidata_ID" : "Q1286"
+  }, {
+    "originalKey" : "honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "originalKey" : "Pro Montagna",
+    "original_value" : "Pro Montagna",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "mountain chain",
+    "original_value" : "Mountain range",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "mountain landscape",
+    "original_value" : "Landscape",
+    "Wikidata_ID" : "Q107425"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "minimum altimetry of the LAU",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "originalKey" : "maximum altimetry of the LAU",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "originalKey" : "total population",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population density in the LAU",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "population change rate of the LAU in the last 10 years",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "overall regional population density",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional population change rate in the last 10 years",
+    "original_value" : "Regional population growth rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "average per capita income",
+    "original_value" : "Average income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "total Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "originalKey" : "primary sector share",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "total Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "originalKey" : "primary sector share",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "bed places",
+    "original_value" : "Bed",
+    "Wikidata_ID" : "Q42177"
+  }, {
+    "originalKey" : "tourist accommodations/year",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Local administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional share",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "nearest settlement with population over 100000 (km)",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "employment/year [Province]",
+    "original_value" : "Employment by sector in [Province]",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "employment/year [Region]",
+    "original_value" : "Employment by sector in [Region]",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "traditional VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "bees",
+    "original_value" : "Bees",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "originalKey" : "Predicted",
+    "original_value" : "Prediction",
+    "Wikidata_ID" : "Q748250"
+  }, {
+    "originalKey" : "Traditional",
+    "original_value" : "Tradition",
+    "Wikidata_ID" : "Q82821"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "originalKey" : "land use systems",
+    "original_value" : "Land use systems",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "beehives",
+    "original_value" : "Beehive",
+    "Wikidata_ID" : "Q165107"
+  }, {
+    "originalKey" : "natural",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  } ]
+} ]

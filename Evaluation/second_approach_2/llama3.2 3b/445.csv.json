@@ -1,0 +1,207 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "TURKEY",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "originalKey" : "VC 11 TR",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Mugla",
+    "original_value" : "Mugla Province",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Menteşe Mountains",
+    "original_value" : "Menteşe Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Ula",
+    "original_value" : "Ula (mountain)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population density",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income (EUR/year) [Province]",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added (GVA) (EUR million/year) [Province]",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "primary sector share of total GVA/year [Province]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year [Province]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year [Province]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "per capita income (EUR/year) [Region]",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added (GVA) (EUR million/year) [Region]",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "primary sector share of total GVA/year [Region]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year [Region]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year [Region]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Regional unit (Norway)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "BPs",
+    "original_value" : "Bed place",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "population over 100000 (km)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Pine honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "originalKey" : "Turkey",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Pine honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "originalKey" : "Turkey",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "originalKey" : "Muğla Province",
+    "original_value" : "Muğla Province",
+    "Wikidata_ID" : "Q123934"
+  }, {
+    "originalKey" : "Muğla",
+    "original_value" : "Muğla Province",
+    "Wikidata_ID" : "Q123934"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "climatic conditions",
+    "original_value" : "Climate",
+    "Wikidata_ID" : "Q7937"
+  }, {
+    "originalKey" : "Accommodation",
+    "original_value" : "Accommodation (architecture)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "beekeeping",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Organic",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Rainforest Alliance certified",
+    "original_value" : "Rainforest Alliance",
+    "Wikidata_ID" : "Q2034373"
+  }, {
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "originalKey" : "Natural assets",
+    "original_value" : "Ecosystem services",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Cultural assets",
+    "original_value" : "Intangible cultural heritage",
+    "Wikidata_ID" : "Q84036549"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Variable Charactistics",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "MRLs",
+    "original_value" : "Maximum Residue Limits",
+    "Wikidata_ID" : ""
+  } ]
+} ]

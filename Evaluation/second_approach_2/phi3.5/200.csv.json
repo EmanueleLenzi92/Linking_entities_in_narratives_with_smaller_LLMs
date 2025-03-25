@@ -1,0 +1,295 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "MOVING reference member state",
+    "original_value" : "Reference Member State (EU)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "VC 16 NMK",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "private companies",
+    "original_value" : "Private Company (Business)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "National Chamber of Commerce",
+    "original_value" : "Chamber of Commerce",
+    "Wikidata_ID" : "Q1123526"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Mountain Meleshevija",
+    "original_value" : "Mount Maleshevo",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Republic of North Macedonia",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  }, {
+    "originalKey" : "Berovo municipality",
+    "original_value" : "Berovo Municipality, Republic of North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Pehchevo municipality",
+    "original_value" : "Pehčevo Municipality, Republic of North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Maleshevski mountains",
+    "original_value" : "Mount Maleshevo Range",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Bregalnica river",
+    "original_value" : "Bregalnica River (North Macedonia)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Strumica river",
+    "original_value" : "Struma River",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "forests in Maleshevija region",
+    "original_value" : "Forest of North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "pastures around 20%",
+    "original_value" : "Pastureland (agriculture)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "The size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "806 km2",
+    "original_value" : "Area: 806 square kilometers",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "minimum altimetry of the LAU",
+    "original_value" : "Altitude range in Local Administrative Units (LAUs)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "660 meters",
+    "original_value" : "Minimum Altitude: 660 meters",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "maximum altimetry of the LAU",
+    "original_value" : "Maximum Altitude in Local Administrative Units (LAUs)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "1932 meters",
+    "original_value" : "Maximum Altitude: 1932 meters",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "total population of the LAU",
+    "original_value" : "Population in Local Administrative Units (LAUs)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "174.341 thousand people",
+    "original_value" : "Total Population: 174,341",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population density in the LAU",
+    "original_value" : "Population Density of Local Administrative Units (LAUs)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "49.3 inhabitants/km2",
+    "original_value" : "Density: 49.3 people per square kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population change rate of the LAU in last 10 years (%)",
+    "original_value" : "Population Change Rate for Local Administrative Units over Last Decade",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "-3.00%",
+    "original_value" : "Decline: -3.00%",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "overall regional population density (Inhabitants/km2)",
+    "original_value" : "Population Density of the Region",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "83.4 inhabitants/km2",
+    "original_value" : "Density: 83.4 people per square kilometer (Region)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional population change rate in last 10 years (%)",
+    "original_value" : "Population Change Rate for the Region over Last Decade",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "1.20%",
+    "original_value" : "Growth: +1.20%",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "average per capita income",
+    "original_value" : "List of countries and dependencies by GDP (PPP) per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Economy of the European Union#Regional economies within EU member states: NUTS 2 regions and MSAs, GDP per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share",
+    "original_value" : "Agriculture in Europe#EU agricultural production by country (GVA)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share",
+    "original_value" : "Industrialisation of the United Kingdom",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share",
+    "original_value" : "Service economy#European Union and European Economic Area (EU/EEA)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "total number of bed places in tourist accommodations/year",
+    "original_value" : "List of hotels and motels by country",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Administrative division - Local administrative units in various countries, including France's regions or departments which could be similar to LAUs.",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional share of total BPs/year",
+    "original_value" : "Tourism by country and region",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings in the LAU",
+    "original_value" : "Agriculture by locality or administrative division, which could be similar to agricultural holdings within a specific area.",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "settlement with population over 100000 (km)",
+    "original_value" : "List of urban areas by country\" or \"Megacities and large cities in various countries, which could include settlements like the one mentioned.",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "protected areas present",
+    "original_value" : "Protected area - List of protected areas by country",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary economic activity",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary economic activity",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "[Province]'s share of total employment in primary sector per year is unspecified.",
+    "original_value" : "Economy by province/territory (Canada)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "[Region]'s share of total employment in secondary sector per year is 30.50%",
+    "original_value" : "Regional economies\" or \"Economy by region (country/territory)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "[Region]'s share of total employment in tertiary sector per year is 53.30%",
+    "original_value" : "Regional economies\" or \"Economy by region (country/territory)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Vardar planning region",
+    "original_value" : "List of municipalities in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "commercial water development",
+    "original_value" : "Water supply and sanitation in the Republic of North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "lower reaches of rivers Vardar, Crni Drim, Bregalnica, Babuna, Topolka",
+    "original_value" : "Rivers of North Macedonia: List and description",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "hydro reservoirs Tikvesh, Lices, Mladost",
+    "original_value" : "List of dams in the Republic of North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Kozuvcanka company",
+    "original_value" : "Companies and businesses established or operating in Kavadarci, Municipality of Tikvesh, Republic of North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "mineral water source at 900 meters altitude",
+    "original_value" : "Mineral waters in the Republic of North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "springs from a depth of 85 meters carrying minerals",
+    "original_value" : "Water resources and water quality monitoring in the Republic of North Macedonia",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Kozuvcanka",
+    "original_value" : "Kozuvcanka",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Maleshevski mountain",
+    "original_value" : "Mount Maleshevo (mountain range)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Vardarski region",
+    "original_value" : "Skopje",
+    "Wikidata_ID" : "Q384"
+  }, {
+    "originalKey" : "mineral water production",
+    "original_value" : "Mineral Water Production - Wikipedia page for the general concept of mineral water manufacturing.",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Value Chain",
+    "original_value" : "Supply chain management (disambiguation)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Maleshevska region/population",
+    "original_value" : "Not directly available, but related to 'Skopje' and potentially the broader socio-economic context of North Macedonia.",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Current challenge",
+    "original_value" : "Challenges - Wikipedia page for challenges in various domains, including economic ones that may be relevant here.",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Predicted future issues",
+    "original_value" : "Future problems and predictions – a general concept which could relate to predictive analysis or forecasting on Wikipedia pages about various topics, including economic ones. Specific title not available.",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Traditional VC",
+    "original_value" : "Business model - A general concept that could be explained in detail under the 'Business Model' Wikipedia page but may also relate to traditional industries or practices.",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Innovative VC",
+    "original_value" : "Innovation - The general concept of innovation, which could be explained in detail under the 'Innovation' Wikipedia page but may also relate to modern or cutting-edge practices.",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Business Model Canvas",
+    "Wikidata_ID" : "Q1393677"
+  }, {
+    "originalKey" : "used technology on production and distribution",
+    "original_value" : "Supply Chain Management Technologies",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New processes",
+    "original_value" : "Innovation Processes in Business",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing Strategy and Planning",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Forestry land use systems",
+    "original_value" : "Sustainable Forest Management",
+    "Wikidata_ID" : "Q47572"
+  }, {
+    "originalKey" : "Natural, social and cultural local assets",
+    "original_value" : "Local Economic Development (LEDL)",
+    "Wikidata_ID" : ""
+  } ]
+} ]

@@ -1,0 +1,219 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "GREECE",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "originalKey" : "VC 11 GR",
+    "original_value" : "Geographical indication",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "apicature",
+    "original_value" : "Apiary",
+    "Wikidata_ID" : "Q857628"
+  }, {
+    "originalKey" : "EU Geographical Indications (GIs)",
+    "original_value" : "Geographical indication",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "White Mountains",
+    "original_value" : "White Mountains (Crete)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "KISSAMOS",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population density",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income (EUR/year) [Province]",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added (GVA) (EUR million/year) [Province]",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "primary sector share of total GVA/year [Province]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year [Province]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year [Province]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "per capita income (EUR/year) [Region]",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added (GVA) (EUR million/year) [Region]",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "primary sector share of total GVA/year [Region]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year [Region]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year [Region]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Regional unit (Norway)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "BPs",
+    "original_value" : "Bed place",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "km",
+    "original_value" : "Kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Pefkothimaromelo",
+    "original_value" : "Pefkothymaromelo",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "PDO",
+    "original_value" : "Protected Designation of Origin",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Kissamos",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "beekeeping",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "originalKey" : "Cretan way of life",
+    "original_value" : "Cretan people",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Minoan Civilization",
+    "original_value" : "Minoan civilization",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "pine honey",
+    "original_value" : "Pine honey",
+    "Wikidata_ID" : "Q7195419"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "originalKey" : "bees",
+    "original_value" : "Bee",
+    "Wikidata_ID" : "Q7391"
+  }, {
+    "originalKey" : "honey production",
+    "original_value" : "Honey production",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "pesticides",
+    "original_value" : "Pesticide",
+    "Wikidata_ID" : "Q131656"
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "Pefkothymaromelo",
+    "original_value" : "Pefkothymaromelo",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "pefkothymaromelo",
+    "original_value" : "Pefkothymaromelo",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "PDO characterization",
+    "original_value" : "Protected Designation of Origin",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Forestry and Natural land",
+    "original_value" : "Forest management",
+    "Wikidata_ID" : "Q372561"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Peyfothymaromelo",
+    "original_value" : "Peyfothymaromelo",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Cretan honey",
+    "original_value" : "Honey of Crete",
+    "Wikidata_ID" : ""
+  } ]
+} ]

@@ -1,0 +1,291 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "SPAIN ADEGUA",
+    "original_value" : "Adega de España",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "VC 35 ES",
+    "original_value" : "Liste des vins de la Denominación de Origen de la Comunidad Valenciana",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "ATADES Gardeniers Special Employment Center",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "boliche",
+    "original_value" : "Boliche (legume)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "chickpeas",
+    "original_value" : "Chicopea",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "lentils",
+    "original_value" : "Lente",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Torres de Berrellén melon",
+    "original_value" : "Melón de Torres de Berrellén",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Aragonese Territory",
+    "original_value" : "Comunidad Autónoma de Aragón",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Zaragoza",
+    "original_value" : "Zaragoza",
+    "Wikidata_ID" : "Q10305"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Pyrenees",
+    "original_value" : "Pyrenees",
+    "Wikidata_ID" : "Q12431"
+  }, {
+    "originalKey" : "Jaca (Ascara)",
+    "original_value" : "Jaca",
+    "Wikidata_ID" : "Q49581"
+  }, {
+    "originalKey" : "Canal de Berdún",
+    "original_value" : "Canal de Berdún",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Huesca",
+    "original_value" : "Huesca",
+    "Wikidata_ID" : "Q11967"
+  }, {
+    "originalKey" : "Zaragoza",
+    "original_value" : "Zaragoza",
+    "Wikidata_ID" : "Q10305"
+  }, {
+    "originalKey" : "boliche",
+    "original_value" : "Boliche",
+    "Wikidata_ID" : "Q4939431"
+  }, {
+    "originalKey" : "chickpeas",
+    "original_value" : "Chickpea",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "lentils",
+    "original_value" : "Lentil",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Ascara",
+    "original_value" : "Ascara",
+    "Wikidata_ID" : "Q8206262"
+  }, {
+    "originalKey" : "Torres de Berrellén",
+    "original_value" : "Torres de Berrellén",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Alagón",
+    "original_value" : "Alagón",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Montañana",
+    "original_value" : "Montañana",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gardeniers",
+    "original_value" : "Gardeniers",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Jacetania",
+    "original_value" : "Jacetania",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Natura 2000 Network",
+    "original_value" : "Natura 2000",
+    "Wikidata_ID" : "Q503021"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population density",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "population change rate",
+    "original_value" : "Population change rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Province",
+    "original_value" : "Province (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Regional unit (Europe)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Aragonese Pyrenees",
+    "original_value" : "Pirineos aragoneses",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "organic food production",
+    "original_value" : "Producción de alimentos orgánicos",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Aragon",
+    "original_value" : "Aragon (Spain)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Organic Production of Foodstuffs linked to the Aragonese Territory",
+    "original_value" : "Organic production in Aragon",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Triple economic, social, and ecological aspects",
+    "original_value" : "Triple bottom line",
+    "Wikidata_ID" : "Q1252862"
+  }, {
+    "originalKey" : "Institutional and private actors",
+    "original_value" : "Stakeholder theory",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Rural development policies",
+    "original_value" : "Rural development",
+    "Wikidata_ID" : "Q3045473"
+  }, {
+    "originalKey" : "Urban consumption environments",
+    "original_value" : "Sustainable urban planning",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Current challenge",
+    "original_value" : "Challenges in venture capital",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Innovative VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Revitalization",
+    "original_value" : "Revitalization",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Rural areas",
+    "original_value" : "Rural area",
+    "Wikidata_ID" : "Q175185"
+  }, {
+    "originalKey" : "Natural and cultural interest",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  }, {
+    "originalKey" : "Traditional varieties",
+    "original_value" : "Crop variety",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Organic production",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Consumption",
+    "original_value" : "Consumer behavior",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Cropland",
+    "original_value" : "Agricultural land",
+    "Wikidata_ID" : "Q3395383"
+  }, {
+    "originalKey" : "Natural assets",
+    "original_value" : "Ecosystem service",
+    "Wikidata_ID" : "Q295865"
+  }, {
+    "originalKey" : "Social assets",
+    "original_value" : "Social capital",
+    "Wikidata_ID" : "Q214693"
+  }, {
+    "originalKey" : "Cultural assets",
+    "original_value" : "Intangible cultural heritage",
+    "Wikidata_ID" : "Q84036549"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "San Juan de la Peña",
+    "original_value" : "San Juan de la Peña",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Monte Oroel",
+    "original_value" : "Monte Oroel",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Western Valleys",
+    "original_value" : "Valle del Ebro",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Torres de Berrellén",
+    "original_value" : "Torres de Berrelñez",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "CITA (Centro de Investigación y Tecnología Agroalimentaria de Aragón)",
+    "original_value" : "Centro de Investigación y Tecnología Agroalimentaria de Aragón",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "ATADES",
+    "original_value" : "ATADES",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Mercazaragoza",
+    "original_value" : "Mercazaragoza",
+    "Wikidata_ID" : ""
+  } ]
+} ]

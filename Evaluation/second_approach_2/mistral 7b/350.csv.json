@@ -1,0 +1,299 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "SPAIN ADEGUA",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  }, {
+    "originalKey" : "VC 33 ES",
+    "original_value" : "VC 33 ES",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Sierras Cazorla, Segura y Las Villas",
+    "original_value" : "Sierra de Cazorla, Segura and Las Villas",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "originalKey" : "Sierra de Castril in Granada",
+    "original_value" : "Sierra de Castril in Granada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Betic System",
+    "original_value" : "Betic System",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Castril",
+    "original_value" : "Castril",
+    "Wikidata_ID" : "Q555913"
+  }, {
+    "originalKey" : "transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "originalKey" : "extensive livestock farming",
+    "original_value" : "Extensive livestock farming",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional population density",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "average per capita income",
+    "original_value" : "Average income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "originalKey" : "primary sector share",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Regions of the world",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Province",
+    "original_value" : "Provinces in South Africa",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "bed places",
+    "original_value" : "Bed",
+    "Wikidata_ID" : "Q42177"
+  }, {
+    "originalKey" : "tourist accommodations/year",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Local administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional share",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "nearest settlement with population over 100000 (km)",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "employment/year [Province]",
+    "original_value" : "Employment by sector in [Province]",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "employment/year [Region]",
+    "original_value" : "Employment by sector in [Region]",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "originalKey" : "UNESCO",
+    "original_value" : "UNESCO",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "livestock transhumance",
+    "original_value" : "Livestock transhumance",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Natural Park of the Sierras de Cazorla, Segura and Las Villas in Jaén",
+    "original_value" : "Natural Park of the Sierras de Cazorla, Segura and Las Villas",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "highlands",
+    "original_value" : "Highland",
+    "Wikidata_ID" : "Q878223"
+  }, {
+    "originalKey" : "lowlands of Sierra Morena",
+    "original_value" : "Sierra Morena",
+    "Wikidata_ID" : "Q686362"
+  }, {
+    "originalKey" : "single herd combines the management of two farms of high environmental value",
+    "original_value" : "Farming",
+    "Wikidata_ID" : "Q24886094"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "aging",
+    "original_value" : "Aging",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "public strategy",
+    "original_value" : "Public policy",
+    "Wikidata_ID" : "Q546113"
+  }, {
+    "originalKey" : "extensive livestock farming",
+    "original_value" : "Extensive agriculture",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Endogenous and Exogenous",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "originalKey" : "Transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  }, {
+    "originalKey" : "Natural, social and cultural",
+    "original_value" : "Local assets",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "originalKey" : "Soria",
+    "original_value" : "Soria",
+    "Wikidata_ID" : "Q12155"
+  }, {
+    "originalKey" : "Cuenca",
+    "original_value" : "Cuenca",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "La Rioja",
+    "original_value" : "La Rioja",
+    "Wikidata_ID" : "Q5727"
+  }, {
+    "originalKey" : "Andalusia",
+    "original_value" : "Andalusia",
+    "Wikidata_ID" : "Q5783"
+  }, {
+    "originalKey" : "Cazorla",
+    "original_value" : "Cazorla",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Segura",
+    "original_value" : "Segura",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Las Villas",
+    "original_value" : "Las Villas",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Jaén",
+    "original_value" : "Jaén",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Sierra de Castril",
+    "original_value" : "Sierra de Castril",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Granada",
+    "original_value" : "Granada",
+    "Wikidata_ID" : "Q8810"
+  }, {
+    "originalKey" : "Sierra Nevada",
+    "original_value" : "Sierra Nevada",
+    "Wikidata_ID" : "Q26777"
+  }, {
+    "originalKey" : "plain area of Granada",
+    "original_value" : "Granada",
+    "Wikidata_ID" : "Q8810"
+  }, {
+    "originalKey" : "Italy",
+    "original_value" : "Italy",
+    "Wikidata_ID" : "Q38"
+  }, {
+    "originalKey" : "Austria",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  }, {
+    "originalKey" : "Greece",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  } ]
+} ]

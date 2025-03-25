@@ -1,0 +1,335 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "MOVING",
+    "original_value" : "Moving (company)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "SPAIN ADEGUA",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  }, {
+    "originalKey" : "VC 34 ES",
+    "original_value" : "VC 34 ES",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "feminised value chain",
+    "original_value" : "Feminisation of the economy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "mixed governance system",
+    "original_value" : "Mixed economy",
+    "Wikidata_ID" : "Q191675"
+  }, {
+    "originalKey" : "monetised and non-monetised",
+    "original_value" : "Monetisation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "elderly people",
+    "original_value" : "Elderly care",
+    "Wikidata_ID" : "Q437458"
+  }, {
+    "originalKey" : "local and immigrant women who work in the chain",
+    "original_value" : "Women's employment",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "cultural, participatory and social cohesion aspects of the municipality",
+    "original_value" : "Community development",
+    "Wikidata_ID" : "Q718998"
+  }, {
+    "originalKey" : "health, care or family aspects that are generally present in the care field",
+    "original_value" : "Healthcare",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Betic System",
+    "original_value" : "Betic System",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Carcabuey",
+    "original_value" : "Carcabuey",
+    "Wikidata_ID" : "Q842679"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population density",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "population change rate",
+    "original_value" : "Population change rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "average per capita income",
+    "original_value" : "Average per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "originalKey" : "primary sector share",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "bed places",
+    "original_value" : "Bed",
+    "Wikidata_ID" : "Q42177"
+  }, {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural land use",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "settlement with population over 100000",
+    "original_value" : "City",
+    "Wikidata_ID" : "Q515"
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "economic activity",
+    "original_value" : "Economic activity",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "local peculiarities",
+    "original_value" : "Local peculiarities",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "high quality",
+    "original_value" : "High quality",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "specific relevance",
+    "original_value" : "Specific relevance",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "ageing and depopulation",
+    "original_value" : "Ageing and depopulation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "mountain centres",
+    "original_value" : "Mountain centres",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "intergenerational social cohesion",
+    "original_value" : "Intergenerational social cohesion",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "private care company",
+    "original_value" : "Private care company",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "local women",
+    "original_value" : "Local women",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "professionalisation",
+    "original_value" : "Professionalisation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "certificates of professionalism",
+    "original_value" : "Certificates of professionalism",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "experience in the informal sector",
+    "original_value" : "Experience in the informal sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "non-monetised and informal economy",
+    "original_value" : "Non-monetised and informal economy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "female population under 65",
+    "original_value" : "Female population under 65",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "attraction of immigrant female population",
+    "original_value" : "Attraction of immigrant female population",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "value chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "multilevel governance system",
+    "original_value" : "Multilevel governance system",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "proximity and interaction of all the actors involved",
+    "original_value" : "Proximity and interaction of all the actors involved",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "greater structuring",
+    "original_value" : "Greater structuring",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Municipal residence for the elderly managed by private company (PROMI)",
+    "original_value" : "Senior housing",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Active participation centre",
+    "original_value" : "Community center",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Dependency assistance company hired by municipality",
+    "original_value" : "Home care services",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Emergency carers, a service managed by the Provincial Council",
+    "original_value" : "Emergency medical services",
+    "Wikidata_ID" : "Q860447"
+  }, {
+    "originalKey" : "Assistance in the framework of the informal economy",
+    "original_value" : "Informal sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Organised civil society groups (there are 40 associations)",
+    "original_value" : "Non-governmental organization",
+    "Wikidata_ID" : "Q79913"
+  }, {
+    "originalKey" : "Neighbourhood mutual aid",
+    "original_value" : "Mutual aid",
+    "Wikidata_ID" : "Q766238"
+  }, {
+    "originalKey" : "Older people themselves",
+    "original_value" : "Elderly care",
+    "Wikidata_ID" : "Q437458"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Ageing population",
+    "original_value" : "Ageing",
+    "Wikidata_ID" : "Q332154"
+  }, {
+    "originalKey" : "negative replacement rate",
+    "original_value" : "Negative replacement rate",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "depopulation and exodus of young population",
+    "original_value" : "Depopulation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "public resources do not cover all needs",
+    "original_value" : "Public resources",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "informal economy",
+    "original_value" : "Informal sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "professionalisation process under development but not consolidated",
+    "original_value" : "Professionalization",
+    "Wikidata_ID" : "Q355523"
+  }, {
+    "originalKey" : "precarisation of female work",
+    "original_value" : "Precarity",
+    "Wikidata_ID" : "Q15404623"
+  }, {
+    "originalKey" : "disappearance of local and social cultures of small Sierra communities",
+    "original_value" : "Local culture",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Endogenous and Exogenous",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "originalKey" : "Informal and traditional care",
+    "original_value" : "Care",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance",
+    "Wikidata_ID" : "Q1553864"
+  }, {
+    "originalKey" : "Urban space and infrastructures",
+    "original_value" : "Urban planning",
+    "Wikidata_ID" : "Q69883"
+  }, {
+    "originalKey" : "Social and cultural assets",
+    "original_value" : "Culture",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Subbética",
+    "original_value" : "Subbética",
+    "Wikidata_ID" : ""
+  } ]
+} ]

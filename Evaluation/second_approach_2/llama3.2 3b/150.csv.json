@@ -1,0 +1,221 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "ITALY UNIMOL",
+    "original_value" : "UNIMOL",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "UNIPI",
+    "original_value" : "UNIPI",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "VC 17 IT",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "SESs",
+    "original_value" : "System of Economic Systems",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "farmers",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  }, {
+    "originalKey" : "municipality of Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  }, {
+    "originalKey" : "Honey of Amatrice? (Miele di Amatrice)",
+    "original_value" : "Miele di Amatrice",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Central Apennines",
+    "original_value" : "Central Apennine",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Lazio region",
+    "original_value" : "Region of Lazio",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  }, {
+    "originalKey" : "Rieti",
+    "original_value" : "Rieti",
+    "Wikidata_ID" : "Q13396"
+  }, {
+    "originalKey" : "Abruzzo region",
+    "original_value" : "Region of Abruzzo",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gran Sasso e Monti della Laga National Park",
+    "original_value" : "National park of Gran Sasso, Monti della Laga and Velino",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Montana del Velino community",
+    "original_value" : "Montana del Velino",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Club of Borghi più belli d Italia",
+    "original_value" : "Most beautiful villages in Italy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Spaghetti amatriciana",
+    "original_value" : "Spaghetti amatriciana",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "originalKey" : "population density",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income (EUR/year) [Province]",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added (GVA) (EUR million/year) [Province]",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "primary sector share of total GVA/year [Province]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year [Province]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year [Province]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "per capita income (EUR/year) [Region]",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added (GVA) (EUR million/year) [Region]",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "primary sector share of total GVA/year [Region]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year [Region]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year [Region]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Regional unit (Europe)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "honey certificate of origin",
+    "original_value" : "Certificate of Origin",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Mielene di Amatric",
+    "original_value" : "Certificazione Mielene",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  }, {
+    "originalKey" : "organic honey",
+    "original_value" : "Organic honey",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "originalKey" : "honey market",
+    "original_value" : "Honey market",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "organic label",
+    "original_value" : "Organic label",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Municipality of Amatrice",
+    "original_value" : "Municipality of Amatrice",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Miele di Amatrice",
+    "original_value" : "Miele di Amatrice",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Cropland",
+    "original_value" : "Cropland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Natural land",
+    "original_value" : "Natural land",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Natural",
+    "original_value" : "Natural (ecology)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Cultural",
+    "original_value" : "Culture",
+    "Wikidata_ID" : ""
+  } ]
+} ]
