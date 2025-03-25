@@ -1,0 +1,195 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "MOVING reference member state of this VC (Value Chain)",
+    "original_value" : "List of countries in the European Union",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "SWITZERLAND 1",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "originalKey" : "MOVING Card ID of this VC",
+    "original_value" : "List of countries in the European Union",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Alpine tourism",
+    "original_value" : "Tourism in Switzerland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "hotels, restaurants and sports attractions such as ski lifts",
+    "original_value" : "Tourism in Switzerland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "standard with which these tourism infrastructures are built differs greatly between richer and less prosperous regions",
+    "original_value" : "Economic inequality in Switzerland",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "reference mountain chain of this VC",
+    "original_value" : "Mountain range",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "reference mountain landscape of this VC",
+    "original_value" : "Landscape",
+    "Wikidata_ID" : "Q107425"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "population",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Province",
+    "original_value" : "List of provinces in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "List of regions in Europe",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "total bed places (BPs)",
+    "original_value" : "List of hotels in the world",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional share",
+    "original_value" : "Regional government",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "nearest settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector share of total employment/year [Province]",
+    "original_value" : "Employment by industry in Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total employment/year [Province]",
+    "original_value" : "Industry in Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total employment/year [Province]",
+    "original_value" : "Tertiary industry in Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total employment/year [Region]",
+    "original_value" : "Employment by industry in Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total employment/year [Region]",
+    "original_value" : "Industry in Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total employment/year [Region]",
+    "original_value" : "Tertiary industry in Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "one of the biggest and most famous VC-systems in the alps",
+    "original_value" : "Value Chain (economics)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "vary varied and has very high impact on region",
+    "original_value" : "Regional Impact",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "tourism",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "originalKey" : "climate change",
+    "original_value" : "Climate Change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "originalKey" : "mountains",
+    "original_value" : "Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "revenue",
+    "original_value" : "Revenue",
+    "Wikidata_ID" : "Q850210"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Venture Capitalist",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "challenge",
+    "original_value" : "Challenge (general term)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Endogenous and Exogenous innovation",
+    "original_value" : "Innovation (economics)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "touristic attractions",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "originalKey" : "skiing",
+    "original_value" : "Skiing",
+    "Wikidata_ID" : "Q130949"
+  }, {
+    "originalKey" : "New products",
+    "original_value" : "Product development",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New processes",
+    "original_value" : "Process (management)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing",
+    "Wikidata_ID" : "Q39809"
+  }, {
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance",
+    "Wikidata_ID" : "Q1553864"
+  }, {
+    "originalKey" : "Landscape",
+    "original_value" : "Landscape (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Natural assets",
+    "original_value" : "Natural resources",
+    "Wikidata_ID" : "Q6980594"
+  }, {
+    "originalKey" : "social assets",
+    "original_value" : "Social capital",
+    "Wikidata_ID" : "Q214693"
+  }, {
+    "originalKey" : "cultural assets",
+    "original_value" : "Cultural heritage",
+    "Wikidata_ID" : "Q210272"
+  } ]
+} ]

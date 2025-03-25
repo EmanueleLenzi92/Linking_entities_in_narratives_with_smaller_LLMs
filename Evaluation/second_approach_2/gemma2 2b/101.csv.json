@@ -1,0 +1,415 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "GREECE",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "originalKey" : "VC 10 GR",
+    "original_value" : "VC 10 GR",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "chestnut trees",
+    "original_value" : "Chestnut tree",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "cultivation",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "exploitation",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "originalKey" : "farmers",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  }, {
+    "originalKey" : "chestnut collection",
+    "original_value" : "Chestnut harvest",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "event",
+    "original_value" : "Festival",
+    "Wikidata_ID" : "Q132241"
+  }, {
+    "originalKey" : "product",
+    "original_value" : "Product",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "farmers",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  }, {
+    "originalKey" : "local government",
+    "original_value" : "Local government",
+    "Wikidata_ID" : "Q6501447"
+  }, {
+    "originalKey" : "academic institutions",
+    "original_value" : "University",
+    "Wikidata_ID" : "Q3918"
+  }, {
+    "originalKey" : "local catering and tourism",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "originalKey" : "small firms of standardization, packaging, promotion and marketing",
+    "original_value" : "Marketing",
+    "Wikidata_ID" : "Q39809"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "White Mountains",
+    "original_value" : "White Mountains of Crete",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "KISSAMOS",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "originalKey" : "Elos (LAU2 Code: 74050201)",
+    "original_value" : "Elos, Crete",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "White Mountains",
+    "original_value" : "White Mountains of Crete",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "334.2",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "0",
+    "original_value" : "Minimum altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "1000",
+    "original_value" : "Maximum altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "159.893",
+    "original_value" : "Population (in thousand)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "67.50",
+    "original_value" : "Population density (Inhabitants/km2) in the LAU",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "0.02%",
+    "original_value" : "Population change rate of the LAU in the last 10 years (%)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "76.5",
+    "original_value" : "Overall regional population density (Inhabitants/km2)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "0.02%",
+    "original_value" : "Regional population change rate in the last 10 years (%)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "average per capita income (EUR/year) [Province]",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Province]",
+    "original_value" : "Gross Domestic Product (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total GVA/year [Province]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year [Province]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year [Province]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "average per capita income (EUR/year) [Region]",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Region]",
+    "original_value" : "Gross Domestic Product (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total GVA/year [Region]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year [Region]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year [Region]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "total bed places",
+    "original_value" : "List of tourist accommodations in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional share",
+    "original_value" : "Regional government",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector share of total employment/year [Province]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total employment/year [Province]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total employment/year [Province]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total employment/year [Region]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total employment/year [Region]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total employment/year [Region]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Chestnut trees",
+    "original_value" : "Chestnut tree",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "originalKey" : "Chania chestnut trees",
+    "original_value" : "Chestnut tree cultivation in Chania, Crete",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "chestnuts",
+    "original_value" : "Chestnut",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "farmers",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  }, {
+    "originalKey" : "development company",
+    "original_value" : "Development company",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "local firms",
+    "original_value" : "Firm",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Italian market",
+    "original_value" : "Italy",
+    "Wikidata_ID" : "Q38"
+  }, {
+    "originalKey" : "Chestnut tree",
+    "original_value" : "Chestnut tree",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "productive",
+    "original_value" : "Productivity",
+    "Wikidata_ID" : "Q2111958"
+  }, {
+    "originalKey" : "naturalistic",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  }, {
+    "originalKey" : "landscape",
+    "original_value" : "Landscape",
+    "Wikidata_ID" : "Q107425"
+  }, {
+    "originalKey" : "recreational",
+    "original_value" : "Recreation",
+    "Wikidata_ID" : "Q184872"
+  }, {
+    "originalKey" : "sustainable activity",
+    "original_value" : "Sustainability",
+    "Wikidata_ID" : "Q219416"
+  }, {
+    "originalKey" : "olive oil monoculture",
+    "original_value" : "Olive oil production",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "forest/semi forested areas",
+    "original_value" : "Forests",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "grasslands of Western White Mountains",
+    "original_value" : "Western White Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agro-tourism",
+    "original_value" : "Agro-tourism",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "chestnut activities",
+    "original_value" : "Chestnuts",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "social bonds",
+    "original_value" : "Social Bonds",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "conservation of the local population and their activities",
+    "original_value" : "Conservation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "traditional knowledge for the cultivation and preservation of the chestnut forests in the area",
+    "original_value" : "Traditional Knowledge",
+    "Wikidata_ID" : "Q1428168"
+  }, {
+    "originalKey" : "chestnut festival",
+    "original_value" : "Chestnut Festival",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "chestnut trees",
+    "original_value" : "Chestnut tree",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "infections",
+    "original_value" : "Plant diseases",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "reduced production",
+    "original_value" : "Agricultural yield",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "traditional farmers",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  }, {
+    "originalKey" : "economic crisis",
+    "original_value" : "Economic recession",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "farmers reconsidered the chestnut",
+    "original_value" : "Chestnut cultivation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "chestnut cultivation /exploitation",
+    "original_value" : "Chestnut farming",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "lack of professionalism and specialization",
+    "original_value" : "Agricultural expertise",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "infections and the climate change increase the uncertainty",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "originalKey" : "competitive agricultural activities (e.g. olive oil trees)",
+    "original_value" : "Olive cultivation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "chestnut has better perspectives in the Greek and international market",
+    "original_value" : "Market analysis",
+    "Wikidata_ID" : "Q1901028"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Venture Capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Exogenous innovation",
+    "original_value" : "Exogenous Innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "processed products and by-products",
+    "original_value" : "Food processing",
+    "Wikidata_ID" : "Q627371"
+  }, {
+    "originalKey" : "international market",
+    "original_value" : "International trade",
+    "Wikidata_ID" : "Q178803"
+  }, {
+    "originalKey" : "Region of Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "originalKey" : "academic institutions",
+    "original_value" : "Academic institution",
+    "Wikidata_ID" : "Q4671277"
+  }, {
+    "originalKey" : "New products",
+    "original_value" : "Product development",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  }, {
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "originalKey" : "Natural, social and cultural",
+    "original_value" : "Cultural heritage",
+    "Wikidata_ID" : "Q210272"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "cultivation of chestnut trees",
+    "original_value" : "Chestnut cultivation in Greece",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "mountainous areas all over Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "originalKey" : "similar VCs exist in other areas of Greece",
+    "original_value" : "List of agricultural value chains in Greece",
+    "Wikidata_ID" : ""
+  } ]
+} ]

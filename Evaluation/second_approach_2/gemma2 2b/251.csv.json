@@ -1,0 +1,383 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "SCOTLAND HUTTON",
+    "original_value" : "Scotland",
+    "Wikidata_ID" : "Q22"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "UK",
+    "original_value" : "United Kingdom",
+    "Wikidata_ID" : "Q145"
+  }, {
+    "originalKey" : "Heather moorland",
+    "original_value" : "Moorland",
+    "Wikidata_ID" : "Q1092661"
+  }, {
+    "originalKey" : "Heather honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "originalKey" : "Perth and Kinross",
+    "original_value" : "Perth and Kinross",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Scottish heather Honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "originalKey" : "Heather Hills",
+    "original_value" : "Perthshire",
+    "Wikidata_ID" : "Q1247411"
+  }, {
+    "originalKey" : "Scottish heather Honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "originalKey" : "British Standards Institution Kitemark for Food Assurance",
+    "original_value" : "Kitemark",
+    "Wikidata_ID" : "Q6418160"
+  }, {
+    "originalKey" : "Honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Highlands and Islands",
+    "original_value" : "Highlands and Islands, Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Eastern Scotland",
+    "original_value" : "Eastern Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Perth and Kinross",
+    "original_value" : "Perth and Kinross",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Tay",
+    "original_value" : "River Tay",
+    "Wikidata_ID" : "Q19719"
+  }, {
+    "originalKey" : "Earn",
+    "original_value" : "River Earn",
+    "Wikidata_ID" : "Q1277544"
+  }, {
+    "originalKey" : "Perth",
+    "original_value" : "Perth",
+    "Wikidata_ID" : "Q3183"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "5383.724292",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "8",
+    "original_value" : "Minimum altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "1084",
+    "original_value" : "Maximum altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "151.95",
+    "original_value" : "Population (in thousand)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "28.22",
+    "original_value" : "Population density (Inhabitants/km2) in the LAU",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "5.25%",
+    "original_value" : "Population change rate of the LAU in the last 10 years (%)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "149.76",
+    "original_value" : "Overall regional population density (Inhabitants/km2)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "6.86%",
+    "original_value" : "Regional population change rate in the last 10 years (%)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "average per capita income (EUR/year) [Province]",
+    "original_value" : "GDP per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Province]",
+    "original_value" : "Gross Domestic Product (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total GVA/year [Province]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year [Province]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year [Province]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "average per capita income (EUR/year) [Region]",
+    "original_value" : "GDP per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Region]",
+    "original_value" : "Gross Domestic Product (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total GVA/year [Region]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year [Region]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year [Region]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "total bed places (BPs)",
+    "original_value" : "List of tourist accommodations in Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional (Region)",
+    "original_value" : "List of regions in Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture in Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "settlement",
+    "original_value" : "Settlement (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area in Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector share of total employment/year [Province]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total employment/year [Province]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total employment/year [Province]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total employment/year [Region]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total employment/year [Region]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total employment/year [Region]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Scottish Heather honey",
+    "original_value" : "Honeybee",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Champagne of honeys",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "originalKey" : "Scottish 'great taste gold award'",
+    "original_value" : "Great Taste Awards",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Heather Hills honey",
+    "original_value" : "Honeybee",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Heather Hills farm",
+    "original_value" : "Honeybee",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Manuka Honey",
+    "original_value" : "Manuka honey",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "terrain",
+    "original_value" : "Landform",
+    "Wikidata_ID" : "Q271669"
+  }, {
+    "originalKey" : "climate",
+    "original_value" : "Climate",
+    "Wikidata_ID" : "Q7937"
+  }, {
+    "originalKey" : "heather",
+    "original_value" : "Heather",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "bees",
+    "original_value" : "Honeybee",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "originalKey" : "quality of honey",
+    "original_value" : "Honey quality",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "ability to roam",
+    "original_value" : "Bee foraging",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Heather Hills",
+    "original_value" : "Heather Hills Honey Company",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "5 miles radius",
+    "original_value" : "Radius",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "traditional knowledge",
+    "original_value" : "Traditional knowledge",
+    "Wikidata_ID" : "Q1428168"
+  }, {
+    "originalKey" : "harvesting",
+    "original_value" : "Honey harvesting",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "separating",
+    "original_value" : "Honey separation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "bottling",
+    "original_value" : "Bottling",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "employees",
+    "original_value" : "Employee",
+    "Wikidata_ID" : "Q703534"
+  }, {
+    "originalKey" : "Honey Sommelier",
+    "original_value" : "Sommelier",
+    "Wikidata_ID" : "Q191493"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "changing climate",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "originalKey" : "quality of the product",
+    "original_value" : "Product quality",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "traditional methods of collection",
+    "original_value" : "Traditional data collection methods",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "economically efficient",
+    "original_value" : "Economic efficiency",
+    "Wikidata_ID" : "Q615445"
+  }, {
+    "originalKey" : "challenge faced by this VC",
+    "original_value" : "Challenges in venture capital",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Current and predicted",
+    "original_value" : "Predictive modeling",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "VC is classified as Traditional and Innovative",
+    "original_value" : "Venture capital classification",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Endogenous and Exogenous innovation",
+    "original_value" : "Innovation (economics)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "innovative traditional methods of processing the honey",
+    "original_value" : "Honey production",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "hives have a lot of space to ensure a quality product",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "originalKey" : "BCI kitemark in UK",
+    "original_value" : "British Crop Innovation (BCI)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New products, New processes and New marketing strategies",
+    "original_value" : "Product development",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Natural land",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "originalKey" : "Local assets include Natural, Social and Cultural",
+    "original_value" : "Community development",
+    "Wikidata_ID" : "Q718998"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Heather hills",
+    "original_value" : "Heather Hills",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Aberdeenshire LAU1",
+    "original_value" : "Aberdeenshire (UK)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "heather bee farmers",
+    "original_value" : "Beekeeping in Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Scotland",
+    "original_value" : "Scotland",
+    "Wikidata_ID" : "Q22"
+  }, {
+    "originalKey" : "Germany",
+    "original_value" : "Luneburg, Germany",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Ireland",
+    "original_value" : "Ireland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "heather honey",
+    "original_value" : "Heather Honey",
+    "Wikidata_ID" : ""
+  } ]
+} ]

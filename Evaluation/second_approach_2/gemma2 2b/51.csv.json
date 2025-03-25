@@ -1,0 +1,283 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "CZECH REPUBLIC",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "originalKey" : "VC 10 CZ",
+    "original_value" : "List of Value Chains in the European Union",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "herb liquers",
+    "original_value" : "Herbal liqueur",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Giant Mountains",
+    "original_value" : "Giant Mountains",
+    "Wikidata_ID" : "Q214644"
+  }, {
+    "originalKey" : "LAU 1 Trutnov",
+    "original_value" : "Trutnov District",
+    "Wikidata_ID" : "Q517734"
+  }, {
+    "originalKey" : "NUTS 3 Kralovehradecky",
+    "original_value" : "Kralovehradecký Region",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "43,2%",
+    "original_value" : "Agricultural land in the Czech Republic",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "53%",
+    "original_value" : "Arable land in the Czech Republic",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "41,6%",
+    "original_value" : "Perennial grassland in the Czech Republic",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "46,9%",
+    "original_value" : "Forest land in the Czech Republic",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "1602 meters",
+    "original_value" : "Highest peak of Giant Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "385 km2",
+    "original_value" : "National Park in the Czech Republic",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "size (km2)",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "minimum altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "maximum altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "total population (in thousand)",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population density (Inhabitants/km2) in the LAU",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "population change rate of the LAU in the last 10 years (%)",
+    "original_value" : "Population Change Rate",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "overall regional population density (Inhabitants/km2)",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "regional population change rate in the last 10 years (%)",
+    "original_value" : "Population Change Rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Province",
+    "original_value" : "List of provinces in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "List of regions in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "average per capita income (EUR/year)",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year)",
+    "original_value" : "Gross Domestic Product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "originalKey" : "primary sector share of total GVA/year",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "total bed places (BPs)",
+    "original_value" : "List of tourist accommodations in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional (Region)",
+    "original_value" : "Regional government of a country",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector share of total employment/year [Province]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total employment/year [Province]",
+    "original_value" : "Secondary sector (economy)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total employment/year [Province]",
+    "original_value" : "Tertiary sector (economy)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total employment/year [Region]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total employment/year [Region]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total employment/year [Region]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "herb liquers",
+    "original_value" : "Liqueur",
+    "Wikidata_ID" : "Q178780"
+  }, {
+    "originalKey" : "regional product",
+    "original_value" : "Regional Product",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "mountain regions",
+    "original_value" : "Mountain Region",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "natural and symbolic values",
+    "original_value" : "Cultural Heritage",
+    "Wikidata_ID" : "Q210272"
+  }, {
+    "originalKey" : "unique selling proposition",
+    "original_value" : "Marketing Strategy",
+    "Wikidata_ID" : "Q1363963"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "More important than the natural assets (that can be fairly easily substituted)",
+    "original_value" : "Importance of Natural Assets",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "social construction of quality that is used in marketing",
+    "original_value" : "Marketing and Quality",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "producers refer to traditional knowledge embedded in the region",
+    "original_value" : "Traditional Knowledge",
+    "Wikidata_ID" : "Q1428168"
+  }, {
+    "originalKey" : "their product labels refer to cultural traits associated with the mountain area",
+    "original_value" : "Cultural Identity",
+    "Wikidata_ID" : "Q1368367"
+  }, {
+    "originalKey" : "symbolic value referring to the mountains is what distingusihes the product from other similar products",
+    "original_value" : "Brand Differentiation",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Herb liquers",
+    "original_value" : "Herbal liqueur",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "mainstream food markets",
+    "original_value" : "Food market",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "highly competetive",
+    "original_value" : "Competition (business)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "valorization of the product",
+    "original_value" : "Product differentiation",
+    "Wikidata_ID" : "Q1200129"
+  }, {
+    "originalKey" : "marketing strategy",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "originalKey" : "challenge",
+    "original_value" : "Challenge (business)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Current",
+    "original_value" : "Present",
+    "Wikidata_ID" : "Q193168"
+  }, {
+    "originalKey" : "Traditional",
+    "original_value" : "Traditional business model",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "originalKey" : "land use systems",
+    "original_value" : "Land use system",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Natural land",
+    "original_value" : "Natural land",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "local assets",
+    "original_value" : "Local asset",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "mountain region",
+    "original_value" : "Mountainous regions",
+    "Wikidata_ID" : ""
+  } ]
+} ]

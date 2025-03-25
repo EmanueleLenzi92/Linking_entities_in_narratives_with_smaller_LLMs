@@ -1,0 +1,407 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "AUSTRIA",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  }, {
+    "originalKey" : "VC 03 AT",
+    "original_value" : "Value Chain (VC) 03 AT",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "organic",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "processing",
+    "original_value" : "Food processing",
+    "Wikidata_ID" : "Q627371"
+  }, {
+    "originalKey" : "hotels",
+    "original_value" : "Hotels",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "RR 11",
+    "original_value" : "Roraima (mountain range)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Austrian Alps",
+    "original_value" : "Austrian Alps",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Weiz",
+    "original_value" : "Weiz, Austria",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Europe",
+    "original_value" : "Europe",
+    "Wikidata_ID" : "Q46"
+  }, {
+    "originalKey" : "pastures",
+    "original_value" : "Pasture (agriculture)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "1.200 and 1.500 m above sea level",
+    "original_value" : "Elevation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "humid",
+    "original_value" : "Humidity",
+    "Wikidata_ID" : "Q180600"
+  }, {
+    "originalKey" : "thunderstorms",
+    "original_value" : "Thunderstorm",
+    "Wikidata_ID" : "Q2857578"
+  }, {
+    "originalKey" : "limestone",
+    "original_value" : "Limestone",
+    "Wikidata_ID" : "Q23757"
+  }, {
+    "originalKey" : "phylite, slate and greywacke",
+    "original_value" : "Phyllite, Slate, and Greywacke",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "size (km2)",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "minimum altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "maximum altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population (thousand)",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population density (Inhabitants/km2)",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "population change rate of the LAU in the last 10 years (%)",
+    "original_value" : "Population Change Rate",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "overall regional population density (Inhabitants/km2)",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "regional population change rate in the last 10 years (%)",
+    "original_value" : "Population Change Rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "average per capita income (EUR/year) [Province]",
+    "original_value" : "List of countries by GDP per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Province]",
+    "original_value" : "Gross Domestic Product (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total GVA/year [Province]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year [Province]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year [Province]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "average per capita income (EUR/year) [Region]",
+    "original_value" : "List of countries by GDP per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Region]",
+    "original_value" : "Gross Domestic Product (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total GVA/year [Region]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year [Region]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year [Region]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "total bed places",
+    "original_value" : "List of tourist accommodations in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional share",
+    "original_value" : "Regional government",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector share of total employment/year [Province]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total employment/year [Province]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total employment/year [Province]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total employment/year [Region]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total employment/year [Region]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total employment/year [Region]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Almenland Nature Park",
+    "original_value" : "Almenland Nature Park",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Almenland Kräuter",
+    "original_value" : "Almenland Kräuter",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "herb farmers",
+    "original_value" : "List of herbalists",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "association",
+    "original_value" : "Association (organization)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "food and drinks",
+    "original_value" : "Food and drink",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "cosmetic and wellness products",
+    "original_value" : "Cosmetics",
+    "Wikidata_ID" : "Q131207"
+  }, {
+    "originalKey" : "regional development",
+    "original_value" : "Regional development",
+    "Wikidata_ID" : "Q482379"
+  }, {
+    "originalKey" : "nature park",
+    "original_value" : "Nature reserve",
+    "Wikidata_ID" : "Q179049"
+  }, {
+    "originalKey" : "gastronomy",
+    "original_value" : "Gastronomy",
+    "Wikidata_ID" : "Q171141"
+  }, {
+    "originalKey" : "hotels",
+    "original_value" : "Hotel",
+    "Wikidata_ID" : "Q27686"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Genussregion",
+    "original_value" : "Almenland (Region of Culinary Delight)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "AgrarMarkt Austria",
+    "original_value" : "Agrarmarkt Austria",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "nature park",
+    "original_value" : "Nature Park",
+    "Wikidata_ID" : "Q728904"
+  }, {
+    "originalKey" : "health related aspects",
+    "original_value" : "Health (general)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "local food specialities",
+    "original_value" : "Local Cuisine",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "flowering plants",
+    "original_value" : "Flowering Plants",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "insects",
+    "original_value" : "Insects",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "habitat fragmentation",
+    "original_value" : "Habitat Fragmentation",
+    "Wikidata_ID" : "Q913302"
+  }, {
+    "originalKey" : "permanent grasslands",
+    "original_value" : "Grasslands",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "local farmers",
+    "original_value" : "Farmers",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Extreme weather conditions",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "originalKey" : "climate change",
+    "original_value" : "Climate Change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "originalKey" : "natural vegetation",
+    "original_value" : "Vegetation",
+    "Wikidata_ID" : "Q187997"
+  }, {
+    "originalKey" : "cultivation practices",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "herbs",
+    "original_value" : "Herb",
+    "Wikidata_ID" : "Q207123"
+  }, {
+    "originalKey" : "climate change",
+    "original_value" : "Climate Change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "originalKey" : "irrigation",
+    "original_value" : "Irrigation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "varieties",
+    "original_value" : "Variety",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "challenge faced by this VC",
+    "original_value" : "Challenge (general)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Current and Predicted",
+    "original_value" : "Climate Change Projections",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Traditional and Innovative",
+    "original_value" : "Innovation (general)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Endogenous and Exogenous",
+    "original_value" : "Endogenous Innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "products",
+    "original_value" : "List of products",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "spice mixes",
+    "original_value" : "Spice blends",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "liquor",
+    "original_value" : "Alcoholic beverages",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "syrups",
+    "original_value" : "Syrup",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "sweets",
+    "original_value" : "Sweet treats",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "birch sugar",
+    "original_value" : "Birch Sugar",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "soaps",
+    "original_value" : "Soap",
+    "Wikidata_ID" : "Q34396"
+  }, {
+    "originalKey" : "creams",
+    "original_value" : "Creams",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "incense materials",
+    "original_value" : "Incense",
+    "Wikidata_ID" : "Q273131"
+  }, {
+    "originalKey" : "New products",
+    "original_value" : "Product development",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New processes",
+    "original_value" : "Process innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "originalKey" : "Natural land",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "originalKey" : "Local assets",
+    "original_value" : "Local resources",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Products made from herbs",
+    "original_value" : "Herbs",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Austrian mountainous regions",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  } ]
+} ]

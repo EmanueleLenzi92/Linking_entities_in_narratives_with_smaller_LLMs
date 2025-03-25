@@ -1,0 +1,99 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "SWITZERLAND",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "originalKey" : "Honey from the alps",
+    "original_value" : "Alpine honey",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Pro Montagna",
+    "original_value" : "Pro Montagna",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "reference mountain chain",
+    "original_value" : "Mountain range",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "reference mountain landscape",
+    "original_value" : "Landscape",
+    "Wikidata_ID" : "Q107425"
+  } ]
+}, {
+  "entities" : [ ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourist accommodation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Local Administrative Unit (LAU)",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Regional (Region)",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  } ]
+}, {
+  "entities" : [ ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "bee",
+    "original_value" : "Bee",
+    "Wikidata_ID" : "Q7391"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Beehives",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  } ]
+} ]

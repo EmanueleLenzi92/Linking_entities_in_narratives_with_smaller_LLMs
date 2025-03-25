@@ -1,0 +1,269 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "ITALY UNIMOL",
+    "original_value" : "UniMol",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "UNIPI",
+    "original_value" : "UniPi",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Savigni",
+    "original_value" : "Savigni (surname)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "butcher's shop",
+    "original_value" : "Butchery",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "farm",
+    "original_value" : "Farm",
+    "Wikidata_ID" : "Q131596"
+  }, {
+    "originalKey" : "cured meat factory",
+    "original_value" : "Meat processing plant",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "controlled supply chain",
+    "original_value" : "Supply Chain Management",
+    "Wikidata_ID" : "Q492886"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Northern Apennines",
+    "original_value" : "Apennine Range",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Tuscan Emilian Apennines",
+    "original_value" : "Tuscan-Emilian Alps",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Sambuca Pistoiese",
+    "original_value" : "Sambuca Pistoiese",
+    "Wikidata_ID" : "Q102725"
+  }, {
+    "originalKey" : "Pistoia province",
+    "original_value" : "Province of Pistoia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Italian region of Tuscany",
+    "original_value" : "Tuscany",
+    "Wikidata_ID" : "Q1273"
+  }, {
+    "originalKey" : "Pistoia",
+    "original_value" : "Pistoia",
+    "Wikidata_ID" : "Q13376"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "77.25",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "372",
+    "original_value" : "Minimum altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "1318",
+    "original_value" : "Maximum altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "1.514",
+    "original_value" : "Population (in thousand)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "19.59",
+    "original_value" : "Population density (Inhabitants/km2) in the LAU",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "-14.81%",
+    "original_value" : "Population change rate of the LAU in the last 10 years (%)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "160.64",
+    "original_value" : "Overall regional population density (Inhabitants/km2)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "0.48%",
+    "original_value" : "Regional population change rate in the last 10 years (%)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "average per capita income (EUR/year) [Province]",
+    "original_value" : "List of countries by GDP per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Province]",
+    "original_value" : "Gross Domestic Product (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total GVA/year [Province]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year [Province]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year [Province]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "average per capita income (EUR/year) [Region]",
+    "original_value" : "List of countries by GDP per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Region]",
+    "original_value" : "Gross Domestic Product (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total GVA/year [Region]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total GVA/year [Region]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total GVA/year [Region]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "total bed places",
+    "original_value" : "List of tourist accommodations in the world",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional share",
+    "original_value" : "Regional government",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector share of total employment/year [Province]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total employment/year [Province]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total employment/year [Province]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total employment/year [Region]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total employment/year [Region]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total employment/year [Region]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Certifications: Bollo IT 9-3467/L IT R152E CE ANAS (National Association Pig Farmers) Japan Export (Ministry of Health) BioAgriCert (Certification Body / Organic Control) Products Guarantee AIAB (Certification Body / Organic Control) INEQ (Quality North-East Institute / Body PDO Control Cinta Senese) TUV (German Certification Body ISO 9001/08) quality consortium Consorzio Tutela of Cinta Senese Quality Consortium Consorzio Tutela Finocchiona PGI Finocchiona PGI (Certification Body INeQ Quality North-East Institute) Vitellone Bianco dell Appennino Centrale PGI Chianina beef (Certification Body 3A-PTA Umbria Agri-food Technology Park)",
+    "original_value" : "List of certifications",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "The environment",
+    "original_value" : "Environment",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Savigni family",
+    "original_value" : "Savigni Family",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Porretta",
+    "original_value" : "Porretta Terme",
+    "Wikidata_ID" : "Q94983"
+  }, {
+    "originalKey" : "Suviana Lake",
+    "original_value" : "Lake Suviana",
+    "Wikidata_ID" : "Q3826053"
+  }, {
+    "originalKey" : "closed cycle of production",
+    "original_value" : "Closed-loop production",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "pastures",
+    "original_value" : "Pasture",
+    "Wikidata_ID" : "Q30121"
+  }, {
+    "originalKey" : "animals",
+    "original_value" : "Animal",
+    "Wikidata_ID" : "Q729"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "main challenge",
+    "original_value" : "Challenges in supply chain management",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "local animal",
+    "original_value" : "Animal husbandry",
+    "Wikidata_ID" : "Q80962"
+  }, {
+    "originalKey" : "international market demand",
+    "original_value" : "Global Market Demand",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Predicted",
+    "original_value" : "Predictive analytics",
+    "Wikidata_ID" : "Q1053367"
+  }, {
+    "originalKey" : "Innovative",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous Innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "organic farm",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "certificatin",
+    "original_value" : "Certification",
+    "Wikidata_ID" : "Q374814"
+  }, {
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "originalKey" : "Natural",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  } ]
+} ]

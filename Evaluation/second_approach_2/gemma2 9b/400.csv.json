@@ -1,0 +1,123 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "SWITZERLAND",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "originalKey" : "Engadiner",
+    "original_value" : "Engadine sheep",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Spiegelschaf",
+    "original_value" : "Spiegelschaf",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Nera Verzasca",
+    "original_value" : "Nera Verzasca goat",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Capra Grigia",
+    "original_value" : "Capra Grigia",
+    "Wikidata_ID" : "Q1543712"
+  }, {
+    "originalKey" : "Black Alpine Pig",
+    "original_value" : "Black Alpine pig",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "traditional breeds",
+    "original_value" : "Domesticated animal breed",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "local situation",
+    "original_value" : "Localism",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "trend of localness being trendy",
+    "original_value" : "Local food movement",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "veganism",
+    "original_value" : "Veganism",
+    "Wikidata_ID" : "Q181138"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  } ]
+} ]

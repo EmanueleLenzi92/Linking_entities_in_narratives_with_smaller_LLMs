@@ -1,0 +1,147 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "National Chamber of Commerce",
+    "original_value" : "Chamber of commerce",
+    "Wikidata_ID" : "Q1123526"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Mountain Meleshevija",
+    "original_value" : "Maleshevska Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Republic of North Macedonia",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  }, {
+    "originalKey" : "Bregalnica",
+    "original_value" : "Bregalnica River",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Strumica",
+    "original_value" : "Strumica River",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Vardar planning region",
+    "original_value" : "Vardar River",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "rivers Vardar, Crni Drim, Bregalnica, Babuna, Topolka and Otovica",
+    "original_value" : "List of rivers in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Tikvesh",
+    "original_value" : "Tikveš",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Lices",
+    "original_value" : "Lake Lices",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Mladost",
+    "original_value" : "Mladost, North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Kozuvcanka",
+    "original_value" : "Kozuvcanka",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Kavadarci (Tikvesh)",
+    "original_value" : "Kavadarci",
+    "Wikidata_ID" : "Q158088"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Kozuvcanka",
+    "original_value" : "Kozuvcanka",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Maleshevski mountain",
+    "original_value" : "Maleševo",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Vardarski region",
+    "original_value" : "Vardar River",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Value Chain",
+    "original_value" : "Supply chain",
+    "Wikidata_ID" : "Q1824206"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "originalKey" : "Natural land",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  } ]
+} ]

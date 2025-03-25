@@ -1,0 +1,383 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "SPAIN ADEGUA",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  }, {
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "MOVING",
+    "original_value" : "Moving",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "SIERRAS CAZORLA, Segura and Las Villas",
+    "original_value" : "Sierra de Cazorla, Segura y Las Villas",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "head of cattle",
+    "original_value" : "Cattle",
+    "Wikidata_ID" : "Q830"
+  }, {
+    "originalKey" : "public roads",
+    "original_value" : "Roads",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "climate change",
+    "original_value" : "Climate Change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "originalKey" : "deforestation",
+    "original_value" : "Deforestation",
+    "Wikidata_ID" : "Q169940"
+  }, {
+    "originalKey" : "Transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "originalKey" : "shepherds",
+    "original_value" : "Shepherd",
+    "Wikidata_ID" : "Q81710"
+  }, {
+    "originalKey" : "Granada",
+    "original_value" : "Granada",
+    "Wikidata_ID" : "Q8810"
+  }, {
+    "originalKey" : "Sierra de Castril",
+    "original_value" : "Sierra de Castril",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Betic System",
+    "original_value" : "Betics Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Castril",
+    "original_value" : "Castril",
+    "Wikidata_ID" : "Q555913"
+  }, {
+    "originalKey" : "transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "originalKey" : "extensive livestock farming",
+    "original_value" : "Extensive Livestock Farming",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Natura 2000 Network",
+    "original_value" : "Natura 2000",
+    "Wikidata_ID" : "Q503021"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "243.05",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "750",
+    "original_value" : "Minimum altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "1950",
+    "original_value" : "Maximum altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "2.02",
+    "original_value" : "Population (in thousand)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "8.31",
+    "original_value" : "Population density (Inhabitants/km2) in the LAU",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "-17.60%",
+    "original_value" : "Population change rate of the LAU in the last 10 years (%)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "97",
+    "original_value" : "Overall regional population density (Inhabitants/km2)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "-1.10%",
+    "original_value" : "Regional population change rate in the last 10 years (%)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "List of regions of Europe",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "total bed places",
+    "original_value" : "List of accommodations in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional share",
+    "original_value" : "Regional government",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector share of total employment/year [Province]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total employment/year [Province]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total employment/year [Province]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector share of total employment/year [Region]",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector share of total employment/year [Region]",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector share of total employment/year [Region]",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "originalKey" : "Mediterranean area",
+    "original_value" : "Mediterranean Sea",
+    "Wikidata_ID" : "Q4918"
+  }, {
+    "originalKey" : "Alps",
+    "original_value" : "Alps",
+    "Wikidata_ID" : "Q1286"
+  }, {
+    "originalKey" : "Spain",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  }, {
+    "originalKey" : "cattle trails",
+    "original_value" : "Cattle trail",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "UNESCO",
+    "original_value" : "UNESCO",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Intangible Cultural Heritage of Humanity",
+    "original_value" : "List of Intangible Cultural Heritage of Humanity",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "livestock transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "originalKey" : "sheeps",
+    "original_value" : "Sheep",
+    "Wikidata_ID" : "Q7368"
+  }, {
+    "originalKey" : "goats",
+    "original_value" : "Goat",
+    "Wikidata_ID" : "Q2934"
+  }, {
+    "originalKey" : "cows",
+    "original_value" : "Cow",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Natural Park of the Sierras de Cazorla, Segura and Las Villas",
+    "original_value" : "Sierra de Cazorla Natural Park",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Jaén",
+    "original_value" : "Jaén",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Castril",
+    "original_value" : "Castril",
+    "Wikidata_ID" : "Q555913"
+  }, {
+    "originalKey" : "Sierra Morena",
+    "original_value" : "Sierra Morena",
+    "Wikidata_ID" : "Q686362"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "originalKey" : "state of occupation and abandonment of livestock trails and infrastructures",
+    "original_value" : "Livestock infrastructure",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "difficulty of living in places with basic living conditions",
+    "original_value" : "Living conditions",
+    "Wikidata_ID" : "Q2981875"
+  }, {
+    "originalKey" : "aging of transhumance shepherds",
+    "original_value" : "Shepherd",
+    "Wikidata_ID" : "Q81710"
+  }, {
+    "originalKey" : "lack of a public strategy to support extensive livestock farming",
+    "original_value" : "Livestock farming policy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "difficulties of their survival",
+    "original_value" : "Survival",
+    "Wikidata_ID" : "Q104482419"
+  }, {
+    "originalKey" : "Current",
+    "original_value" : "Present",
+    "Wikidata_ID" : "Q193168"
+  }, {
+    "originalKey" : "Traditional and Innovative",
+    "original_value" : "Traditional agriculture",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Endogenous and Exogenous",
+    "original_value" : "Innovation (economics)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "originalKey" : "value chain",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "sustainability",
+    "original_value" : "Sustainability",
+    "Wikidata_ID" : "Q219416"
+  }, {
+    "originalKey" : "researchers",
+    "original_value" : "Academic Research",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "municipalities",
+    "original_value" : "Municipality",
+    "Wikidata_ID" : "Q15284"
+  }, {
+    "originalKey" : "technical projects and initiatives promoted by civil society",
+    "original_value" : "Civil Society Organizations",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "livestock trails",
+    "original_value" : "Livestock Trails",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "livestock economy",
+    "original_value" : "Animal Husbandry",
+    "Wikidata_ID" : "Q80962"
+  }, {
+    "originalKey" : "innovation",
+    "original_value" : "Innovation (general)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "land use systems",
+    "original_value" : "Land Use System",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  }, {
+    "originalKey" : "local assets",
+    "original_value" : "Local Assets",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Different Spanish regions and provinces",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "originalKey" : "Soria",
+    "original_value" : "Province of Soria",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Cuenca",
+    "original_value" : "Province of Cuenca",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "La Rioja",
+    "original_value" : "Province of La Rioja",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Andalusia",
+    "original_value" : "Andalusia",
+    "Wikidata_ID" : "Q5783"
+  }, {
+    "originalKey" : "Sierras of Cazorla, Segura and Las Villas",
+    "original_value" : "Sierra de Cazorla",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Jaén",
+    "original_value" : "Province of Jaén",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Sierra de Castril",
+    "original_value" : "Sierra de Castril",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Granada",
+    "original_value" : "Province of Granada",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Sierra Morena",
+    "original_value" : "Sierra Morena",
+    "Wikidata_ID" : "Q686362"
+  }, {
+    "originalKey" : "Italy",
+    "original_value" : "List of Italian provinces",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Austria",
+    "original_value" : "List of Austrian provinces",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Greece",
+    "original_value" : "List of Greek regions",
+    "Wikidata_ID" : ""
+  } ]
+} ]
