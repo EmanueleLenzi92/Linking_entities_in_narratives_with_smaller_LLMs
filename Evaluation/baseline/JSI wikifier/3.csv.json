@@ -1,0 +1,344 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "farms",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "certified organic",
+                "original_value": "Organic certification",
+                "Wikidata_ID": "Q11680670"
+            },
+            {
+                "originalKey": "cooperation",
+                "original_value": "Cooperative",
+                "Wikidata_ID": "Q4539"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Central Eastern Alps",
+                "Wikidata_ID": "Q190348"
+            },
+            {
+                "originalKey": "Alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "Styrian",
+                "original_value": "Styria",
+                "Wikidata_ID": "Q41358"
+            },
+            {
+                "originalKey": "pasture",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            },
+            {
+                "originalKey": "Europe",
+                "original_value": "Europe",
+                "Wikidata_ID": "Q46"
+            },
+            {
+                "originalKey": "m",
+                "original_value": "Sea level",
+                "Wikidata_ID": "Q125465"
+            },
+            {
+                "originalKey": "limestone",
+                "original_value": "Limestone",
+                "Wikidata_ID": "Q23757"
+            },
+            {
+                "originalKey": "phyllite",
+                "original_value": "Phyllite",
+                "Wikidata_ID": "Q731880"
+            },
+            {
+                "originalKey": "slate",
+                "original_value": "Slate",
+                "Wikidata_ID": "Q207079"
+            },
+            {
+                "originalKey": "greywacke",
+                "original_value": "Greywacke",
+                "Wikidata_ID": "Q917545"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "herb",
+                "original_value": "Herb",
+                "Wikidata_ID": "Q207123"
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "Nature",
+                "original_value": "Nature (journal)",
+                "Wikidata_ID": "Q180445"
+            },
+            {
+                "originalKey": "Nature Park",
+                "original_value": "Nature park",
+                "Wikidata_ID": "Q728904"
+            },
+            {
+                "originalKey": "grown",
+                "original_value": "Horticulture",
+                "Wikidata_ID": "Q48803"
+            },
+            {
+                "originalKey": "wild",
+                "original_value": "Wildlife",
+                "Wikidata_ID": "Q241741"
+            },
+            {
+                "originalKey": "cosmetic",
+                "original_value": "Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "business model",
+                "original_value": "Business model",
+                "Wikidata_ID": "Q815823"
+            },
+            {
+                "originalKey": "gastronomy",
+                "original_value": "Gastronomy",
+                "Wikidata_ID": "Q171141"
+            },
+            {
+                "originalKey": "touristic",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "culinary",
+                "original_value": "Herb",
+                "Wikidata_ID": "Q207123"
+            },
+            {
+                "originalKey": "food",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "nature park",
+                "original_value": "Nature park",
+                "Wikidata_ID": "Q728904"
+            },
+            {
+                "originalKey": "natural habitat",
+                "original_value": "Habitat",
+                "Wikidata_ID": "Q52105"
+            },
+            {
+                "originalKey": "ecological",
+                "original_value": "Ecology",
+                "Wikidata_ID": "Q7150"
+            },
+            {
+                "originalKey": "pesticides",
+                "original_value": "Pesticide",
+                "Wikidata_ID": "Q131656"
+            },
+            {
+                "originalKey": "insects",
+                "original_value": "Insect",
+                "Wikidata_ID": "Q1390"
+            },
+            {
+                "originalKey": "nectar",
+                "original_value": "Nectar",
+                "Wikidata_ID": "Q171934"
+            },
+            {
+                "originalKey": "pollen",
+                "original_value": "Pollen",
+                "Wikidata_ID": "Q79932"
+            },
+            {
+                "originalKey": "habitat fragmentation",
+                "original_value": "Habitat fragmentation",
+                "Wikidata_ID": "Q913302"
+            },
+            {
+                "originalKey": "grasslands",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Extreme weather",
+                "original_value": "Extreme weather",
+                "Wikidata_ID": "Q1277161"
+            },
+            {
+                "originalKey": "climate",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q7942"
+            },
+            {
+                "originalKey": "irrigation",
+                "original_value": "Irrigation",
+                "Wikidata_ID": "Q11453"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "food",
+                "original_value": "Food",
+                "Wikidata_ID": "Q2095"
+            },
+            {
+                "originalKey": "herbs",
+                "original_value": "Herb",
+                "Wikidata_ID": "Q207123"
+            },
+            {
+                "originalKey": "tea",
+                "original_value": "Tea",
+                "Wikidata_ID": "Q6097"
+            },
+            {
+                "originalKey": "salt",
+                "original_value": "Salt",
+                "Wikidata_ID": "Q11254"
+            },
+            {
+                "originalKey": "spice",
+                "original_value": "Spice",
+                "Wikidata_ID": "Q42527"
+            },
+            {
+                "originalKey": "spice mixes",
+                "original_value": "Spice mix",
+                "Wikidata_ID": "Q1521067"
+            },
+            {
+                "originalKey": "syrups",
+                "original_value": "Syrup",
+                "Wikidata_ID": "Q6584340"
+            },
+            {
+                "originalKey": "birch",
+                "original_value": "Birch",
+                "Wikidata_ID": "Q25243"
+            },
+            {
+                "originalKey": "sugar",
+                "original_value": "Sugar",
+                "Wikidata_ID": "Q11002"
+            },
+            {
+                "originalKey": "soaps",
+                "original_value": "Soap",
+                "Wikidata_ID": "Q34396"
+            },
+            {
+                "originalKey": "incense",
+                "original_value": "Incense",
+                "Wikidata_ID": "Q273131"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            }
+        ]
+    }
+]

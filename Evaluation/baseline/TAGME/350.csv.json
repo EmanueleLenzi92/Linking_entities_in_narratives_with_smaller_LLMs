@@ -1,0 +1,1661 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "Motion (physics)",
+                "Wikidata_ID": "Q79782"
+            },
+            {
+                "originalKey": "reference",
+                "original_value": "Library",
+                "Wikidata_ID": "Q7075"
+            },
+            {
+                "originalKey": "member state",
+                "original_value": "Member state of the European Union",
+                "Wikidata_ID": "Q185441"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Agricultural value chain",
+                "Wikidata_ID": "Q16002108"
+            },
+            {
+                "originalKey": "SPAIN",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "Card",
+                "original_value": "Credit card",
+                "Wikidata_ID": "Q161380"
+            },
+            {
+                "originalKey": "ID",
+                "original_value": "Idaho",
+                "Wikidata_ID": "Q1221"
+            },
+            {
+                "originalKey": "VC 33",
+                "original_value": "VAQ-33",
+                "Wikidata_ID": "Q16986301"
+            },
+            {
+                "originalKey": "Sierras",
+                "original_value": "Sierra Nevada (U.S.)",
+                "Wikidata_ID": "Q26777"
+            },
+            {
+                "originalKey": "Cazorla",
+                "original_value": "Cazorla",
+                "Wikidata_ID": "Q2943470"
+            },
+            {
+                "originalKey": "Segura",
+                "original_value": "Segura",
+                "Wikidata_ID": "Q24306"
+            },
+            {
+                "originalKey": "Las Villas",
+                "original_value": "Las Villas",
+                "Wikidata_ID": "Q2452253"
+            },
+            {
+                "originalKey": "head",
+                "original_value": "Head",
+                "Wikidata_ID": "Q23640"
+            },
+            {
+                "originalKey": "cattle",
+                "original_value": "Cattle",
+                "Wikidata_ID": "Q830"
+            },
+            {
+                "originalKey": "round trip",
+                "original_value": "Bijection",
+                "Wikidata_ID": "Q180907"
+            },
+            {
+                "originalKey": "public roads",
+                "original_value": "Road",
+                "Wikidata_ID": "Q34442"
+            },
+            {
+                "originalKey": "looking",
+                "original_value": "Visual perception",
+                "Wikidata_ID": "Q162668"
+            },
+            {
+                "originalKey": "pastures",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            },
+            {
+                "originalKey": "climate",
+                "original_value": "Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "journey",
+                "original_value": "Travel",
+                "Wikidata_ID": "Q61509"
+            },
+            {
+                "originalKey": "mountains",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "plains",
+                "original_value": "Great Plains",
+                "Wikidata_ID": "Q12707"
+            },
+            {
+                "originalKey": "km",
+                "original_value": "Kilometre",
+                "Wikidata_ID": "Q828224"
+            },
+            {
+                "originalKey": "case",
+                "original_value": "Grammatical case",
+                "Wikidata_ID": "Q128234"
+            },
+            {
+                "originalKey": "Sierra",
+                "original_value": "Sierra Nevada (U.S.)",
+                "Wikidata_ID": "Q26777"
+            },
+            {
+                "originalKey": "Castril",
+                "original_value": "Castril",
+                "Wikidata_ID": "Q555913"
+            },
+            {
+                "originalKey": "Granada",
+                "original_value": "Granada",
+                "Wikidata_ID": "Q8810"
+            },
+            {
+                "originalKey": "five",
+                "original_value": "Channel 5 (UK)",
+                "Wikidata_ID": "Q1062280"
+            },
+            {
+                "originalKey": "herdsmen",
+                "original_value": "Pastoralism",
+                "Wikidata_ID": "Q9056738"
+            },
+            {
+                "originalKey": "eight days",
+                "original_value": "Eight Days",
+                "Wikidata_ID": "Q3720611"
+            },
+            {
+                "originalKey": "Transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "shepherds",
+                "original_value": "Shepherd",
+                "Wikidata_ID": "Q81710"
+            },
+            {
+                "originalKey": "knowledge",
+                "original_value": "Knowledge",
+                "Wikidata_ID": "Q9081"
+            },
+            {
+                "originalKey": "environment",
+                "original_value": "Natural environment",
+                "Wikidata_ID": "Q43619"
+            },
+            {
+                "originalKey": "one",
+                "original_value": "Neoplatonism",
+                "Wikidata_ID": "Q162145"
+            },
+            {
+                "originalKey": "sustainable",
+                "original_value": "Sustainability",
+                "Wikidata_ID": "Q219416"
+            },
+            {
+                "originalKey": "efficient",
+                "original_value": "Efficiency",
+                "Wikidata_ID": "Q1034411"
+            },
+            {
+                "originalKey": "methods",
+                "original_value": "Methodology",
+                "Wikidata_ID": "Q185698"
+            },
+            {
+                "originalKey": "livestock",
+                "original_value": "Livestock",
+                "Wikidata_ID": "Q103459"
+            },
+            {
+                "originalKey": "rearing",
+                "original_value": "Parenting",
+                "Wikidata_ID": "Q1217379"
+            },
+            {
+                "originalKey": "special",
+                "original_value": "Committee",
+                "Wikidata_ID": "Q865588"
+            },
+            {
+                "originalKey": "practical skills",
+                "original_value": "Training",
+                "Wikidata_ID": "Q918385"
+            },
+            {
+                "originalKey": "production",
+                "original_value": "Manufacturing",
+                "Wikidata_ID": "Q187939"
+            },
+            {
+                "originalKey": "food",
+                "original_value": "Food",
+                "Wikidata_ID": "Q2095"
+            },
+            {
+                "originalKey": "handicrafts",
+                "original_value": "Handicraft",
+                "Wikidata_ID": "Q877729"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "reference",
+                "original_value": "Library",
+                "Wikidata_ID": "Q7075"
+            },
+            {
+                "originalKey": "mountain chain",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Betic",
+                "original_value": "Betic corridor",
+                "Wikidata_ID": "Q4898130"
+            },
+            {
+                "originalKey": "landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            },
+            {
+                "originalKey": "Castril",
+                "original_value": "Castril",
+                "Wikidata_ID": "Q555913"
+            },
+            {
+                "originalKey": "rearing",
+                "original_value": "Parenting",
+                "Wikidata_ID": "Q1217379"
+            },
+            {
+                "originalKey": "maintenance",
+                "original_value": "Road",
+                "Wikidata_ID": "Q34442"
+            },
+            {
+                "originalKey": "livestock",
+                "original_value": "Livestock",
+                "Wikidata_ID": "Q103459"
+            },
+            {
+                "originalKey": "management",
+                "original_value": "Management",
+                "Wikidata_ID": "Q2920921"
+            },
+            {
+                "originalKey": "forests",
+                "original_value": "Forest",
+                "Wikidata_ID": "Q4421"
+            },
+            {
+                "originalKey": "water resources",
+                "original_value": "Water resources",
+                "Wikidata_ID": "Q1049799"
+            },
+            {
+                "originalKey": "natural hazards",
+                "original_value": "Natural hazard",
+                "Wikidata_ID": "Q8065"
+            },
+            {
+                "originalKey": "well",
+                "original_value": "Water well",
+                "Wikidata_ID": "Q43483"
+            },
+            {
+                "originalKey": "traditional",
+                "original_value": "Tradition",
+                "Wikidata_ID": "Q82821"
+            },
+            {
+                "originalKey": "shepherds",
+                "original_value": "Shepherd",
+                "Wikidata_ID": "Q81710"
+            },
+            {
+                "originalKey": "transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "factor",
+                "original_value": "Property manager",
+                "Wikidata_ID": "Q7250245"
+            },
+            {
+                "originalKey": "shaping",
+                "original_value": "Operant conditioning",
+                "Wikidata_ID": "Q847079"
+            },
+            {
+                "originalKey": "relationship",
+                "original_value": "Interpersonal relationship",
+                "Wikidata_ID": "Q223642"
+            },
+            {
+                "originalKey": "interaction",
+                "original_value": "Social relation",
+                "Wikidata_ID": "Q853725"
+            },
+            {
+                "originalKey": "animals",
+                "original_value": "Animal",
+                "Wikidata_ID": "Q729"
+            },
+            {
+                "originalKey": "ecosystems",
+                "original_value": "Ecosystem",
+                "Wikidata_ID": "Q37813"
+            },
+            {
+                "originalKey": "livestock farming",
+                "original_value": "Livestock",
+                "Wikidata_ID": "Q103459"
+            },
+            {
+                "originalKey": "farming",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "expresses",
+                "original_value": "Gene expression",
+                "Wikidata_ID": "Q26972"
+            },
+            {
+                "originalKey": "environmental conservation",
+                "original_value": "Environmental protection",
+                "Wikidata_ID": "Q832237"
+            },
+            {
+                "originalKey": "territory",
+                "original_value": "Territorial waters",
+                "Wikidata_ID": "Q213204"
+            },
+            {
+                "originalKey": "when we",
+                "original_value": "When We On",
+                "Wikidata_ID": "Q7992789"
+            },
+            {
+                "originalKey": "overlap",
+                "original_value": "Concurrency (road)",
+                "Wikidata_ID": "Q5159092"
+            },
+            {
+                "originalKey": "trails",
+                "original_value": "Trail",
+                "Wikidata_ID": "Q628179"
+            },
+            {
+                "originalKey": "Natura 2000",
+                "original_value": "Natura 2000",
+                "Wikidata_ID": "Q503021"
+            },
+            {
+                "originalKey": "Network",
+                "original_value": "Social network",
+                "Wikidata_ID": "Q2715623"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "minimum",
+                "original_value": "Maxima and minima",
+                "Wikidata_ID": "Q845060"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Terrain",
+                "Wikidata_ID": "Q186131"
+            },
+            {
+                "originalKey": "the LAU",
+                "original_value": "Thé Lau",
+                "Wikidata_ID": "Q2342194"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "maximum",
+                "original_value": "Maxima and minima",
+                "Wikidata_ID": "Q845060"
+            },
+            {
+                "originalKey": "total",
+                "original_value": "Total order",
+                "Wikidata_ID": "Q369377"
+            },
+            {
+                "originalKey": "is 2",
+                "original_value": "IS tank family",
+                "Wikidata_ID": "Q779903"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "Inhabitants",
+                "original_value": "Residency (domicile)",
+                "Wikidata_ID": "Q2641256"
+            },
+            {
+                "originalKey": "is 8",
+                "original_value": "T-10 tank",
+                "Wikidata_ID": "Q1134419"
+            },
+            {
+                "originalKey": "population change",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            },
+            {
+                "originalKey": "rate",
+                "original_value": "Rate of fire",
+                "Wikidata_ID": "Q753454"
+            },
+            {
+                "originalKey": "last",
+                "original_value": "Last (unit)",
+                "Wikidata_ID": "Q335897"
+            },
+            {
+                "originalKey": "10 years",
+                "original_value": "Anniversary",
+                "Wikidata_ID": "Q1062856"
+            },
+            {
+                "originalKey": "overall",
+                "original_value": "Overall",
+                "Wikidata_ID": "Q13383825"
+            },
+            {
+                "originalKey": "regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average",
+                "original_value": "Weighted arithmetic mean",
+                "Wikidata_ID": "Q729113"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "total",
+                "original_value": "Total S.A.",
+                "Wikidata_ID": "Q154037"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "million",
+                "original_value": "Million",
+                "Wikidata_ID": "Q38526"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "is 7",
+                "original_value": "IS tank family",
+                "Wikidata_ID": "Q779903"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "million",
+                "original_value": "Million",
+                "Wikidata_ID": "Q38526"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "is 6",
+                "original_value": "IS tank family",
+                "Wikidata_ID": "Q779903"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total",
+                "original_value": "Total S.A.",
+                "Wikidata_ID": "Q154037"
+            },
+            {
+                "originalKey": "number",
+                "original_value": "Continent",
+                "Wikidata_ID": "Q5107"
+            },
+            {
+                "originalKey": "bed",
+                "original_value": "Bed",
+                "Wikidata_ID": "Q42177"
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Basis point",
+                "Wikidata_ID": "Q750178"
+            },
+            {
+                "originalKey": "tourist",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "accommodations",
+                "original_value": "Lodging",
+                "Wikidata_ID": "Q5056668"
+            },
+            {
+                "originalKey": "the LAU",
+                "original_value": "Thé Lau",
+                "Wikidata_ID": "Q2342194"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "agricultural",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "World population",
+                "Wikidata_ID": "Q11188"
+            },
+            {
+                "originalKey": "km",
+                "original_value": "Kilometre",
+                "Wikidata_ID": "Q828224"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            },
+            {
+                "originalKey": "present",
+                "original_value": "Holocene",
+                "Wikidata_ID": "Q25445"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "total employment",
+                "original_value": "Full employment",
+                "Wikidata_ID": "Q384136"
+            },
+            {
+                "originalKey": "employment",
+                "original_value": "Employment",
+                "Wikidata_ID": "Q656365"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "Europe",
+                "original_value": "Europe",
+                "Wikidata_ID": "Q46"
+            },
+            {
+                "originalKey": "form",
+                "original_value": "Art",
+                "Wikidata_ID": "Q735"
+            },
+            {
+                "originalKey": "pastoralism",
+                "original_value": "Pastoralism",
+                "Wikidata_ID": "Q9056738"
+            },
+            {
+                "originalKey": "seasonal",
+                "original_value": "Season",
+                "Wikidata_ID": "Q24384"
+            },
+            {
+                "originalKey": "movement",
+                "original_value": "Social movement",
+                "Wikidata_ID": "Q49773"
+            },
+            {
+                "originalKey": "livestock",
+                "original_value": "Livestock",
+                "Wikidata_ID": "Q103459"
+            },
+            {
+                "originalKey": "migratory",
+                "original_value": "Human migration",
+                "Wikidata_ID": "Q177626"
+            },
+            {
+                "originalKey": "routes",
+                "original_value": "Trade route",
+                "Wikidata_ID": "Q405155"
+            },
+            {
+                "originalKey": "Mediterranean",
+                "original_value": "Mediterranean Sea",
+                "Wikidata_ID": "Q4918"
+            },
+            {
+                "originalKey": "Mediterranean area",
+                "original_value": "Mediterranean Basin",
+                "Wikidata_ID": "Q72499"
+            },
+            {
+                "originalKey": "Alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "spring and autumn",
+                "original_value": "Spring and Autumn period",
+                "Wikidata_ID": "Q185047"
+            },
+            {
+                "originalKey": "animals",
+                "original_value": "Animal",
+                "Wikidata_ID": "Q729"
+            },
+            {
+                "originalKey": "driven",
+                "original_value": "Log driving",
+                "Wikidata_ID": "Q15008046"
+            },
+            {
+                "originalKey": "one",
+                "original_value": "Neoplatonism",
+                "Wikidata_ID": "Q162145"
+            },
+            {
+                "originalKey": "climatic",
+                "original_value": "Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "historical",
+                "original_value": "History",
+                "Wikidata_ID": "Q309"
+            },
+            {
+                "originalKey": "Spain",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "network",
+                "original_value": "Social network",
+                "Wikidata_ID": "Q2715623"
+            },
+            {
+                "originalKey": "km",
+                "original_value": "Kilometre",
+                "Wikidata_ID": "Q828224"
+            },
+            {
+                "originalKey": "cattle",
+                "original_value": "Cattle",
+                "Wikidata_ID": "Q830"
+            },
+            {
+                "originalKey": "trails",
+                "original_value": "Trail",
+                "Wikidata_ID": "Q628179"
+            },
+            {
+                "originalKey": "public good",
+                "original_value": "Public good",
+                "Wikidata_ID": "Q92779871"
+            },
+            {
+                "originalKey": "people",
+                "original_value": "People",
+                "Wikidata_ID": "Q2472587"
+            },
+            {
+                "originalKey": "livestock",
+                "original_value": "Livestock",
+                "Wikidata_ID": "Q103459"
+            },
+            {
+                "originalKey": "transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "seasonal",
+                "original_value": "Season",
+                "Wikidata_ID": "Q24384"
+            },
+            {
+                "originalKey": "movement",
+                "original_value": "Horse gait",
+                "Wikidata_ID": "Q754659"
+            },
+            {
+                "originalKey": "herds",
+                "original_value": "Herd",
+                "Wikidata_ID": "Q209542"
+            },
+            {
+                "originalKey": "migratory",
+                "original_value": "Human migration",
+                "Wikidata_ID": "Q177626"
+            },
+            {
+                "originalKey": "routes",
+                "original_value": "Trade route",
+                "Wikidata_ID": "Q405155"
+            },
+            {
+                "originalKey": "Mediterranean",
+                "original_value": "Mediterranean Sea",
+                "Wikidata_ID": "Q4918"
+            },
+            {
+                "originalKey": "Alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "inscribed",
+                "original_value": "Epigraphy",
+                "Wikidata_ID": "Q181260"
+            },
+            {
+                "originalKey": "UNESCO",
+                "original_value": "UNESCO",
+                "Wikidata_ID": "Q7809"
+            },
+            {
+                "originalKey": "COM",
+                "original_value": "Communist Party USA",
+                "Wikidata_ID": "Q308714"
+            },
+            {
+                "originalKey": "Representative",
+                "original_value": "Representative democracy",
+                "Wikidata_ID": "Q188759"
+            },
+            {
+                "originalKey": "List",
+                "original_value": "A-list",
+                "Wikidata_ID": "Q4646993"
+            },
+            {
+                "originalKey": "Intangible Cultural Heritage",
+                "original_value": "Intangible cultural heritage",
+                "Wikidata_ID": "Q84036549"
+            },
+            {
+                "originalKey": "international",
+                "original_value": "International law",
+                "Wikidata_ID": "Q4394526"
+            },
+            {
+                "originalKey": "initiatives",
+                "original_value": "Initiative",
+                "Wikidata_ID": "Q399234"
+            },
+            {
+                "originalKey": "aim",
+                "original_value": "Alternative Investment Market",
+                "Wikidata_ID": "Q438511"
+            },
+            {
+                "originalKey": "renew",
+                "original_value": "Urban renewal",
+                "Wikidata_ID": "Q920600"
+            },
+            {
+                "originalKey": "practice",
+                "original_value": "Medicine",
+                "Wikidata_ID": "Q11190"
+            },
+            {
+                "originalKey": "strategy",
+                "original_value": "Strategic management",
+                "Wikidata_ID": "Q376657"
+            },
+            {
+                "originalKey": "livestock",
+                "original_value": "Livestock",
+                "Wikidata_ID": "Q103459"
+            },
+            {
+                "originalKey": "livestock management",
+                "original_value": "Animal husbandry",
+                "Wikidata_ID": "Q80962"
+            },
+            {
+                "originalKey": "natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "ecosystems",
+                "original_value": "Ecosystem",
+                "Wikidata_ID": "Q37813"
+            },
+            {
+                "originalKey": "testing",
+                "original_value": "Experiment",
+                "Wikidata_ID": "Q101965"
+            },
+            {
+                "originalKey": "innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "alternatives",
+                "original_value": "Adobe Flash",
+                "Wikidata_ID": "Q165658"
+            },
+            {
+                "originalKey": "diversifying",
+                "original_value": "Diversity (business)",
+                "Wikidata_ID": "Q1230595"
+            },
+            {
+                "originalKey": "complementary",
+                "original_value": "Angle",
+                "Wikidata_ID": "Q11352"
+            },
+            {
+                "originalKey": "articulating",
+                "original_value": "Articulated vehicle",
+                "Wikidata_ID": "Q1411533"
+            },
+            {
+                "originalKey": "social",
+                "original_value": "Social science",
+                "Wikidata_ID": "Q34749"
+            },
+            {
+                "originalKey": "support",
+                "original_value": "Advocacy",
+                "Wikidata_ID": "Q2509280"
+            },
+            {
+                "originalKey": "movement",
+                "original_value": "Social movement",
+                "Wikidata_ID": "Q49773"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "practice",
+                "original_value": "Medicine",
+                "Wikidata_ID": "Q11190"
+            },
+            {
+                "originalKey": "livestock",
+                "original_value": "Livestock",
+                "Wikidata_ID": "Q103459"
+            },
+            {
+                "originalKey": "transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "sheeps",
+                "original_value": "Sheep",
+                "Wikidata_ID": "Q7368"
+            },
+            {
+                "originalKey": "goats",
+                "original_value": "Goat",
+                "Wikidata_ID": "Q2934"
+            },
+            {
+                "originalKey": "cows",
+                "original_value": "Cattle",
+                "Wikidata_ID": "Q830"
+            },
+            {
+                "originalKey": "herds",
+                "original_value": "Herd",
+                "Wikidata_ID": "Q209542"
+            },
+            {
+                "originalKey": "summer",
+                "original_value": "Summer",
+                "Wikidata_ID": "Q1313"
+            },
+            {
+                "originalKey": "highlands",
+                "original_value": "Scottish Highlands",
+                "Wikidata_ID": "Q106652"
+            },
+            {
+                "originalKey": "Natural Park",
+                "original_value": "Natural park (Spain)",
+                "Wikidata_ID": "Q728904"
+            },
+            {
+                "originalKey": "Sierras de Cazorla, Segura and Las Villas",
+                "original_value": "Sierras de Cazorla, Segura y Las Villas Natural Park",
+                "Wikidata_ID": "Q1755523"
+            },
+            {
+                "originalKey": "Castril",
+                "original_value": "Castril",
+                "Wikidata_ID": "Q555913"
+            },
+            {
+                "originalKey": "Granada",
+                "original_value": "Granada",
+                "Wikidata_ID": "Q8810"
+            },
+            {
+                "originalKey": "journey",
+                "original_value": "Travel",
+                "Wikidata_ID": "Q61509"
+            },
+            {
+                "originalKey": "province of Jaén",
+                "original_value": "Province of Jaén (Spain)",
+                "Wikidata_ID": "Q95025"
+            },
+            {
+                "originalKey": "lowlands",
+                "original_value": "Scottish Lowlands",
+                "Wikidata_ID": "Q654252"
+            },
+            {
+                "originalKey": "Sierra Morena",
+                "original_value": "Sierra Morena",
+                "Wikidata_ID": "Q686362"
+            },
+            {
+                "originalKey": "winter",
+                "original_value": "Winter",
+                "Wikidata_ID": "Q1311"
+            },
+            {
+                "originalKey": "single",
+                "original_value": "Single (music)",
+                "Wikidata_ID": "Q134556"
+            },
+            {
+                "originalKey": "herd",
+                "original_value": "Herd",
+                "Wikidata_ID": "Q209542"
+            },
+            {
+                "originalKey": "combines",
+                "original_value": "Combine harvester",
+                "Wikidata_ID": "Q26886"
+            },
+            {
+                "originalKey": "management",
+                "original_value": "Management",
+                "Wikidata_ID": "Q2920921"
+            },
+            {
+                "originalKey": "farms",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "environmental value",
+                "original_value": "Ecosystem valuation",
+                "Wikidata_ID": "Q5333886"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "must",
+                "original_value": "Must",
+                "Wikidata_ID": "Q278818"
+            },
+            {
+                "originalKey": "overcome",
+                "original_value": "Overcome (Alexandra Burke album)",
+                "Wikidata_ID": "Q917439"
+            },
+            {
+                "originalKey": "state",
+                "original_value": "State (polity)",
+                "Wikidata_ID": "Q7275"
+            },
+            {
+                "originalKey": "occupation",
+                "original_value": "Employment",
+                "Wikidata_ID": "Q656365"
+            },
+            {
+                "originalKey": "abandonment",
+                "original_value": "Urban decay",
+                "Wikidata_ID": "Q2039238"
+            },
+            {
+                "originalKey": "livestock",
+                "original_value": "Livestock",
+                "Wikidata_ID": "Q103459"
+            },
+            {
+                "originalKey": "trails",
+                "original_value": "Trail",
+                "Wikidata_ID": "Q628179"
+            },
+            {
+                "originalKey": "infrastructures",
+                "original_value": "Infrastructure",
+                "Wikidata_ID": "Q121359"
+            },
+            {
+                "originalKey": "well",
+                "original_value": "Water well",
+                "Wikidata_ID": "Q43483"
+            },
+            {
+                "originalKey": "basic",
+                "original_value": "Basic research",
+                "Wikidata_ID": "Q964754"
+            },
+            {
+                "originalKey": "living conditions",
+                "original_value": "Quality of life",
+                "Wikidata_ID": "Q13100823"
+            },
+            {
+                "originalKey": "aging",
+                "original_value": "Barrel",
+                "Wikidata_ID": "Q10289"
+            },
+            {
+                "originalKey": "shepherds",
+                "original_value": "Shepherd",
+                "Wikidata_ID": "Q81710"
+            },
+            {
+                "originalKey": "public",
+                "original_value": "Public sector",
+                "Wikidata_ID": "Q294217"
+            },
+            {
+                "originalKey": "strategy",
+                "original_value": "Military strategy",
+                "Wikidata_ID": "Q219087"
+            },
+            {
+                "originalKey": "support",
+                "original_value": "Military logistics",
+                "Wikidata_ID": "Q163059"
+            },
+            {
+                "originalKey": "livestock farming",
+                "original_value": "Livestock",
+                "Wikidata_ID": "Q103459"
+            },
+            {
+                "originalKey": "farming",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "add",
+                "original_value": "Attention deficit hyperactivity disorder",
+                "Wikidata_ID": "Q181923"
+            },
+            {
+                "originalKey": "survival",
+                "original_value": "Life",
+                "Wikidata_ID": "Q3"
+            },
+            {
+                "originalKey": "Overall",
+                "original_value": "Overall",
+                "Wikidata_ID": "Q13383825"
+            },
+            {
+                "originalKey": "type",
+                "original_value": "Dog type",
+                "Wikidata_ID": "Q38672"
+            },
+            {
+                "originalKey": "challenge",
+                "original_value": "The Challenge (TV series)",
+                "Wikidata_ID": "Q902421"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Current",
+                "original_value": "Electric current",
+                "Wikidata_ID": "Q11651"
+            },
+            {
+                "originalKey": "classified",
+                "original_value": "Soil classification",
+                "Wikidata_ID": "Q386963"
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Tradition",
+                "Wikidata_ID": "Q82821"
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "type",
+                "original_value": "Type–token distinction",
+                "Wikidata_ID": "Q175928"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogeny (biology)",
+                "Wikidata_ID": "Q285982"
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogeny",
+                "Wikidata_ID": "Q293000"
+            },
+            {
+                "originalKey": "Transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "traditional",
+                "original_value": "Tradition",
+                "Wikidata_ID": "Q82821"
+            },
+            {
+                "originalKey": "keeps",
+                "original_value": "Keep",
+                "Wikidata_ID": "Q91165"
+            },
+            {
+                "originalKey": "intact",
+                "original_value": "Intact Media Group",
+                "Wikidata_ID": "Q3799262"
+            },
+            {
+                "originalKey": "environmental",
+                "original_value": "Natural environment",
+                "Wikidata_ID": "Q43619"
+            },
+            {
+                "originalKey": "economic",
+                "original_value": "Economy",
+                "Wikidata_ID": "Q159810"
+            },
+            {
+                "originalKey": "social",
+                "original_value": "Social science",
+                "Wikidata_ID": "Q34749"
+            },
+            {
+                "originalKey": "attention",
+                "original_value": "Attention",
+                "Wikidata_ID": "Q6501338"
+            },
+            {
+                "originalKey": "researchers",
+                "original_value": "Research",
+                "Wikidata_ID": "Q42240"
+            },
+            {
+                "originalKey": "municipalities",
+                "original_value": "Municipality",
+                "Wikidata_ID": "Q15284"
+            },
+            {
+                "originalKey": "technical",
+                "original_value": "Technology",
+                "Wikidata_ID": "Q11016"
+            },
+            {
+                "originalKey": "projects",
+                "original_value": "Project",
+                "Wikidata_ID": "Q170584"
+            },
+            {
+                "originalKey": "initiatives",
+                "original_value": "Initiative",
+                "Wikidata_ID": "Q399234"
+            },
+            {
+                "originalKey": "promoted",
+                "original_value": "Promotion (marketing)",
+                "Wikidata_ID": "Q353163"
+            },
+            {
+                "originalKey": "civil society",
+                "original_value": "Civil society",
+                "Wikidata_ID": "Q181865"
+            },
+            {
+                "originalKey": "survival",
+                "original_value": "Life",
+                "Wikidata_ID": "Q3"
+            },
+            {
+                "originalKey": "heritage",
+                "original_value": "Cultural heritage",
+                "Wikidata_ID": "Q210272"
+            },
+            {
+                "originalKey": "legacy",
+                "original_value": "Will and testament",
+                "Wikidata_ID": "Q155656"
+            },
+            {
+                "originalKey": "livestock",
+                "original_value": "Livestock",
+                "Wikidata_ID": "Q103459"
+            },
+            {
+                "originalKey": "trails",
+                "original_value": "Trail",
+                "Wikidata_ID": "Q628179"
+            },
+            {
+                "originalKey": "peculiar",
+                "original_value": "Royal Peculiar",
+                "Wikidata_ID": "Q4586781"
+            },
+            {
+                "originalKey": "form",
+                "original_value": "Art",
+                "Wikidata_ID": "Q735"
+            },
+            {
+                "originalKey": "economy",
+                "original_value": "Economy",
+                "Wikidata_ID": "Q159810"
+            },
+            {
+                "originalKey": "land use",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "systems",
+                "original_value": "System",
+                "Wikidata_ID": "Q58778"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "local",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "assets",
+                "original_value": "Asset",
+                "Wikidata_ID": "Q46737"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Spanish",
+                "original_value": "Spanish language",
+                "Wikidata_ID": "Q1321"
+            },
+            {
+                "originalKey": "provinces",
+                "original_value": "Roman province",
+                "Wikidata_ID": "Q182547"
+            },
+            {
+                "originalKey": "long",
+                "original_value": "Longitude",
+                "Wikidata_ID": "Q36477"
+            },
+            {
+                "originalKey": "history",
+                "original_value": "History",
+                "Wikidata_ID": "Q309"
+            },
+            {
+                "originalKey": "transhumance",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "Soria",
+                "original_value": "Soria",
+                "Wikidata_ID": "Q12155"
+            },
+            {
+                "originalKey": "Cuenca",
+                "original_value": "Cuenca, Spain",
+                "Wikidata_ID": "Q15098"
+            },
+            {
+                "originalKey": "La Rioja",
+                "original_value": "La Rioja (Spain)",
+                "Wikidata_ID": "Q5727"
+            },
+            {
+                "originalKey": "others",
+                "original_value": "The Others (2001 film)",
+                "Wikidata_ID": "Q332515"
+            },
+            {
+                "originalKey": "Andalusia",
+                "original_value": "Andalusia",
+                "Wikidata_ID": "Q5783"
+            },
+            {
+                "originalKey": "Sierras",
+                "original_value": "Sierra Nevada (U.S.)",
+                "Wikidata_ID": "Q26777"
+            },
+            {
+                "originalKey": "Cazorla",
+                "original_value": "Cazorla",
+                "Wikidata_ID": "Q2943470"
+            },
+            {
+                "originalKey": "Segura",
+                "original_value": "Segura",
+                "Wikidata_ID": "Q24306"
+            },
+            {
+                "originalKey": "Las Villas",
+                "original_value": "Las Villas",
+                "Wikidata_ID": "Q2452253"
+            },
+            {
+                "originalKey": "Jaén",
+                "original_value": "Jaén, Spain",
+                "Wikidata_ID": "Q15681"
+            },
+            {
+                "originalKey": "well",
+                "original_value": "Water well",
+                "Wikidata_ID": "Q43483"
+            },
+            {
+                "originalKey": "Castril",
+                "original_value": "Castril",
+                "Wikidata_ID": "Q555913"
+            },
+            {
+                "originalKey": "Granada",
+                "original_value": "Granada",
+                "Wikidata_ID": "Q8810"
+            },
+            {
+                "originalKey": "Sierra Morena",
+                "original_value": "Sierra Morena",
+                "Wikidata_ID": "Q686362"
+            },
+            {
+                "originalKey": "movements",
+                "original_value": "Social movement",
+                "Wikidata_ID": "Q49773"
+            },
+            {
+                "originalKey": "Sierra Nevada",
+                "original_value": "Sierra Nevada (Spain)",
+                "Wikidata_ID": "Q26955"
+            },
+            {
+                "originalKey": "plain",
+                "original_value": "Plain",
+                "Wikidata_ID": "Q160091"
+            },
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "transhumant",
+                "original_value": "Transhumance",
+                "Wikidata_ID": "Q4657754"
+            },
+            {
+                "originalKey": "cattle",
+                "original_value": "Cattle",
+                "Wikidata_ID": "Q830"
+            },
+            {
+                "originalKey": "still",
+                "original_value": "Photography",
+                "Wikidata_ID": "Q11633"
+            },
+            {
+                "originalKey": "European regions",
+                "original_value": "Regions of Europe",
+                "Wikidata_ID": "Q6470668"
+            },
+            {
+                "originalKey": "Italy",
+                "original_value": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Ancient Greece",
+                "Wikidata_ID": "Q11772"
+            }
+        ]
+    }
+]

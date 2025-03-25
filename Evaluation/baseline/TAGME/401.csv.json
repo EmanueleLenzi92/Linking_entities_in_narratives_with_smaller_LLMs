@@ -1,0 +1,623 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "Moving company",
+                "Wikidata_ID": "Q1757263"
+            },
+            {
+                "originalKey": "reference",
+                "original_value": "Library",
+                "Wikidata_ID": "Q7075"
+            },
+            {
+                "originalKey": "member state",
+                "original_value": "Member state of the European Union",
+                "Wikidata_ID": "Q185441"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "SWITZERLAND",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "Card",
+                "original_value": "Greeting card",
+                "Wikidata_ID": "Q915196"
+            },
+            {
+                "originalKey": "ID",
+                "original_value": "Idaho",
+                "Wikidata_ID": "Q1221"
+            },
+            {
+                "originalKey": "CH1",
+                "original_value": "CH postcode area",
+                "Wikidata_ID": "Q5011442"
+            },
+            {
+                "originalKey": "Honey",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "gourmet",
+                "original_value": "Gourmet",
+                "Wikidata_ID": "Q1458730"
+            },
+            {
+                "originalKey": "taste. It",
+                "original_value": "Taste It",
+                "Wikidata_ID": "Q7687669"
+            },
+            {
+                "originalKey": "produced",
+                "original_value": "Record producer",
+                "Wikidata_ID": "Q183945"
+            },
+            {
+                "originalKey": "small",
+                "original_value": "Small business",
+                "Wikidata_ID": "Q1109680"
+            },
+            {
+                "originalKey": "farm",
+                "original_value": "Farm",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "products",
+                "original_value": "Product (business)",
+                "Wikidata_ID": "Q2424752"
+            },
+            {
+                "originalKey": "online shops",
+                "original_value": "Online shopping",
+                "Wikidata_ID": "Q212930"
+            },
+            {
+                "originalKey": "retailers",
+                "original_value": "Retail",
+                "Wikidata_ID": "Q126793"
+            },
+            {
+                "originalKey": "labels",
+                "original_value": "Brand",
+                "Wikidata_ID": "Q431289"
+            },
+            {
+                "originalKey": "brands",
+                "original_value": "Brand",
+                "Wikidata_ID": "Q431289"
+            },
+            {
+                "originalKey": "alpine",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "e.g",
+                "original_value": "Electric guitar",
+                "Wikidata_ID": "Q78987"
+            },
+            {
+                "originalKey": "Montagna",
+                "original_value": "Montan",
+                "Wikidata_ID": "Q432997"
+            },
+            {
+                "originalKey": "retail",
+                "original_value": "Retail",
+                "Wikidata_ID": "Q126793"
+            },
+            {
+                "originalKey": "brand",
+                "original_value": "Brand",
+                "Wikidata_ID": "Q431289"
+            },
+            {
+                "originalKey": "mountain",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "zones",
+                "original_value": "Hardiness zone",
+                "Wikidata_ID": "Q925615"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "reference",
+                "original_value": "Library",
+                "Wikidata_ID": "Q7075"
+            },
+            {
+                "originalKey": "mountain chain",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "minimum",
+                "original_value": "Maxima and minima",
+                "Wikidata_ID": "Q845060"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Terrain",
+                "Wikidata_ID": "Q186131"
+            },
+            {
+                "originalKey": "the LAU",
+                "original_value": "Thé Lau",
+                "Wikidata_ID": "Q2342194"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "maximum",
+                "original_value": "Maxima and minima",
+                "Wikidata_ID": "Q845060"
+            },
+            {
+                "originalKey": "total",
+                "original_value": "Total order",
+                "Wikidata_ID": "Q369377"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "Inhabitants",
+                "original_value": "Residency (domicile)",
+                "Wikidata_ID": "Q2641256"
+            },
+            {
+                "originalKey": "population change",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            },
+            {
+                "originalKey": "rate",
+                "original_value": "Derivative",
+                "Wikidata_ID": "Q29175"
+            },
+            {
+                "originalKey": "last",
+                "original_value": "Last (unit)",
+                "Wikidata_ID": "Q335897"
+            },
+            {
+                "originalKey": "10 years",
+                "original_value": "Anniversary",
+                "Wikidata_ID": "Q1062856"
+            },
+            {
+                "originalKey": "overall",
+                "original_value": "Overall",
+                "Wikidata_ID": "Q13383825"
+            },
+            {
+                "originalKey": "regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average",
+                "original_value": "Average",
+                "Wikidata_ID": "Q202785"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "total",
+                "original_value": "Total S.A.",
+                "Wikidata_ID": "Q154037"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "million",
+                "original_value": "Million",
+                "Wikidata_ID": "Q38526"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "million",
+                "original_value": "Million",
+                "Wikidata_ID": "Q38526"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total",
+                "original_value": "Total S.A.",
+                "Wikidata_ID": "Q154037"
+            },
+            {
+                "originalKey": "number",
+                "original_value": "Continent",
+                "Wikidata_ID": "Q5107"
+            },
+            {
+                "originalKey": "bed",
+                "original_value": "Bed",
+                "Wikidata_ID": "Q42177"
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Basis point",
+                "Wikidata_ID": "Q750178"
+            },
+            {
+                "originalKey": "tourist",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "accommodations",
+                "original_value": "Lodging",
+                "Wikidata_ID": "Q5056668"
+            },
+            {
+                "originalKey": "the LAU",
+                "original_value": "Thé Lau",
+                "Wikidata_ID": "Q2342194"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "agricultural",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "World population",
+                "Wikidata_ID": "Q11188"
+            },
+            {
+                "originalKey": "km",
+                "original_value": "Kilometre",
+                "Wikidata_ID": "Q828224"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "total employment",
+                "original_value": "Full employment",
+                "Wikidata_ID": "Q384136"
+            },
+            {
+                "originalKey": "employment",
+                "original_value": "Employment",
+                "Wikidata_ID": "Q656365"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "traditional",
+                "original_value": "Tradition",
+                "Wikidata_ID": "Q82821"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "well",
+                "original_value": "Holy well",
+                "Wikidata_ID": "Q1371047"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bees",
+                "original_value": "Bee",
+                "Wikidata_ID": "Q7391"
+            },
+            {
+                "originalKey": "endangered",
+                "original_value": "Endangered species",
+                "Wikidata_ID": "Q11394"
+            },
+            {
+                "originalKey": "general",
+                "original_value": "General officer",
+                "Wikidata_ID": "Q83460"
+            },
+            {
+                "originalKey": "Overall",
+                "original_value": "Length overall",
+                "Wikidata_ID": "Q2358152"
+            },
+            {
+                "originalKey": "type",
+                "original_value": "Type (biology)",
+                "Wikidata_ID": "Q3707858"
+            },
+            {
+                "originalKey": "challenge",
+                "original_value": "Challenge Records (1950s)",
+                "Wikidata_ID": "Q5068913"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Predicted",
+                "original_value": "Predicted fire",
+                "Wikidata_ID": "Q7239646"
+            },
+            {
+                "originalKey": "classified",
+                "original_value": "Classified information",
+                "Wikidata_ID": "Q846498"
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Traditional medicine",
+                "Wikidata_ID": "Q771035"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "type",
+                "original_value": "Type–token distinction",
+                "Wikidata_ID": "Q175928"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "land use",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "systems",
+                "original_value": "System",
+                "Wikidata_ID": "Q58778"
+            },
+            {
+                "originalKey": "Beehives",
+                "original_value": "Beehive",
+                "Wikidata_ID": "Q165107"
+            },
+            {
+                "originalKey": "can",
+                "original_value": "Canadian dollar",
+                "Wikidata_ID": "Q1104069"
+            },
+            {
+                "originalKey": "anywhere",
+                "original_value": "Muslim world",
+                "Wikidata_ID": "Q779924"
+            },
+            {
+                "originalKey": "local",
+                "original_value": "Local food",
+                "Wikidata_ID": "Q2674120"
+            },
+            {
+                "originalKey": "assets",
+                "original_value": "Asset",
+                "Wikidata_ID": "Q46737"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Natural resource",
+                "Wikidata_ID": "Q188460"
+            }
+        ]
+    }
+]

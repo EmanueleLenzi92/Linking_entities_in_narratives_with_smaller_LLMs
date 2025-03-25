@@ -1,0 +1,171 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "wineries",
+                "original_value": "Wine",
+                "Wikidata_ID": "Q282"
+            },
+            {
+                "originalKey": "wine law",
+                "original_value": "Wine law",
+                "Wikidata_ID": "Q1162317"
+            },
+            {
+                "originalKey": "North Macedonia",
+                "original_value": "North Macedonia",
+                "Wikidata_ID": "Q221"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "the Republic of North Macedonia",
+                "original_value": "North Macedonia",
+                "Wikidata_ID": "Q221"
+            },
+            {
+                "originalKey": "Strumica",
+                "original_value": "Strumica",
+                "Wikidata_ID": "Q48814"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vardar",
+                "original_value": "FK Vardar",
+                "Wikidata_ID": "Q335190"
+            },
+            {
+                "originalKey": "agriculture",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "viticulture",
+                "original_value": "Viticulture",
+                "Wikidata_ID": "Q253140"
+            },
+            {
+                "originalKey": "wine",
+                "original_value": "Wine",
+                "Wikidata_ID": "Q282"
+            },
+            {
+                "originalKey": "the Republic of North Macedonia",
+                "original_value": "North Macedonia",
+                "Wikidata_ID": "Q221"
+            },
+            {
+                "originalKey": "arable",
+                "original_value": "Arable land",
+                "Wikidata_ID": "Q843920"
+            },
+            {
+                "originalKey": "winery",
+                "original_value": "Winery",
+                "Wikidata_ID": "Q156362"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "winery",
+                "original_value": "Winery",
+                "Wikidata_ID": "Q156362"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "technology",
+                "original_value": "Technology",
+                "Wikidata_ID": "Q11016"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "land use",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            }
+        ]
+    }
+]

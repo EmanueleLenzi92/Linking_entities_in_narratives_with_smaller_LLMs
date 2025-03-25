@@ -1,0 +1,228 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            },
+            {
+                "originalKey": "social cohesion",
+                "original_value": "Group cohesiveness",
+                "Wikidata_ID": "Q553270"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ageing",
+                "original_value": "Population ageing",
+                "Wikidata_ID": "Q439112"
+            },
+            {
+                "originalKey": "informal sector",
+                "original_value": "Informal economy",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "value chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "multilevel governance",
+                "original_value": "Multi-level governance",
+                "Wikidata_ID": "Q1459305"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "private",
+                "original_value": "Private sector",
+                "Wikidata_ID": "Q591763"
+            },
+            {
+                "originalKey": "informal economy",
+                "original_value": "Informal economy",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "economy",
+                "original_value": "Economy",
+                "Wikidata_ID": "Q159810"
+            },
+            {
+                "originalKey": "civil society",
+                "original_value": "Civil society",
+                "Wikidata_ID": "Q181865"
+            },
+            {
+                "originalKey": "mutual aid",
+                "original_value": "Mutual aid (organization theory)",
+                "Wikidata_ID": "null"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Ageing population",
+                "original_value": "Population ageing",
+                "Wikidata_ID": "Q439112"
+            },
+            {
+                "originalKey": "replacement rate",
+                "original_value": "Total fertility rate",
+                "Wikidata_ID": "Q285897"
+            },
+            {
+                "originalKey": "informal economy",
+                "original_value": "Informal economy",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "economy",
+                "original_value": "Economy",
+                "Wikidata_ID": "Q159810"
+            },
+            {
+                "originalKey": "cultures",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "society",
+                "original_value": "Society",
+                "Wikidata_ID": "Q8425"
+            },
+            {
+                "originalKey": "public services",
+                "original_value": "Public service",
+                "Wikidata_ID": "Q161837"
+            },
+            {
+                "originalKey": "public-private",
+                "original_value": "Public–private partnership",
+                "Wikidata_ID": "Q221096"
+            },
+            {
+                "originalKey": "governance",
+                "original_value": "Governance",
+                "Wikidata_ID": "Q1553864"
+            },
+            {
+                "originalKey": "land use",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "infrastructures",
+                "original_value": "Infrastructure",
+                "Wikidata_ID": "Q121359"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "communities",
+                "original_value": "Autonomous communities of Spain",
+                "Wikidata_ID": "Q10742"
+            },
+            {
+                "originalKey": "Subbética",
+                "original_value": "Subbética",
+                "Wikidata_ID": "Q1117341"
+            },
+            {
+                "originalKey": "social cohesion",
+                "original_value": "Group cohesiveness",
+                "Wikidata_ID": "Q553270"
+            }
+        ]
+    }
+]

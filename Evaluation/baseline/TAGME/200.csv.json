@@ -1,0 +1,948 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "Motion (physics)",
+                "Wikidata_ID": "Q79782"
+            },
+            {
+                "originalKey": "reference",
+                "original_value": "Library",
+                "Wikidata_ID": "Q7075"
+            },
+            {
+                "originalKey": "member state",
+                "original_value": "Member state of the European Union",
+                "Wikidata_ID": "Q185441"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Card",
+                "original_value": "Credit card",
+                "Wikidata_ID": "Q161380"
+            },
+            {
+                "originalKey": "ID",
+                "original_value": "Idaho",
+                "Wikidata_ID": "Q1221"
+            },
+            {
+                "originalKey": "main",
+                "original_value": "Main (river)",
+                "Wikidata_ID": "Q1670"
+            },
+            {
+                "originalKey": "actors",
+                "original_value": "Acting",
+                "Wikidata_ID": "Q222749"
+            },
+            {
+                "originalKey": "bottled water",
+                "original_value": "Bottled water",
+                "Wikidata_ID": "Q1049049"
+            },
+            {
+                "originalKey": "region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "Maya",
+                "original_value": "Maya civilization",
+                "Wikidata_ID": "Q28567"
+            },
+            {
+                "originalKey": "etc",
+                "original_value": "Et cetera",
+                "Wikidata_ID": "Q845653"
+            },
+            {
+                "originalKey": "private",
+                "original_value": "Privately held company",
+                "Wikidata_ID": "Q1589009"
+            },
+            {
+                "originalKey": "private companies",
+                "original_value": "Privately held company",
+                "Wikidata_ID": "Q1589009"
+            },
+            {
+                "originalKey": "National Chamber of Commerce",
+                "original_value": "United States Chamber of Commerce",
+                "Wikidata_ID": "Q1800288"
+            },
+            {
+                "originalKey": "Chamber of Commerce",
+                "original_value": "Chamber of commerce",
+                "Wikidata_ID": "Q1123526"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "reference",
+                "original_value": "Library",
+                "Wikidata_ID": "Q7075"
+            },
+            {
+                "originalKey": "mountain chain",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            },
+            {
+                "originalKey": "mountains",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "eastern",
+                "original_value": "Eastern Europe",
+                "Wikidata_ID": "Q27468"
+            },
+            {
+                "originalKey": "eastern part",
+                "original_value": "Eastern Canada",
+                "Wikidata_ID": "Q795077"
+            },
+            {
+                "originalKey": "Republic",
+                "original_value": "Republic",
+                "Wikidata_ID": "Q7270"
+            },
+            {
+                "originalKey": "North Macedonia",
+                "original_value": "Macedonia (terminology)",
+                "Wikidata_ID": "Q3130408"
+            },
+            {
+                "originalKey": "Macedonia",
+                "original_value": "Republic of Macedonia",
+                "Wikidata_ID": "Q221"
+            },
+            {
+                "originalKey": "covers",
+                "original_value": "Album cover",
+                "Wikidata_ID": "Q1333350"
+            },
+            {
+                "originalKey": "municipalities",
+                "original_value": "Municipality",
+                "Wikidata_ID": "Q15284"
+            },
+            {
+                "originalKey": "Berovo",
+                "original_value": "Berovo",
+                "Wikidata_ID": "Q827047"
+            },
+            {
+                "originalKey": "Pehchevo",
+                "original_value": "Pehčevo",
+                "Wikidata_ID": "Q162952"
+            },
+            {
+                "originalKey": "natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            },
+            {
+                "originalKey": "wealth",
+                "original_value": "Wealth",
+                "Wikidata_ID": "Q200535"
+            },
+            {
+                "originalKey": "Two rivers",
+                "original_value": "Mesopotamia",
+                "Wikidata_ID": "Q11767"
+            },
+            {
+                "originalKey": "rivers cross",
+                "original_value": "Boulder River (Sweet Grass County, Montana)",
+                "Wikidata_ID": "Q895050"
+            },
+            {
+                "originalKey": "region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "Bregalnica",
+                "original_value": "Bregalnica",
+                "Wikidata_ID": "Q849296"
+            },
+            {
+                "originalKey": "Strumica",
+                "original_value": "Strumica",
+                "Wikidata_ID": "Q48814"
+            },
+            {
+                "originalKey": "Forests",
+                "original_value": "Forest",
+                "Wikidata_ID": "Q4421"
+            },
+            {
+                "originalKey": "pastures",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "minimum",
+                "original_value": "Maxima and minima",
+                "Wikidata_ID": "Q845060"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Terrain",
+                "Wikidata_ID": "Q186131"
+            },
+            {
+                "originalKey": "the LAU",
+                "original_value": "Thé Lau",
+                "Wikidata_ID": "Q2342194"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "maximum",
+                "original_value": "Maxima and minima",
+                "Wikidata_ID": "Q845060"
+            },
+            {
+                "originalKey": "total",
+                "original_value": "Total order",
+                "Wikidata_ID": "Q369377"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "Inhabitants",
+                "original_value": "Residency (domicile)",
+                "Wikidata_ID": "Q2641256"
+            },
+            {
+                "originalKey": "population change",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            },
+            {
+                "originalKey": "rate",
+                "original_value": "Derivative",
+                "Wikidata_ID": "Q29175"
+            },
+            {
+                "originalKey": "last",
+                "original_value": "Last (unit)",
+                "Wikidata_ID": "Q335897"
+            },
+            {
+                "originalKey": "10 years",
+                "original_value": "Anniversary",
+                "Wikidata_ID": "Q1062856"
+            },
+            {
+                "originalKey": "overall",
+                "original_value": "Overall",
+                "Wikidata_ID": "Q13383825"
+            },
+            {
+                "originalKey": "regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average",
+                "original_value": "Average",
+                "Wikidata_ID": "Q202785"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "total",
+                "original_value": "Total S.A.",
+                "Wikidata_ID": "Q154037"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "million",
+                "original_value": "Million",
+                "Wikidata_ID": "Q38526"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "million",
+                "original_value": "Million",
+                "Wikidata_ID": "Q38526"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total",
+                "original_value": "Total S.A.",
+                "Wikidata_ID": "Q154037"
+            },
+            {
+                "originalKey": "number",
+                "original_value": "Continent",
+                "Wikidata_ID": "Q5107"
+            },
+            {
+                "originalKey": "bed",
+                "original_value": "Bed",
+                "Wikidata_ID": "Q42177"
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Basis point",
+                "Wikidata_ID": "Q750178"
+            },
+            {
+                "originalKey": "tourist",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "accommodations",
+                "original_value": "Lodging",
+                "Wikidata_ID": "Q5056668"
+            },
+            {
+                "originalKey": "the LAU",
+                "original_value": "Thé Lau",
+                "Wikidata_ID": "Q2342194"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "agricultural",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "World population",
+                "Wikidata_ID": "Q11188"
+            },
+            {
+                "originalKey": "km",
+                "original_value": "Kilometre",
+                "Wikidata_ID": "Q828224"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            },
+            {
+                "originalKey": "present",
+                "original_value": "Holocene",
+                "Wikidata_ID": "Q25445"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "total employment",
+                "original_value": "Full employment",
+                "Wikidata_ID": "Q384136"
+            },
+            {
+                "originalKey": "employment",
+                "original_value": "Employment",
+                "Wikidata_ID": "Q656365"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vardar",
+                "original_value": "Vardar",
+                "Wikidata_ID": "Q189596"
+            },
+            {
+                "originalKey": "planning",
+                "original_value": "Land-use planning",
+                "Wikidata_ID": "Q60738778"
+            },
+            {
+                "originalKey": "region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "climatic",
+                "original_value": "Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "development",
+                "original_value": "Economic development",
+                "Wikidata_ID": "Q4530482"
+            },
+            {
+                "originalKey": "commercial",
+                "original_value": "Commerce",
+                "Wikidata_ID": "Q26643"
+            },
+            {
+                "originalKey": "Water resources",
+                "original_value": "Water resources",
+                "Wikidata_ID": "Q1049799"
+            },
+            {
+                "originalKey": "lower reaches",
+                "original_value": "Lower Reaches",
+                "Wikidata_ID": "Q20813689"
+            },
+            {
+                "originalKey": "rivers",
+                "original_value": "River",
+                "Wikidata_ID": "Q4022"
+            },
+            {
+                "originalKey": "Drim",
+                "original_value": "Drin (river)",
+                "Wikidata_ID": "Q213975"
+            },
+            {
+                "originalKey": "Bregalnica",
+                "original_value": "Bregalnica",
+                "Wikidata_ID": "Q849296"
+            },
+            {
+                "originalKey": "Topolka",
+                "original_value": "Topólka, Kuyavian-Pomeranian Voivodeship",
+                "Wikidata_ID": "Q984952"
+            },
+            {
+                "originalKey": "opportunity",
+                "original_value": "Opportunity (rover)",
+                "Wikidata_ID": "Q193538"
+            },
+            {
+                "originalKey": "hydro",
+                "original_value": "Hydroelectricity",
+                "Wikidata_ID": "Q80638"
+            },
+            {
+                "originalKey": "reservoirs",
+                "original_value": "Reservoir",
+                "Wikidata_ID": "Q131681"
+            },
+            {
+                "originalKey": "so far",
+                "original_value": "So Far (song)",
+                "Wikidata_ID": "Q7549147"
+            },
+            {
+                "originalKey": "Tikvesh",
+                "original_value": "Tikveš",
+                "Wikidata_ID": "Q1376255"
+            },
+            {
+                "originalKey": "Lices",
+                "original_value": "Louse",
+                "Wikidata_ID": "Q6481228"
+            },
+            {
+                "originalKey": "Mladost",
+                "original_value": "FK Mladost Podgorica",
+                "Wikidata_ID": "Q1257626"
+            },
+            {
+                "originalKey": "private",
+                "original_value": "Private sector",
+                "Wikidata_ID": "Q591763"
+            },
+            {
+                "originalKey": "company",
+                "original_value": "Company",
+                "Wikidata_ID": "Q783794"
+            },
+            {
+                "originalKey": "Kavadarci",
+                "original_value": "Kavadarci",
+                "Wikidata_ID": "Q158088"
+            },
+            {
+                "originalKey": "mineral water",
+                "original_value": "Mineral water",
+                "Wikidata_ID": "Q178921"
+            },
+            {
+                "originalKey": "aj",
+                "original_value": "Joule",
+                "Wikidata_ID": "Q25269"
+            },
+            {
+                "originalKey": "altitude",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "meters",
+                "original_value": "Metre",
+                "Wikidata_ID": "Q11573"
+            },
+            {
+                "originalKey": "springs",
+                "original_value": "Spring (hydrology)",
+                "Wikidata_ID": "Q124714"
+            },
+            {
+                "originalKey": "come",
+                "original_value": "Orgasm",
+                "Wikidata_ID": "Q5887"
+            },
+            {
+                "originalKey": "depth",
+                "original_value": "Elevation",
+                "Wikidata_ID": "Q2633778"
+            },
+            {
+                "originalKey": "wealth",
+                "original_value": "Wealth",
+                "Wikidata_ID": "Q200535"
+            },
+            {
+                "originalKey": "minerals",
+                "original_value": "Mineral",
+                "Wikidata_ID": "Q7946"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "private",
+                "original_value": "Private sector",
+                "Wikidata_ID": "Q591763"
+            },
+            {
+                "originalKey": "commercial",
+                "original_value": "Commerce",
+                "Wikidata_ID": "Q26643"
+            },
+            {
+                "originalKey": "company",
+                "original_value": "Company",
+                "Wikidata_ID": "Q783794"
+            },
+            {
+                "originalKey": "producing",
+                "original_value": "Manufacturing",
+                "Wikidata_ID": "Q187939"
+            },
+            {
+                "originalKey": "mineral",
+                "original_value": "Mineral",
+                "Wikidata_ID": "Q7946"
+            },
+            {
+                "originalKey": "watter",
+                "original_value": "Watter",
+                "Wikidata_ID": "Q2552739"
+            },
+            {
+                "originalKey": "region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "mountain",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "outside",
+                "original_value": "Outside (David Bowie album)",
+                "Wikidata_ID": "Q961258"
+            },
+            {
+                "originalKey": "Vardarski",
+                "original_value": "FK Vardarski",
+                "Wikidata_ID": "Q3400324"
+            },
+            {
+                "originalKey": "brand",
+                "original_value": "Brand",
+                "Wikidata_ID": "Q431289"
+            },
+            {
+                "originalKey": "produced",
+                "original_value": "Sound recording and reproduction",
+                "Wikidata_ID": "Q20077126"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "benefits",
+                "original_value": "Economics",
+                "Wikidata_ID": "Q8134"
+            },
+            {
+                "originalKey": "direct",
+                "original_value": "Direct marketing",
+                "Wikidata_ID": "Q677073"
+            },
+            {
+                "originalKey": "linkages",
+                "original_value": "Linkage (mechanical)",
+                "Wikidata_ID": "Q1153014"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "World population",
+                "Wikidata_ID": "Q11188"
+            },
+            {
+                "originalKey": "who",
+                "original_value": "World Health Organization",
+                "Wikidata_ID": "Q7817"
+            },
+            {
+                "originalKey": "living",
+                "original_value": "Life",
+                "Wikidata_ID": "Q3"
+            },
+            {
+                "originalKey": "reference",
+                "original_value": "Library",
+                "Wikidata_ID": "Q7075"
+            },
+            {
+                "originalKey": "project",
+                "original_value": "Project",
+                "Wikidata_ID": "Q170584"
+            },
+            {
+                "originalKey": "Overall",
+                "original_value": "Overall",
+                "Wikidata_ID": "Q13383825"
+            },
+            {
+                "originalKey": "type",
+                "original_value": "Movable type",
+                "Wikidata_ID": "Q426853"
+            },
+            {
+                "originalKey": "challenge",
+                "original_value": "Challenge (TV channel)",
+                "Wikidata_ID": "Q5068886"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Current",
+                "original_value": "Electric current",
+                "Wikidata_ID": "Q11651"
+            },
+            {
+                "originalKey": "Predicted",
+                "original_value": "Prediction",
+                "Wikidata_ID": "Q748250"
+            },
+            {
+                "originalKey": "classified",
+                "original_value": "Classified information",
+                "Wikidata_ID": "Q846498"
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Tradition",
+                "Wikidata_ID": "Q82821"
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "type",
+                "original_value": "Movable type",
+                "Wikidata_ID": "Q426853"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "technology",
+                "original_value": "Technology",
+                "Wikidata_ID": "Q11016"
+            },
+            {
+                "originalKey": "production",
+                "original_value": "Production (economics)",
+                "Wikidata_ID": "Q739302"
+            },
+            {
+                "originalKey": "distribution",
+                "original_value": "Distribution (business)",
+                "Wikidata_ID": "Q867147"
+            },
+            {
+                "originalKey": "processes",
+                "original_value": "Business process",
+                "Wikidata_ID": "Q851587"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "land use",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "systems",
+                "original_value": "System",
+                "Wikidata_ID": "Q58778"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "local",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "assets",
+                "original_value": "Asset",
+                "Wikidata_ID": "Q46737"
+            },
+            {
+                "originalKey": "social",
+                "original_value": "Social science",
+                "Wikidata_ID": "Q34749"
+            },
+            {
+                "originalKey": "cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    }
+]

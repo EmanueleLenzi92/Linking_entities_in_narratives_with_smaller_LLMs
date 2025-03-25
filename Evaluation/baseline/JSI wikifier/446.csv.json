@@ -1,0 +1,233 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "tea",
+                "original_value": "Tea",
+                "Wikidata_ID": "Q6097"
+            },
+            {
+                "originalKey": "Tea production",
+                "original_value": "Tea processing",
+                "Wikidata_ID": "Q7691134"
+            },
+            {
+                "originalKey": "the region",
+                "original_value": "Middle East",
+                "Wikidata_ID": "Q7204"
+            },
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize",
+                "Wikidata_ID": "Q201101"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Eastern Black Sea",
+                "original_value": "Black Sea Region",
+                "Wikidata_ID": "null"
+            },
+            {
+                "originalKey": "Black",
+                "original_value": "Black Sea",
+                "Wikidata_ID": "Q166"
+            },
+            {
+                "originalKey": "Black Sea Mountains",
+                "original_value": "Pontic Mountains",
+                "Wikidata_ID": "Q519263"
+            },
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize Province",
+                "Wikidata_ID": "Q483481"
+            },
+            {
+                "originalKey": "Turkey",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "humid",
+                "original_value": "Humidity",
+                "Wikidata_ID": "Q180600"
+            },
+            {
+                "originalKey": "climate",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q7942"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize Province",
+                "Wikidata_ID": "Q483481"
+            },
+            {
+                "originalKey": "black tea",
+                "original_value": "Tea",
+                "Wikidata_ID": "Q6097"
+            },
+            {
+                "originalKey": "Rize Tea",
+                "original_value": "Rize tea",
+                "Wikidata_ID": "Q2912478"
+            },
+            {
+                "originalKey": "Rainforest Alliance",
+                "original_value": "Rainforest Alliance",
+                "Wikidata_ID": "Q2034373"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "tea",
+                "original_value": "Tea",
+                "Wikidata_ID": "Q6097"
+            },
+            {
+                "originalKey": "Rize",
+                "original_value": "Rize",
+                "Wikidata_ID": "Q201101"
+            },
+            {
+                "originalKey": "Geographical Indication",
+                "original_value": "Geographical indication",
+                "Wikidata_ID": "Q325668"
+            },
+            {
+                "originalKey": "Turkish",
+                "original_value": "Turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "Turkish Patent and Trademark Office",
+                "original_value": "Turkish Patent and Trademark Office",
+                "Wikidata_ID": "Q7855305"
+            },
+            {
+                "originalKey": "Patent",
+                "original_value": "Patent",
+                "Wikidata_ID": "Q253623"
+            },
+            {
+                "originalKey": "Patent and Trademark Office",
+                "original_value": "United States Patent and Trademark Office",
+                "Wikidata_ID": "Q1459541"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "tea",
+                "original_value": "Tea",
+                "Wikidata_ID": "Q6097"
+            },
+            {
+                "originalKey": "plantations",
+                "original_value": "Plantation",
+                "Wikidata_ID": "Q188913"
+            },
+            {
+                "originalKey": "geography",
+                "original_value": "Geography",
+                "Wikidata_ID": "Q1071"
+            },
+            {
+                "originalKey": "climatic",
+                "original_value": "Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "climatic change",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q7942"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "land use",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            }
+        ]
+    },
+    {
+        "entities": []
+    }
+]

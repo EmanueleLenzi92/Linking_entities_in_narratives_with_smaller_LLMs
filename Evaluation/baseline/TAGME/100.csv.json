@@ -1,0 +1,1780 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "Motion (physics)",
+                "Wikidata_ID": "Q79782"
+            },
+            {
+                "originalKey": "reference",
+                "original_value": "Library",
+                "Wikidata_ID": "Q7075"
+            },
+            {
+                "originalKey": "member state",
+                "original_value": "Member state of the European Union",
+                "Wikidata_ID": "Q185441"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "GREECE",
+                "original_value": "Ancient Greece",
+                "Wikidata_ID": "Q11772"
+            },
+            {
+                "originalKey": "Card",
+                "original_value": "Credit card",
+                "Wikidata_ID": "Q161380"
+            },
+            {
+                "originalKey": "ID",
+                "original_value": "Idaho",
+                "Wikidata_ID": "Q1221"
+            },
+            {
+                "originalKey": "adaptability",
+                "original_value": "Adaptation",
+                "Wikidata_ID": "Q483921"
+            },
+            {
+                "originalKey": "farming",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "led",
+                "original_value": "Light-emitting diode",
+                "Wikidata_ID": "Q25504"
+            },
+            {
+                "originalKey": "cultivation",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "Aloe vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "alternative",
+                "original_value": "Alternative medicine",
+                "Wikidata_ID": "Q188504"
+            },
+            {
+                "originalKey": "plant",
+                "original_value": "Plant",
+                "Wikidata_ID": "Q756"
+            },
+            {
+                "originalKey": "economic crisis",
+                "original_value": "Great Recession",
+                "Wikidata_ID": "Q154510"
+            },
+            {
+                "originalKey": "processed",
+                "original_value": "Food processing",
+                "Wikidata_ID": "Q627371"
+            },
+            {
+                "originalKey": "produce",
+                "original_value": "Produce",
+                "Wikidata_ID": "Q1913301"
+            },
+            {
+                "originalKey": "juice",
+                "original_value": "Juice",
+                "Wikidata_ID": "Q8492"
+            },
+            {
+                "originalKey": "gel",
+                "original_value": "Gel",
+                "Wikidata_ID": "Q185744"
+            },
+            {
+                "originalKey": "cosmetics",
+                "original_value": "Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "nutraceuticals",
+                "original_value": "Nutraceutical",
+                "Wikidata_ID": "Q533025"
+            },
+            {
+                "originalKey": "research",
+                "original_value": "Research",
+                "Wikidata_ID": "Q42240"
+            },
+            {
+                "originalKey": "processing",
+                "original_value": "Food processing",
+                "Wikidata_ID": "Q627371"
+            },
+            {
+                "originalKey": "production",
+                "original_value": "Manufacturing",
+                "Wikidata_ID": "Q187939"
+            },
+            {
+                "originalKey": "production methods",
+                "original_value": "Charcoal",
+                "Wikidata_ID": "Q177463"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "integrated",
+                "original_value": "System integration",
+                "Wikidata_ID": "Q1665453"
+            },
+            {
+                "originalKey": "local",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "diet",
+                "original_value": "Diet (nutrition)",
+                "Wikidata_ID": "Q474191"
+            },
+            {
+                "originalKey": "marketed",
+                "original_value": "Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "tourist",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "sector",
+                "original_value": "Economic sector",
+                "Wikidata_ID": "Q3958441"
+            },
+            {
+                "originalKey": "main",
+                "original_value": "Mast (sailing)",
+                "Wikidata_ID": "Q331744"
+            },
+            {
+                "originalKey": "problem",
+                "original_value": "Problem solving",
+                "Wikidata_ID": "Q730920"
+            },
+            {
+                "originalKey": "producers",
+                "original_value": "Record producer",
+                "Wikidata_ID": "Q183945"
+            },
+            {
+                "originalKey": "distribution",
+                "original_value": "Distribution (business)",
+                "Wikidata_ID": "Q867147"
+            },
+            {
+                "originalKey": "leaves",
+                "original_value": "Leaf",
+                "Wikidata_ID": "Q33971"
+            },
+            {
+                "originalKey": "fact",
+                "original_value": "Fact",
+                "Wikidata_ID": "Q188572"
+            },
+            {
+                "originalKey": "small",
+                "original_value": "Small business",
+                "Wikidata_ID": "Q1109680"
+            },
+            {
+                "originalKey": "number",
+                "original_value": "Number",
+                "Wikidata_ID": "Q11563"
+            },
+            {
+                "originalKey": "units",
+                "original_value": "Units of measurement",
+                "Wikidata_ID": "Q47574"
+            },
+            {
+                "originalKey": "issue",
+                "original_value": "Child",
+                "Wikidata_ID": "Q7569"
+            },
+            {
+                "originalKey": "seasonality",
+                "original_value": "Seasonality",
+                "Wikidata_ID": "Q2111082"
+            },
+            {
+                "originalKey": "production",
+                "original_value": "Manufacturing",
+                "Wikidata_ID": "Q187939"
+            },
+            {
+                "originalKey": "cover",
+                "original_value": "Cover version",
+                "Wikidata_ID": "Q155171"
+            },
+            {
+                "originalKey": "fixed",
+                "original_value": "Telephone",
+                "Wikidata_ID": "Q11035"
+            },
+            {
+                "originalKey": "demand",
+                "original_value": "Demand",
+                "Wikidata_ID": "Q4402708"
+            },
+            {
+                "originalKey": "industry",
+                "original_value": "Industry",
+                "Wikidata_ID": "Q257927"
+            },
+            {
+                "originalKey": "high",
+                "original_value": "Secondary education",
+                "Wikidata_ID": "Q13006147"
+            },
+            {
+                "originalKey": "cost of quality",
+                "original_value": "Quality costs",
+                "Wikidata_ID": "Q1514470"
+            },
+            {
+                "originalKey": "certification",
+                "original_value": "Certification",
+                "Wikidata_ID": "Q374814"
+            },
+            {
+                "originalKey": "detriment",
+                "original_value": "Detriment (astrology)",
+                "Wikidata_ID": "Q1795024"
+            },
+            {
+                "originalKey": "cooperation",
+                "original_value": "Cooperative",
+                "Wikidata_ID": "Q4539"
+            },
+            {
+                "originalKey": "Minoan",
+                "original_value": "Minoan civilization",
+                "Wikidata_ID": "Q134178"
+            },
+            {
+                "originalKey": "Land",
+                "original_value": "Land",
+                "Wikidata_ID": "Q11081619"
+            },
+            {
+                "originalKey": "festivals",
+                "original_value": "Festival",
+                "Wikidata_ID": "Q132241"
+            },
+            {
+                "originalKey": "Cretan Diet",
+                "original_value": "Cretan cuisine",
+                "Wikidata_ID": "Q3561179"
+            },
+            {
+                "originalKey": "Festival",
+                "original_value": "Festival",
+                "Wikidata_ID": "Q132241"
+            },
+            {
+                "originalKey": "Network",
+                "original_value": "Social network",
+                "Wikidata_ID": "Q2715623"
+            },
+            {
+                "originalKey": "Organic Farmers",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "reference",
+                "original_value": "Library",
+                "Wikidata_ID": "Q7075"
+            },
+            {
+                "originalKey": "mountain chain",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Dikti Mountains",
+                "original_value": "Dikti",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            },
+            {
+                "originalKey": "VIANNOS",
+                "original_value": "Viannos",
+                "Wikidata_ID": "Q693813"
+            },
+            {
+                "originalKey": "mountain range",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "maximum",
+                "original_value": "Maxima and minima",
+                "Wikidata_ID": "Q845060"
+            },
+            {
+                "originalKey": "altitude",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "forested",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "pines",
+                "original_value": "Pine",
+                "Wikidata_ID": "Q12024"
+            },
+            {
+                "originalKey": "Pinus brutia",
+                "original_value": "Pinus brutia",
+                "Wikidata_ID": "Q628329"
+            },
+            {
+                "originalKey": "Kermes",
+                "original_value": "Kermes (insect)",
+                "Wikidata_ID": "Q2383821"
+            },
+            {
+                "originalKey": "Quercus coccifera",
+                "original_value": "Quercus coccifera",
+                "Wikidata_ID": "Q158178"
+            },
+            {
+                "originalKey": "cypresses",
+                "original_value": "Cupressus sempervirens",
+                "Wikidata_ID": "Q147513"
+            },
+            {
+                "originalKey": "Cupressus sempervirens",
+                "original_value": "Cupressus sempervirens",
+                "Wikidata_ID": "Q147513"
+            },
+            {
+                "originalKey": "Holm Oaks",
+                "original_value": "Quercus ilex",
+                "Wikidata_ID": "Q218155"
+            },
+            {
+                "originalKey": "Quercus ilex",
+                "original_value": "Quercus ilex",
+                "Wikidata_ID": "Q218155"
+            },
+            {
+                "originalKey": "Cretan",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Maples",
+                "original_value": "Maple",
+                "Wikidata_ID": "Q42292"
+            },
+            {
+                "originalKey": "Acer sempervirens",
+                "original_value": "Acer sempervirens",
+                "Wikidata_ID": "Q1788044"
+            },
+            {
+                "originalKey": "topology",
+                "original_value": "Topology",
+                "Wikidata_ID": "Q42989"
+            },
+            {
+                "originalKey": "mountain range",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "rich",
+                "original_value": "Wealth",
+                "Wikidata_ID": "Q200535"
+            },
+            {
+                "originalKey": "plateaus",
+                "original_value": "Plateau",
+                "Wikidata_ID": "Q75520"
+            },
+            {
+                "originalKey": "valleys",
+                "original_value": "Valley",
+                "Wikidata_ID": "Q39816"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary forest",
+                "Wikidata_ID": "Q2140056"
+            },
+            {
+                "originalKey": "peaks",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "fertile",
+                "original_value": "Fertility",
+                "Wikidata_ID": "Q964401"
+            },
+            {
+                "originalKey": "Dikti",
+                "original_value": "Dikti",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "Dicte",
+                "original_value": "Dicte (TV series)",
+                "Wikidata_ID": "Q8321947"
+            },
+            {
+                "originalKey": "economy",
+                "original_value": "Economy",
+                "Wikidata_ID": "Q159810"
+            },
+            {
+                "originalKey": "warm",
+                "original_value": "Temperature",
+                "Wikidata_ID": "Q11466"
+            },
+            {
+                "originalKey": "sunny",
+                "original_value": "Sunny (dog)",
+                "Wikidata_ID": "Q14744025"
+            },
+            {
+                "originalKey": "climate",
+                "original_value": "Climate",
+                "Wikidata_ID": "Q7937"
+            },
+            {
+                "originalKey": "mountainous",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "ideal",
+                "original_value": "Idealism",
+                "Wikidata_ID": "Q33442"
+            },
+            {
+                "originalKey": "growth",
+                "original_value": "Economic growth",
+                "Wikidata_ID": "Q189833"
+            },
+            {
+                "originalKey": "aloe vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "minimum",
+                "original_value": "Maxima and minima",
+                "Wikidata_ID": "Q845060"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Terrain",
+                "Wikidata_ID": "Q186131"
+            },
+            {
+                "originalKey": "the LAU",
+                "original_value": "Thé Lau",
+                "Wikidata_ID": "Q2342194"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "maximum",
+                "original_value": "Maxima and minima",
+                "Wikidata_ID": "Q845060"
+            },
+            {
+                "originalKey": "total",
+                "original_value": "Total order",
+                "Wikidata_ID": "Q369377"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "Inhabitants",
+                "original_value": "Residency (domicile)",
+                "Wikidata_ID": "Q2641256"
+            },
+            {
+                "originalKey": "population change",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            },
+            {
+                "originalKey": "rate",
+                "original_value": "Derivative",
+                "Wikidata_ID": "Q29175"
+            },
+            {
+                "originalKey": "last",
+                "original_value": "Last (unit)",
+                "Wikidata_ID": "Q335897"
+            },
+            {
+                "originalKey": "10 years",
+                "original_value": "Anniversary",
+                "Wikidata_ID": "Q1062856"
+            },
+            {
+                "originalKey": "overall",
+                "original_value": "Overall",
+                "Wikidata_ID": "Q13383825"
+            },
+            {
+                "originalKey": "regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average",
+                "original_value": "Weighted arithmetic mean",
+                "Wikidata_ID": "Q729113"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "total",
+                "original_value": "Total S.A.",
+                "Wikidata_ID": "Q154037"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "million",
+                "original_value": "Million",
+                "Wikidata_ID": "Q38526"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "is 5",
+                "original_value": "Is 5",
+                "Wikidata_ID": "Q15119171"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "million",
+                "original_value": "Million",
+                "Wikidata_ID": "Q38526"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "is 6",
+                "original_value": "IS tank family",
+                "Wikidata_ID": "Q779903"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total",
+                "original_value": "Total S.A.",
+                "Wikidata_ID": "Q154037"
+            },
+            {
+                "originalKey": "number",
+                "original_value": "Continent",
+                "Wikidata_ID": "Q5107"
+            },
+            {
+                "originalKey": "bed",
+                "original_value": "Bed",
+                "Wikidata_ID": "Q42177"
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Basis point",
+                "Wikidata_ID": "Q750178"
+            },
+            {
+                "originalKey": "tourist",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "accommodations",
+                "original_value": "Lodging",
+                "Wikidata_ID": "Q5056668"
+            },
+            {
+                "originalKey": "the LAU",
+                "original_value": "Thé Lau",
+                "Wikidata_ID": "Q2342194"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "agricultural",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "World population",
+                "Wikidata_ID": "Q11188"
+            },
+            {
+                "originalKey": "km",
+                "original_value": "Kilometre",
+                "Wikidata_ID": "Q828224"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            },
+            {
+                "originalKey": "present",
+                "original_value": "Holocene",
+                "Wikidata_ID": "Q25445"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "total employment",
+                "original_value": "Full employment",
+                "Wikidata_ID": "Q384136"
+            },
+            {
+                "originalKey": "employment",
+                "original_value": "Employment",
+                "Wikidata_ID": "Q656365"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "is 72",
+                "original_value": "The Police Officer Rocco Laurie Intermediate School",
+                "Wikidata_ID": "Q7757636"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "agricultural sector",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "vital",
+                "original_value": "Vitalism",
+                "Wikidata_ID": "Q191631"
+            },
+            {
+                "originalKey": "Dikti",
+                "original_value": "Dikti",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "Mountain",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            },
+            {
+                "originalKey": "Olives",
+                "original_value": "Olive",
+                "Wikidata_ID": "Q37083"
+            },
+            {
+                "originalKey": "primary",
+                "original_value": "Primary education",
+                "Wikidata_ID": "Q975085"
+            },
+            {
+                "originalKey": "crop",
+                "original_value": "Crop",
+                "Wikidata_ID": "Q235352"
+            },
+            {
+                "originalKey": "cultivation",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "production",
+                "original_value": "Manufacturing",
+                "Wikidata_ID": "Q187939"
+            },
+            {
+                "originalKey": "distribution",
+                "original_value": "Distribution (business)",
+                "Wikidata_ID": "Q867147"
+            },
+            {
+                "originalKey": "technological",
+                "original_value": "Technology",
+                "Wikidata_ID": "Q11016"
+            },
+            {
+                "originalKey": "manufacturing",
+                "original_value": "Manufacturing",
+                "Wikidata_ID": "Q187939"
+            },
+            {
+                "originalKey": "methods",
+                "original_value": "Methodology",
+                "Wikidata_ID": "Q185698"
+            },
+            {
+                "originalKey": "supplementary",
+                "original_value": "Angle",
+                "Wikidata_ID": "Q11352"
+            },
+            {
+                "originalKey": "income",
+                "original_value": "Income",
+                "Wikidata_ID": "Q1527264"
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "processing",
+                "original_value": "Food processing",
+                "Wikidata_ID": "Q627371"
+            },
+            {
+                "originalKey": "food",
+                "original_value": "Food",
+                "Wikidata_ID": "Q2095"
+            },
+            {
+                "originalKey": "cosmetic",
+                "original_value": "Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "industries",
+                "original_value": "Industry",
+                "Wikidata_ID": "Q257927"
+            },
+            {
+                "originalKey": "developed",
+                "original_value": "Research and development",
+                "Wikidata_ID": "Q276099"
+            },
+            {
+                "originalKey": "past",
+                "original_value": "Past",
+                "Wikidata_ID": "Q192630"
+            },
+            {
+                "originalKey": "5 years",
+                "original_value": "5 Years (Kaela Kimura album)",
+                "Wikidata_ID": "Q654585"
+            },
+            {
+                "originalKey": "offering",
+                "original_value": "Tithe",
+                "Wikidata_ID": "Q184664"
+            },
+            {
+                "originalKey": "employment",
+                "original_value": "Employment",
+                "Wikidata_ID": "Q656365"
+            },
+            {
+                "originalKey": "opportunities",
+                "original_value": "Equal opportunity",
+                "Wikidata_ID": "Q912512"
+            },
+            {
+                "originalKey": "sustaining",
+                "original_value": "Sustain",
+                "Wikidata_ID": "Q290667"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "World population",
+                "Wikidata_ID": "Q11188"
+            },
+            {
+                "originalKey": "proven",
+                "original_value": "Oil reserves",
+                "Wikidata_ID": "Q115827361"
+            },
+            {
+                "originalKey": "economically",
+                "original_value": "Economy",
+                "Wikidata_ID": "Q159810"
+            },
+            {
+                "originalKey": "viable",
+                "original_value": "Natural selection",
+                "Wikidata_ID": "Q43478"
+            },
+            {
+                "originalKey": "e-commerce",
+                "original_value": "E-commerce",
+                "Wikidata_ID": "Q484847"
+            },
+            {
+                "originalKey": "export",
+                "original_value": "Export",
+                "Wikidata_ID": "Q182722"
+            },
+            {
+                "originalKey": "pathways",
+                "original_value": "Metabolic pathway",
+                "Wikidata_ID": "Q68685"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "risk",
+                "original_value": "Risk",
+                "Wikidata_ID": "Q104493"
+            },
+            {
+                "originalKey": "extinction",
+                "original_value": "Extinction",
+                "Wikidata_ID": "Q123509"
+            },
+            {
+                "originalKey": "rare plants",
+                "original_value": "Rare species",
+                "Wikidata_ID": "Q3503448"
+            },
+            {
+                "originalKey": "local",
+                "original_value": "Local food",
+                "Wikidata_ID": "Q2674120"
+            },
+            {
+                "originalKey": "flora",
+                "original_value": "Flora",
+                "Wikidata_ID": "Q131449"
+            },
+            {
+                "originalKey": "endemic",
+                "original_value": "Endemism",
+                "Wikidata_ID": "Q123452"
+            },
+            {
+                "originalKey": "Dikti",
+                "original_value": "Dikti",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "Viannos",
+                "original_value": "Viannos",
+                "Wikidata_ID": "Q693813"
+            },
+            {
+                "originalKey": "challenge",
+                "original_value": "Challenge–response authentication",
+                "Wikidata_ID": "Q1059963"
+            },
+            {
+                "originalKey": "units",
+                "original_value": "Pressure",
+                "Wikidata_ID": "Q39552"
+            },
+            {
+                "originalKey": "can",
+                "original_value": "Canning",
+                "Wikidata_ID": "Q843389"
+            },
+            {
+                "originalKey": "problematic",
+                "original_value": "Problematic (album)",
+                "Wikidata_ID": "Q3922316"
+            },
+            {
+                "originalKey": "supply chain",
+                "original_value": "Supply chain",
+                "Wikidata_ID": "Q1824206"
+            },
+            {
+                "originalKey": "Quality",
+                "original_value": "Water quality",
+                "Wikidata_ID": "Q625376"
+            },
+            {
+                "originalKey": "checks",
+                "original_value": "Cheque",
+                "Wikidata_ID": "Q80042"
+            },
+            {
+                "originalKey": "may",
+                "original_value": "Brian May",
+                "Wikidata_ID": "Q15873"
+            },
+            {
+                "originalKey": "sufficient",
+                "original_value": "Necessity and sufficiency",
+                "Wikidata_ID": "Q875267"
+            },
+            {
+                "originalKey": "number",
+                "original_value": "Number",
+                "Wikidata_ID": "Q11563"
+            },
+            {
+                "originalKey": "production",
+                "original_value": "Production (economics)",
+                "Wikidata_ID": "Q739302"
+            },
+            {
+                "originalKey": "risk",
+                "original_value": "Risk",
+                "Wikidata_ID": "Q104493"
+            },
+            {
+                "originalKey": "reduced",
+                "original_value": "Redox",
+                "Wikidata_ID": "Q82682"
+            },
+            {
+                "originalKey": "harvests",
+                "original_value": "Harvest",
+                "Wikidata_ID": "Q213753"
+            },
+            {
+                "originalKey": "Adulteration",
+                "original_value": "Adulterant",
+                "Wikidata_ID": "Q1658591"
+            },
+            {
+                "originalKey": "final",
+                "original_value": "Syllable",
+                "Wikidata_ID": "Q8188"
+            },
+            {
+                "originalKey": "products",
+                "original_value": "Product (business)",
+                "Wikidata_ID": "Q2424752"
+            },
+            {
+                "originalKey": "Viannos",
+                "original_value": "Viannos",
+                "Wikidata_ID": "Q693813"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "cultivated",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "quantities",
+                "original_value": "Quantity",
+                "Wikidata_ID": "Q309314"
+            },
+            {
+                "originalKey": "helps",
+                "original_value": "Arthur Helps",
+                "Wikidata_ID": "Q321238"
+            },
+            {
+                "originalKey": "young",
+                "original_value": "Youth",
+                "Wikidata_ID": "Q190007"
+            },
+            {
+                "originalKey": "young people",
+                "original_value": "Youth",
+                "Wikidata_ID": "Q190007"
+            },
+            {
+                "originalKey": "stay",
+                "original_value": "Stay of execution",
+                "Wikidata_ID": "Q7605086"
+            },
+            {
+                "originalKey": "rural",
+                "original_value": "Rural area",
+                "Wikidata_ID": "Q175185"
+            },
+            {
+                "originalKey": "rural areas",
+                "original_value": "Rural area",
+                "Wikidata_ID": "Q175185"
+            },
+            {
+                "originalKey": "region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "Competition",
+                "original_value": "Competition",
+                "Wikidata_ID": "Q476300"
+            },
+            {
+                "originalKey": "land use",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "implementation",
+                "original_value": "Implementation",
+                "Wikidata_ID": "Q245962"
+            },
+            {
+                "originalKey": "ambivalent",
+                "original_value": "Ambivalence",
+                "Wikidata_ID": "Q5928045"
+            },
+            {
+                "originalKey": "investment",
+                "original_value": "Investment",
+                "Wikidata_ID": "Q4290"
+            },
+            {
+                "originalKey": "pressing",
+                "original_value": "Impressment",
+                "Wikidata_ID": "Q2566803"
+            },
+            {
+                "originalKey": "Aloe vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "profitable",
+                "original_value": "Profit (economics)",
+                "Wikidata_ID": "Q26911"
+            },
+            {
+                "originalKey": "Overall",
+                "original_value": "Length overall",
+                "Wikidata_ID": "Q2358152"
+            },
+            {
+                "originalKey": "type",
+                "original_value": "Movable type",
+                "Wikidata_ID": "Q426853"
+            },
+            {
+                "originalKey": "challenge",
+                "original_value": "ECyD",
+                "Wikidata_ID": "Q5322818"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Current",
+                "original_value": "Ocean current",
+                "Wikidata_ID": "Q129558"
+            },
+            {
+                "originalKey": "classified",
+                "original_value": "Classified advertising",
+                "Wikidata_ID": "Q614278"
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Tradition",
+                "Wikidata_ID": "Q82821"
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "type",
+                "original_value": "Type–token distinction",
+                "Wikidata_ID": "Q175928"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Agricultural value chain",
+                "Wikidata_ID": "Q16002108"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogeny (biology)",
+                "Wikidata_ID": "Q285982"
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogeny",
+                "Wikidata_ID": "Q293000"
+            },
+            {
+                "originalKey": "network",
+                "original_value": "Social network",
+                "Wikidata_ID": "Q2715623"
+            },
+            {
+                "originalKey": "partners",
+                "original_value": "Partnership",
+                "Wikidata_ID": "Q728646"
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "byproduct",
+                "original_value": "By-product",
+                "Wikidata_ID": "Q1128255"
+            },
+            {
+                "originalKey": "producers",
+                "original_value": "Autotroph",
+                "Wikidata_ID": "Q131427"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "plants",
+                "original_value": "Flora",
+                "Wikidata_ID": "Q131449"
+            },
+            {
+                "originalKey": "Dikti",
+                "original_value": "Dikti",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "cooperative",
+                "original_value": "Cooperative",
+                "Wikidata_ID": "Q4539"
+            },
+            {
+                "originalKey": "Minoan",
+                "original_value": "Minoan civilization",
+                "Wikidata_ID": "Q134178"
+            },
+            {
+                "originalKey": "Land",
+                "original_value": "Land",
+                "Wikidata_ID": "Q11081619"
+            },
+            {
+                "originalKey": "Cultivation",
+                "original_value": "Horticulture",
+                "Wikidata_ID": "Q48803"
+            },
+            {
+                "originalKey": "principles",
+                "original_value": "Value (ethics)",
+                "Wikidata_ID": "Q194112"
+            },
+            {
+                "originalKey": "organic",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "contract farming",
+                "original_value": "Contract farming",
+                "Wikidata_ID": "Q5165669"
+            },
+            {
+                "originalKey": "goal",
+                "original_value": "Goal",
+                "Wikidata_ID": "Q4503831"
+            },
+            {
+                "originalKey": "produce",
+                "original_value": "Produce",
+                "Wikidata_ID": "Q1913301"
+            },
+            {
+                "originalKey": "leaves",
+                "original_value": "Leaf",
+                "Wikidata_ID": "Q33971"
+            },
+            {
+                "originalKey": "free",
+                "original_value": "Political freedom",
+                "Wikidata_ID": "Q831058"
+            },
+            {
+                "originalKey": "residues",
+                "original_value": "Amino acid",
+                "Wikidata_ID": "Q8066"
+            },
+            {
+                "originalKey": "dangerous",
+                "original_value": "Risk",
+                "Wikidata_ID": "Q104493"
+            },
+            {
+                "originalKey": "pesticides",
+                "original_value": "Pesticide",
+                "Wikidata_ID": "Q131656"
+            },
+            {
+                "originalKey": "raw material",
+                "original_value": "Raw material",
+                "Wikidata_ID": "Q192355"
+            },
+            {
+                "originalKey": "processed",
+                "original_value": "Food processing",
+                "Wikidata_ID": "Q627371"
+            },
+            {
+                "originalKey": "high",
+                "original_value": "Hypertension",
+                "Wikidata_ID": "Q41861"
+            },
+            {
+                "originalKey": "biological",
+                "original_value": "Biodiversity",
+                "Wikidata_ID": "Q47041"
+            },
+            {
+                "originalKey": "production",
+                "original_value": "Manufacturing",
+                "Wikidata_ID": "Q187939"
+            },
+            {
+                "originalKey": "value",
+                "original_value": "Value (economics)",
+                "Wikidata_ID": "Q868257"
+            },
+            {
+                "originalKey": "nutritional supplements",
+                "original_value": "Dietary supplement",
+                "Wikidata_ID": "Q645858"
+            },
+            {
+                "originalKey": "herbal",
+                "original_value": "Herbalism",
+                "Wikidata_ID": "Q861699"
+            },
+            {
+                "originalKey": "cosmetics",
+                "original_value": "Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "modern",
+                "original_value": "Modern history",
+                "Wikidata_ID": "Q3281534"
+            },
+            {
+                "originalKey": "green economy",
+                "original_value": "Green economy",
+                "Wikidata_ID": "Q598188"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "leaves",
+                "original_value": "Leaf",
+                "Wikidata_ID": "Q33971"
+            },
+            {
+                "originalKey": "processed",
+                "original_value": "Food processing",
+                "Wikidata_ID": "Q627371"
+            },
+            {
+                "originalKey": "juices",
+                "original_value": "Juice",
+                "Wikidata_ID": "Q8492"
+            },
+            {
+                "originalKey": "foods",
+                "original_value": "Food",
+                "Wikidata_ID": "Q2095"
+            },
+            {
+                "originalKey": "gels",
+                "original_value": "Gel",
+                "Wikidata_ID": "Q185744"
+            },
+            {
+                "originalKey": "production",
+                "original_value": "Manufacturing",
+                "Wikidata_ID": "Q187939"
+            },
+            {
+                "originalKey": "natural fertilizers",
+                "original_value": "Compost",
+                "Wikidata_ID": "Q212254"
+            },
+            {
+                "originalKey": "byproduct",
+                "original_value": "By-product",
+                "Wikidata_ID": "Q1128255"
+            },
+            {
+                "originalKey": "compliments",
+                "original_value": "Compliments (album)",
+                "Wikidata_ID": "Q3095338"
+            },
+            {
+                "originalKey": "farming",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "industries",
+                "original_value": "Industry",
+                "Wikidata_ID": "Q257927"
+            },
+            {
+                "originalKey": "Research",
+                "original_value": "Research",
+                "Wikidata_ID": "Q42240"
+            },
+            {
+                "originalKey": "aromatic",
+                "original_value": "Essential oil",
+                "Wikidata_ID": "Q170885"
+            },
+            {
+                "originalKey": "medicinal plants",
+                "original_value": "Herbalism",
+                "Wikidata_ID": "Q861699"
+            },
+            {
+                "originalKey": "food industry",
+                "original_value": "Food industry",
+                "Wikidata_ID": "Q540912"
+            },
+            {
+                "originalKey": "pharmaceutical",
+                "original_value": "Pharmaceutical drug",
+                "Wikidata_ID": "Q12140"
+            },
+            {
+                "originalKey": "nutraceuticals",
+                "original_value": "Nutraceutical",
+                "Wikidata_ID": "Q533025"
+            },
+            {
+                "originalKey": "societies",
+                "original_value": "Society",
+                "Wikidata_ID": "Q8425"
+            },
+            {
+                "originalKey": "juice",
+                "original_value": "Juice",
+                "Wikidata_ID": "Q8492"
+            },
+            {
+                "originalKey": "specific",
+                "original_value": "Enzyme",
+                "Wikidata_ID": "Q8047"
+            },
+            {
+                "originalKey": "medical conditions",
+                "original_value": "Disease",
+                "Wikidata_ID": "Q12136"
+            },
+            {
+                "originalKey": "diets",
+                "original_value": "Diet (nutrition)",
+                "Wikidata_ID": "Q474191"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "products",
+                "original_value": "Product (business)",
+                "Wikidata_ID": "Q2424752"
+            },
+            {
+                "originalKey": "processes",
+                "original_value": "Systems engineering",
+                "Wikidata_ID": "Q682496"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "land use",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "systems",
+                "original_value": "System",
+                "Wikidata_ID": "Q58778"
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Arable land",
+                "Wikidata_ID": "Q843920"
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Nature",
+                "Wikidata_ID": "Q7860"
+            },
+            {
+                "originalKey": "local",
+                "original_value": "Local food",
+                "Wikidata_ID": "Q2674120"
+            },
+            {
+                "originalKey": "assets",
+                "original_value": "Asset",
+                "Wikidata_ID": "Q46737"
+            },
+            {
+                "originalKey": "social",
+                "original_value": "Social",
+                "Wikidata_ID": "Q345367"
+            },
+            {
+                "originalKey": "cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "may",
+                "original_value": "Greek legislative election, May 2012",
+                "Wikidata_ID": "Q429958"
+            },
+            {
+                "originalKey": "interest",
+                "original_value": "Interest",
+                "Wikidata_ID": "Q170924"
+            },
+            {
+                "originalKey": "MRLs",
+                "original_value": "Multiple rocket launcher",
+                "Wikidata_ID": "Q506219"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Andalusia",
+                "original_value": "Al-Andalus",
+                "Wikidata_ID": "Q123559"
+            },
+            {
+                "originalKey": "Spain",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "European",
+                "original_value": "European Union",
+                "Wikidata_ID": "Q458"
+            },
+            {
+                "originalKey": "consumers",
+                "original_value": "Consumer",
+                "Wikidata_ID": "Q22855"
+            },
+            {
+                "originalKey": "nutritional supplements",
+                "original_value": "Dietary supplement",
+                "Wikidata_ID": "Q645858"
+            },
+            {
+                "originalKey": "health",
+                "original_value": "Health",
+                "Wikidata_ID": "Q12147"
+            },
+            {
+                "originalKey": "products",
+                "original_value": "Product (business)",
+                "Wikidata_ID": "Q2424752"
+            },
+            {
+                "originalKey": "well",
+                "original_value": "Water well",
+                "Wikidata_ID": "Q43483"
+            }
+        ]
+    }
+]

@@ -1,0 +1,414 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "UK",
+                "original_value": "United Kingdom",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "Deer",
+                "original_value": "Deer",
+                "Wikidata_ID": "Q23390"
+            },
+            {
+                "originalKey": "Deer hunting",
+                "original_value": "Deer hunting",
+                "Wikidata_ID": "Q1025479"
+            },
+            {
+                "originalKey": "stalking",
+                "original_value": "Stalking",
+                "Wikidata_ID": "Q163942"
+            },
+            {
+                "originalKey": "tourist",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "the Highlands",
+                "original_value": "Scottish Highlands",
+                "Wikidata_ID": "Q106652"
+            },
+            {
+                "originalKey": "Highlands and Islands",
+                "original_value": "Highlands and Islands",
+                "Wikidata_ID": "Q729025"
+            },
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "mountain hares",
+                "original_value": "Mountain hare",
+                "Wikidata_ID": "Q180035"
+            },
+            {
+                "originalKey": "Perth",
+                "original_value": "Perth",
+                "Wikidata_ID": "Q3183"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "Blair Atholl",
+                "original_value": "Blair Atholl",
+                "Wikidata_ID": "Q881156"
+            },
+            {
+                "originalKey": "Glen Lyon",
+                "original_value": "Glen Lyon",
+                "Wikidata_ID": "Q2451934"
+            },
+            {
+                "originalKey": "Lyon",
+                "original_value": "Lyon",
+                "Wikidata_ID": "Q456"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Eastern Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "Perth",
+                "original_value": "Perth",
+                "Wikidata_ID": "Q3183"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "Kinross",
+                "original_value": "Kinross",
+                "Wikidata_ID": "Q781885"
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "central belt",
+                "original_value": "Central Belt",
+                "Wikidata_ID": "Q1053720"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "game",
+                "original_value": "Hunting",
+                "Wikidata_ID": "Q36963"
+            },
+            {
+                "originalKey": "Scottish",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "Deer",
+                "original_value": "Deer",
+                "Wikidata_ID": "Q23390"
+            },
+            {
+                "originalKey": "Deer stalking",
+                "original_value": "Deer stalking",
+                "Wikidata_ID": "Q16249440"
+            },
+            {
+                "originalKey": "industry",
+                "original_value": "Industrial Revolution",
+                "Wikidata_ID": "Q2269"
+            },
+            {
+                "originalKey": "gorse",
+                "original_value": "Ulex",
+                "Wikidata_ID": "Q393278"
+            },
+            {
+                "originalKey": "heather",
+                "original_value": "Calluna",
+                "Wikidata_ID": "Q6983007"
+            },
+            {
+                "originalKey": "hares",
+                "original_value": "Hare",
+                "Wikidata_ID": "Q46076"
+            },
+            {
+                "originalKey": "Perth",
+                "original_value": "Perth",
+                "Wikidata_ID": "Q3183"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "Atholl",
+                "original_value": "Atholl",
+                "Wikidata_ID": "Q331254"
+            },
+            {
+                "originalKey": "camera traps",
+                "original_value": "Camera trap",
+                "Wikidata_ID": "Q1723004"
+            },
+            {
+                "originalKey": "Blair Atholl",
+                "original_value": "Blair Atholl",
+                "Wikidata_ID": "Q881156"
+            },
+            {
+                "originalKey": "Glen Lyon",
+                "original_value": "Glen Lyon",
+                "Wikidata_ID": "Q2451934"
+            },
+            {
+                "originalKey": "Lyon",
+                "original_value": "Lyon",
+                "Wikidata_ID": "Q456"
+            },
+            {
+                "originalKey": "sheep",
+                "original_value": "Sheep",
+                "Wikidata_ID": "Q7368"
+            },
+            {
+                "originalKey": "bird",
+                "original_value": "Bird",
+                "Wikidata_ID": "Q5113"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "deer",
+                "original_value": "Deer",
+                "Wikidata_ID": "Q23390"
+            },
+            {
+                "originalKey": "grouse",
+                "original_value": "Grouse",
+                "Wikidata_ID": "Q201240"
+            },
+            {
+                "originalKey": "stalking",
+                "original_value": "Deer stalking",
+                "Wikidata_ID": "Q16249440"
+            },
+            {
+                "originalKey": "hikers",
+                "original_value": "Hiking",
+                "Wikidata_ID": "Q12014035"
+            },
+            {
+                "originalKey": "game",
+                "original_value": "Hunting",
+                "Wikidata_ID": "Q36963"
+            },
+            {
+                "originalKey": "habitat",
+                "original_value": "Habitat",
+                "Wikidata_ID": "Q52105"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "agricultural",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "sheep",
+                "original_value": "Sheep",
+                "Wikidata_ID": "Q7368"
+            },
+            {
+                "originalKey": "hillwalking",
+                "original_value": "Walking in the United Kingdom",
+                "Wikidata_ID": "Q11347618"
+            },
+            {
+                "originalKey": "culling",
+                "original_value": "Culling",
+                "Wikidata_ID": "Q1740042"
+            },
+            {
+                "originalKey": "mountain hares",
+                "original_value": "Mountain hare",
+                "Wikidata_ID": "Q180035"
+            },
+            {
+                "originalKey": "gorse",
+                "original_value": "Ulex",
+                "Wikidata_ID": "Q393278"
+            },
+            {
+                "originalKey": "deer",
+                "original_value": "Venison",
+                "Wikidata_ID": "Q2296872"
+            },
+            {
+                "originalKey": "grouse",
+                "original_value": "Grouse",
+                "Wikidata_ID": "Q201240"
+            },
+            {
+                "originalKey": "grouse shooting",
+                "original_value": "Driven grouse shooting",
+                "Wikidata_ID": "Q5307967"
+            },
+            {
+                "originalKey": "raptors",
+                "original_value": "Bird of prey",
+                "Wikidata_ID": "Q48428"
+            },
+            {
+                "originalKey": "overgrazing",
+                "original_value": "Overgrazing",
+                "Wikidata_ID": "Q334487"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "deer",
+                "original_value": "Deer",
+                "Wikidata_ID": "Q23390"
+            },
+            {
+                "originalKey": "drones",
+                "original_value": "Unmanned aerial vehicle",
+                "Wikidata_ID": "Q484000"
+            },
+            {
+                "originalKey": "camera traps",
+                "original_value": "Camera trap",
+                "Wikidata_ID": "Q1723004"
+            },
+            {
+                "originalKey": "GPS",
+                "original_value": "Global Positioning System",
+                "Wikidata_ID": "Q18822"
+            },
+            {
+                "originalKey": "thermal imaging",
+                "original_value": "Thermography",
+                "Wikidata_ID": "Q624587"
+            },
+            {
+                "originalKey": "systems",
+                "original_value": "Computer",
+                "Wikidata_ID": "Q68"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Deer stalking",
+                "original_value": "Deer stalking",
+                "Wikidata_ID": "Q16249440"
+            },
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            },
+            {
+                "originalKey": "Aberdeenshire",
+                "original_value": "Aberdeenshire",
+                "Wikidata_ID": "Q189912"
+            },
+            {
+                "originalKey": "North West",
+                "original_value": "North West England",
+                "Wikidata_ID": "Q47967"
+            },
+            {
+                "originalKey": "England",
+                "original_value": "England",
+                "Wikidata_ID": "Q21"
+            },
+            {
+                "originalKey": "NUTS3",
+                "original_value": "Nomenclature of Territorial Units for Statistics",
+                "Wikidata_ID": "Q193083"
+            }
+        ]
+    }
+]

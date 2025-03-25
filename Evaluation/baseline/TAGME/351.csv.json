@@ -1,0 +1,1566 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "original_value": "Motion (physics)",
+                "Wikidata_ID": "Q79782"
+            },
+            {
+                "originalKey": "reference",
+                "original_value": "Library",
+                "Wikidata_ID": "Q7075"
+            },
+            {
+                "originalKey": "member state",
+                "original_value": "Member state of the European Union",
+                "Wikidata_ID": "Q185441"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "SPAIN",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "Card",
+                "original_value": "Credit card",
+                "Wikidata_ID": "Q161380"
+            },
+            {
+                "originalKey": "ID",
+                "original_value": "Id, ego and super-ego",
+                "Wikidata_ID": "Q486893"
+            },
+            {
+                "originalKey": "ES",
+                "original_value": "Spanish language",
+                "Wikidata_ID": "Q1321"
+            },
+            {
+                "originalKey": "combines",
+                "original_value": "Combine harvester",
+                "Wikidata_ID": "Q26886"
+            },
+            {
+                "originalKey": "public",
+                "original_value": "Public sector",
+                "Wikidata_ID": "Q294217"
+            },
+            {
+                "originalKey": "public, private",
+                "original_value": "Public–private partnership",
+                "Wikidata_ID": "Q221096"
+            },
+            {
+                "originalKey": "private",
+                "original_value": "Private sector",
+                "Wikidata_ID": "Q591763"
+            },
+            {
+                "originalKey": "social",
+                "original_value": "Social science",
+                "Wikidata_ID": "Q34749"
+            },
+            {
+                "originalKey": "resources",
+                "original_value": "Natural resource",
+                "Wikidata_ID": "Q188460"
+            },
+            {
+                "originalKey": "mixed",
+                "original_value": "Multiracial",
+                "Wikidata_ID": "Q1378555"
+            },
+            {
+                "originalKey": "governance",
+                "original_value": "Government",
+                "Wikidata_ID": "Q7188"
+            },
+            {
+                "originalKey": "system",
+                "original_value": "Computer",
+                "Wikidata_ID": "Q68"
+            },
+            {
+                "originalKey": "elderly",
+                "original_value": "Old age",
+                "Wikidata_ID": "Q191089"
+            },
+            {
+                "originalKey": "elderly people",
+                "original_value": "Old age",
+                "Wikidata_ID": "Q191089"
+            },
+            {
+                "originalKey": "local",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "immigrant",
+                "original_value": "Immigration",
+                "Wikidata_ID": "Q131288"
+            },
+            {
+                "originalKey": "women who work",
+                "original_value": "Women Who Work",
+                "Wikidata_ID": "Q29998633"
+            },
+            {
+                "originalKey": "the chain",
+                "original_value": "The Chain (Buffy comic)",
+                "Wikidata_ID": "Q943678"
+            },
+            {
+                "originalKey": "stay",
+                "original_value": "Stay (Rihanna song)",
+                "Wikidata_ID": "Q248210"
+            },
+            {
+                "originalKey": "territory",
+                "original_value": "Territories of the United States",
+                "Wikidata_ID": "Q1352230"
+            },
+            {
+                "originalKey": "first time",
+                "original_value": "Precedent",
+                "Wikidata_ID": "Q665141"
+            },
+            {
+                "originalKey": "time",
+                "original_value": "Time",
+                "Wikidata_ID": "Q11471"
+            },
+            {
+                "originalKey": "professionalise",
+                "original_value": "Professionalization",
+                "Wikidata_ID": "Q355523"
+            },
+            {
+                "originalKey": "sector",
+                "original_value": "Economic sector",
+                "Wikidata_ID": "Q3958441"
+            },
+            {
+                "originalKey": "generating",
+                "original_value": "Electricity generation",
+                "Wikidata_ID": "Q383973"
+            },
+            {
+                "originalKey": "tangible",
+                "original_value": "Tangible property",
+                "Wikidata_ID": "Q7682959"
+            },
+            {
+                "originalKey": "intangible",
+                "original_value": "Intangible asset",
+                "Wikidata_ID": "Q427581"
+            },
+            {
+                "originalKey": "individual",
+                "original_value": "Individual",
+                "Wikidata_ID": "Q795052"
+            },
+            {
+                "originalKey": "collective",
+                "original_value": "Collectivism",
+                "Wikidata_ID": "Q4430243"
+            },
+            {
+                "originalKey": "value",
+                "original_value": "Value (economics)",
+                "Wikidata_ID": "Q868257"
+            },
+            {
+                "originalKey": "quality",
+                "original_value": "Quality (business)",
+                "Wikidata_ID": "Q185957"
+            },
+            {
+                "originalKey": "cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            },
+            {
+                "originalKey": "participatory",
+                "original_value": "Participation (decision making)",
+                "Wikidata_ID": "Q1773152"
+            },
+            {
+                "originalKey": "social cohesion",
+                "original_value": "Group cohesiveness",
+                "Wikidata_ID": "Q553270"
+            },
+            {
+                "originalKey": "aspects",
+                "original_value": "Grammatical aspect",
+                "Wikidata_ID": "Q208084"
+            },
+            {
+                "originalKey": "municipality",
+                "original_value": "Municipality",
+                "Wikidata_ID": "Q15284"
+            },
+            {
+                "originalKey": "relevance",
+                "original_value": "Relevance",
+                "Wikidata_ID": "Q1074648"
+            },
+            {
+                "originalKey": "together",
+                "original_value": "Together (The New Pornographers album)",
+                "Wikidata_ID": "Q7813077"
+            },
+            {
+                "originalKey": "health, care",
+                "original_value": "Health care",
+                "Wikidata_ID": "Q31207"
+            },
+            {
+                "originalKey": "family",
+                "original_value": "Family",
+                "Wikidata_ID": "Q8436"
+            },
+            {
+                "originalKey": "present",
+                "original_value": "Gift",
+                "Wikidata_ID": "Q184303"
+            },
+            {
+                "originalKey": "field",
+                "original_value": "Discipline (academia)",
+                "Wikidata_ID": "Q11862829"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "reference",
+                "original_value": "Library",
+                "Wikidata_ID": "Q7075"
+            },
+            {
+                "originalKey": "mountain chain",
+                "original_value": "Mountain range",
+                "Wikidata_ID": "Q46831"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Betic",
+                "original_value": "Betic corridor",
+                "Wikidata_ID": "Q4898130"
+            },
+            {
+                "originalKey": "System",
+                "original_value": "Computer",
+                "Wikidata_ID": "Q68"
+            },
+            {
+                "originalKey": "landscape",
+                "original_value": "Landscape architecture",
+                "Wikidata_ID": "Q47844"
+            },
+            {
+                "originalKey": "Carcabuey",
+                "original_value": "Carcabuey",
+                "Wikidata_ID": "Q842679"
+            },
+            {
+                "originalKey": "Sierra",
+                "original_value": "Sierra Nevada (U.S.)",
+                "Wikidata_ID": "Q26777"
+            },
+            {
+                "originalKey": "extension",
+                "original_value": "Continuing education",
+                "Wikidata_ID": "Q828748"
+            },
+            {
+                "originalKey": "Natural Park",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            },
+            {
+                "originalKey": "economy",
+                "original_value": "Economy",
+                "Wikidata_ID": "Q159810"
+            },
+            {
+                "originalKey": "olive",
+                "original_value": "Olive",
+                "Wikidata_ID": "Q37083"
+            },
+            {
+                "originalKey": "olive growing",
+                "original_value": "Olive",
+                "Wikidata_ID": "Q37083"
+            },
+            {
+                "originalKey": "high",
+                "original_value": "High Middle Ages",
+                "Wikidata_ID": "Q212685"
+            },
+            {
+                "originalKey": "seasonality",
+                "original_value": "Seasonality",
+                "Wikidata_ID": "Q2111082"
+            },
+            {
+                "originalKey": "employment",
+                "original_value": "Employment",
+                "Wikidata_ID": "Q656365"
+            },
+            {
+                "originalKey": "suffers",
+                "original_value": "Suffering",
+                "Wikidata_ID": "Q5780945"
+            },
+            {
+                "originalKey": "process",
+                "original_value": "Systems engineering",
+                "Wikidata_ID": "Q682496"
+            },
+            {
+                "originalKey": "depopulation",
+                "original_value": "Population decline",
+                "Wikidata_ID": "Q284137"
+            },
+            {
+                "originalKey": "trend",
+                "original_value": "Bandwagon effect",
+                "Wikidata_ID": "Q955199"
+            },
+            {
+                "originalKey": "aging",
+                "original_value": "Ageing",
+                "Wikidata_ID": "Q332154"
+            },
+            {
+                "originalKey": "quarter",
+                "original_value": "Fiscal year",
+                "Wikidata_ID": "Q191891"
+            },
+            {
+                "originalKey": "old",
+                "original_value": "Old Testament",
+                "Wikidata_ID": "Q19786"
+            },
+            {
+                "originalKey": "exodus",
+                "original_value": "Emigration",
+                "Wikidata_ID": "Q187668"
+            },
+            {
+                "originalKey": "younger",
+                "original_value": "Pliny the Younger",
+                "Wikidata_ID": "Q168707"
+            },
+            {
+                "originalKey": "engaged",
+                "original_value": "Engagement",
+                "Wikidata_ID": "Q157512"
+            },
+            {
+                "originalKey": "agriculture",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "other hand",
+                "original_value": "On the Other Hand",
+                "Wikidata_ID": "Q7091449"
+            },
+            {
+                "originalKey": "hand",
+                "original_value": "Hand",
+                "Wikidata_ID": "Q33767"
+            },
+            {
+                "originalKey": "cohesive",
+                "original_value": "Group cohesiveness",
+                "Wikidata_ID": "Q553270"
+            },
+            {
+                "originalKey": "society",
+                "original_value": "Society",
+                "Wikidata_ID": "Q8425"
+            },
+            {
+                "originalKey": "strong",
+                "original_value": "Base (chemistry)",
+                "Wikidata_ID": "Q11193"
+            },
+            {
+                "originalKey": "intergenerational",
+                "original_value": "Intergenerationality",
+                "Wikidata_ID": "Q50807067"
+            },
+            {
+                "originalKey": "local culture",
+                "original_value": "Culture of Romania",
+                "Wikidata_ID": "Q1972914"
+            },
+            {
+                "originalKey": "idiosyncrasy",
+                "original_value": "Idiosyncrasy",
+                "Wikidata_ID": "Q171841"
+            },
+            {
+                "originalKey": "participatory",
+                "original_value": "Participation (decision making)",
+                "Wikidata_ID": "Q1773152"
+            },
+            {
+                "originalKey": "character",
+                "original_value": "Phenotypic trait",
+                "Wikidata_ID": "Q1211967"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "minimum",
+                "original_value": "Maxima and minima",
+                "Wikidata_ID": "Q845060"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Terrain",
+                "Wikidata_ID": "Q186131"
+            },
+            {
+                "originalKey": "the LAU",
+                "original_value": "Thé Lau",
+                "Wikidata_ID": "Q2342194"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "maximum",
+                "original_value": "Maxima and minima",
+                "Wikidata_ID": "Q845060"
+            },
+            {
+                "originalKey": "total",
+                "original_value": "Total order",
+                "Wikidata_ID": "Q369377"
+            },
+            {
+                "originalKey": "is 2",
+                "original_value": "IS tank family",
+                "Wikidata_ID": "Q779903"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "Inhabitants",
+                "original_value": "Residency (domicile)",
+                "Wikidata_ID": "Q2641256"
+            },
+            {
+                "originalKey": "population change",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            },
+            {
+                "originalKey": "rate",
+                "original_value": "Derivative",
+                "Wikidata_ID": "Q29175"
+            },
+            {
+                "originalKey": "last",
+                "original_value": "Last (unit)",
+                "Wikidata_ID": "Q335897"
+            },
+            {
+                "originalKey": "10 years",
+                "original_value": "Anniversary",
+                "Wikidata_ID": "Q1062856"
+            },
+            {
+                "originalKey": "overall",
+                "original_value": "Overall",
+                "Wikidata_ID": "Q13383825"
+            },
+            {
+                "originalKey": "regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average",
+                "original_value": "Weighted arithmetic mean",
+                "Wikidata_ID": "Q729113"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "total",
+                "original_value": "Total S.A.",
+                "Wikidata_ID": "Q154037"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "GVA",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "million",
+                "original_value": "Million",
+                "Wikidata_ID": "Q38526"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "is 10",
+                "original_value": "T-10 tank",
+                "Wikidata_ID": "Q1134419"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "EUR",
+                "original_value": "Euro",
+                "Wikidata_ID": "Q4916"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "million",
+                "original_value": "Million",
+                "Wikidata_ID": "Q38526"
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "is 6",
+                "original_value": "IS tank family",
+                "Wikidata_ID": "Q779903"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total",
+                "original_value": "Total S.A.",
+                "Wikidata_ID": "Q154037"
+            },
+            {
+                "originalKey": "number",
+                "original_value": "Continent",
+                "Wikidata_ID": "Q5107"
+            },
+            {
+                "originalKey": "bed",
+                "original_value": "Bed",
+                "Wikidata_ID": "Q42177"
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Basis point",
+                "Wikidata_ID": "Q750178"
+            },
+            {
+                "originalKey": "tourist",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "accommodations",
+                "original_value": "Lodging",
+                "Wikidata_ID": "Q5056668"
+            },
+            {
+                "originalKey": "the LAU",
+                "original_value": "Thé Lau",
+                "Wikidata_ID": "Q2342194"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "regional",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "agricultural",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "settlement",
+                "original_value": "Human settlement",
+                "Wikidata_ID": "Q486972"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "World population",
+                "Wikidata_ID": "Q11188"
+            },
+            {
+                "originalKey": "km",
+                "original_value": "Kilometre",
+                "Wikidata_ID": "Q828224"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            },
+            {
+                "originalKey": "present",
+                "original_value": "Holocene",
+                "Wikidata_ID": "Q25445"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector of the economy",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "share",
+                "original_value": "Stock",
+                "Wikidata_ID": "Q1196314"
+            },
+            {
+                "originalKey": "total employment",
+                "original_value": "Full employment",
+                "Wikidata_ID": "Q384136"
+            },
+            {
+                "originalKey": "employment",
+                "original_value": "Employment",
+                "Wikidata_ID": "Q656365"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "context",
+                "original_value": "Context (language use)",
+                "Wikidata_ID": "Q196626"
+            },
+            {
+                "originalKey": "ageing population",
+                "original_value": "Population ageing",
+                "Wikidata_ID": "Q439112"
+            },
+            {
+                "originalKey": "care of the elderly",
+                "original_value": "Elderly care",
+                "Wikidata_ID": "Q437458"
+            },
+            {
+                "originalKey": "economic",
+                "original_value": "Economy",
+                "Wikidata_ID": "Q159810"
+            },
+            {
+                "originalKey": "economic activity",
+                "original_value": "Economics",
+                "Wikidata_ID": "Q8134"
+            },
+            {
+                "originalKey": "local",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "peculiarities",
+                "original_value": "Idiosyncrasy",
+                "Wikidata_ID": "Q171841"
+            },
+            {
+                "originalKey": "case",
+                "original_value": "Precedent",
+                "Wikidata_ID": "Q665141"
+            },
+            {
+                "originalKey": "perception",
+                "original_value": "Perception",
+                "Wikidata_ID": "Q160402"
+            },
+            {
+                "originalKey": "high",
+                "original_value": "High culture",
+                "Wikidata_ID": "Q1479257"
+            },
+            {
+                "originalKey": "quality",
+                "original_value": "Quality (philosophy)",
+                "Wikidata_ID": "Q1207505"
+            },
+            {
+                "originalKey": "specific",
+                "original_value": "Sensitivity and specificity",
+                "Wikidata_ID": "Q3808900"
+            },
+            {
+                "originalKey": "relevance",
+                "original_value": "Relevance",
+                "Wikidata_ID": "Q1074648"
+            },
+            {
+                "originalKey": "ageing",
+                "original_value": "Ageing",
+                "Wikidata_ID": "Q332154"
+            },
+            {
+                "originalKey": "depopulation",
+                "original_value": "Population decline",
+                "Wikidata_ID": "Q284137"
+            },
+            {
+                "originalKey": "mountain",
+                "original_value": "Mountain",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "centres",
+                "original_value": "Rugby union positions",
+                "Wikidata_ID": "Q6583019"
+            },
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "interaction",
+                "original_value": "Social relation",
+                "Wikidata_ID": "Q853725"
+            },
+            {
+                "originalKey": "environment",
+                "original_value": "Natural environment",
+                "Wikidata_ID": "Q43619"
+            },
+            {
+                "originalKey": "territorial",
+                "original_value": "Territory (animal)",
+                "Wikidata_ID": "Q917215"
+            },
+            {
+                "originalKey": "identity",
+                "original_value": "Identity (social science)",
+                "Wikidata_ID": "Q844569"
+            },
+            {
+                "originalKey": "survival",
+                "original_value": "Life",
+                "Wikidata_ID": "Q3"
+            },
+            {
+                "originalKey": "intergenerational",
+                "original_value": "Intergenerationality",
+                "Wikidata_ID": "Q50807067"
+            },
+            {
+                "originalKey": "social cohesion",
+                "original_value": "Group cohesiveness",
+                "Wikidata_ID": "Q553270"
+            },
+            {
+                "originalKey": "Private",
+                "original_value": "Private sector",
+                "Wikidata_ID": "Q591763"
+            },
+            {
+                "originalKey": "care",
+                "original_value": "Health care",
+                "Wikidata_ID": "Q31207"
+            },
+            {
+                "originalKey": "company",
+                "original_value": "Company",
+                "Wikidata_ID": "Q783794"
+            },
+            {
+                "originalKey": "hires",
+                "original_value": "Image resolution",
+                "Wikidata_ID": "Q210521"
+            },
+            {
+                "originalKey": "local",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "women",
+                "original_value": "Woman",
+                "Wikidata_ID": "Q467"
+            },
+            {
+                "originalKey": "professionalise",
+                "original_value": "Professionalization",
+                "Wikidata_ID": "Q355523"
+            },
+            {
+                "originalKey": "activity",
+                "original_value": "Physical exercise",
+                "Wikidata_ID": "Q219067"
+            },
+            {
+                "originalKey": "Professionalisation",
+                "original_value": "Professionalization",
+                "Wikidata_ID": "Q355523"
+            },
+            {
+                "originalKey": "certificates",
+                "original_value": "Professional certification",
+                "Wikidata_ID": "Q16023913"
+            },
+            {
+                "originalKey": "professionalism",
+                "original_value": "Professional",
+                "Wikidata_ID": "Q702269"
+            },
+            {
+                "originalKey": "experience",
+                "original_value": "Experience",
+                "Wikidata_ID": "Q164359"
+            },
+            {
+                "originalKey": "informal sector",
+                "original_value": "Informal sector",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "female",
+                "original_value": "Woman",
+                "Wikidata_ID": "Q467"
+            },
+            {
+                "originalKey": "linked",
+                "original_value": "LinkedIn",
+                "Wikidata_ID": "Q213660"
+            },
+            {
+                "originalKey": "informal economy",
+                "original_value": "Informal sector",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "World population",
+                "Wikidata_ID": "Q11188"
+            },
+            {
+                "originalKey": "attraction",
+                "original_value": "Tourist attraction",
+                "Wikidata_ID": "Q570116"
+            },
+            {
+                "originalKey": "immigrant",
+                "original_value": "Immigration",
+                "Wikidata_ID": "Q131288"
+            },
+            {
+                "originalKey": "informal sector",
+                "original_value": "Informal sector",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "value chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "scale",
+                "original_value": "Economies of scale",
+                "Wikidata_ID": "Q5970087"
+            },
+            {
+                "originalKey": "multilevel governance",
+                "original_value": "Multi-level governance",
+                "Wikidata_ID": "Q1459305"
+            },
+            {
+                "originalKey": "system",
+                "original_value": "System",
+                "Wikidata_ID": "Q58778"
+            },
+            {
+                "originalKey": "proximity",
+                "original_value": "Proxemics",
+                "Wikidata_ID": "Q171755"
+            },
+            {
+                "originalKey": "interaction",
+                "original_value": "Social relation",
+                "Wikidata_ID": "Q853725"
+            },
+            {
+                "originalKey": "actors",
+                "original_value": "Actor–network theory",
+                "Wikidata_ID": "Q421953"
+            },
+            {
+                "originalKey": "structuring",
+                "original_value": "Structuring",
+                "Wikidata_ID": "Q381442"
+            },
+            {
+                "originalKey": "coordinate",
+                "original_value": "Coordinate system",
+                "Wikidata_ID": "Q11210"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "residence",
+                "original_value": "House",
+                "Wikidata_ID": "Q3947"
+            },
+            {
+                "originalKey": "elderly",
+                "original_value": "Old age",
+                "Wikidata_ID": "Q191089"
+            },
+            {
+                "originalKey": "managed",
+                "original_value": "Management",
+                "Wikidata_ID": "Q2920921"
+            },
+            {
+                "originalKey": "private company",
+                "original_value": "Privately held company",
+                "Wikidata_ID": "Q1589009"
+            },
+            {
+                "originalKey": "PROMI",
+                "original_value": "Reich Ministry of Public Enlightenment and Propaganda",
+                "Wikidata_ID": "Q158689"
+            },
+            {
+                "originalKey": "Active",
+                "original_value": "Activism",
+                "Wikidata_ID": "Q203764"
+            },
+            {
+                "originalKey": "participation",
+                "original_value": "Participatory democracy",
+                "Wikidata_ID": "Q310988"
+            },
+            {
+                "originalKey": "centre",
+                "original_value": "Centrism",
+                "Wikidata_ID": "Q6587194"
+            },
+            {
+                "originalKey": "Dependency",
+                "original_value": "Substance dependence",
+                "Wikidata_ID": "Q3378593"
+            },
+            {
+                "originalKey": "municipality",
+                "original_value": "Municipality",
+                "Wikidata_ID": "Q15284"
+            },
+            {
+                "originalKey": "Emergency",
+                "original_value": "Emergency",
+                "Wikidata_ID": "Q5070802"
+            },
+            {
+                "originalKey": "carers",
+                "original_value": "Caregiver",
+                "Wikidata_ID": "Q553079"
+            },
+            {
+                "originalKey": "service",
+                "original_value": "Service (economics)",
+                "Wikidata_ID": "Q7406919"
+            },
+            {
+                "originalKey": "Provincial Council",
+                "original_value": "States-Provincial",
+                "Wikidata_ID": "Q2097101"
+            },
+            {
+                "originalKey": "framework",
+                "original_value": "Bologna Process",
+                "Wikidata_ID": "Q187073"
+            },
+            {
+                "originalKey": "informal economy",
+                "original_value": "Informal sector",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "civil society",
+                "original_value": "Civil society",
+                "Wikidata_ID": "Q181865"
+            },
+            {
+                "originalKey": "groups",
+                "original_value": "Social group",
+                "Wikidata_ID": "Q874405"
+            },
+            {
+                "originalKey": "associations",
+                "original_value": "Voluntary association",
+                "Wikidata_ID": "Q48204"
+            },
+            {
+                "originalKey": "Neighbourhood",
+                "original_value": "Neighbourhood",
+                "Wikidata_ID": "Q123705"
+            },
+            {
+                "originalKey": "mutual aid",
+                "original_value": "Mutualism (economic theory)",
+                "Wikidata_ID": "Q844212"
+            },
+            {
+                "originalKey": "Older people",
+                "original_value": "Old age",
+                "Wikidata_ID": "Q191089"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Ageing population",
+                "original_value": "Population ageing",
+                "Wikidata_ID": "Q439112"
+            },
+            {
+                "originalKey": "total",
+                "original_value": "Total S.A.",
+                "Wikidata_ID": "Q154037"
+            },
+            {
+                "originalKey": "negative",
+                "original_value": "Negative and positive rights",
+                "Wikidata_ID": "Q3519619"
+            },
+            {
+                "originalKey": "replacement rate",
+                "original_value": "Total fertility rate",
+                "Wikidata_ID": "Q285897"
+            },
+            {
+                "originalKey": "depopulation",
+                "original_value": "Population decline",
+                "Wikidata_ID": "Q284137"
+            },
+            {
+                "originalKey": "exodus",
+                "original_value": "Emigration",
+                "Wikidata_ID": "Q187668"
+            },
+            {
+                "originalKey": "young",
+                "original_value": "Youth",
+                "Wikidata_ID": "Q190007"
+            },
+            {
+                "originalKey": "descent",
+                "original_value": "Kinship",
+                "Wikidata_ID": "Q171318"
+            },
+            {
+                "originalKey": "10 years",
+                "original_value": "Anniversary",
+                "Wikidata_ID": "Q1062856"
+            },
+            {
+                "originalKey": "public resources",
+                "original_value": "Public service",
+                "Wikidata_ID": "Q161837"
+            },
+            {
+                "originalKey": "do",
+                "original_value": "Doctor of Osteopathic Medicine",
+                "Wikidata_ID": "Q5287521"
+            },
+            {
+                "originalKey": "cover",
+                "original_value": "Cover version",
+                "Wikidata_ID": "Q155171"
+            },
+            {
+                "originalKey": "informal economy",
+                "original_value": "Informal sector",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "professionalisation",
+                "original_value": "Professionalization",
+                "Wikidata_ID": "Q355523"
+            },
+            {
+                "originalKey": "process",
+                "original_value": "Systems engineering",
+                "Wikidata_ID": "Q682496"
+            },
+            {
+                "originalKey": "under development",
+                "original_value": "Development hell",
+                "Wikidata_ID": "Q2081312"
+            },
+            {
+                "originalKey": "development",
+                "original_value": "Economic development",
+                "Wikidata_ID": "Q4530482"
+            },
+            {
+                "originalKey": "but not",
+                "original_value": "For but not with",
+                "Wikidata_ID": "Q5467000"
+            },
+            {
+                "originalKey": "consolidated",
+                "original_value": "Consolidated city-county",
+                "Wikidata_ID": "Q3301053"
+            },
+            {
+                "originalKey": "female",
+                "original_value": "Woman",
+                "Wikidata_ID": "Q467"
+            },
+            {
+                "originalKey": "work",
+                "original_value": "Employment",
+                "Wikidata_ID": "Q656365"
+            },
+            {
+                "originalKey": "disappearance",
+                "original_value": "Forced disappearance",
+                "Wikidata_ID": "Q1288449"
+            },
+            {
+                "originalKey": "local",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "social",
+                "original_value": "Social science",
+                "Wikidata_ID": "Q34749"
+            },
+            {
+                "originalKey": "cultures",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            },
+            {
+                "originalKey": "small",
+                "original_value": "Small business",
+                "Wikidata_ID": "Q1109680"
+            },
+            {
+                "originalKey": "Sierra",
+                "original_value": "Sierra Club",
+                "Wikidata_ID": "Q508775"
+            },
+            {
+                "originalKey": "communities",
+                "original_value": "Community",
+                "Wikidata_ID": "Q177634"
+            },
+            {
+                "originalKey": "Overall",
+                "original_value": "Length overall",
+                "Wikidata_ID": "Q2358152"
+            },
+            {
+                "originalKey": "type",
+                "original_value": "Movable type",
+                "Wikidata_ID": "Q426853"
+            },
+            {
+                "originalKey": "challenge",
+                "original_value": "Challenge Records (1950s)",
+                "Wikidata_ID": "Q5068913"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Current",
+                "original_value": "Ocean current",
+                "Wikidata_ID": "Q129558"
+            },
+            {
+                "originalKey": "classified",
+                "original_value": "Classified information",
+                "Wikidata_ID": "Q846498"
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Tradition",
+                "Wikidata_ID": "Q82821"
+            },
+            {
+                "originalKey": "Innovative",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "type",
+                "original_value": "Movable type",
+                "Wikidata_ID": "Q426853"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogeny (biology)",
+                "Wikidata_ID": "Q285982"
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogeny",
+                "Wikidata_ID": "Q293000"
+            },
+            {
+                "originalKey": "Informal",
+                "original_value": "Informal sector",
+                "Wikidata_ID": "Q944235"
+            },
+            {
+                "originalKey": "traditional",
+                "original_value": "Tradition",
+                "Wikidata_ID": "Q82821"
+            },
+            {
+                "originalKey": "care",
+                "original_value": "Health care",
+                "Wikidata_ID": "Q31207"
+            },
+            {
+                "originalKey": "society",
+                "original_value": "Society",
+                "Wikidata_ID": "Q8425"
+            },
+            {
+                "originalKey": "survive",
+                "original_value": "Survival horror",
+                "Wikidata_ID": "Q333967"
+            },
+            {
+                "originalKey": "series",
+                "original_value": "Television program",
+                "Wikidata_ID": "Q15416"
+            },
+            {
+                "originalKey": "public services",
+                "original_value": "Public service",
+                "Wikidata_ID": "Q161837"
+            },
+            {
+                "originalKey": "developed",
+                "original_value": "Economic development",
+                "Wikidata_ID": "Q4530482"
+            },
+            {
+                "originalKey": "elderly",
+                "original_value": "Old age",
+                "Wikidata_ID": "Q191089"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "World population",
+                "Wikidata_ID": "Q11188"
+            },
+            {
+                "originalKey": "public-private partnerships",
+                "original_value": "Public–private partnership",
+                "Wikidata_ID": "Q221096"
+            },
+            {
+                "originalKey": "professionalised",
+                "original_value": "Professionalization",
+                "Wikidata_ID": "Q355523"
+            },
+            {
+                "originalKey": "mixed",
+                "original_value": "Multiracial",
+                "Wikidata_ID": "Q1378555"
+            },
+            {
+                "originalKey": "governance",
+                "original_value": "Government",
+                "Wikidata_ID": "Q7188"
+            },
+            {
+                "originalKey": "can",
+                "original_value": "Canadian dollar",
+                "Wikidata_ID": "Q1104069"
+            },
+            {
+                "originalKey": "systems",
+                "original_value": "System",
+                "Wikidata_ID": "Q58778"
+            },
+            {
+                "originalKey": "land use",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "urban space",
+                "original_value": "Urban area",
+                "Wikidata_ID": "Q702492"
+            },
+            {
+                "originalKey": "infrastructures",
+                "original_value": "Infrastructure",
+                "Wikidata_ID": "Q121359"
+            },
+            {
+                "originalKey": "local",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "assets",
+                "original_value": "Asset",
+                "Wikidata_ID": "Q46737"
+            },
+            {
+                "originalKey": "Social",
+                "original_value": "Social science",
+                "Wikidata_ID": "Q34749"
+            },
+            {
+                "originalKey": "cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "present",
+                "original_value": "Gift",
+                "Wikidata_ID": "Q184303"
+            },
+            {
+                "originalKey": "Sierra",
+                "original_value": "Sierra Club",
+                "Wikidata_ID": "Q508775"
+            },
+            {
+                "originalKey": "small communities",
+                "original_value": "List of villages in Gower",
+                "Wikidata_ID": "Q6644719"
+            },
+            {
+                "originalKey": "challenged",
+                "original_value": "Challenge (literature)",
+                "Wikidata_ID": "Q4942971"
+            },
+            {
+                "originalKey": "processes",
+                "original_value": "Systems engineering",
+                "Wikidata_ID": "Q682496"
+            },
+            {
+                "originalKey": "depopulation",
+                "original_value": "Population decline",
+                "Wikidata_ID": "Q284137"
+            },
+            {
+                "originalKey": "ageing",
+                "original_value": "Ageing",
+                "Wikidata_ID": "Q332154"
+            },
+            {
+                "originalKey": "risk",
+                "original_value": "Risk",
+                "Wikidata_ID": "Q104493"
+            },
+            {
+                "originalKey": "balances",
+                "original_value": "Weighing scale",
+                "Wikidata_ID": "Q134566"
+            },
+            {
+                "originalKey": "social cohesion",
+                "original_value": "Group cohesiveness",
+                "Wikidata_ID": "Q553270"
+            },
+            {
+                "originalKey": "availability",
+                "original_value": "Availability",
+                "Wikidata_ID": "Q384871"
+            },
+            {
+                "originalKey": "resources",
+                "original_value": "Resource",
+                "Wikidata_ID": "Q1554231"
+            }
+        ]
+    }
+]

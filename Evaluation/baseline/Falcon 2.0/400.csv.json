@@ -1,0 +1,506 @@
+[
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "reference mountain chain",
+                "original_value": "reference mountain chain",
+                "Wikidata_ID": "Q2624046"
+            },
+            {
+                "originalKey": "this VC",
+                "original_value": "this VC",
+                "Wikidata_ID": "Q42863"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "reference mountain landscape",
+                "original_value": "reference mountain landscape",
+                "Wikidata_ID": "Q20266891"
+            },
+            {
+                "originalKey": "this VC",
+                "original_value": "this VC",
+                "Wikidata_ID": "Q42863"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area (km2)",
+                "original_value": "area (km2)",
+                "Wikidata_ID": "Q1473106"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "minimum altimetry of the LAU (Local Administrative Unit)",
+                "original_value": "minimum altimetry of the LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q44651884"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "maximum altimetry of the LAU",
+                "original_value": "maximum altimetry of the LAU",
+                "Wikidata_ID": "Q57683176"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "original_value": "total population (in thousand)",
+                "Wikidata_ID": "Q15890448"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2) in the LAU",
+                "original_value": "population density (Inhabitants/km2) in the LAU",
+                "Wikidata_ID": "Q58857352"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "population change rate of the LAU",
+                "original_value": "population change rate of the LAU",
+                "Wikidata_ID": "Q59780962"
+            },
+            {
+                "originalKey": "10 years (%)",
+                "original_value": "10 years (%)",
+                "Wikidata_ID": "Q169119"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "original_value": "regional population change rate",
+                "Wikidata_ID": "Q33184491"
+            },
+            {
+                "originalKey": "10 years (%)",
+                "original_value": "10 years (%)",
+                "Wikidata_ID": "Q169119"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income (EUR/year) [Province]",
+                "original_value": "average per capita income (EUR/year) [Province]",
+                "Wikidata_ID": "Q35118417"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "primary sector share",
+                "Wikidata_ID": "Q56940325"
+            },
+            {
+                "originalKey": "total GVA/year [Province]",
+                "original_value": "total GVA/year [Province]",
+                "Wikidata_ID": "Q4660862"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "secondary sector share",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "total GVA/year [Province]",
+                "original_value": "total GVA/year [Province]",
+                "Wikidata_ID": "Q4660862"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "tertiary sector share",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "total GVA/year [Province]",
+                "original_value": "total GVA/year [Province]",
+                "Wikidata_ID": "Q4660862"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "capita income (EUR/year) [Region]",
+                "original_value": "capita income (EUR/year) [Region]",
+                "Wikidata_ID": "Q92631529"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "primary sector share",
+                "Wikidata_ID": "Q56940325"
+            },
+            {
+                "originalKey": "total GVA/year [Region]",
+                "original_value": "total GVA/year [Region]",
+                "Wikidata_ID": "Q8559447"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "secondary sector share",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "total GVA/year [Region]",
+                "original_value": "total GVA/year [Region]",
+                "Wikidata_ID": "Q8559447"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "tertiary sector share",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "total GVA/year [Region]",
+                "original_value": "total GVA/year [Region]",
+                "Wikidata_ID": "Q8559447"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bed places (BPs)",
+                "original_value": "bed places (BPs)",
+                "Wikidata_ID": "Q52617722"
+            },
+            {
+                "originalKey": "tourist accommodations/year in",
+                "original_value": "tourist accommodations/year in",
+                "Wikidata_ID": "Q94578386"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q15663836"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "regional (Region) share of total BPs/year",
+                "original_value": "regional (Region) share of total BPs/year",
+                "Wikidata_ID": "Q40622580"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "agricultural holdings in the LAU",
+                "original_value": "agricultural holdings in the LAU",
+                "Wikidata_ID": "Q95532251"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "nearest settlement",
+                "original_value": "nearest settlement",
+                "Wikidata_ID": "Q6984423"
+            },
+            {
+                "originalKey": "population over 100000 (km)",
+                "original_value": "population over 100000 (km)",
+                "Wikidata_ID": "Q46123112"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share",
+                "original_value": "primary sector share",
+                "Wikidata_ID": "Q56940325"
+            },
+            {
+                "originalKey": "total employment/year [Province]",
+                "original_value": "total employment/year [Province]",
+                "Wikidata_ID": "Q104710393"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "secondary sector share",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "total employment/year [Province]",
+                "original_value": "total employment/year [Province]",
+                "Wikidata_ID": "Q104710393"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "tertiary sector share",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "total employment/year [Province]",
+                "original_value": "total employment/year [Province]",
+                "Wikidata_ID": "Q104710393"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "primary sector share",
+                "Wikidata_ID": "Q56940325"
+            },
+            {
+                "originalKey": "total employment/year [Region]",
+                "original_value": "total employment/year [Region]",
+                "Wikidata_ID": "Q104710393"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "secondary sector share",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "total employment/year [Region]",
+                "original_value": "total employment/year [Region]",
+                "Wikidata_ID": "Q104710393"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "tertiary sector share",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "total employment/year [Region]",
+                "original_value": "total employment/year [Region]",
+                "Wikidata_ID": "Q104710393"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Maybe",
+                "original_value": "Maybe",
+                "Wikidata_ID": "Q11231151"
+            },
+            {
+                "originalKey": "veganism",
+                "original_value": "veganism",
+                "Wikidata_ID": "Q181138"
+            },
+            {
+                "originalKey": "overall the type of challenge",
+                "original_value": "overall the type of challenge",
+                "Wikidata_ID": "Q35823958"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "VC",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "VC",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "original_value": "Traditional and Innovative",
+                "Wikidata_ID": "Q104497877"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "innovation of this VC (Value Chain)",
+                "original_value": "innovation of this VC (Value Chain)",
+                "Wikidata_ID": "Q57608159"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous",
+                "Wikidata_ID": "Q60129869"
+            },
+            {
+                "originalKey": "transnational organisation with regional branches",
+                "original_value": "transnational organisation with regional branches",
+                "Wikidata_ID": "Q69411275"
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "farmers",
+                "Wikidata_ID": "Q22030572"
+            },
+            {
+                "originalKey": "old animal",
+                "original_value": "old animal",
+                "Wikidata_ID": "Q4764900"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "innovation",
+                "Wikidata_ID": "Q83032166"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "New marketing strategies",
+                "Wikidata_ID": "Q46343766"
+            },
+            {
+                "originalKey": "land use systems",
+                "original_value": "land use systems",
+                "Wikidata_ID": "Q837215"
+            },
+            {
+                "originalKey": "systems involved",
+                "original_value": "systems involved",
+                "Wikidata_ID": "Q29122833"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q5597558"
+            },
+            {
+                "originalKey": "local assets",
+                "original_value": "local assets",
+                "Wikidata_ID": "Q105693398"
+            },
+            {
+                "originalKey": "Natural and cultural",
+                "original_value": "Natural and cultural",
+                "Wikidata_ID": "Q11353780"
+            }
+        ]
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "IT",
+                "original_value": "Information technology",
+                "Wikidata_ID": "Q11661"
+            },
+            {
+                "originalKey": "meat",
+                "original_value": "Meat",
+                "Wikidata_ID": "Q10990"
+            },
+            {
+                "originalKey": "cured",
+                "original_value": "Curing (food preservation)",
+                "Wikidata_ID": "Q1503716"
+            },
+            {
+                "originalKey": "supply chain",
+                "original_value": "Supply chain",
+                "Wikidata_ID": "Q1824206"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Northern Apennines",
+                "original_value": "Apennine Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "originalKey": "Tuscan",
+                "original_value": "Tuscany",
+                "Wikidata_ID": "Q1273"
+            },
+            {
+                "originalKey": "Sambuca Pistoiese",
+                "original_value": "Sambuca Pistoiese",
+                "Wikidata_ID": "Q102725"
+            },
+            {
+                "originalKey": "Pistoiese",
+                "original_value": "Pistoia",
+                "Wikidata_ID": "Q13376"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "IT",
+                "original_value": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "PDO",
+                "original_value": "Geographical indications and traditional specialities in the European Union",
+                "Wikidata_ID": "Q363268"
+            },
+            {
+                "originalKey": "Cinta Senese",
+                "original_value": "Cinta Senese",
+                "Wikidata_ID": "Q500434"
+            },
+            {
+                "originalKey": "Finocchiona",
+                "original_value": "Finocchiona",
+                "Wikidata_ID": "Q3745769"
+            },
+            {
+                "originalKey": "Chianina",
+                "original_value": "Chianina",
+                "Wikidata_ID": "Q1071628"
+            },
+            {
+                "originalKey": "beef",
+                "original_value": "Beef",
+                "Wikidata_ID": "Q192628"
+            },
+            {
+                "originalKey": "Umbria",
+                "original_value": "Umbria",
+                "Wikidata_ID": "Q1280"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "environment",
+                "original_value": "Natural environment",
+                "Wikidata_ID": "Q43619"
+            },
+            {
+                "originalKey": "water",
+                "original_value": "Water",
+                "Wikidata_ID": "Q283"
+            },
+            {
+                "originalKey": "Porretta",
+                "original_value": "Porretta Terme",
+                "Wikidata_ID": "Q94983"
+            },
+            {
+                "originalKey": "pastures",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            },
+            {
+                "originalKey": "meat",
+                "original_value": "Meat",
+                "Wikidata_ID": "Q10990"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "organic farm",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "brand",
+                "original_value": "Brand",
+                "Wikidata_ID": "Q431289"
+            },
+            {
+                "originalKey": "market",
+                "original_value": "Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "land use",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            }
+        ]
+    }
+]

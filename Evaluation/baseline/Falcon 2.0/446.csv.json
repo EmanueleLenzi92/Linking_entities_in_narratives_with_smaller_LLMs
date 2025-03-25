@@ -1,0 +1,734 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state",
+                "original_value": "MOVING reference member state",
+                "Wikidata_ID": "Q1646605"
+            },
+            {
+                "originalKey": "this VC (Value Chain)",
+                "original_value": "this VC (Value Chain)",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "TURKEY",
+                "original_value": "TURKEY",
+                "Wikidata_ID": "Q7855036"
+            },
+            {
+                "originalKey": "reference MOVING Card ID",
+                "original_value": "reference MOVING Card ID",
+                "Wikidata_ID": "Q106970251"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "VC",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "VC 12 TR",
+                "original_value": "VC 12 TR",
+                "Wikidata_ID": "Q80016811"
+            },
+            {
+                "originalKey": "majority",
+                "original_value": "majority",
+                "Wikidata_ID": "Q7382648"
+            },
+            {
+                "originalKey": "tea plantations are small-scale family farms",
+                "original_value": "tea plantations are small-scale family farms",
+                "Wikidata_ID": "Q89113909"
+            },
+            {
+                "originalKey": "province, 91% of all farmers",
+                "original_value": "province, 91% of all farmers",
+                "Wikidata_ID": "Q68046800"
+            },
+            {
+                "originalKey": "cultivation of tea",
+                "original_value": "cultivation of tea",
+                "Wikidata_ID": "Q60260902"
+            },
+            {
+                "originalKey": "livelihood",
+                "original_value": "livelihood",
+                "Wikidata_ID": "Q6658164"
+            },
+            {
+                "originalKey": "tea production",
+                "original_value": "tea production",
+                "Wikidata_ID": "Q7691134"
+            },
+            {
+                "originalKey": "important for the economic",
+                "original_value": "important for the economic",
+                "Wikidata_ID": "Q82914529"
+            },
+            {
+                "originalKey": "social development of the region",
+                "original_value": "social development of the region",
+                "Wikidata_ID": "Q52135431"
+            },
+            {
+                "originalKey": "migration",
+                "original_value": "migration",
+                "Wikidata_ID": "Q1176845"
+            },
+            {
+                "originalKey": "tea processing plant",
+                "original_value": "tea processing plant",
+                "Wikidata_ID": "Q11326769"
+            },
+            {
+                "originalKey": "Rize in 1947",
+                "original_value": "Rize in 1947",
+                "Wikidata_ID": "Q6217616"
+            },
+            {
+                "originalKey": "processing and marketing of tea",
+                "original_value": "processing and marketing of tea",
+                "Wikidata_ID": "Q60090147"
+            },
+            {
+                "originalKey": "General Directorate of Tea Enterprises (Çay-Kur)",
+                "original_value": "General Directorate of Tea Enterprises (Çay-Kur)",
+                "Wikidata_ID": "Q6093006"
+            },
+            {
+                "originalKey": "private companies",
+                "original_value": "private companies",
+                "Wikidata_ID": "Q105370734"
+            },
+            {
+                "originalKey": "important source of employment in the region",
+                "original_value": "important source of employment in the region",
+                "Wikidata_ID": "Q54439460"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "reference mountain chain",
+                "original_value": "reference mountain chain",
+                "Wikidata_ID": "Q2624046"
+            },
+            {
+                "originalKey": "this VC",
+                "original_value": "this VC",
+                "Wikidata_ID": "Q42863"
+            },
+            {
+                "originalKey": "Eastern Black Sea Mountains",
+                "original_value": "Eastern Black Sea Mountains",
+                "Wikidata_ID": "Q880441"
+            },
+            {
+                "originalKey": "reference mountain landscape",
+                "original_value": "reference mountain landscape",
+                "Wikidata_ID": "Q20266891"
+            },
+            {
+                "originalKey": "this VC",
+                "original_value": "this VC",
+                "Wikidata_ID": "Q42863"
+            },
+            {
+                "originalKey": "rize Province",
+                "original_value": "rize Province",
+                "Wikidata_ID": "Q483481"
+            },
+            {
+                "originalKey": "eastern",
+                "original_value": "eastern",
+                "Wikidata_ID": "Q5329936"
+            },
+            {
+                "originalKey": "Black Sea Region of Turkey",
+                "original_value": "Black Sea Region of Turkey",
+                "Wikidata_ID": "Q28812531"
+            },
+            {
+                "originalKey": "humid, subtropical climate",
+                "original_value": "humid, subtropical climate",
+                "Wikidata_ID": "Q864320"
+            },
+            {
+                "originalKey": "province",
+                "original_value": "province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "rugged",
+                "original_value": "rugged",
+                "Wikidata_ID": "Q65778087"
+            },
+            {
+                "originalKey": "mountainous terrain",
+                "original_value": "mountainous terrain",
+                "Wikidata_ID": "Q618123"
+            },
+            {
+                "originalKey": "annual average temperature",
+                "original_value": "annual average temperature",
+                "Wikidata_ID": "Q949252"
+            },
+            {
+                "originalKey": "14 C",
+                "original_value": "14 C",
+                "Wikidata_ID": "Q79588945"
+            },
+            {
+                "originalKey": "average annual rainfall",
+                "original_value": "average annual rainfall",
+                "Wikidata_ID": "Q949252"
+            },
+            {
+                "originalKey": "2300 mm",
+                "original_value": "2300 mm",
+                "Wikidata_ID": "Q27207276"
+            },
+            {
+                "originalKey": "rize",
+                "original_value": "rize",
+                "Wikidata_ID": "Q76831992"
+            },
+            {
+                "originalKey": "rainiest city in Turkey",
+                "original_value": "rainiest city in Turkey",
+                "Wikidata_ID": "Q18355103"
+            },
+            {
+                "originalKey": "natural vegetation of the region",
+                "original_value": "natural vegetation of the region",
+                "Wikidata_ID": "Q1620186"
+            },
+            {
+                "originalKey": "broad-leaved forest",
+                "original_value": "broad-leaved forest",
+                "Wikidata_ID": "Q11620665"
+            },
+            {
+                "originalKey": "high humidity",
+                "original_value": "high humidity",
+                "Wikidata_ID": "Q180600"
+            },
+            {
+                "originalKey": "Rainfall",
+                "original_value": "Rainfall",
+                "Wikidata_ID": "Q7925"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area (km2)",
+                "original_value": "area (km2)",
+                "Wikidata_ID": "Q1473106"
+            },
+            {
+                "originalKey": "159",
+                "original_value": "159",
+                "Wikidata_ID": "Q105928820"
+            },
+            {
+                "originalKey": "minimum altimetry of the LAU (Local Administrative Unit)",
+                "original_value": "minimum altimetry of the LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q44651884"
+            },
+            {
+                "originalKey": "152",
+                "original_value": "152",
+                "Wikidata_ID": "Q26148"
+            },
+            {
+                "originalKey": "maximum altimetry of the LAU",
+                "original_value": "maximum altimetry of the LAU",
+                "Wikidata_ID": "Q57683176"
+            },
+            {
+                "originalKey": "Approx",
+                "original_value": "Approx",
+                "Wikidata_ID": "Q105693460"
+            },
+            {
+                "originalKey": "2000",
+                "original_value": "2000",
+                "Wikidata_ID": "Q1985"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "original_value": "total population (in thousand)",
+                "Wikidata_ID": "Q15890448"
+            },
+            {
+                "originalKey": "15159",
+                "original_value": "15159",
+                "Wikidata_ID": "Q29677789"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2) in the LAU",
+                "original_value": "population density (Inhabitants/km2) in the LAU",
+                "Wikidata_ID": "Q58857352"
+            },
+            {
+                "originalKey": "population change rate of the LAU",
+                "original_value": "population change rate of the LAU",
+                "Wikidata_ID": "Q59780962"
+            },
+            {
+                "originalKey": "10 years (%)",
+                "original_value": "10 years (%)",
+                "Wikidata_ID": "Q169119"
+            },
+            {
+                "originalKey": "1797%",
+                "original_value": "1797%",
+                "Wikidata_ID": "Q7820"
+            },
+            {
+                "originalKey": "715",
+                "original_value": "715",
+                "Wikidata_ID": "Q98507714"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "original_value": "regional population change rate",
+                "Wikidata_ID": "Q33184491"
+            },
+            {
+                "originalKey": "10 years (%)",
+                "original_value": "10 years (%)",
+                "Wikidata_ID": "Q169119"
+            },
+            {
+                "originalKey": "655%",
+                "original_value": "655%",
+                "Wikidata_ID": "Q30045"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income (EUR/year) [Province]",
+                "original_value": "average per capita income (EUR/year) [Province]",
+                "Wikidata_ID": "Q35118417"
+            },
+            {
+                "originalKey": "6200",
+                "original_value": "6200",
+                "Wikidata_ID": "Q19248588"
+            },
+            {
+                "originalKey": "18904",
+                "original_value": "18904",
+                "Wikidata_ID": "Q84449125"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "primary sector share",
+                "Wikidata_ID": "Q56940325"
+            },
+            {
+                "originalKey": "total GVA/year [Province]",
+                "original_value": "total GVA/year [Province]",
+                "Wikidata_ID": "Q4660862"
+            },
+            {
+                "originalKey": "1650%",
+                "original_value": "1650%",
+                "Wikidata_ID": "Q6951"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "secondary sector share",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "total GVA/year [Province]",
+                "original_value": "total GVA/year [Province]",
+                "Wikidata_ID": "Q4660862"
+            },
+            {
+                "originalKey": "3900%",
+                "original_value": "3900%",
+                "Wikidata_ID": "Q19244793"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "tertiary sector share",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "total GVA/year [Province]",
+                "original_value": "total GVA/year [Province]",
+                "Wikidata_ID": "Q4660862"
+            },
+            {
+                "originalKey": "4640%",
+                "original_value": "4640%",
+                "Wikidata_ID": "Q19246061"
+            },
+            {
+                "originalKey": "capita income (EUR/year) [Region]",
+                "original_value": "capita income (EUR/year) [Region]",
+                "Wikidata_ID": "Q92631529"
+            },
+            {
+                "originalKey": "5500",
+                "original_value": "5500",
+                "Wikidata_ID": "Q11956495"
+            },
+            {
+                "originalKey": "1345513",
+                "original_value": "1345513",
+                "Wikidata_ID": "Q76694045"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "primary sector share",
+                "Wikidata_ID": "Q56940325"
+            },
+            {
+                "originalKey": "total GVA/year [Region]",
+                "original_value": "total GVA/year [Region]",
+                "Wikidata_ID": "Q8559447"
+            },
+            {
+                "originalKey": "1350%",
+                "original_value": "1350%",
+                "Wikidata_ID": "Q6094"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "secondary sector share",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "total GVA/year [Region]",
+                "original_value": "total GVA/year [Region]",
+                "Wikidata_ID": "Q8559447"
+            },
+            {
+                "originalKey": "3190%",
+                "original_value": "3190%",
+                "Wikidata_ID": "Q19243525"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "tertiary sector share",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "total GVA/year [Region]",
+                "original_value": "total GVA/year [Region]",
+                "Wikidata_ID": "Q8559447"
+            },
+            {
+                "originalKey": "5470%",
+                "original_value": "5470%",
+                "Wikidata_ID": "Q19247391"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bed places (BPs)",
+                "original_value": "bed places (BPs)",
+                "Wikidata_ID": "Q52617722"
+            },
+            {
+                "originalKey": "tourist accommodations/year in",
+                "original_value": "tourist accommodations/year in",
+                "Wikidata_ID": "Q94578386"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q15663836"
+            },
+            {
+                "originalKey": "4627",
+                "original_value": "4627",
+                "Wikidata_ID": "Q19246041"
+            },
+            {
+                "originalKey": "regional (Region) share of total BPs/year",
+                "original_value": "regional (Region) share of total BPs/year",
+                "Wikidata_ID": "Q40622580"
+            },
+            {
+                "originalKey": "2250%",
+                "original_value": "2250%",
+                "Wikidata_ID": "Q19242014"
+            },
+            {
+                "originalKey": "agricultural holdings in the LAU",
+                "original_value": "agricultural holdings in the LAU",
+                "Wikidata_ID": "Q95532251"
+            },
+            {
+                "originalKey": "11000",
+                "original_value": "11000",
+                "Wikidata_ID": "Q29667599"
+            },
+            {
+                "originalKey": "nearest settlement",
+                "original_value": "nearest settlement",
+                "Wikidata_ID": "Q6984423"
+            },
+            {
+                "originalKey": "population over 100000 (km)",
+                "original_value": "population over 100000 (km)",
+                "Wikidata_ID": "Q46123112"
+            },
+            {
+                "originalKey": "16",
+                "original_value": "16",
+                "Wikidata_ID": "Q67386644"
+            },
+            {
+                "originalKey": "areas are not present",
+                "original_value": "areas are not present",
+                "Wikidata_ID": "Q3364461"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share",
+                "original_value": "primary sector share",
+                "Wikidata_ID": "Q56940325"
+            },
+            {
+                "originalKey": "total employment/year [Province]",
+                "original_value": "total employment/year [Province]",
+                "Wikidata_ID": "Q104710393"
+            },
+            {
+                "originalKey": "High",
+                "original_value": "High",
+                "Wikidata_ID": "Q29724302"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "secondary sector share",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "total employment/year [Province]",
+                "original_value": "total employment/year [Province]",
+                "Wikidata_ID": "Q104710393"
+            },
+            {
+                "originalKey": "Low",
+                "original_value": "Low",
+                "Wikidata_ID": "Q15169"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "tertiary sector share",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "total employment/year [Province]",
+                "original_value": "total employment/year [Province]",
+                "Wikidata_ID": "Q104710393"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "primary sector share",
+                "Wikidata_ID": "Q56940325"
+            },
+            {
+                "originalKey": "total employment/year [Region]",
+                "original_value": "total employment/year [Region]",
+                "Wikidata_ID": "Q104710393"
+            },
+            {
+                "originalKey": "4540%",
+                "original_value": "4540%",
+                "Wikidata_ID": "Q19245875"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "secondary sector share",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "total employment/year [Region]",
+                "original_value": "total employment/year [Region]",
+                "Wikidata_ID": "Q104710393"
+            },
+            {
+                "originalKey": "1360%",
+                "original_value": "1360%",
+                "Wikidata_ID": "Q6150"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "tertiary sector share",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "total employment/year [Region]",
+                "original_value": "total employment/year [Region]",
+                "Wikidata_ID": "Q104710393"
+            },
+            {
+                "originalKey": "4080%",
+                "original_value": "4080%",
+                "Wikidata_ID": "Q19245089"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "geological",
+                "original_value": "geological",
+                "Wikidata_ID": "Q60107347"
+            },
+            {
+                "originalKey": "climatic conditions",
+                "original_value": "climatic conditions",
+                "Wikidata_ID": "Q50321018"
+            },
+            {
+                "originalKey": "the tea from Rize region a distinctive character",
+                "original_value": "the tea from Rize region a distinctive character",
+                "Wikidata_ID": "Q54560277"
+            },
+            {
+                "originalKey": "large",
+                "original_value": "large",
+                "Wikidata_ID": "Q21714170"
+            },
+            {
+                "originalKey": "Geographical Indication from the Turkish Patent",
+                "original_value": "Geographical Indication from the Turkish Patent",
+                "Wikidata_ID": "Q57757270"
+            },
+            {
+                "originalKey": "mountainsRize tea",
+                "original_value": "mountainsRize tea",
+                "Wikidata_ID": "Q3243556"
+            },
+            {
+                "originalKey": "Trademark Office",
+                "original_value": "Trademark Office",
+                "Wikidata_ID": "Q10621665"
+            },
+            {
+                "originalKey": "tea",
+                "original_value": "tea",
+                "Wikidata_ID": "Q79994748"
+            },
+            {
+                "originalKey": "important part in Turkish culture",
+                "original_value": "important part in Turkish culture",
+                "Wikidata_ID": "Q83832106"
+            },
+            {
+                "originalKey": "daily life",
+                "original_value": "daily life",
+                "Wikidata_ID": "Q50640826"
+            },
+            {
+                "originalKey": "consumed beverage in Turkey",
+                "original_value": "consumed beverage in Turkey",
+                "Wikidata_ID": "Q50324859"
+            },
+            {
+                "originalKey": "serving tea to guests",
+                "original_value": "serving tea to guests",
+                "Wikidata_ID": "Q64534949"
+            },
+            {
+                "originalKey": "Turkish tradition",
+                "original_value": "Turkish tradition",
+                "Wikidata_ID": "Q74692174"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "innovation of this VC (Value Chain)",
+                "original_value": "innovation of this VC (Value Chain)",
+                "Wikidata_ID": "Q57608159"
+            },
+            {
+                "originalKey": "unspecified",
+                "original_value": "unspecified",
+                "Wikidata_ID": "Q70300654"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "innovation",
+                "Wikidata_ID": "Q83032166"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "VC",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "land use systems",
+                "original_value": "land use systems",
+                "Wikidata_ID": "Q837215"
+            },
+            {
+                "originalKey": "systems involved",
+                "original_value": "systems involved",
+                "Wikidata_ID": "Q29122833"
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Cropland",
+                "Wikidata_ID": "Q41498398"
+            },
+            {
+                "originalKey": "local assets",
+                "original_value": "local assets",
+                "Wikidata_ID": "Q105693398"
+            },
+            {
+                "originalKey": "Natural and cultural",
+                "original_value": "Natural and cultural",
+                "Wikidata_ID": "Q11353780"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "turkey",
+                "original_value": "turkey",
+                "Wikidata_ID": "Q43"
+            },
+            {
+                "originalKey": "world s",
+                "original_value": "world s",
+                "Wikidata_ID": "Q24907196"
+            },
+            {
+                "originalKey": "sixth in terms of production volume",
+                "original_value": "sixth in terms of production volume",
+                "Wikidata_ID": "Q46645979"
+            }
+        ]
+    }
+]
