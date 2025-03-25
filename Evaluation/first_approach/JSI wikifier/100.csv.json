@@ -1,0 +1,339 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "GREECE",
+                "original_value": "Ancient Greece",
+                "Wikidata_ID": "Q11772"
+            },
+            {
+                "originalKey": "farming",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "Aloe",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "cosmetics",
+                "original_value": "Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "nutraceuticals",
+                "original_value": "Nutraceutical",
+                "Wikidata_ID": "Q533025"
+            },
+            {
+                "originalKey": "Minoan",
+                "original_value": "Minoan civilization",
+                "Wikidata_ID": "Q134178"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Dikti",
+                "original_value": "Dikti",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "Pinus brutia",
+                "original_value": "Pinus brutia",
+                "Wikidata_ID": "Q628329"
+            },
+            {
+                "originalKey": "Kermes oaks",
+                "original_value": "Quercus coccifera",
+                "Wikidata_ID": "Q158178"
+            },
+            {
+                "originalKey": "oaks",
+                "original_value": "Oak",
+                "Wikidata_ID": "Q12004"
+            },
+            {
+                "originalKey": "cypresses",
+                "original_value": "Cupressus sempervirens",
+                "Wikidata_ID": "Q147513"
+            },
+            {
+                "originalKey": "Holm Oaks",
+                "original_value": "Quercus ilex",
+                "Wikidata_ID": "Q218155"
+            },
+            {
+                "originalKey": "Cretan",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Acer sempervirens",
+                "original_value": "Acer sempervirens",
+                "Wikidata_ID": "Q1788044"
+            },
+            {
+                "originalKey": "plateaus",
+                "original_value": "Plateau",
+                "Wikidata_ID": "Q75520"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "Dikti",
+                "original_value": "Dikti",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Minoan",
+                "original_value": "Minoan civilization",
+                "Wikidata_ID": "Q134178"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "European",
+                "original_value": "Europe",
+                "Wikidata_ID": "Q46"
+            },
+            {
+                "originalKey": "Viannos",
+                "original_value": "Viannos",
+                "Wikidata_ID": "Q693813"
+            },
+            {
+                "originalKey": "North America",
+                "original_value": "North America",
+                "Wikidata_ID": "Q49"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Dikti",
+                "original_value": "Dikti",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "Olives",
+                "original_value": "Olive",
+                "Wikidata_ID": "Q37083"
+            },
+            {
+                "originalKey": "Aloe",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "income",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Dikti",
+                "original_value": "Dikti",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "Viannos",
+                "original_value": "Viannos",
+                "Wikidata_ID": "Q693813"
+            },
+            {
+                "originalKey": "Aloe",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "Aloe",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "plants",
+                "original_value": "Medicinal plants",
+                "Wikidata_ID": "Q188840"
+            },
+            {
+                "originalKey": "Dikti",
+                "original_value": "Dikti",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "Minoan",
+                "original_value": "Minoan civilization",
+                "Wikidata_ID": "Q134178"
+            },
+            {
+                "originalKey": "contract farming",
+                "original_value": "Contract farming",
+                "Wikidata_ID": "Q5165669"
+            },
+            {
+                "originalKey": "pesticides",
+                "original_value": "Pesticide",
+                "Wikidata_ID": "Q131656"
+            },
+            {
+                "originalKey": "biological",
+                "original_value": "Biology",
+                "Wikidata_ID": "Q420"
+            },
+            {
+                "originalKey": "nutritional",
+                "original_value": "Nutrition",
+                "Wikidata_ID": "Q2138622"
+            },
+            {
+                "originalKey": "nutritional supplements",
+                "original_value": "Dietary supplement",
+                "Wikidata_ID": "Q645858"
+            },
+            {
+                "originalKey": "cosmetics",
+                "original_value": "Cosmetics",
+                "Wikidata_ID": "Q131207"
+            },
+            {
+                "originalKey": "green economy",
+                "original_value": "Green economy",
+                "Wikidata_ID": "Q598188"
+            },
+            {
+                "originalKey": "foods",
+                "original_value": "Food",
+                "Wikidata_ID": "Q2095"
+            },
+            {
+                "originalKey": "fertilizers",
+                "original_value": "Fertilizer",
+                "Wikidata_ID": "Q83323"
+            },
+            {
+                "originalKey": "Medical",
+                "original_value": "Medicine",
+                "Wikidata_ID": "Q11190"
+            },
+            {
+                "originalKey": "food industry",
+                "original_value": "Food industry",
+                "Wikidata_ID": "Q540912"
+            },
+            {
+                "originalKey": "industry",
+                "original_value": "Industrial Revolution",
+                "Wikidata_ID": "Q2269"
+            },
+            {
+                "originalKey": "nutraceuticals",
+                "original_value": "Nutraceutical",
+                "Wikidata_ID": "Q533025"
+            },
+            {
+                "originalKey": "cultural",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Andalusia",
+                "original_value": "Andalusia",
+                "Wikidata_ID": "Q5783"
+            }
+        ]
+    }
+]

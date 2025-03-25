@@ -1,0 +1,242 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "TURKEY",
+                "Wikidata_ID": "Q785"
+            },
+            {
+                "originalKey": "pine nuts",
+                "Wikidata_ID": "Q104236"
+            },
+            {
+                "originalKey": "Pinus pinea L.",
+                "Wikidata_ID": "Q185978"
+            },
+            {
+                "originalKey": "Çetin",
+                "Wikidata_ID": "Q2340683"
+            },
+            {
+                "originalKey": "Öztürk",
+                "Wikidata_ID": "Q2340684"
+            },
+            {
+                "originalKey": "Küçükerdem",
+                "Wikidata_ID": "Q2340685"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Bergama",
+                "Wikidata_ID": "Q521346"
+            },
+            {
+                "originalKey": "İzmir",
+                "Wikidata_ID": "Q79088"
+            },
+            {
+                "originalKey": "Kozak",
+                "Wikidata_ID": "Q1564325"
+            },
+            {
+                "originalKey": "Madra Mountains",
+                "Wikidata_ID": "Q1078938"
+            },
+            {
+                "originalKey": "Pinus pinea",
+                "Wikidata_ID": "Q245968"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area (km2)",
+                "Wikidata_ID": "Q5"
+            },
+            {
+                "originalKey": "1544",
+                "Wikidata_ID": "Q10448379"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q625253"
+            },
+            {
+                "originalKey": "104.944",
+                "Wikidata_ID": "Q10448378"
+            },
+            {
+                "originalKey": "67.96891192",
+                "Wikidata_ID": "Q2517511"
+            },
+            {
+                "originalKey": "3.74%",
+                "Wikidata_ID": "Q10448380"
+            },
+            {
+                "originalKey": "329.4",
+                "Wikidata_ID": "Q10448377"
+            },
+            {
+                "originalKey": "10.83%",
+                "Wikidata_ID": "Q10448381"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q234567890"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q578913"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q720468"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q159348"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "Wikidata_ID": "Q237868"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q234567890"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Peanut pine (Pinus pinea L.)",
+                "Wikidata_ID": "Q183240"
+            },
+            {
+                "originalKey": "Bergama-Kozak plateau",
+                "Wikidata_ID": "Q579648"
+            },
+            {
+                "originalKey": "Kozak plateau (Madra Mountains)",
+                "Wikidata_ID": "Q1052348"
+            },
+            {
+                "originalKey": "granite soils",
+                "Wikidata_ID": "Q432976"
+            },
+            {
+                "originalKey": "farmers",
+                "Wikidata_ID": "Q180528"
+            },
+            {
+                "originalKey": "pine nuts agriculture",
+                "Wikidata_ID": "Q2394678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Kozak",
+                "Wikidata_ID": "Q1508236"
+            },
+            {
+                "originalKey": "Bergama",
+                "Wikidata_ID": "Q749588"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "pine seedlings",
+                "Wikidata_ID": "Q1578304"
+            },
+            {
+                "originalKey": "Kozak plateau",
+                "Wikidata_ID": "Q2069588"
+            },
+            {
+                "originalKey": "pests and diseases",
+                "Wikidata_ID": "Q432713"
+            },
+            {
+                "originalKey": "lack of qualified personnel",
+                "Wikidata_ID": "Q1089568"
+            },
+            {
+                "originalKey": "education",
+                "Wikidata_ID": "Q247333"
+            },
+            {
+                "originalKey": "inadequate advertisement and marketing",
+                "Wikidata_ID": "Q1089568"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "innovation",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "Cropland",
+                "Wikidata_ID": "Q345678910"
+            },
+            {
+                "originalKey": "Forestry",
+                "Wikidata_ID": "Q456789203"
+            },
+            {
+                "originalKey": "natural assets",
+                "Wikidata_ID": "Q567893456"
+            },
+            {
+                "originalKey": "cultural assets",
+                "Wikidata_ID": "Q678945678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pine nuts",
+                "Wikidata_ID": "Q185340"
+            },
+            {
+                "originalKey": "MRLs",
+                "Wikidata_ID": "Q2779633"
+            }
+        ]
+    }
+]

@@ -1,0 +1,214 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "Switzerland",
+                "Wikidata_ID": "Q12574"
+            },
+            {
+                "originalKey": "Alps",
+                "Wikidata_ID": "Q368"
+            },
+            {
+                "originalKey": "tourism industry",
+                "Wikidata_ID": "Q10547"
+            },
+            {
+                "originalKey": "hotels",
+                "Wikidata_ID": "Q23689"
+            },
+            {
+                "originalKey": "restaurants",
+                "Wikidata_ID": "Q10548"
+            },
+            {
+                "originalKey": "ski lifts",
+                "Wikidata_ID": "Q23690"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "mountain chain",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "mountain landscape",
+                "Wikidata_ID": "Q2345678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "population (in thousand)",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "population change rate in the last 10 years (%)",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q2345678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q564"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q123"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "Wikidata_ID": "Q165749"
+            },
+            {
+                "originalKey": "bed places (BPs)",
+                "Wikidata_ID": "Q203837"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q165748"
+            },
+            {
+                "originalKey": "settlement",
+                "Wikidata_ID": "Q203836"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q10537"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q10538"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q10539"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "P576"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "P104"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "one of the biggest and most famous VC-systems in the alps",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "region",
+                "Wikidata_ID": "Q2345678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "tourism",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "mountains",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "young people",
+                "Wikidata_ID": "Q4567890"
+            },
+            {
+                "originalKey": "revenue",
+                "Wikidata_ID": "Q5678901"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The type of innovation",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "touristic attractions",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "skiing",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "innovative",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "new products",
+                "Wikidata_ID": "Q678901456"
+            },
+            {
+                "originalKey": "new processes",
+                "Wikidata_ID": "Q789015678"
+            },
+            {
+                "originalKey": "new marketing strategies",
+                "Wikidata_ID": "Q890167890"
+            },
+            {
+                "originalKey": "new governance systems",
+                "Wikidata_ID": "Q901678901"
+            }
+        ]
+    }
+]

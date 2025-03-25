@@ -1,0 +1,222 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SCOTLAND HUTTON",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Caerphilly cheese",
+                "Wikidata_ID": "Q234567890"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "West Wales",
+                "Wikidata_ID": "Q423590"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "Wikidata_ID": "Q1107860"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area (km2)",
+                "Wikidata_ID": "Q5"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q1047398"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q56878"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q2493333"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q574238"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1096598"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q567890123"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q578924"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1036994"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly",
+                "Wikidata_ID": "Q1057428"
+            },
+            {
+                "originalKey": "Somerset",
+                "Wikidata_ID": "Q30695"
+            },
+            {
+                "originalKey": "Wiltshire",
+                "Wikidata_ID": "Q21478"
+            },
+            {
+                "originalKey": "Gorwydd",
+                "Wikidata_ID": "Q1057428"
+            },
+            {
+                "originalKey": "International Cheese Awards",
+                "Wikidata_ID": "Q639814"
+            },
+            {
+                "originalKey": "PGI",
+                "Wikidata_ID": "Q205793"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "Wikidata_ID": "Q183420"
+            },
+            {
+                "originalKey": "Big Cheese festival",
+                "Wikidata_ID": "Q7659130"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "Wikidata_ID": "Q245854"
+            },
+            {
+                "originalKey": "Wales",
+                "Wikidata_ID": "Q30591"
+            },
+            {
+                "originalKey": "England",
+                "Wikidata_ID": "Q27748"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "tourism",
+                "Wikidata_ID": "Q785"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "Wikidata_ID": "Q236941"
+            },
+            {
+                "originalKey": "England",
+                "Wikidata_ID": "Q205"
+            },
+            {
+                "originalKey": "local producers",
+                "Wikidata_ID": "Q1863497"
+            },
+            {
+                "originalKey": "mass production methods",
+                "Wikidata_ID": "Q205"
+            },
+            {
+                "originalKey": "Current and predicted challenge",
+                "Wikidata_ID": "Q1863497"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "Wikidata_ID": "Q239510"
+            },
+            {
+                "originalKey": "factory",
+                "Wikidata_ID": "Q605"
+            },
+            {
+                "originalKey": "machine-based methods",
+                "Wikidata_ID": "Q1802743"
+            },
+            {
+                "originalKey": "traditional pre-war cheesemaking processes",
+                "Wikidata_ID": "Q2569233"
+            },
+            {
+                "originalKey": "hand",
+                "Wikidata_ID": "Q1802743"
+            },
+            {
+                "originalKey": "Grassland",
+                "Wikidata_ID": "Q48596"
+            },
+            {
+                "originalKey": "Natural, Social and Cultural",
+                "Wikidata_ID": "Q1072394"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "caerphilly cheese",
+                "Wikidata_ID": "Q239580"
+            },
+            {
+                "originalKey": "Somerset",
+                "Wikidata_ID": "Q17426"
+            },
+            {
+                "originalKey": "Wiltshire",
+                "Wikidata_ID": "Q17435"
+            }
+        ]
+    }
+]

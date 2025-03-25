@@ -1,0 +1,230 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "Wikidata_ID": "Q21456"
+            },
+            {
+                "originalKey": "VC 10 GR",
+                "Wikidata_ID": "Q3059873"
+            },
+            {
+                "originalKey": "chestnut trees",
+                "Wikidata_ID": "Q642417"
+            },
+            {
+                "originalKey": "farmers",
+                "Wikidata_ID": "Q5"
+            },
+            {
+                "originalKey": "local government",
+                "Wikidata_ID": "Q1082473"
+            },
+            {
+                "originalKey": "academic institutions",
+                "Wikidata_ID": "Q7859"
+            },
+            {
+                "originalKey": "local catering and tourism",
+                "Wikidata_ID": "Q1029436"
+            },
+            {
+                "originalKey": "small firms of standardization, packaging, promotion and marketing",
+                "Wikidata_ID": "Q1082473"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "White Mountains",
+                "Wikidata_ID": "Q754260"
+            },
+            {
+                "originalKey": "KISSAMOS",
+                "Wikidata_ID": "Q1089388"
+            },
+            {
+                "originalKey": "Chania international airport",
+                "Wikidata_ID": "Q645728"
+            },
+            {
+                "originalKey": "Souda bay international harbor",
+                "Wikidata_ID": "Q1039248"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area (km2)",
+                "Wikidata_ID": "Q5"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q1073498"
+            },
+            {
+                "originalKey": "population (in thousand)",
+                "Wikidata_ID": "Q526523"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q1073499"
+            },
+            {
+                "originalKey": "regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q1073500"
+            },
+            {
+                "originalKey": "population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q1073501"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1047239"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1047238"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q345678912"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "Wikidata_ID": "Q456789234"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q567894567"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q57428"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q63190"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Chestnut trees",
+                "Wikidata_ID": "Q185240"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q6439"
+            },
+            {
+                "originalKey": "Chania",
+                "Wikidata_ID": "Q128570"
+            },
+            {
+                "originalKey": "local farmers",
+                "Wikidata_ID": "Q564933"
+            },
+            {
+                "originalKey": "olive oil monoculture",
+                "Wikidata_ID": "Q180278"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Western White Mountains",
+                "Wikidata_ID": "Q783426"
+            },
+            {
+                "originalKey": "chestnut activities",
+                "Wikidata_ID": "Q5519088"
+            },
+            {
+                "originalKey": "cultural associations",
+                "Wikidata_ID": "Q2374368"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "chestnut trees",
+                "Wikidata_ID": "Q185340"
+            },
+            {
+                "originalKey": "farmers",
+                "Wikidata_ID": "Q297868"
+            },
+            {
+                "originalKey": "chestnut cultivation",
+                "Wikidata_ID": "Q1530431"
+            },
+            {
+                "originalKey": "olive oil trees",
+                "Wikidata_ID": "Q28796"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Region of Crete",
+                "Wikidata_ID": "Q54793"
+            },
+            {
+                "originalKey": "academic institutions",
+                "Wikidata_ID": "Q82610"
+            },
+            {
+                "originalKey": "Grassland",
+                "Wikidata_ID": "Q48593"
+            },
+            {
+                "originalKey": "Forestry",
+                "Wikidata_ID": "Q10726"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "chestnut trees",
+                "Wikidata_ID": "Q185209"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q6437"
+            },
+            {
+                "originalKey": "Greece",
+                "Wikidata_ID": "Q29591"
+            }
+        ]
+    }
+]

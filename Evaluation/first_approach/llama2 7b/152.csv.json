@@ -1,0 +1,270 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "ITALY",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "UNIMOL",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "UNIPI",
+                "Wikidata_ID": "Q4567890"
+            },
+            {
+                "originalKey": "infusion herbs",
+                "Wikidata_ID": "Q5678901"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Northern Apennines",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Tuscan Emilian Apennines",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "Anghiari",
+                "Wikidata_ID": "Q3456789"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "Wikidata_ID": "Q236579"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q148057"
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": "Q236579"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q148057"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q236579"
+            },
+            {
+                "originalKey": "-6.09%",
+                "Wikidata_ID": "Q148057"
+            },
+            {
+                "originalKey": "0.48%",
+                "Wikidata_ID": "Q236579"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q104389"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q257655"
+            },
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q104389"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q257655"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places",
+                "Wikidata_ID": "Q1083497"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q256557"
+            },
+            {
+                "originalKey": "regional",
+                "Wikidata_ID": "Q1083498"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q256558"
+            },
+            {
+                "originalKey": "settlement",
+                "Wikidata_ID": "Q1083499"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q256560"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q546839"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q107239"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q546840"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "P31"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "P276"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pontepietra",
+                "Wikidata_ID": "Q10765348"
+            },
+            {
+                "originalKey": "Mountain Product",
+                "Wikidata_ID": "Q219595"
+            },
+            {
+                "originalKey": "Reg.(UE) n.1151/2012",
+                "Wikidata_ID": "Q347685"
+            },
+            {
+                "originalKey": "Reg.(UE) n.665/2014",
+                "Wikidata_ID": "Q347686"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Steinbruck",
+                "Wikidata_ID": "Q1083579"
+            },
+            {
+                "originalKey": "hills",
+                "Wikidata_ID": "Q246"
+            },
+            {
+                "originalKey": "Apennines",
+                "Wikidata_ID": "Q1083577"
+            },
+            {
+                "originalKey": "medicinal herbs",
+                "Wikidata_ID": "Q246937"
+            },
+            {
+                "originalKey": "aromatic herbs",
+                "Wikidata_ID": "Q246938"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Steinbruck",
+                "Wikidata_ID": "Q10853794"
+            },
+            {
+                "originalKey": "hills",
+                "Wikidata_ID": "Q26254"
+            },
+            {
+                "originalKey": "Apennines",
+                "Wikidata_ID": "Q10853793"
+            },
+            {
+                "originalKey": "medicinal herbs",
+                "Wikidata_ID": "Q246537"
+            },
+            {
+                "originalKey": "aromatic herbs",
+                "Wikidata_ID": "Q194087"
+            },
+            {
+                "originalKey": "goodness",
+                "Wikidata_ID": "Q20356"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The type of innovation",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "Endogenous and Exogenous",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "New products",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "communication based on",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "Nature",
+                "Wikidata_ID": "Q678901456"
+            },
+            {
+                "originalKey": "sostenibility",
+                "Wikidata_ID": "Q789015678"
+            },
+            {
+                "originalKey": "quality",
+                "Wikidata_ID": "Q890167890"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q901678901"
+            },
+            {
+                "originalKey": "land use systems",
+                "Wikidata_ID": "Q1016789023"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q1167890345"
+            },
+            {
+                "originalKey": "aromatic herbs",
+                "Wikidata_ID": "Q1267890456"
+            }
+        ]
+    }
+]

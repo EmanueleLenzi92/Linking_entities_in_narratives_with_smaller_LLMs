@@ -1,0 +1,270 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "Wikidata_ID": "Q794"
+            },
+            {
+                "originalKey": "Aloe vera",
+                "Wikidata_ID": "Q180235"
+            },
+            {
+                "originalKey": "Minoan Land",
+                "Wikidata_ID": "Q1067493"
+            },
+            {
+                "originalKey": "Pancretan Network of Organic Farmers of Aloe Vera",
+                "Wikidata_ID": "Q1067502"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Dikti Mountains",
+                "Wikidata_ID": "Q563978"
+            },
+            {
+                "originalKey": "VIANNOS",
+                "Wikidata_ID": "Q1047288"
+            },
+            {
+                "originalKey": "Pinus brutia",
+                "Wikidata_ID": "Q185936"
+            },
+            {
+                "originalKey": "Quercus coccifera",
+                "Wikidata_ID": "Q207438"
+            },
+            {
+                "originalKey": "Cupressus sempervirens",
+                "Wikidata_ID": "Q186059"
+            },
+            {
+                "originalKey": "Quercus ilex",
+                "Wikidata_ID": "Q207437"
+            },
+            {
+                "originalKey": "Acer sempervirens",
+                "Wikidata_ID": "Q186058"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area (km2)",
+                "Wikidata_ID": "Q5"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q1047398"
+            },
+            {
+                "originalKey": "population (in thousand)",
+                "Wikidata_ID": "Q256951"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q307483"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": "Q256952"
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q307484"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q256953"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1047293"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1047294"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q345678912"
+            },
+            {
+                "originalKey": "settlement",
+                "Wikidata_ID": "Q456789234"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q567894567"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q574213"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q574213"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe vera",
+                "Wikidata_ID": "Q237951"
+            },
+            {
+                "originalKey": "Dikti mountain landscape",
+                "Wikidata_ID": "Q648088"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q57392"
+            },
+            {
+                "originalKey": "Greece",
+                "Wikidata_ID": "Q18346"
+            },
+            {
+                "originalKey": "Viannos",
+                "Wikidata_ID": "Q57402"
+            },
+            {
+                "originalKey": "Minoan Land cooperative",
+                "Wikidata_ID": "Q10683930"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Agricultural sector",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "Olives",
+                "Wikidata_ID": "Q23456789"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "Wikidata_ID": "Q123456789"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Dikti area",
+                "Wikidata_ID": "Q574138"
+            },
+            {
+                "originalKey": "Viannos",
+                "Wikidata_ID": "Q629054"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "Wikidata_ID": "Q183278"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe Vera plants",
+                "Wikidata_ID": "Q237410"
+            },
+            {
+                "originalKey": "Dikti region",
+                "Wikidata_ID": "Q558968"
+            },
+            {
+                "originalKey": "Minoan Land cooperative",
+                "Wikidata_ID": "Q237410"
+            },
+            {
+                "originalKey": "organic and contract farming",
+                "Wikidata_ID": "Q159868"
+            },
+            {
+                "originalKey": "high-quality leaves",
+                "Wikidata_ID": "Q237410"
+            },
+            {
+                "originalKey": "raw material processed for high biological production value nutritional supplements and herbal cosmetics",
+                "Wikidata_ID": "Q237410"
+            },
+            {
+                "originalKey": "natural fertilizers",
+                "Wikidata_ID": "Q237410"
+            },
+            {
+                "originalKey": "aromatic/medicinal plants",
+                "Wikidata_ID": "Q159868"
+            },
+            {
+                "originalKey": "food industry, pharmaceutical, and nutraceuticals industries",
+                "Wikidata_ID": "Q159868"
+            },
+            {
+                "originalKey": "specific medical conditions and diets",
+                "Wikidata_ID": "Q237410"
+            },
+            {
+                "originalKey": "New products, New processes, and New marketing strategies",
+                "Wikidata_ID": "Q159868"
+            },
+            {
+                "originalKey": "Cropland and Natural land",
+                "Wikidata_ID": "Q159868"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe Vera",
+                "Wikidata_ID": "Q215943"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q64780"
+            },
+            {
+                "originalKey": "Andalusia",
+                "Wikidata_ID": "Q215939"
+            },
+            {
+                "originalKey": "Spain",
+                "Wikidata_ID": "Q64782"
+            },
+            {
+                "originalKey": "European consumers",
+                "Wikidata_ID": "Q1093538"
+            }
+        ]
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "ITALY UNIMOL",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "UNIPI",
+                "Wikidata_ID": "Q987654321"
+            },
+            {
+                "originalKey": "infusion herbs",
+                "Wikidata_ID": "Q234567890"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Northern Apennines",
+                "Wikidata_ID": "Q783906"
+            },
+            {
+                "originalKey": "Tuscan Emilian Apennines",
+                "Wikidata_ID": "Q1542988"
+            },
+            {
+                "originalKey": "Anghiari",
+                "Wikidata_ID": "Q1067305"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area (km2)",
+                "Wikidata_ID": "Q5"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q1073498"
+            },
+            {
+                "originalKey": "population (in thousand)",
+                "Wikidata_ID": "Q256951"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q307483"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": "Q256952"
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q307484"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q256953"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1043298"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q75226"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q567890123"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q5789"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q6254"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Organic farm",
+                "Wikidata_ID": "Q734285"
+            },
+            {
+                "originalKey": "Mountain Product",
+                "Wikidata_ID": "Q1069538"
+            },
+            {
+                "originalKey": "Pontepietra",
+                "Wikidata_ID": "Q2472233"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Steinbruck",
+                "Wikidata_ID": "Q10872563"
+            },
+            {
+                "originalKey": "Apennines",
+                "Wikidata_ID": "Q75249"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Steinbruck",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Apennines",
+                "Wikidata_ID": "Q789012345"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Nature",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "sostenibility",
+                "Wikidata_ID": "Q1892574"
+            },
+            {
+                "originalKey": "quality",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "New products",
+                "Wikidata_ID": "Q1892574"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q1892574"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "aromatic herbs",
+                "Wikidata_ID": "Q1892574"
+            }
+        ]
+    }
+]

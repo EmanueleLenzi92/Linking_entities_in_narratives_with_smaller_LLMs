@@ -1,0 +1,274 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "Wikidata_ID": "Q105673"
+            },
+            {
+                "originalKey": "ITALY",
+                "Wikidata_ID": "Q249"
+            },
+            {
+                "originalKey": "UNIMOL",
+                "Wikidata_ID": "Q105674"
+            },
+            {
+                "originalKey": "UNIPI",
+                "Wikidata_ID": "Q105675"
+            },
+            {
+                "originalKey": "VC 17 IT",
+                "Wikidata_ID": "Q105676"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Central Apennines",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Lazio region",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "Amatrice",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "Province of Rieti",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "Chief city of Rieti",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "Abruzzo region",
+                "Wikidata_ID": "Q789014567"
+            },
+            {
+                "originalKey": "National park of Gran Sasso e Monti della Laga",
+                "Wikidata_ID": "Q890145678"
+            },
+            {
+                "originalKey": "Montana del Velino community",
+                "Wikidata_ID": "Q901456789"
+            },
+            {
+                "originalKey": "Club of Borghi più belli d Italia",
+                "Wikidata_ID": "Q1011234567"
+            },
+            {
+                "originalKey": "spaghetti amatriciana",
+                "Wikidata_ID": "Q1123456789"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "Wikidata_ID": "Q264719"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q53804"
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": "Q12769"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q53805"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q12770"
+            },
+            {
+                "originalKey": "regional population density",
+                "Wikidata_ID": "Q53806"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "Wikidata_ID": "Q12771"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q4567890"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places",
+                "Wikidata_ID": "Q1043796"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q258745"
+            },
+            {
+                "originalKey": "regional",
+                "Wikidata_ID": "Q103965"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q247837"
+            },
+            {
+                "originalKey": "s settlement",
+                "Wikidata_ID": "Q1056937"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q248747"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q207639"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q185454"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q207638"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "P51"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "P276"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "A beekeeping farm",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "honey certificate of origin",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "Municipality of Amatrice",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "honey of Amatrice (Mielene di Amatric)",
+                "Wikidata_ID": "Q456789012"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Amatrice area",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "woods",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "organic agriculture",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "integrated agriculture",
+                "Wikidata_ID": "Q4567890"
+            },
+            {
+                "originalKey": "honey",
+                "Wikidata_ID": "Q5678901"
+            },
+            {
+                "originalKey": "mountain area",
+                "Wikidata_ID": "Q6789012"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q1276"
+            },
+            {
+                "originalKey": "honey production",
+                "Wikidata_ID": "Q53480"
+            },
+            {
+                "originalKey": "plants' biological cycles",
+                "Wikidata_ID": "Q16792"
+            },
+            {
+                "originalKey": "bees' ability to resist colder/warmer zones",
+                "Wikidata_ID": "Q53481"
+            },
+            {
+                "originalKey": "Municipality of Amatrice",
+                "Wikidata_ID": "Q267097"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Miele di Amatrice label",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "municipality of Amatrice",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "local mountain farms",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "historical local food (the honey)",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "local cultural tradition on wine and food productions",
+                "Wikidata_ID": "Q678901456"
+            }
+        ]
+    }
+]

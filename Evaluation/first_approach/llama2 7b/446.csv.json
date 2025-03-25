@@ -1,0 +1,306 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "tea plantations",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "farms",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "Rize",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "General Directorate of Tea Enterprises (Çay-Kur)",
+                "Wikidata_ID": "Q678901456"
+            },
+            {
+                "originalKey": "private companies",
+                "Wikidata_ID": "Q789015678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Eastern Black Sea Mountains",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Güneysu",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "Rize Province",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "Black Sea Region of Turkey",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "Turkey",
+                "Wikidata_ID": "Q567890134"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "Wikidata_ID": "Q234789"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q156057"
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": "Q234789"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q156057"
+            },
+            {
+                "originalKey": "altimetry",
+                "Wikidata_ID": "Q234789"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q234789"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q234789"
+            },
+            {
+                "originalKey": "regional population density",
+                "Wikidata_ID": "Q234789"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "Wikidata_ID": "Q234789"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q2345678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places",
+                "Wikidata_ID": "Q2074539"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q168644"
+            },
+            {
+                "originalKey": "Regional",
+                "Wikidata_ID": "Q2074538"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q168645"
+            },
+            {
+                "originalKey": "settlement",
+                "Wikidata_ID": "Q2074537"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q168646"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Primary sector",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Secondary sector",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "Tertiary sector",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12345678"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q23456789"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Rize",
+                "Wikidata_ID": "Q104537"
+            },
+            {
+                "originalKey": "tea",
+                "Wikidata_ID": "Q2689"
+            },
+            {
+                "originalKey": "Rize Province",
+                "Wikidata_ID": "Q104537"
+            },
+            {
+                "originalKey": "mountain areas",
+                "Wikidata_ID": "Q2689"
+            },
+            {
+                "originalKey": "Rize Tea",
+                "Wikidata_ID": "Q104537"
+            },
+            {
+                "originalKey": "climatic conditions",
+                "Wikidata_ID": "Q2689"
+            },
+            {
+                "originalKey": "tea production",
+                "Wikidata_ID": "Q104537"
+            },
+            {
+                "originalKey": "farmers",
+                "Wikidata_ID": "Q2689"
+            },
+            {
+                "originalKey": "organic tea production",
+                "Wikidata_ID": "Q104537"
+            },
+            {
+                "originalKey": "residential areas",
+                "Wikidata_ID": "Q2689"
+            },
+            {
+                "originalKey": "altitude",
+                "Wikidata_ID": "Q2689"
+            },
+            {
+                "originalKey": "Rainforest Alliance",
+                "Wikidata_ID": "Q104537"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Geological and climatic conditions",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Rize region",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "Turkish Patent and Trademark Office",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "tea",
+                "Wikidata_ID": "Q4567890"
+            },
+            {
+                "originalKey": "Turkish culture",
+                "Wikidata_ID": "Q5678901"
+            },
+            {
+                "originalKey": "daily life",
+                "Wikidata_ID": "Q6789012"
+            },
+            {
+                "originalKey": "serving tea to guests",
+                "Wikidata_ID": "Q7890123"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "High production costs",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "ageing of tea plantations",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "difficulties in finding local and qualified laborers for harvesting",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "logistics problems in transporting tea leaves to processing plants due to the particular geography of the region",
+                "Wikidata_ID": "Q4567890"
+            },
+            {
+                "originalKey": "effects of climatic change",
+                "Wikidata_ID": "Q5678901"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The type of innovation",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "land use systems",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "Cropland",
+                "Wikidata_ID": "Q4567890"
+            },
+            {
+                "originalKey": "Natural and cultural",
+                "Wikidata_ID": "Q5678901"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "Wikidata_ID": "Q1043"
+            },
+            {
+                "originalKey": "tea producers",
+                "Wikidata_ID": "Q26579"
+            }
+        ]
+    }
+]

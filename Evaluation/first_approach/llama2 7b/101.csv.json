@@ -1,0 +1,290 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "GR",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "chestnut trees",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "farmer",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "local government",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "academic institution",
+                "Wikidata_ID": "Q678901456"
+            },
+            {
+                "originalKey": "local catering",
+                "Wikidata_ID": "Q789015678"
+            },
+            {
+                "originalKey": "tourism",
+                "Wikidata_ID": "Q890167890"
+            },
+            {
+                "originalKey": "small firm",
+                "Wikidata_ID": "Q901678901"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "White Mountains",
+                "Wikidata_ID": "Q164357"
+            },
+            {
+                "originalKey": "KISSAMOS",
+                "Wikidata_ID": "Q208397"
+            },
+            {
+                "originalKey": "Elos (LAU2 Code: 74050201)",
+                "Wikidata_ID": "Q2625574"
+            },
+            {
+                "originalKey": "Chania international airport",
+                "Wikidata_ID": "Q238947"
+            },
+            {
+                "originalKey": "Souda bay international harbor",
+                "Wikidata_ID": "Q2625573"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "Wikidata_ID": "Q5473896"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q104277"
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": "Q309568"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q104277"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q309568"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q174277"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q234769"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q105877"
+            },
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q234769"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q105877"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q107639"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q24585"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q107639"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "Wikidata_ID": "Q24585"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q107639"
+            },
+            {
+                "originalKey": "settlement",
+                "Wikidata_ID": "Q24585"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q107639"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q208534"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q197677"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q203548"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "P576"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q194930"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Chestnut trees",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q1234568"
+            },
+            {
+                "originalKey": "Chania",
+                "Wikidata_ID": "Q1234569"
+            },
+            {
+                "originalKey": "local farmers",
+                "Wikidata_ID": "Q1234570"
+            },
+            {
+                "originalKey": "cooperatives",
+                "Wikidata_ID": "Q1234571"
+            },
+            {
+                "originalKey": "private local firms",
+                "Wikidata_ID": "Q1234572"
+            },
+            {
+                "originalKey": "Italian market",
+                "Wikidata_ID": "Q1234573"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Western White Mountains",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "chestnut",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "agro-tourism",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "local population",
+                "Wikidata_ID": "Q4567890"
+            },
+            {
+                "originalKey": "cultural associations",
+                "Wikidata_ID": "Q5678901"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "chestnut trees",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "farmers",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "Greek market",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "olive oil trees",
+                "Wikidata_ID": "Q567890134"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Region of Crete",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "academic institutions",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "New products",
+                "Wikidata_ID": "Q4567890"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q5678901"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "cultivation of chestnut trees",
+                "Wikidata_ID": "Q531"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q24"
+            },
+            {
+                "originalKey": "Greece",
+                "Wikidata_ID": "Q358"
+            }
+        ]
+    }
+]

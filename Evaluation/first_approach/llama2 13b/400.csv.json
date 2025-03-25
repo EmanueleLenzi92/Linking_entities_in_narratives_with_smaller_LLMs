@@ -1,0 +1,186 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SWITZERLAND",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "ENGADINER",
+                "Wikidata_ID": "Q215948"
+            },
+            {
+                "originalKey": "SPIEGELSchAF",
+                "Wikidata_ID": "Q216037"
+            },
+            {
+                "originalKey": "NERA VERZASCA",
+                "Wikidata_ID": "Q215949"
+            },
+            {
+                "originalKey": "CAPRA GRIGIA",
+                "Wikidata_ID": "Q216038"
+            },
+            {
+                "originalKey": "BLACK ALPSINE PIG",
+                "Wikidata_ID": "Q215950"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "mountain chain",
+                "Wikidata_ID": "Q785910"
+            },
+            {
+                "originalKey": "mountain landscape",
+                "Wikidata_ID": "Q342963"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "Wikidata_ID": "Q5"
+            },
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q1047598"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q1047598"
+            },
+            {
+                "originalKey": "thousand",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "inhabitants/km2",
+                "Wikidata_ID": "Q5714896"
+            },
+            {
+                "originalKey": "last 10 years",
+                "Wikidata_ID": "Q5714896"
+            },
+            {
+                "originalKey": "regional population density",
+                "Wikidata_ID": "Q5714896"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "Wikidata_ID": "Q5714896"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q234567890"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Bed places",
+                "Wikidata_ID": "Q742513"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q108926"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q57143"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q209868"
+            },
+            {
+                "originalKey": "settlement",
+                "Wikidata_ID": "Q108926"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q574219"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q6305"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "old traditional breeds",
+                "Wikidata_ID": "Q1852437"
+            },
+            {
+                "originalKey": "local situation",
+                "Wikidata_ID": "Q645908"
+            },
+            {
+                "originalKey": "farmer led initiative",
+                "Wikidata_ID": "Q2371383"
+            },
+            {
+                "originalKey": "trend of localness",
+                "Wikidata_ID": "Q645908"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "veganism",
+                "Wikidata_ID": "Q781265"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q30"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "this VC (Value Chain)",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "old animal breeds",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "Grassland",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "Natural and cultural",
+                "Wikidata_ID": "Q567890123"
+            }
+        ]
+    }
+]

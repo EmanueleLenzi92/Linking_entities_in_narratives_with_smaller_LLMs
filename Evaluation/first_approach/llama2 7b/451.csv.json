@@ -1,0 +1,265 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "Wikidata_ID": "Q1043579"
+            },
+            {
+                "originalKey": "Pinus pinea L.",
+                "Wikidata_ID": "Q268579"
+            },
+            {
+                "originalKey": "Çetin",
+                "Wikidata_ID": "Q1043580"
+            },
+            {
+                "originalKey": "Öztürk",
+                "Wikidata_ID": "Q1043581"
+            },
+            {
+                "originalKey": "Küçükerdem",
+                "Wikidata_ID": "Q1043582"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Bergama",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "İzmir",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "Kozak",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "Madra Mountains",
+                "Wikidata_ID": "Q456789012"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "Wikidata_ID": "Q257649"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q130879"
+            },
+            {
+                "originalKey": "population (in thousand)",
+                "Wikidata_ID": "Q257648"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q130878"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": "Q257647"
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q130877"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q257646"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12345"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q23456"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places",
+                "Wikidata_ID": "Q51356"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q248709"
+            },
+            {
+                "originalKey": "regional",
+                "Wikidata_ID": "Q15367"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q20489"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "Wikidata_ID": "Q567357"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q10000000"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q20000000"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Peanut pine (Pinus pinea L.)",
+                "Wikidata_ID": "Q105739"
+            },
+            {
+                "originalKey": "Bergama-Kozak plateau",
+                "Wikidata_ID": "Q246877"
+            },
+            {
+                "originalKey": "Madra Mountains",
+                "Wikidata_ID": "Q246878"
+            },
+            {
+                "originalKey": "Kozak",
+                "Wikidata_ID": "Q246879"
+            },
+            {
+                "originalKey": "granite soils",
+                "Wikidata_ID": "Q105737"
+            },
+            {
+                "originalKey": "October",
+                "Wikidata_ID": "Q246876"
+            },
+            {
+                "originalKey": "April",
+                "Wikidata_ID": "Q246875"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "Wikidata_ID": "Q1043"
+            },
+            {
+                "originalKey": "Kozak/Bergama",
+                "Wikidata_ID": "Q267598"
+            },
+            {
+                "originalKey": "pine nut",
+                "Wikidata_ID": "Q14303"
+            },
+            {
+                "originalKey": "Geographical Indication",
+                "Wikidata_ID": "Q267598"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Kozak plateau",
+                "Wikidata_ID": "Q1075349"
+            },
+            {
+                "originalKey": "pine seedlings",
+                "Wikidata_ID": "Q268777"
+            },
+            {
+                "originalKey": "pests and diseases",
+                "Wikidata_ID": "Q1075349"
+            },
+            {
+                "originalKey": "qualified personnel",
+                "Wikidata_ID": "Q268777"
+            },
+            {
+                "originalKey": "education",
+                "Wikidata_ID": "Q1075349"
+            },
+            {
+                "originalKey": "inadequate advertisement and marketing",
+                "Wikidata_ID": "Q268777"
+            },
+            {
+                "originalKey": "cooperative",
+                "Wikidata_ID": "Q1075349"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The type of innovation",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "innovation",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "land use systems",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "Cropland",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "Forestry",
+                "Wikidata_ID": "Q678901456"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q789015678"
+            },
+            {
+                "originalKey": "cultural",
+                "Wikidata_ID": "Q890156789"
+            }
+        ]
+    },
+    {
+        "entities": []
+    }
+]

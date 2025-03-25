@@ -1,0 +1,298 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "SPAIN",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "ES",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "Sierras Cazorla",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "Segura",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "Las Villas",
+                "Wikidata_ID": "Q678901456"
+            },
+            {
+                "originalKey": "cattle",
+                "Wikidata_ID": "Q789015678"
+            },
+            {
+                "originalKey": "mountains",
+                "Wikidata_ID": "Q890156789"
+            },
+            {
+                "originalKey": "plains",
+                "Wikidata_ID": "Q901567890"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Betic System",
+                "Wikidata_ID": "Q135847"
+            },
+            {
+                "originalKey": "Castril",
+                "Wikidata_ID": "Q206937"
+            },
+            {
+                "originalKey": "transhumance",
+                "Wikidata_ID": "Q145847"
+            },
+            {
+                "originalKey": "Natura 2000 Network",
+                "Wikidata_ID": "Q136937"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "Wikidata_ID": "Q235749"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q165087"
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": "Q23495"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q165085"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q23497"
+            },
+            {
+                "originalKey": "regional population density",
+                "Wikidata_ID": "Q165086"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "Wikidata_ID": "Q23496"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1225890"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1225891"
+            },
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q164730"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q1225892"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places",
+                "Wikidata_ID": "Q10853794"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q262577"
+            },
+            {
+                "originalKey": "Regional",
+                "Wikidata_ID": "Q10853794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q262577"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "Wikidata_ID": "Q10853794"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q262577"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q208396"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q174557"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q208397"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "P576"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "P104"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Transhumance",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Mediterranean area",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "Alps",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "Spain",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "UNESCO",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "Representative List of the Intangible Cultural Heritage of Humanity",
+                "Wikidata_ID": "Q678901456"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "livestock transhumance",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Natural Park of the Sierras de Cazorla, Segura and Las Villas",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "Sierra Morena",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "Jaén",
+                "Wikidata_ID": "Q4567890"
+            },
+            {
+                "originalKey": "Granada",
+                "Wikidata_ID": "Q5678901"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "transhumance",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "livestock trails and infrastructures",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "shepherds",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "public strategy",
+                "Wikidata_ID": "Q4567890"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Transhumance",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "Grassland",
+                "Wikidata_ID": "Q3456790"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q4567890"
+            },
+            {
+                "originalKey": "social",
+                "Wikidata_ID": "Q5678901"
+            },
+            {
+                "originalKey": "cultural",
+                "Wikidata_ID": "Q6789023"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Soria",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Cuenca",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "La Rioja",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "Andalusia",
+                "Wikidata_ID": "Q4567890"
+            },
+            {
+                "originalKey": "Sierras of Cazorla, Segura and Las Villas in Jaén",
+                "Wikidata_ID": "Q5678901"
+            },
+            {
+                "originalKey": "Sierra de Castril in Granada",
+                "Wikidata_ID": "Q6789023"
+            },
+            {
+                "originalKey": "Sierra Morena",
+                "Wikidata_ID": "Q7890234"
+            }
+        ]
+    }
+]

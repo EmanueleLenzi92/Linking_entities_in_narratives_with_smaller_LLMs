@@ -1,0 +1,250 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "Wikidata_ID": "Q1053794"
+            },
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "Wikidata_ID": "Q268"
+            },
+            {
+                "originalKey": "Ostrava",
+                "Wikidata_ID": "Q1053795"
+            },
+            {
+                "originalKey": "Vallachian region",
+                "Wikidata_ID": "Q1053796"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "Wikidata_ID": "Q1053797"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Javorníky/Beskydy (Western Carpathian) mountains",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "LAU 1 Vsetín",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "Czech Republic",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "Europe",
+                "Wikidata_ID": "Q456789012"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "Wikidata_ID": "Q235768"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q140977"
+            },
+            {
+                "originalKey": "population (in thousand)",
+                "Wikidata_ID": "Q235768"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q140977"
+            },
+            {
+                "originalKey": "-0.95%",
+                "Wikidata_ID": "Q235768"
+            },
+            {
+                "originalKey": "-1.49%",
+                "Wikidata_ID": "Q140977"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q23478"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q10569"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places",
+                "Wikidata_ID": "Q1083729"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q54644"
+            },
+            {
+                "originalKey": "Regional",
+                "Wikidata_ID": "Q1083728"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q54645"
+            },
+            {
+                "originalKey": "settlement",
+                "Wikidata_ID": "Q1083727"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q54646"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q10000000"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q20000000"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "EU Protected Geographical Indication (PGI) label",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "regional product label",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "Valašský region",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "Italians (Vallachians - valašský)",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "pears",
+                "Wikidata_ID": "Q678901456"
+            },
+            {
+                "originalKey": "Czechia",
+                "Wikidata_ID": "Q789015678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vallachian region",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "cake",
+                "Wikidata_ID": "Q2345678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The cake utilises the regional name ('Vallachian')",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "Czechia",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "frgále",
+                "Wikidata_ID": "Q456789012"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "innovation",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "cake",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "local people",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "territory",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "mountain region",
+                "Wikidata_ID": "Q678901456"
+            },
+            {
+                "originalKey": "specific dialect",
+                "Wikidata_ID": "Q789015678"
+            },
+            {
+                "originalKey": "Social and cultural",
+                "Wikidata_ID": "Q890167890"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "frgál",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Czechia",
+                "Wikidata_ID": "Q234567890"
+            }
+        ]
+    }
+]

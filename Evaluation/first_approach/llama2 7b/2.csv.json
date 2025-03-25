@@ -1,0 +1,350 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "VC 02 AT",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "cheese",
+                "Wikidata_ID": "Q56789013"
+            },
+            {
+                "originalKey": "cow milk",
+                "Wikidata_ID": "Q789014567"
+            },
+            {
+                "originalKey": "sheep milk",
+                "Wikidata_ID": "Q890156789"
+            },
+            {
+                "originalKey": "goat milk",
+                "Wikidata_ID": "Q901567890"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Reference mountain chain",
+                "Wikidata_ID": "Q1043579"
+            },
+            {
+                "originalKey": "Austrian Alps",
+                "Wikidata_ID": "Q268745"
+            },
+            {
+                "originalKey": "Weiz",
+                "Wikidata_ID": "Q1043580"
+            },
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q268746"
+            },
+            {
+                "originalKey": "Styrian alpine pasture region",
+                "Wikidata_ID": "Q1043578"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "Wikidata_ID": "Q257649"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q130879"
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": "Q24655"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q173089"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q257648"
+            },
+            {
+                "originalKey": "regional population density",
+                "Wikidata_ID": "Q173090"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "Wikidata_ID": "Q257647"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q12345"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q23456"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "regional",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q4567890"
+            },
+            {
+                "originalKey": "s settlement",
+                "Wikidata_ID": "Q5678901"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q6789012"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q105348"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q105349"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q105350"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q246"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q13579"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "cheese",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "cow",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "sheep",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "goat",
+                "Wikidata_ID": "Q4567890"
+            },
+            {
+                "originalKey": "Almenland dairy",
+                "Wikidata_ID": "Q5678901"
+            },
+            {
+                "originalKey": "mountain",
+                "Wikidata_ID": "Q7890123"
+            },
+            {
+                "originalKey": "tunnel",
+                "Wikidata_ID": "Q9012345"
+            },
+            {
+                "originalKey": "pit house",
+                "Wikidata_ID": "Q87654321"
+            },
+            {
+                "originalKey": "regional activities",
+                "Wikidata_ID": "Q90123456"
+            },
+            {
+                "originalKey": "touristic programme",
+                "Wikidata_ID": "Q87654321"
+            },
+            {
+                "originalKey": "guided tours",
+                "Wikidata_ID": "Q90123456"
+            },
+            {
+                "originalKey": "educational programmes",
+                "Wikidata_ID": "Q87654321"
+            },
+            {
+                "originalKey": "cheese tastings",
+                "Wikidata_ID": "Q90123456"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q1057394"
+            },
+            {
+                "originalKey": "AgrarMarkt Austria",
+                "Wikidata_ID": "Q268777"
+            },
+            {
+                "originalKey": "milk producing sector",
+                "Wikidata_ID": "Q1057394"
+            },
+            {
+                "originalKey": "tourist sector",
+                "Wikidata_ID": "Q268777"
+            },
+            {
+                "originalKey": "local Almenland producers",
+                "Wikidata_ID": "Q1057394"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "milk production",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "climate",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "feedbase",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "pasture based meat production",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "alpine pasture areas",
+                "Wikidata_ID": "Q678901456"
+            },
+            {
+                "originalKey": "upscaling",
+                "Wikidata_ID": "Q789015678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The innovation of this VC (Value Chain)",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Endogenous",
+                "Wikidata_ID": "Q23456789"
+            },
+            {
+                "originalKey": "Exogenous",
+                "Wikidata_ID": "Q34567890"
+            },
+            {
+                "originalKey": "Specific processing",
+                "Wikidata_ID": "Q45678901"
+            },
+            {
+                "originalKey": "tunnel of the former silver mine",
+                "Wikidata_ID": "Q56789023"
+            },
+            {
+                "originalKey": "local hey milk",
+                "Wikidata_ID": "Q78902345"
+            },
+            {
+                "originalKey": "cheese competitions",
+                "Wikidata_ID": "Q89023456"
+            },
+            {
+                "originalKey": "Arzberger Ursteirer",
+                "Wikidata_ID": "Q90234567"
+            },
+            {
+                "originalKey": "vice world champion",
+                "Wikidata_ID": "Q102345678"
+            },
+            {
+                "originalKey": "New products",
+                "Wikidata_ID": "Q112345679"
+            },
+            {
+                "originalKey": "New processes",
+                "Wikidata_ID": "Q123456780"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q134567890"
+            },
+            {
+                "originalKey": "land use systems",
+                "Wikidata_ID": "Q145678901"
+            },
+            {
+                "originalKey": "pasture farming",
+                "Wikidata_ID": "Q156789023"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Cheese",
+                "Wikidata_ID": "Q1258"
+            },
+            {
+                "originalKey": "Austrian Alps",
+                "Wikidata_ID": "Q34769"
+            },
+            {
+                "originalKey": "hay milk",
+                "Wikidata_ID": "Q105827"
+            },
+            {
+                "originalKey": "silver mine",
+                "Wikidata_ID": "Q34768"
+            }
+        ]
+    }
+]

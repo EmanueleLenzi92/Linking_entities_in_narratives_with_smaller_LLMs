@@ -1,0 +1,214 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "Wikidata_ID": "Q64"
+            },
+            {
+                "originalKey": "VC 10 CZ",
+                "Wikidata_ID": "Q2389578"
+            },
+            {
+                "originalKey": "Herb liquers",
+                "Wikidata_ID": "Q2464134"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Giant Mountains",
+                "Wikidata_ID": "Q783920"
+            },
+            {
+                "originalKey": "LAU 1 Trutnov",
+                "Wikidata_ID": "Q645515"
+            },
+            {
+                "originalKey": "Kralovehradecky",
+                "Wikidata_ID": "Q302987"
+            },
+            {
+                "originalKey": "Czech Republic",
+                "Wikidata_ID": "Q30574"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area (km2)",
+                "Wikidata_ID": "Q5"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q1073498"
+            },
+            {
+                "originalKey": "population (in thousand)",
+                "Wikidata_ID": "Q526523"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q1073498"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": "Q2569284"
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q1073498"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q2569284"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q234567890"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q578913"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q720468"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q159348"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "Wikidata_ID": "Q237868"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q154909"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q579"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q625"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "herb liquers",
+                "Wikidata_ID": "Q10472835"
+            },
+            {
+                "originalKey": "mountain regions",
+                "Wikidata_ID": "Q79648"
+            },
+            {
+                "originalKey": "regional product",
+                "Wikidata_ID": "Q10523139"
+            },
+            {
+                "originalKey": "natural values",
+                "Wikidata_ID": "Q487689"
+            },
+            {
+                "originalKey": "symbolic values",
+                "Wikidata_ID": "Q5012388"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "traditional knowledge",
+                "Wikidata_ID": "Q7859"
+            },
+            {
+                "originalKey": "cultural traits",
+                "Wikidata_ID": "Q624310"
+            },
+            {
+                "originalKey": "mountains",
+                "Wikidata_ID": "Q7859"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Herb liquers",
+                "Wikidata_ID": "Q10475382"
+            },
+            {
+                "originalKey": "mainstream food markets",
+                "Wikidata_ID": "Q649786"
+            },
+            {
+                "originalKey": "valuorization of the product",
+                "Wikidata_ID": "Q2053131"
+            },
+            {
+                "originalKey": "marketing strategy",
+                "Wikidata_ID": "Q649786"
+            },
+            {
+                "originalKey": "Current",
+                "Wikidata_ID": "Q10523135"
+            },
+            {
+                "originalKey": "Traditional",
+                "Wikidata_ID": "Q649786"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "Natural and cultural",
+                "Wikidata_ID": "Q345678901"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q785903"
+            },
+            {
+                "originalKey": "mountain region",
+                "Wikidata_ID": "Q624128"
+            }
+        ]
+    }
+]

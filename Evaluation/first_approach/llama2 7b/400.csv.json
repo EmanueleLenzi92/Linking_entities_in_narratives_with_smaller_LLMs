@@ -1,0 +1,218 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "Wikidata_ID": "Q1056739"
+            },
+            {
+                "originalKey": "Switzerland",
+                "Wikidata_ID": "Q248"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q1056739"
+            },
+            {
+                "originalKey": "old animal breeds",
+                "Wikidata_ID": "Q248757"
+            },
+            {
+                "originalKey": "sheep",
+                "Wikidata_ID": "Q1056739"
+            },
+            {
+                "originalKey": "goat",
+                "Wikidata_ID": "Q248757"
+            },
+            {
+                "originalKey": "pigs",
+                "Wikidata_ID": "Q1056739"
+            },
+            {
+                "originalKey": "chickens",
+                "Wikidata_ID": "Q248757"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "mountain chain",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "mountain landscape",
+                "Wikidata_ID": "Q2345678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "altimetry",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "density",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "regional population density",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "regional population change rate",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q2345678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q564"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q123"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "Wikidata_ID": "Q165749"
+            },
+            {
+                "originalKey": "bed places (BPs)",
+                "Wikidata_ID": "Q203837"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q165748"
+            },
+            {
+                "originalKey": "settlement",
+                "Wikidata_ID": "Q203836"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q10537"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q10538"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q10539"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "P576"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "P104"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "traditional breeds",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "local situation",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "farmer led initiative",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "localness being trendy",
+                "Wikidata_ID": "Q456789012"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Overall",
+                "Wikidata_ID": "Q108357"
+            },
+            {
+                "originalKey": "Traditional",
+                "Wikidata_ID": "Q24695"
+            },
+            {
+                "originalKey": "Innovative",
+                "Wikidata_ID": "Q108357"
+            },
+            {
+                "originalKey": "Predicted",
+                "Wikidata_ID": "Q24695"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "old animal breeds",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "Grassland",
+                "Wikidata_ID": "Q4567890"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q5678901"
+            },
+            {
+                "originalKey": "cultural",
+                "Wikidata_ID": "Q6789012"
+            }
+        ]
+    }
+]

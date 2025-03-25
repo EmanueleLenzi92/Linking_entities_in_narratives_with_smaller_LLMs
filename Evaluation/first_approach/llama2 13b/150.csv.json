@@ -1,0 +1,222 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "ITALY UNIMOL",
+                "Wikidata_ID": "Q1047283"
+            },
+            {
+                "originalKey": "UNIPI",
+                "Wikidata_ID": "Q655993"
+            },
+            {
+                "originalKey": "Amatrice",
+                "Wikidata_ID": "Q1047284"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Amatrice",
+                "Wikidata_ID": "Q183079"
+            },
+            {
+                "originalKey": "Central Apennines",
+                "Wikidata_ID": "Q652468"
+            },
+            {
+                "originalKey": "Lazio region",
+                "Wikidata_ID": "Q302917"
+            },
+            {
+                "originalKey": "Rieti",
+                "Wikidata_ID": "Q184564"
+            },
+            {
+                "originalKey": "Abruzzo region",
+                "Wikidata_ID": "Q302927"
+            },
+            {
+                "originalKey": "National park of Gran Sasso e Monti della Laga",
+                "Wikidata_ID": "Q184565"
+            },
+            {
+                "originalKey": "Montana del Velino community",
+                "Wikidata_ID": "Q184566"
+            },
+            {
+                "originalKey": "Club of Borghi più belli d Italia",
+                "Wikidata_ID": "Q184567"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area (km2)",
+                "Wikidata_ID": "Q1047695"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q180239"
+            },
+            {
+                "originalKey": "population (in thousand)",
+                "Wikidata_ID": "Q475684"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q1047693"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": "Q180238"
+            },
+            {
+                "originalKey": "regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q1047691"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q180237"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1047293"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1047294"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "BPs",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q567890123"
+            },
+            {
+                "originalKey": "settlement",
+                "Wikidata_ID": "Q678901234"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q789012345"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q73296"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q73295"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Amatrice",
+                "Wikidata_ID": "Q217549"
+            },
+            {
+                "originalKey": "honey certificate of origin",
+                "Wikidata_ID": "Q2368031"
+            },
+            {
+                "originalKey": "Mielene di Amatric",
+                "Wikidata_ID": "Q2368032"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Amatrice",
+                "Wikidata_ID": "Q237451"
+            },
+            {
+                "originalKey": "nature park",
+                "Wikidata_ID": "Q605988"
+            },
+            {
+                "originalKey": "organic honey",
+                "Wikidata_ID": "Q237451"
+            },
+            {
+                "originalKey": "mountain area",
+                "Wikidata_ID": "Q605988"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q781"
+            },
+            {
+                "originalKey": "honey production",
+                "Wikidata_ID": "Q205943"
+            },
+            {
+                "originalKey": "bees",
+                "Wikidata_ID": "Q18674"
+            },
+            {
+                "originalKey": "plants' biological cycles",
+                "Wikidata_ID": "Q5"
+            },
+            {
+                "originalKey": "Municipality of Amatrice",
+                "Wikidata_ID": "Q1072468"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Miele di Amatrice",
+                "Wikidata_ID": "Q2378506"
+            },
+            {
+                "originalKey": "Amatrice",
+                "Wikidata_ID": "Q184958"
+            },
+            {
+                "originalKey": "local mountain farms",
+                "Wikidata_ID": "Q1072368"
+            },
+            {
+                "originalKey": "honey",
+                "Wikidata_ID": "Q42592"
+            }
+        ]
+    }
+]

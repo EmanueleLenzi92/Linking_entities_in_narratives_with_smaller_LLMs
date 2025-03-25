@@ -1,0 +1,226 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "Wikidata_ID": "Q237"
+            },
+            {
+                "originalKey": "CRETE",
+                "Wikidata_ID": "Q564918"
+            },
+            {
+                "originalKey": "pefkothymaromelo",
+                "Wikidata_ID": "Q2073283"
+            },
+            {
+                "originalKey": "local beekeepers",
+                "Wikidata_ID": "Q1594688"
+            },
+            {
+                "originalKey": "honey factories",
+                "Wikidata_ID": "Q2073284"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "White Mountains",
+                "Wikidata_ID": "Q752460"
+            },
+            {
+                "originalKey": "KISSAMOS",
+                "Wikidata_ID": "Q183958"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q20746"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area (km2)",
+                "Wikidata_ID": "Q5"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q1073498"
+            },
+            {
+                "originalKey": "population (in thousand)",
+                "Wikidata_ID": "Q526523"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q1073499"
+            },
+            {
+                "originalKey": "regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q1073500"
+            },
+            {
+                "originalKey": "population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q1073501"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1047239"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1047238"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q567890123"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q574238"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q574239"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Apicature",
+                "Wikidata_ID": "Q2156938"
+            },
+            {
+                "originalKey": "PDO",
+                "Wikidata_ID": "Q740213"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q50694"
+            },
+            {
+                "originalKey": "Cretan plants",
+                "Wikidata_ID": "Q1832781"
+            },
+            {
+                "originalKey": "beekeepers",
+                "Wikidata_ID": "Q150946"
+            },
+            {
+                "originalKey": "honey products",
+                "Wikidata_ID": "Q1832782"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Topolia/Kissamos",
+                "Wikidata_ID": "Q557346"
+            },
+            {
+                "originalKey": "Minoan Civilization",
+                "Wikidata_ID": "Q183290"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q57424"
+            },
+            {
+                "originalKey": "beekeeping",
+                "Wikidata_ID": "Q183291"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q51234"
+            },
+            {
+                "originalKey": "honey production",
+                "Wikidata_ID": "Q209876"
+            },
+            {
+                "originalKey": "pesticides",
+                "Wikidata_ID": "Q435123"
+            },
+            {
+                "originalKey": "inferior types of honey",
+                "Wikidata_ID": "Q193870"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "pefkothymaromelo",
+                "Wikidata_ID": "Q2378406"
+            },
+            {
+                "originalKey": "Kissamos",
+                "Wikidata_ID": "Q159148"
+            },
+            {
+                "originalKey": "Forestry",
+                "Wikidata_ID": "Q207396"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q185418"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Peyfothymaromelo",
+                "Wikidata_ID": "Q23784109"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q65512"
+            },
+            {
+                "originalKey": "Greece",
+                "Wikidata_ID": "Q30574"
+            },
+            {
+                "originalKey": "EU katalog (eAmbrosia)",
+                "Wikidata_ID": "Q1062893"
+            }
+        ]
+    }
+]

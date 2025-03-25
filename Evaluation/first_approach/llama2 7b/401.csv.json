@@ -1,0 +1,194 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "Wikidata_ID": "Q207359"
+            },
+            {
+                "originalKey": "Switzerland",
+                "Wikidata_ID": "Q1648"
+            },
+            {
+                "originalKey": "alps",
+                "Wikidata_ID": "Q207358"
+            },
+            {
+                "originalKey": "honey",
+                "Wikidata_ID": "Q1649"
+            },
+            {
+                "originalKey": "Pro Montagna",
+                "Wikidata_ID": "Q207357"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "mountain chain",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "mountain landscape",
+                "Wikidata_ID": "Q2345678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "population (in thousand)",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "population change rate in the last 10 years (%)",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q2345678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q564"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q123"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "Wikidata_ID": "Q165749"
+            },
+            {
+                "originalKey": "bed places (BPs)",
+                "Wikidata_ID": "Q203837"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q165748"
+            },
+            {
+                "originalKey": "settlement",
+                "Wikidata_ID": "Q203836"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q10537"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q10538"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q10539"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "P576"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "P104"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "traditional VC",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "well sought after",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "working well",
+                "Wikidata_ID": "Q3456789"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bees",
+                "Wikidata_ID": "Q12345"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q78901"
+            },
+            {
+                "originalKey": "Predicted",
+                "Wikidata_ID": "Q34567"
+            },
+            {
+                "originalKey": "Traditional",
+                "Wikidata_ID": "Q45678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "innovation",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "land use systems",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "Beehives",
+                "Wikidata_ID": "Q4567890"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q5678901"
+            }
+        ]
+    }
+]

@@ -1,0 +1,350 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "Wikidata_ID": "Q10574398"
+            },
+            {
+                "originalKey": "SPAIN",
+                "Wikidata_ID": "Q267"
+            },
+            {
+                "originalKey": "ES",
+                "Wikidata_ID": "Q10574398"
+            },
+            {
+                "originalKey": "ATADes",
+                "Wikidata_ID": "Q2674377"
+            },
+            {
+                "originalKey": "Torres de Berrellén",
+                "Wikidata_ID": "Q10574398"
+            },
+            {
+                "originalKey": "Zaragoza",
+                "Wikidata_ID": "Q267"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pyrenees",
+                "Wikidata_ID": "Q135749"
+            },
+            {
+                "originalKey": "Jaca (Ascara)",
+                "Wikidata_ID": "Q268077"
+            },
+            {
+                "originalKey": "Canal de Berdún",
+                "Wikidata_ID": "Q534197"
+            },
+            {
+                "originalKey": "Huesca",
+                "Wikidata_ID": "Q206847"
+            },
+            {
+                "originalKey": "Zaragoza",
+                "Wikidata_ID": "Q135748"
+            },
+            {
+                "originalKey": "Natura 2000 Network",
+                "Wikidata_ID": "Q169737"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "Wikidata_ID": "Q236578"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q149057"
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": "Q236580"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q149057"
+            },
+            {
+                "originalKey": "altimetry",
+                "Wikidata_ID": "Q236581"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q236579"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q236582"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q104789"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q23565"
+            },
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q104789"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q23565"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places",
+                "Wikidata_ID": "Q1085379"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q246747"
+            },
+            {
+                "originalKey": "regional",
+                "Wikidata_ID": "Q1085379"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q246747"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "Wikidata_ID": "Q246747"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q5389"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q12345"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q23456"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q34567"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q45689"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q56789"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Cielos de Ascara",
+                "Wikidata_ID": "Q10745398"
+            },
+            {
+                "originalKey": "Aragonese Pyrenees",
+                "Wikidata_ID": "Q262555"
+            },
+            {
+                "originalKey": "natural heritage",
+                "Wikidata_ID": "Q187439"
+            },
+            {
+                "originalKey": "cultural heritage",
+                "Wikidata_ID": "Q205655"
+            },
+            {
+                "originalKey": "ecological heritage",
+                "Wikidata_ID": "Q187439"
+            },
+            {
+                "originalKey": "people with particular social and labor insertion difficulties",
+                "Wikidata_ID": "Q262555"
+            },
+            {
+                "originalKey": "natural resources",
+                "Wikidata_ID": "Q187439"
+            },
+            {
+                "originalKey": "inputs for organic food production",
+                "Wikidata_ID": "Q205655"
+            },
+            {
+                "originalKey": "mountain areas",
+                "Wikidata_ID": "Q187439"
+            },
+            {
+                "originalKey": "valley areas",
+                "Wikidata_ID": "Q262555"
+            },
+            {
+                "originalKey": "public-private collaboration",
+                "Wikidata_ID": "Q10745398"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aragon",
+                "Wikidata_ID": "Q104759"
+            },
+            {
+                "originalKey": "food heritage",
+                "Wikidata_ID": "Q236837"
+            },
+            {
+                "originalKey": "sustainable",
+                "Wikidata_ID": "Q14509"
+            },
+            {
+                "originalKey": "proximity",
+                "Wikidata_ID": "Q236838"
+            },
+            {
+                "originalKey": "healthy",
+                "Wikidata_ID": "Q14507"
+            },
+            {
+                "originalKey": "higher quality",
+                "Wikidata_ID": "Q236839"
+            },
+            {
+                "originalKey": "flavorful",
+                "Wikidata_ID": "Q14508"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "main challenge",
+                "Wikidata_ID": "Q10753498"
+            },
+            {
+                "originalKey": "sustainability",
+                "Wikidata_ID": "Q26444"
+            },
+            {
+                "originalKey": "institutional actors",
+                "Wikidata_ID": "Q10753500"
+            },
+            {
+                "originalKey": "private actors",
+                "Wikidata_ID": "Q10753502"
+            },
+            {
+                "originalKey": "rural development policies",
+                "Wikidata_ID": "Q10753496"
+            },
+            {
+                "originalKey": "urban consumption environments",
+                "Wikidata_ID": "Q10753497"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "innovation",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "Endogenous",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "rural and mountain areas",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "natural and cultural interest",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "traditional varieties",
+                "Wikidata_ID": "Q678901456"
+            },
+            {
+                "originalKey": "organic production and consumption",
+                "Wikidata_ID": "Q789015678"
+            },
+            {
+                "originalKey": "rural and urban areas",
+                "Wikidata_ID": "Q890167890"
+            },
+            {
+                "originalKey": "employment",
+                "Wikidata_ID": "Q901678901"
+            },
+            {
+                "originalKey": "social integration",
+                "Wikidata_ID": "Q987654321"
+            },
+            {
+                "originalKey": "public-private cooperation",
+                "Wikidata_ID": "Q990123456"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Birds",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "San Juan de la Peña",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "Monte Oroel",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "Natural Park of the Western Valleys",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "Torres de Berrellén",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "CITA",
+                "Wikidata_ID": "Q678901456"
+            },
+            {
+                "originalKey": "Mercazaragoza",
+                "Wikidata_ID": "Q789015678"
+            }
+        ]
+    }
+]

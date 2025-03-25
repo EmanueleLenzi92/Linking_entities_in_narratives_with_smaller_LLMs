@@ -1,0 +1,226 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "Wikidata_ID": "Q7952863"
+            },
+            {
+                "originalKey": "NMK",
+                "Wikidata_ID": "Q1047508"
+            },
+            {
+                "originalKey": "Kozuvcanka",
+                "Wikidata_ID": "Q2369483"
+            },
+            {
+                "originalKey": "Pelisterka",
+                "Wikidata_ID": "Q2369484"
+            },
+            {
+                "originalKey": "Maya",
+                "Wikidata_ID": "Q2369485"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Mountain Meleshevija",
+                "Wikidata_ID": "Q1057928"
+            },
+            {
+                "originalKey": "Maleshevski mountains",
+                "Wikidata_ID": "Q1057928"
+            },
+            {
+                "originalKey": "Republic of North Macedonia",
+                "Wikidata_ID": "Q305"
+            },
+            {
+                "originalKey": "Bregalnica",
+                "Wikidata_ID": "Q1062487"
+            },
+            {
+                "originalKey": "Strumica",
+                "Wikidata_ID": "Q1062487"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area (km2)",
+                "Wikidata_ID": "Q5"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q1077438"
+            },
+            {
+                "originalKey": "population (in thousand)",
+                "Wikidata_ID": "Q259"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q301"
+            },
+            {
+                "originalKey": "regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q301"
+            },
+            {
+                "originalKey": "population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q845976"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1047389"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1047388"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "settlement",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q567890123"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q234567890"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vardar planning region",
+                "Wikidata_ID": "Q215438"
+            },
+            {
+                "originalKey": "Crni Drim",
+                "Wikidata_ID": "Q215440"
+            },
+            {
+                "originalKey": "Bregalnica",
+                "Wikidata_ID": "Q215441"
+            },
+            {
+                "originalKey": "Topolka",
+                "Wikidata_ID": "Q215442"
+            },
+            {
+                "originalKey": "Otovica",
+                "Wikidata_ID": "Q215443"
+            },
+            {
+                "originalKey": "Kozuvcanka",
+                "Wikidata_ID": "Q215444"
+            },
+            {
+                "originalKey": "Tikvesh",
+                "Wikidata_ID": "Q215439"
+            },
+            {
+                "originalKey": "Lices",
+                "Wikidata_ID": "Q215445"
+            },
+            {
+                "originalKey": "Mladost",
+                "Wikidata_ID": "Q215446"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Kozuvcanka",
+                "Wikidata_ID": "Q10875243"
+            },
+            {
+                "originalKey": "Maleshevski mountain",
+                "Wikidata_ID": "Q2069588"
+            },
+            {
+                "originalKey": "Vardarski region",
+                "Wikidata_ID": "Q173493"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q2059138"
+            },
+            {
+                "originalKey": "innovation",
+                "Wikidata_ID": "Q647"
+            },
+            {
+                "originalKey": "technology",
+                "Wikidata_ID": "Q12345"
+            },
+            {
+                "originalKey": "production",
+                "Wikidata_ID": "Q2060978"
+            },
+            {
+                "originalKey": "distribution",
+                "Wikidata_ID": "Q2061034"
+            },
+            {
+                "originalKey": "New processes",
+                "Wikidata_ID": "Q2059138"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q2059138"
+            },
+            {
+                "originalKey": "Forestry",
+                "Wikidata_ID": "Q17641"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q2059138"
+            },
+            {
+                "originalKey": "local assets",
+                "Wikidata_ID": "Q2059138"
+            }
+        ]
+    }
+]

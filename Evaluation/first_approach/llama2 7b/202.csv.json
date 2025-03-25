@@ -1,0 +1,238 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "Wines of Macedonia",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Ministry of Agriculture of North Macedonia",
+                "Wikidata_ID": "Q2345678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Mountain Meleshevija",
+                "Wikidata_ID": "Q1645378"
+            },
+            {
+                "originalKey": "Maleshevski mountains",
+                "Wikidata_ID": "Q209337"
+            },
+            {
+                "originalKey": "Bregalnica",
+                "Wikidata_ID": "Q1645380"
+            },
+            {
+                "originalKey": "Strumica",
+                "Wikidata_ID": "Q1645379"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "Wikidata_ID": "Q5473896"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q104279"
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": "Q30568"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q104279"
+            },
+            {
+                "originalKey": "altimetry",
+                "Wikidata_ID": "Q536845"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q107925"
+            },
+            {
+                "originalKey": "regional population density",
+                "Wikidata_ID": "Q107925"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q346857"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q134789"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q134788"
+            },
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q56209"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q134787"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places",
+                "Wikidata_ID": "Q1085379"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q246745"
+            },
+            {
+                "originalKey": "Regional",
+                "Wikidata_ID": "Q1085379"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q246745"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "Wikidata_ID": "unspecified"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q246745"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q124769"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q124770"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q124771"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q5"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q124768"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vardar planning region",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Republic of North Macedonia",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "agriculture",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "viticulture",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "arable land",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "pastures",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "wineries",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "export-oriented",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "imported wines",
+                "Wikidata_ID": "Q123456789"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Maleshevski mountain",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Maleshevija",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q3456789"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The type of innovation",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "used technology",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "production and distribution",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "New processes",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q678901456"
+            },
+            {
+                "originalKey": "land use systems",
+                "Wikidata_ID": "Q789015678"
+            },
+            {
+                "originalKey": "Forestry",
+                "Wikidata_ID": "Q890156789"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q901567890"
+            }
+        ]
+    }
+]

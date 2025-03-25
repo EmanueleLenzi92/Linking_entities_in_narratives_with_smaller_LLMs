@@ -1,0 +1,206 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "Wikidata_ID": "Q765428"
+            },
+            {
+                "originalKey": "ROROS",
+                "Wikidata_ID": "Q1057938"
+            },
+            {
+                "originalKey": "BARLEY",
+                "Wikidata_ID": "Q24622"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains",
+                "Wikidata_ID": "Q485930"
+            },
+            {
+                "originalKey": "Tynset",
+                "Wikidata_ID": "Q2167198"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area (km2)",
+                "Wikidata_ID": "Q5"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q1047398"
+            },
+            {
+                "originalKey": "population (in thousand)",
+                "Wikidata_ID": "Q256951"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q307483"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": "Q256952"
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q307484"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q256953"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1043568"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1043572"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "Wikidata_ID": "Q456789012"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q578921"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q643054"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Ancient crop",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "farmers",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "grain",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "flour",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "e-commerce platform",
+                "Wikidata_ID": "Q567890123"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Norway",
+                "Wikidata_ID": "Q23591"
+            },
+            {
+                "originalKey": "barley",
+                "Wikidata_ID": "Q48670"
+            },
+            {
+                "originalKey": "Rorosmat",
+                "Wikidata_ID": "Q10579320"
+            },
+            {
+                "originalKey": "stone mill",
+                "Wikidata_ID": "Q206848"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "fertilizers",
+                "Wikidata_ID": "Q42350"
+            },
+            {
+                "originalKey": "pesticides",
+                "Wikidata_ID": "Q186279"
+            },
+            {
+                "originalKey": "barley",
+                "Wikidata_ID": "Q186345"
+            },
+            {
+                "originalKey": "wheat",
+                "Wikidata_ID": "Q186278"
+            },
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q30594"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Rorosmat",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Cropland",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q345678901"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "John Smith",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Apple Inc.",
+                "Wikidata_ID": "Q655331"
+            },
+            {
+                "originalKey": "San Francisco",
+                "Wikidata_ID": "Q74298"
+            }
+        ]
+    }
+]

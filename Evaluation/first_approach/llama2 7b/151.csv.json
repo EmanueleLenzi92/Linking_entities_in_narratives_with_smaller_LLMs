@@ -1,0 +1,278 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "ITALY",
+                "Wikidata_ID": "Q1234568"
+            },
+            {
+                "originalKey": "UNIMOL",
+                "Wikidata_ID": "Q1234569"
+            },
+            {
+                "originalKey": "UNIPI",
+                "Wikidata_ID": "Q1234570"
+            },
+            {
+                "originalKey": "VC 18 IT",
+                "Wikidata_ID": "Q1234571"
+            },
+            {
+                "originalKey": "Savigni",
+                "Wikidata_ID": "Q1234572"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Northern Apennines",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Tuscan Emilian Apennines",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "Sambuca Pistoiese",
+                "Wikidata_ID": "Q3456789"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "Wikidata_ID": "Q236579"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q148057"
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": "Q236579"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q148057"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q236579"
+            },
+            {
+                "originalKey": "-14.81%",
+                "Wikidata_ID": "Q236579"
+            },
+            {
+                "originalKey": "0.48%",
+                "Wikidata_ID": "Q148057"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q104389"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q257655"
+            },
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q104389"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q257655"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places",
+                "Wikidata_ID": "Q1083579"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q246747"
+            },
+            {
+                "originalKey": "regional",
+                "Wikidata_ID": "Q1083580"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q246749"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "Wikidata_ID": "Q1083578"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q246750"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q546839"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q107239"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q546840"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "P31"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "P276"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Savigni familly",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Bollo IT 9-3467/L IT R152E CE ANAS",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "National Association Pig Farmers",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "Japan Export (Ministry of Health)",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "BioAgriCert",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "Products Guarantee AIAB",
+                "Wikidata_ID": "Q678901456"
+            },
+            {
+                "originalKey": "INEQ (Quality North-East Institute / Body PDO Control)",
+                "Wikidata_ID": "Q789015678"
+            },
+            {
+                "originalKey": "TUV (German Certification Body ISO 9001/08)",
+                "Wikidata_ID": "Q890156789"
+            },
+            {
+                "originalKey": "quality consortium Consorzio Tutela of Cinta Senese",
+                "Wikidata_ID": "Q901567890"
+            },
+            {
+                "originalKey": "Consorzio Tutela Finocchiona PGI",
+                "Wikidata_ID": "Q1015678901"
+            },
+            {
+                "originalKey": "Finocchiona PGI (Certification Body INeQ Quality North-East Institute)",
+                "Wikidata_ID": "Q1115678902"
+            },
+            {
+                "originalKey": "Vitellone Bianco dell Appennino Centrale PGI",
+                "Wikidata_ID": "Q1215678903"
+            },
+            {
+                "originalKey": "Chianina beef (Certification Body 3A-PTA Umbria Agri-food Technology Park)",
+                "Wikidata_ID": "Q1315678904"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Savigni family",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Porretta",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "Suviana Lake",
+                "Wikidata_ID": "Q3456789"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Maintain",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "local animal",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "international market demand",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "Predicted",
+                "Wikidata_ID": "Q4567890"
+            },
+            {
+                "originalKey": "Innovative",
+                "Wikidata_ID": "Q5678901"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Innovation",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "organic farm",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "certification",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "new marketing strategies",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "Forestry",
+                "Wikidata_ID": "Q678901456"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q789015678"
+            }
+        ]
+    }
+]

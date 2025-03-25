@@ -1,0 +1,258 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "VC 07 SCA",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "barley",
+                "Wikidata_ID": "Q456789023"
+            },
+            {
+                "originalKey": "Roros",
+                "Wikidata_ID": "Q567890345"
+            },
+            {
+                "originalKey": "fungui",
+                "Wikidata_ID": "Q678904567"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains",
+                "Wikidata_ID": "Q164857"
+            },
+            {
+                "originalKey": "Scandes",
+                "Wikidata_ID": "Q23095"
+            },
+            {
+                "originalKey": "Tynset",
+                "Wikidata_ID": "Q164858"
+            },
+            {
+                "originalKey": "Østerdalen",
+                "Wikidata_ID": "Q23096"
+            },
+            {
+                "originalKey": "Norway",
+                "Wikidata_ID": "Q147"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "Wikidata_ID": "Q5473190"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q262847"
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": "Q10539"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q262848"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q10540"
+            },
+            {
+                "originalKey": "regional population density",
+                "Wikidata_ID": "Q262849"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "Wikidata_ID": "Q10541"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q104653"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q278955"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "Regional",
+                "Wikidata_ID": "Q345678901"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q456789012"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "Wikidata_ID": "Q567890134"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q678901456"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q12456789"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q23456789"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q34567890"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q23456789"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Ancient crop",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "extreme climate conditions",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "farmers",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "e-commerce platform",
+                "Wikidata_ID": "Q4567890"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "barley",
+                "Wikidata_ID": "Q12345"
+            },
+            {
+                "originalKey": "Norway",
+                "Wikidata_ID": "Q78901"
+            },
+            {
+                "originalKey": "Rorosmat",
+                "Wikidata_ID": "Q34567"
+            },
+            {
+                "originalKey": "stone mill",
+                "Wikidata_ID": "Q45678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Keep improving the growing techniques to decrerase the need of fertilizers and pesticides",
+                "Wikidata_ID": "Q1058379"
+            },
+            {
+                "originalKey": "The low consumption of barley by humans in comparison with wheat",
+                "Wikidata_ID": "Q246745"
+            },
+            {
+                "originalKey": "The challenge to increase the human consumption of barley and its corresponding market due to its great nutritious value",
+                "Wikidata_ID": "Q1058380"
+            },
+            {
+                "originalKey": "Climate Change may enhance the development of plant diseases and pest that are nowadays limited by the cold temperatures",
+                "Wikidata_ID": "Q246746"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The innovation of this VC (Value Chain)",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Rorosmat brand",
+                "Wikidata_ID": "Q2345678"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q3456789"
+            },
+            {
+                "originalKey": "Cropland",
+                "Wikidata_ID": "Q4567890"
+            },
+            {
+                "originalKey": "Natural assets",
+                "Wikidata_ID": "Q5678901"
+            },
+            {
+                "originalKey": "Social assets",
+                "Wikidata_ID": "Q6789012"
+            },
+            {
+                "originalKey": "Cultural assets",
+                "Wikidata_ID": "Q7890123"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "John Smith",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Jane Doe",
+                "Wikidata_ID": "Q234567890"
+            },
+            {
+                "originalKey": "Company XYZ",
+                "Wikidata_ID": "P3123456789"
+            }
+        ]
+    }
+]
