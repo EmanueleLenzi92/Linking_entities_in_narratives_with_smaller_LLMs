@@ -1,0 +1,395 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SCOTLAND HUTTON",
+                "original_value": "Scotland Hutton",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC 02 UK",
+                "original_value": "Value chain of the United Kingdom (specifically VC 02)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional Welsh artisinal Caerphilly cheese",
+                "original_value": "Caerphilly cheese",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "Euopean Protected Georgaphical Indication (PGI)",
+                "original_value": "Geographical indications and traditional specialities title",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "West Wales",
+                "original_value": "West Wales",
+                "Wikidata_ID": "Q3094812"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "original_value": "Caerphilly County Borough",
+                "Wikidata_ID": "Q748065"
+            },
+            {
+                "originalKey": "Cardiff and Newport",
+                "original_value": "List of places in Wales with the name Cardiff or nearby, List of cities in South Wales (includes listings for both)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "industrial region",
+                "original_value": "Industrial Revolution",
+                "Wikidata_ID": "Q2269"
+            },
+            {
+                "originalKey": "secondary sector economy",
+                "original_value": "Secondary economic activity (economic sectors)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "high unemployment periods",
+                "original_value": "Unemployment in the United Kingdom",
+                "Wikidata_ID": "Q1835521"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "277.38782 km2",
+                "original_value": "Size (area)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The minimum altimetry of the LAU",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "0",
+                "original_value": "Zero (number)",
+                "Wikidata_ID": "Q204"
+            },
+            {
+                "originalKey": "The maximum altimetry of the LAU",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "535",
+                "original_value": "Number (numerical value)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The total population of the LAU",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "181.075 thousand people",
+                "original_value": "Population density (people per square kilometer)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "652.79 inhabitants/km2",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "The population change rate of the LAU in the last 10 years (%)",
+                "original_value": "Demographic growth rates and trends",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1.28%",
+                "original_value": "Percentage change rate of population density or demographics over time (%)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The overall regional population density",
+                "original_value": "Population density by region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "150.68 inhabitants/km2",
+                "original_value": "Regional Population Density (people per square kilometer)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The regional population change rate in the last 10 years (%)",
+                "original_value": "Demographic growth rates and trends",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "List of European Union member states and the EU enlargement",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Economy of Europe, GDP growth rates by country since 1950",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary economic activities in the European Union countries and regions",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Industrialization of Europe, Second Industrial Revolution (1870–1914)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary economic activities in the European Union countries and regions",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Province]'s average per capita income (EUR/year)",
+                "original_value": "<NAME>",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Province]'s total Gross Value Added (GVA) (EUR million/year)",
+                "original_value": "<NAME>, Economy of Europe",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places in tourist accommodations/year",
+                "original_value": "Tourism industry statistics",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Administrative division - Local administrative unit information may vary, but a general page on local government structures could be relevant.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional share of total BPs/year",
+                "original_value": "Regional tourism statistics",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings in the LAU",
+                "original_value": "Agriculture by country - Specific to a region's agricultural practices and land use.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "protected areas in this region",
+                "original_value": "Protected area - General information on protected regions.",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary economic activities",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary industry and manufacturing jobs in the United States by state or territory (2015)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary economic activities",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Province]",
+                "original_value": "Economy of the specified province or state in Canada, United States, etc.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": "Economy of a specific region within a country",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "original_value": "Caerphilly cheese",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "Castle Dairies",
+                "original_value": "Castle Dairy Company Limited",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The Big Cheese festival",
+                "original_value": "Cheese Festival in Caerphilly",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "International Cheese Awards",
+                "original_value": "International Cheese Awards",
+                "Wikidata_ID": "Q6049165"
+            },
+            {
+                "originalKey": "Caerphilly town",
+                "original_value": "Caerphilly, Wales",
+                "Wikidata_ID": "Q748065"
+            },
+            {
+                "originalKey": "PGI (Protected Geographical Indication)",
+                "original_value": "Geographical indications and traditional specialities safeguarded under EU law - Protected Designation of Origin/Indication for Caerphilly cheese",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "original_value": "Caerphilly (cheese)",
+                "Wikidata_ID": "Q1025407"
+            },
+            {
+                "originalKey": "Big Cheese festival",
+                "original_value": "Cheese festivals",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "dairy cattle suitable land",
+                "original_value": "Dairy farming in Wales",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "natural scenery assets for tourism",
+                "original_value": "Tourism in South Wales",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "community relations within Caerphilly",
+                "original_value": "Community life in the Valleys of Glamorgan, West Gwynne and Monmouthshire (Wales)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "traditional processing of Caerphilly cheese",
+                "original_value": "Cheesemaking",
+                "Wikidata_ID": "Q1281188"
+            },
+            {
+                "originalKey": "cultural heritage tied into the brand, even from those made in England.",
+                "original_value": "Culinary traditions of Wales and English cuisine influence on each other",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cheese was orignally made for local coal minres",
+                "original_value": "History of Welsh cheeses, particularly those associated with the South Wales Coalfield",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "PGI status and Welsh spelling of term linking to cultural assets.",
+                "original_value": "Protected Geographical Indication (Wales)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "Caerphilly cheese producers",
+                "original_value": "Ceredigion (county)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "COVID-19 pandemic impact on tourism",
+                "original_value": "Impact of the COVID-19 pandemic",
+                "Wikidata_ID": "Q94320820"
+            },
+            {
+                "originalKey": "local vs mass production methods in cheese making",
+                "original_value": "Cheesemaking techniques: Traditional versus industrialized/factory farming approaches to dairy processing and distribution (cheese)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional Ceredigian producers' economic challenge",
+                "original_value": "Economic impact of the COVID-19 pandemic on small businesses",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC (Venture Capital)",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Traditional and Innovative VC",
+                "original_value": "Innovation in venture capitalism",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Endogenous VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Caerphilly cheese making by hand",
+                "original_value": "Cheesemaking process for Caerphilly Cheese",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Factory and machine-based methods vs traditional processes",
+                "original_value": "Comparison of cheese production techniques: Mechanized versus Traditional Methods",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Local Caerphilly area",
+                "original_value": "Caerphilly, Wales",
+                "Wikidata_ID": "Q748065"
+            },
+            {
+                "originalKey": "New processes and New marketing strategies",
+                "original_value": "Innovation in Marketing Strategies for Local Products",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Grassland land use systems",
+                "original_value": "Agricultural Use of Grasslands",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural, Social and Cultural local assets",
+                "original_value": "Local Assets: Natural Resources, Society & Culture in Wales",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    }
+]

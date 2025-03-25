@@ -1,0 +1,371 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "VC 01 AT",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "ALMO",
+                "original_value": "Almo Steirisches Almochsenfleisch",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ÖPUL",
+                "original_value": "Austrian Program for Environmentally Sound Agriculture",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Genussregion Almenland",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Alpen",
+                "Wikidata_ID": "Q446296"
+            },
+            {
+                "originalKey": "Weiz",
+                "original_value": "Weiz",
+                "Wikidata_ID": "Q875641"
+            },
+            {
+                "originalKey": "Styrian alpine pasture region",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth rate",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province (geography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Regional unit (Norway)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Bed place",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "km",
+                "original_value": "Kilometer",
+                "Wikidata_ID": "Q828224"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "original_value": "Alp Oxen Farmers Association",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LEADER-region Almenland and Energieregion Weiz-Gleisdorf",
+                "original_value": "LEADER (European regional development fund)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Austrian animal welfare NGO",
+                "original_value": "Not specified",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "veterinarians",
+                "original_value": "Veterinarian",
+                "Wikidata_ID": "Q202883"
+            },
+            {
+                "originalKey": "butchers",
+                "original_value": "Butcher",
+                "Wikidata_ID": "Q329737"
+            },
+            {
+                "originalKey": "retailers",
+                "original_value": "Retailer",
+                "Wikidata_ID": "Q126793"
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "regional development agency",
+                "original_value": "Regional development agency",
+                "Wikidata_ID": "Q7309207"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "regional slaughter house",
+                "original_value": "Regional slaughterhouse",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "sheep farmers",
+                "original_value": "Sheep farming",
+                "Wikidata_ID": "Q1790941"
+            },
+            {
+                "originalKey": "free range pig farmers",
+                "original_value": "Free-range pig farming",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local butcher",
+                "original_value": "Butcher",
+                "Wikidata_ID": "Q329737"
+            },
+            {
+                "originalKey": "ALMO",
+                "original_value": "ALMO (agriculture, livestock and food production)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "landscape",
+                "original_value": "Landscape",
+                "Wikidata_ID": "Q107425"
+            },
+            {
+                "originalKey": "(hiking) tourism",
+                "original_value": "(Hiking) Tourism",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "drough",
+                "original_value": "Drought",
+                "Wikidata_ID": "Q43059"
+            },
+            {
+                "originalKey": "heavy rain",
+                "original_value": "Heavy precipitation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pasture",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            },
+            {
+                "originalKey": "feedbase",
+                "original_value": "Feedstock",
+                "Wikidata_ID": "Q192355"
+            },
+            {
+                "originalKey": "vegetation",
+                "original_value": "Vegetation",
+                "Wikidata_ID": "Q187997"
+            },
+            {
+                "originalKey": "cultivation",
+                "original_value": "Agricultural cultivation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "winter time",
+                "original_value": "Winter",
+                "Wikidata_ID": "Q1311"
+            },
+            {
+                "originalKey": "ALMO",
+                "original_value": "Alpine Livestock Management Organisation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pasture intensity",
+                "original_value": "Pasture management",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "forage plant growth",
+                "original_value": "Forage crop",
+                "Wikidata_ID": "Q13377214"
+            },
+            {
+                "originalKey": "income security",
+                "original_value": "Income security",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Traditional VC",
+                "original_value": "Traditional value chain",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Innovative VC",
+                "original_value": "Innovative value chain",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ALMO",
+                "original_value": "ALMO (organization)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LEADER",
+                "original_value": "LEADER (European regional development fund)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "System Haberl",
+                "original_value": "Haberl system",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pasture farming",
+                "original_value": "Pasture farming",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "original_value": "Alpine Livestock Management Organisation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "NUTS-II AT 12",
+                "original_value": "Lower Austria (NUTS-II AT 12)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "NUTS-II AT 21",
+                "original_value": "Carinthia (NUTS-II AT 21)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Alpine Livestock Management Organisation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "alp oxen",
+                "original_value": "Alp Ox",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

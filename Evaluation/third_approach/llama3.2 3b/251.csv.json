@@ -1,0 +1,311 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SCOTLAND HUTTON",
+                "original_value": "Hutton, Scotland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC 03 UK",
+                "original_value": "List of Value Chain references",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "UK",
+                "original_value": "United Kingdom",
+                "Wikidata_ID": "Q145"
+            },
+            {
+                "originalKey": "heather moorland",
+                "original_value": "Moorland",
+                "Wikidata_ID": "Q1092661"
+            },
+            {
+                "originalKey": "Heather honey",
+                "original_value": "Heather honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "Scottish great taste gold award",
+                "original_value": "Scottish Great Taste Awards",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Heather Hills",
+                "original_value": "Heather Hills, Perthshire",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "British Standards Institution Kitemark",
+                "original_value": "Kitemark",
+                "Wikidata_ID": "Q6418160"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Highlands",
+                "original_value": "Highlands (Scotland)",
+                "Wikidata_ID": "Q106652"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "Tay",
+                "original_value": "River Tay",
+                "Wikidata_ID": "Q19719"
+            },
+            {
+                "originalKey": "Earn",
+                "original_value": "River Earn",
+                "Wikidata_ID": "Q1277544"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth rate",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income (EUR/year) [Province]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Regional unit (Europe)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Bed places",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "km",
+                "original_value": "Kilometer",
+                "Wikidata_ID": "Q828224"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector (economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scottish Heather honey",
+                "original_value": "Scottish heather honey",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Champagne of honeys",
+                "original_value": "Champagne of honeys",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Heather Hills",
+                "original_value": "Heather Hills (honey)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Perth and Kinross LAU1",
+                "original_value": "Perth and Kinross (LAU 1)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Manuka Honey",
+                "original_value": "Manuka honey",
+                "Wikidata_ID": "Q953395"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "heather",
+                "original_value": "Heather",
+                "Wikidata_ID": "Q15041366"
+            },
+            {
+                "originalKey": "honey bees",
+                "original_value": "Honey bee",
+                "Wikidata_ID": "Q102857"
+            },
+            {
+                "originalKey": "Honey Sommelier",
+                "original_value": "Sommelier",
+                "Wikidata_ID": "Q191493"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Challenges from changing climate",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "BCI kitemark",
+                "original_value": "Bee for Trade (BfT) certification",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "heather bee farmers",
+                "original_value": "Heather bee",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Luneburg",
+                "original_value": "Lüneburg",
+                "Wikidata_ID": "Q3920"
+            },
+            {
+                "originalKey": "Ireland",
+                "original_value": "Ireland",
+                "Wikidata_ID": "Q22890"
+            },
+            {
+                "originalKey": "Scotland",
+                "original_value": "Scotland",
+                "Wikidata_ID": "Q22"
+            }
+        ]
+    }
+]

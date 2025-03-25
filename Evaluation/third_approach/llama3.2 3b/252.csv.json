@@ -1,0 +1,381 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SCOTLAND HUTTON",
+                "original_value": "Hutton, Scotland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC 04 UK",
+                "original_value": "List of Value Chains in the United Kingdom",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Highlands and Islands of Scotland",
+                "original_value": "Highlands and Islands of Scotland",
+                "Wikidata_ID": "Q729025"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Highlands",
+                "original_value": "Highlands (Scotland)",
+                "Wikidata_ID": "Q106652"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            },
+            {
+                "originalKey": "Tay",
+                "original_value": "River Tay",
+                "Wikidata_ID": "Q19719"
+            },
+            {
+                "originalKey": "Earn",
+                "original_value": "River Earn",
+                "Wikidata_ID": "Q1277544"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth rate",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income (EUR/year) [Province]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Regional unit (Europe)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Bed places",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "km",
+                "original_value": "Kilometre",
+                "Wikidata_ID": "Q828224"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector (economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Deer stalking",
+                "original_value": "Deer hunting",
+                "Wikidata_ID": "Q1025479"
+            },
+            {
+                "originalKey": "Gorse",
+                "original_value": "Gorse",
+                "Wikidata_ID": "Q393278"
+            },
+            {
+                "originalKey": "Heather",
+                "original_value": "Heather",
+                "Wikidata_ID": "Q15041366"
+            },
+            {
+                "originalKey": "Vension",
+                "original_value": "Venison",
+                "Wikidata_ID": "Q2296872"
+            },
+            {
+                "originalKey": "Atholl estate",
+                "original_value": "Atholl Estates",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Blair Atholl",
+                "original_value": "Blair Atholl",
+                "Wikidata_ID": "Q881156"
+            },
+            {
+                "originalKey": "Glen Lyon",
+                "original_value": "Glen Lyon",
+                "Wikidata_ID": "Q2451934"
+            },
+            {
+                "originalKey": "Scottish Quality Wild Venisions",
+                "original_value": "Scottish Game Awards",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Drones",
+                "original_value": "Drone (unmanned aerial vehicle)",
+                "Wikidata_ID": "Q484000"
+            },
+            {
+                "originalKey": "Thermal imaging",
+                "original_value": "Thermal imaging",
+                "Wikidata_ID": "Q624587"
+            },
+            {
+                "originalKey": "Camera traps",
+                "original_value": "Camera trap",
+                "Wikidata_ID": "Q1723004"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "original_value": "Perth and Kinross",
+                "Wikidata_ID": "Q207679"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "deer",
+                "original_value": "Deer",
+                "Wikidata_ID": "Q23390"
+            },
+            {
+                "originalKey": "grouse",
+                "original_value": "Grouse",
+                "Wikidata_ID": "Q201240"
+            },
+            {
+                "originalKey": "ponies",
+                "original_value": "Pony",
+                "Wikidata_ID": "Q188828"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "sheep",
+                "original_value": "Sheep",
+                "Wikidata_ID": "Q7368"
+            },
+            {
+                "originalKey": "hillwalking",
+                "original_value": "Hill walking",
+                "Wikidata_ID": "Q11347618"
+            },
+            {
+                "originalKey": "COVID",
+                "original_value": "COVID-19 pandemic",
+                "Wikidata_ID": "Q81068910"
+            },
+            {
+                "originalKey": "mountain hares",
+                "original_value": "Mountain hare",
+                "Wikidata_ID": "Q180035"
+            },
+            {
+                "originalKey": "gorse",
+                "original_value": "Gorse",
+                "Wikidata_ID": "Q393278"
+            },
+            {
+                "originalKey": "deer",
+                "original_value": "Deer",
+                "Wikidata_ID": "Q23390"
+            },
+            {
+                "originalKey": "raptors",
+                "original_value": "Raptor",
+                "Wikidata_ID": "Q137956"
+            },
+            {
+                "originalKey": "venison",
+                "original_value": "Venison",
+                "Wikidata_ID": "Q2296872"
+            },
+            {
+                "originalKey": "Brexit",
+                "original_value": "Brexit",
+                "Wikidata_ID": "Q7888194"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "New governance systems",
+                "original_value": "New public governance",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Ecosystem services",
+                "Wikidata_ID": "Q295865"
+            },
+            {
+                "originalKey": "Social",
+                "original_value": "Social capital",
+                "Wikidata_ID": "Q214693"
+            },
+            {
+                "originalKey": "Cultural",
+                "original_value": "Intangible cultural heritage",
+                "Wikidata_ID": "Q84036549"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Highland",
+                "original_value": "Highland",
+                "Wikidata_ID": "Q878223"
+            },
+            {
+                "originalKey": "Aberdeenshire",
+                "original_value": "Aberdeenshire",
+                "Wikidata_ID": "Q189912"
+            },
+            {
+                "originalKey": "Badendoch",
+                "original_value": "Badenoch",
+                "Wikidata_ID": "Q45850"
+            },
+            {
+                "originalKey": "Strathsphey",
+                "original_value": "Strathspheys",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Grouse shooting",
+                "original_value": "Grouse shooting",
+                "Wikidata_ID": "Q5307967"
+            },
+            {
+                "originalKey": "England",
+                "original_value": "England",
+                "Wikidata_ID": "Q21"
+            }
+        ]
+    }
+]

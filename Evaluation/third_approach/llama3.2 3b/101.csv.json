@@ -1,0 +1,281 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "VC 10 GR",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "chestnut trees",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            },
+            {
+                "originalKey": "chestnut collection",
+                "original_value": "Chestnut gathering",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "White Mountains",
+                "original_value": "White Mountains (Crete)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "KISSAMOS",
+                "original_value": "Kissamos",
+                "Wikidata_ID": "Q1021629"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth rate",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income (EUR/year) [Province]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Regional unit (Europe)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Bed place",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "km",
+                "original_value": "Kilometer",
+                "Wikidata_ID": "Q828224"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Chestnut trees",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete (Greek island)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Chania",
+                "original_value": "Chania",
+                "Wikidata_ID": "Q182299"
+            },
+            {
+                "originalKey": "Chestnut cultivation",
+                "original_value": "Cultivation of chestnuts",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Olive oil monoculture",
+                "original_value": "Monoculture",
+                "Wikidata_ID": "Q220212"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "chestnut activities",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            },
+            {
+                "originalKey": "chestnut festival",
+                "original_value": "Chestnut festival",
+                "Wikidata_ID": "Q914381"
+            },
+            {
+                "originalKey": "Western White Mountains",
+                "original_value": "White Mountain (United States)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "chestnut",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            },
+            {
+                "originalKey": "climate change",
+                "original_value": "Climate change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "olive oil trees",
+                "original_value": "Olive tree",
+                "Wikidata_ID": "Q37083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region of Crete",
+                "original_value": "Region of Crete",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Chestnut trees",
+                "original_value": "Chestnut",
+                "Wikidata_ID": "Q129324"
+            },
+            {
+                "originalKey": "VCs",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    }
+]

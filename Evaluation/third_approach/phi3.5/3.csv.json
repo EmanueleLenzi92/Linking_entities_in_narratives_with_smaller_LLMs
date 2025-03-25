@@ -1,0 +1,250 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "MOVING Card ID of this VC is VC 03 AT.",
+                "original_value": "Value Chain (Economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "organic farms",
+                "original_value": "Organic Farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "cooperation processing",
+                "original_value": "Cooperative (Economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "small shops",
+                "original_value": "Small Shop",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "joint shop",
+                "original_value": "Joint Venture (Business)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "online sales",
+                "original_value": "Online Shopping",
+                "Wikidata_ID": "Q212930"
+            },
+            {
+                "originalKey": "hotels",
+                "original_value": "Hotel Industry",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Verwaltungsregion",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "RR 11, Austrian Alps",
+                "original_value": "Alpenhauptkamm Nr. 11 in Österreich (Austrian Alps)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Weiz",
+                "original_value": "Weiz",
+                "Wikidata_ID": "Q875641"
+            },
+            {
+                "originalKey": "Almenland",
+                "original_value": "Styrian Alps (Region)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "125 pastures, 36.6 km2",
+                "original_value": "Pastoralism in the Styrian Alps",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "between 1.200 and 1.500 m above sea level",
+                "original_value": "Altitudinal range of pastures in the Austrian Alps (Styria)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "humid climate, a lot of thunderstorms",
+                "original_value": "Climate of Styria",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "diverse rock formation: limestone, phyllite, slate and greywacke",
+                "original_value": "Geology of the Austrian Alps (Styria)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "1098 km2",
+                "original_value": "Size (area)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The minimum altimetry of the LAU",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "464 meters",
+                "original_value": "Elevation (altitude)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The maximum altimetry of the LAU",
+                "original_value": "Maximum elevation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1720 meters",
+                "original_value": "Elevation (altitude)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The total population of the LAU",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "90.654 thousand people",
+                "original_value": "Demographics (population)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The population density of the LAU in inhabitants/km2",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "82.56 inhabitants/km2",
+                "original_value": "Density (population)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The population change rate of the LAU in the last 10 years",
+                "original_value": "Population growth",
+                "Wikidata_ID": "Q386191"
+            },
+            {
+                "originalKey": "3.68%",
+                "original_value": "Demographics (population change)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The overall regional population density in inhabitants/km2",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "76.28 inhabitants/km2",
+                "original_value": "Density (population)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "List of regions by Human Development Index",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "original_value": "Economy of Italy#Regional economies and GDP per capita at purchasing power parity",
+                "Wikidata_ID": "Q720060"
+            },
+            {
+                "originalKey": "% share",
+                "original_value": "List of Italian regions by Human Development Index (HDI)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "primary sector",
+                "original_value": "Economy of Italy#Regional economies and GDP per capita at purchasing power parity",
+                "Wikidata_ID": "Q720060"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "List of Italian regions by Human Development Index (HDI)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Economy of Italy#Regional economies and GDP per capita at purchasing power parity",
+                "Wikidata_ID": "Q720060"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places",
+                "original_value": "List of hotels in the United States",
+                "Wikidata_ID": "Q6623780"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Administrative divisions of France by population density and area",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Population distribution in the United States by region (2019)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture in France",
+                "Wikidata_ID": "Q8057"
+            },
+            {
+                "originalKey": "settlement with population over 100,000 (km)",
+                "original_value": "List of urban areas and cities by demographic classification based on size as defined by the United States Census Bureau",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "protected areas in region",
+                "original_value": "Protected areas of France",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    }
+]

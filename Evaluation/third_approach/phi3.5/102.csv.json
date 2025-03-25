@@ -1,0 +1,446 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "pefkothymaromelo",
+                "original_value": "Pefkothymaromelo (honey)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Local beekeepers",
+                "original_value": "Beekeeping in Greece",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "apicature",
+                "original_value": "Apiary (beehive)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Region of Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "special regional labelling system for the quality systems of EU Geographical Indications (GIs)",
+                "original_value": "Geographical indication in Greece",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "honey factories",
+                "original_value": "Honey production facilities",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "White Mountains",
+                "original_value": "Mountains of Crete",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "KISSAMOS",
+                "original_value": "Sissi (mountain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "endemic species",
+                "original_value": "Endemism in Crete",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cypress, oak and pine trees",
+                "original_value": "Forests of Greece",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "chestnuts, planes and other aquatic plants",
+                "original_value": "Flora of Crete",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size of the area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "334.2 km2",
+                "original_value": "Size (area)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "minimum altimetry of the LAU",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "0",
+                "original_value": "Minimal elevation in Local Administrative Units (LAUs)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "maximum altimetry of the LAU",
+                "original_value": "Maximum Altitude",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1000",
+                "original_value": "Highest elevation in Local Administrative Units (LAUs)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total population of the LAU",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "159.893 thousand people",
+                "original_value": "Local Administrative Units (LAUs) Population Statistics",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "population density in the LAU",
+                "original_value": "Population Density of Local Administrative Units (LAUs)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "67.50 inhabitants/km2",
+                "original_value": "Local Population Densities",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "population change rate of the LAU in last 10 years (%)",
+                "original_value": "Population Growth Rate by Local Administrative Units over Time Periods",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "0.02% increase/decrease per year for the last 10 years",
+                "original_value": "Decadal Population Change in Specific Locations or Areas (LAUs)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "overall regional population density",
+                "original_value": "Population Density of Regions",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "76.5 inhabitants/km2 overall regionally",
+                "original_value": "Overview of Regional Population Distribution and Densities",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "population change rate in the last 10 years for regions (%)",
+                "original_value": "Decadal Change Rates by Region or Area Type Over Time Periods",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "List of countries and dependencies by GDP (nominal) per capita",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA)",
+                "original_value": "Economy of the European Union: Regional economies, regional economic disparities in Europe and by country or region within countries such as Italy.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Secondary sector of the economy, Industry (economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "GDP per capita (nominal)",
+                "original_value": "List of countries and dependencies by GDP (nominal) per capita",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places in tourist accommodations/year",
+                "original_value": "Tourism industry",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Subnational administrative divisions by country, including Local Authority Units and other local government entities in various countries around the world.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional share of total bed places/year",
+                "original_value": "Regional tourism statistics",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings in the LAU",
+                "original_value": "Agriculture by country and region, including agricultural land use within various administrative divisions.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "original_value": "Populated places",
+                "Wikidata_ID": "Q486972"
+            },
+            {
+                "originalKey": "protected areas in the region",
+                "original_value": "Protected area#By country or territory and protected landscape/seascape by location (includes national parks, nature reserves etc.)",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary economic activities",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary industry and manufacturing jobs in the United States by state or territory (2015)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary economic activities",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Province]",
+                "original_value": " // Specific province title not provided in the text. Please provide a specific name for accurate Wikipedia page reference.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": " // Specific region title not provided in the text. Please provide a specific name for accurate Wikipedia page reference.\n        }\n    ]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Apicature",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Pefkothimaromelo",
+                "original_value": "Honey of Pine and Thyme (Greek PDO)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "PDO, a natural blend of pine and thyme honey",
+                "original_value": "Honey (Greek PDO)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Individual beekeepers in the mountains of Kissamos produce pefkothymatomelo",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "small companies of the area buy, standardize and resell honey that complies with the constraints of PDO.",
+                "original_value": "Honey production businesses in Greece",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pefkothymaromelo",
+                "original_value": "Thyme and Pine Honey (Greek PDO)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "boost in the consumption of honey, making products more attractive to new target groups of consumers.",
+                "original_value": "Honey market",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "new types of honey products",
+                "original_value": "Varieties and Types of Honey",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tourist sector",
+                "original_value": "Tourism in Greece",
+                "Wikidata_ID": "Q1031746"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "beekeeping",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            },
+            {
+                "originalKey": "Topolia/Kissamos",
+                "original_value": "Kissamos",
+                "Wikidata_ID": "Q1021629"
+            },
+            {
+                "originalKey": "Minoan Civilization 1600 BC",
+                "original_value": "Minoan civilization",
+                "Wikidata_ID": "Q134178"
+            },
+            {
+                "originalKey": "Crete climate",
+                "original_value": "Climate of Crete",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pine honey production",
+                "original_value": "Pine honey",
+                "Wikidata_ID": "Q7195419"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "climate change",
+                "original_value": "Climate Change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "Crete severe weather conditions",
+                "original_value": "Weather in Crete",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "temperature changes and heat waves",
+                "original_value": "Heat Wave",
+                "Wikidata_ID": "Q215864"
+            },
+            {
+                "originalKey": "bees behavior",
+                "original_value": "Bee Behavior (Biology)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "honey production reduction",
+                "original_value": "Honey Production",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pesticides use increase",
+                "original_value": "Pesticide Use in Agriculture",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "intensive agricultural holdings areas",
+                "original_value": "Intensive Farming Systems",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pefkothymaromelo adulteration with inferior honey types",
+                "original_value": "Adulterated Honey Types and Sources of Adulterants in Beekeeping",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "imported low-priced honey",
+                "original_value": "Importation of Agricultural Products (Honey)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Current and Predicted VC challenges",
+                "original_value": "Challenges in Beekeeping",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional beekeeping methods vs Innovative approaches",
+                "original_value": "Comparison of Traditional and Modern Apiculture Practices",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous innovation",
+                "original_value": "Endogenous growth theory",
+                "Wikidata_ID": "Q576355"
+            },
+            {
+                "originalKey": "Pefkothymaromelo honey",
+                "original_value": "Honey production in Greece (specifically Pefkothymari)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Protected Designation of Origin (PDO)",
+                "original_value": "Appellation d'origine contrôlée\" and \"Protected designations of origin in Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Kissamos area",
+                "original_value": "Chania (city)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New products, marketing strategies and governance systems",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "Forestry land use system",
+                "original_value": "Timber production in Greece (forests)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural, social and cultural assets",
+                "original_value": "Cultural heritage of the Mediterrane0an region",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "Peyfothymaromelo",
+                "original_value": "Peyfo",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,281 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "original_value": "Skandinavisk",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC 08 SCA",
+                "original_value": "Skandinavisk cheese",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains - Scandes",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Lesja",
+                "original_value": "Lesja (municipality)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Lesjaskogsvatnet",
+                "original_value": "Lesjas lake",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Rauma river",
+                "original_value": "Rauma River",
+                "Wikidata_ID": "Q494838"
+            },
+            {
+                "originalKey": "Gudbrandsdalslågen river",
+                "original_value": "Gudbrandsdalslågen",
+                "Wikidata_ID": "Q927499"
+            },
+            {
+                "originalKey": "Norwegian trout",
+                "original_value": "Norway trout",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth rate",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province (geography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Regional unit (Europe)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Bed places",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "km",
+                "original_value": "Kilometer",
+                "Wikidata_ID": "Q828224"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector (economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "natural pastures",
+                "original_value": "Natural pasture",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "mountain pastures",
+                "original_value": "Mountain pasture",
+                "Wikidata_ID": "Q14774083"
+            },
+            {
+                "originalKey": "Pultost",
+                "original_value": "Pultost",
+                "Wikidata_ID": "Q1776589"
+            },
+            {
+                "originalKey": "Slowfood Foundation",
+                "original_value": "Slow Food Foundation",
+                "Wikidata_ID": "Q335823"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "industrial dairies",
+                "original_value": "Industrial dairy",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "artisanal cheese making",
+                "original_value": "Artisanal cheese",
+                "Wikidata_ID": "Q4801204"
+            },
+            {
+                "originalKey": "market",
+                "original_value": "Market (economics)",
+                "Wikidata_ID": "Q37654"
+            },
+            {
+                "originalKey": "local scale",
+                "original_value": "Local economy",
+                "Wikidata_ID": "Q17099654"
+            },
+            {
+                "originalKey": "national scale",
+                "original_value": "National economy",
+                "Wikidata_ID": "Q6456916"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Natural land",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "Land use systems",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Local assets",
+                "original_value": "Asset",
+                "Wikidata_ID": "Q46737"
+            },
+            {
+                "originalKey": "Social",
+                "original_value": "Social asset",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cultural",
+                "original_value": "Cultural asset",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Natural resource",
+                "Wikidata_ID": "Q188460"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Etnedal",
+                "original_value": "Etnedal",
+                "Wikidata_ID": "Q488049"
+            }
+        ]
+    }
+]

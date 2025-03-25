@@ -1,0 +1,298 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "NMK",
+                "original_value": "North Macedonia",
+                "Wikidata_ID": "Q221"
+            },
+            {
+                "originalKey": "tobacco seeds",
+                "original_value": "Tobacco seed",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "private families",
+                "original_value": "Private family",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Jaka Prilep",
+                "original_value": "Jaka Prilep",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Mountain Meleshevija",
+                "original_value": "Maleshevski Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Mountain landscape of this VC",
+                "original_value": "Unspecified",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth rate",
+                "Wikidata_ID": "Q386191"
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Regional population density",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "Average income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bed places",
+                "original_value": "Bed",
+                "Wikidata_ID": "Q42177"
+            },
+            {
+                "originalKey": "tourist accommodations/year",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Local administrative division",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "employment/year [Province]",
+                "original_value": "Employment by sector in [Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "employment/year [Region]",
+                "original_value": "Employment by sector in [Region]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Republic of Macedonia",
+                "original_value": "Republic of North Macedonia",
+                "Wikidata_ID": "Q221"
+            },
+            {
+                "originalKey": "tobacco production",
+                "original_value": "Tobacco farming",
+                "Wikidata_ID": "Q907711"
+            },
+            {
+                "originalKey": "oriental types",
+                "original_value": "Oriental tobacco",
+                "Wikidata_ID": "Q4357899"
+            },
+            {
+                "originalKey": "big oscillations in tobacco production",
+                "original_value": "Tobacco industry in North Macedonia",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "subsiding policy of the state",
+                "original_value": "Subsidies for agriculture in North Macedonia",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "annually about 30,000 families or approximately 100,000 people are involved in tobacco production",
+                "original_value": "Tobacco cultivation in North Macedonia",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Tobacco is important for the Macedonian agriculture",
+                "original_value": "Importance of tobacco in North Macedonian agriculture",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "relatively poorer soils",
+                "original_value": "Soil quality in North Macedonia",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Production of oriental tobacco",
+                "original_value": "Oriental tobacco",
+                "Wikidata_ID": "Q4357899"
+            },
+            {
+                "originalKey": "shift from tobacco toward growing other agricultural products with more value added",
+                "original_value": "Agricultural diversification",
+                "Wikidata_ID": "Q4693955"
+            },
+            {
+                "originalKey": "less people smoking tobacco",
+                "original_value": "Smoking prevalence",
+                "Wikidata_ID": "Q7242345"
+            },
+            {
+                "originalKey": "global trend",
+                "original_value": "Globalization",
+                "Wikidata_ID": "Q7181"
+            },
+            {
+                "originalKey": "labor intensive need for growing and producing tobacco",
+                "original_value": "Labor-intensive agriculture",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "reference region has not solid soil potential for producing tobacco",
+                "original_value": "Soil quality",
+                "Wikidata_ID": "Q2034420"
+            },
+            {
+                "originalKey": "Current and Predicted",
+                "original_value": "Future trends in agriculture",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional",
+                "original_value": "Traditional agriculture",
+                "Wikidata_ID": "Q11451"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "land use systems",
+                "original_value": "Land use system",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local assets",
+                "original_value": "Local asset",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

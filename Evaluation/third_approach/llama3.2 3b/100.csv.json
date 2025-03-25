@@ -1,0 +1,296 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "VC 09 GR",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Aloe vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Dikti Mountains",
+                "original_value": "Dikti Mountains",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "VIANNOS",
+                "original_value": "Viannos",
+                "Wikidata_ID": "Q693813"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altimetry",
+                "Wikidata_ID": "Q216197"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth rate",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "original_value": "Province (geography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region (geography)",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Regional unit",
+                "Wikidata_ID": "Q1234255"
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Bed places",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "population over 100000 (km)",
+                "original_value": "Population threshold",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Dikti mountain landscape",
+                "original_value": "Dikti Mountains",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Viannos",
+                "original_value": "Viannos, Crete",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "Dikti Mountain",
+                "original_value": "Dikti Mountains",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "Olives",
+                "original_value": "Olive",
+                "Wikidata_ID": "Q37083"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Dikti area",
+                "original_value": "Dikti Mountains",
+                "Wikidata_ID": "Q1225372"
+            },
+            {
+                "originalKey": "Viannos",
+                "original_value": "Viannos, Crete",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Organic farming",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "Contract farming",
+                "original_value": "Contract farming",
+                "Wikidata_ID": "Q5165669"
+            },
+            {
+                "originalKey": "Pesticides",
+                "original_value": "Pesticide",
+                "Wikidata_ID": "Q131656"
+            },
+            {
+                "originalKey": "Green economy",
+                "original_value": "Green economy",
+                "Wikidata_ID": "Q598188"
+            },
+            {
+                "originalKey": "Modern agriculture",
+                "original_value": "Modern agriculture",
+                "Wikidata_ID": "Q15948177"
+            },
+            {
+                "originalKey": "Nutraceuticals",
+                "original_value": "Nutraceutical",
+                "Wikidata_ID": "Q533025"
+            },
+            {
+                "originalKey": "Pharmaceutical industry",
+                "original_value": "Pharmaceutical industry",
+                "Wikidata_ID": "Q507443"
+            },
+            {
+                "originalKey": "Food industry",
+                "original_value": "Food industry",
+                "Wikidata_ID": "Q540912"
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Cropland",
+                "Wikidata_ID": "Q3395383"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Natural land",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera",
+                "Wikidata_ID": "Q80079"
+            },
+            {
+                "originalKey": "MRLs",
+                "original_value": "Maximum Residue Limits",
+                "Wikidata_ID": "Q3241116"
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "Andalusia",
+                "original_value": "Andalusia",
+                "Wikidata_ID": "Q5783"
+            },
+            {
+                "originalKey": "Produstion",
+                "original_value": "Production",
+                "Wikidata_ID": "Q663143"
+            },
+            {
+                "originalKey": "European consumers",
+                "original_value": "Consumers in the European Union",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Nutritional supplements",
+                "original_value": "Nutraceuticals",
+                "Wikidata_ID": "Q533025"
+            },
+            {
+                "originalKey": "Health products",
+                "original_value": "Health product",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]

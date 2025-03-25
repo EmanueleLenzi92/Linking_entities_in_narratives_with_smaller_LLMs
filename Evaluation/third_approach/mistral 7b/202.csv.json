@@ -1,0 +1,353 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "NMK",
+                "original_value": "North Macedonia",
+                "Wikidata_ID": "Q221"
+            },
+            {
+                "originalKey": "Wines of Macedonia",
+                "original_value": "Wines of North Macedonia",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Mountain Meleshevija",
+                "original_value": "Maleshevski Mountains",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Mountain landscape of this VC",
+                "original_value": "Unspecified",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Republic of North Macedonia",
+                "original_value": "North Macedonia",
+                "Wikidata_ID": "Q221"
+            },
+            {
+                "originalKey": "Berovo and Pehchevo municipalities",
+                "original_value": "Berovo, North Macedonia",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Bregalnica and Strumica rivers",
+                "original_value": "Bregalnica River",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Forests covers 52% of the Maleshevija region",
+                "original_value": "Forestry in North Macedonia",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pastures around 20%",
+                "original_value": "Grazing in North Macedonia",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth rate",
+                "Wikidata_ID": "Q386191"
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Regional population density",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "Average income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "total Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bed places",
+                "original_value": "Bed",
+                "Wikidata_ID": "Q42177"
+            },
+            {
+                "originalKey": "tourist accommodations/year",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Local administrative division",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "employment/year [Province]",
+                "original_value": "Employment by sector in [Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "employment/year [Region]",
+                "original_value": "Employment by sector in [Region]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vardar planning region",
+                "original_value": "Vardar Planning Region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "climatic conditions",
+                "original_value": "Climate of North Macedonia",
+                "Wikidata_ID": "Q1752189"
+            },
+            {
+                "originalKey": "agriculture",
+                "original_value": "Agriculture in North Macedonia",
+                "Wikidata_ID": "Q2827191"
+            },
+            {
+                "originalKey": "viticulture",
+                "original_value": "Viticulture in North Macedonia",
+                "Wikidata_ID": "Q984994"
+            },
+            {
+                "originalKey": "arable land",
+                "original_value": "Arable land",
+                "Wikidata_ID": "Q843920"
+            },
+            {
+                "originalKey": "pastures",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            },
+            {
+                "originalKey": "vineyards",
+                "original_value": "Viticulture in North Macedonia",
+                "Wikidata_ID": "Q984994"
+            },
+            {
+                "originalKey": "winery",
+                "original_value": "Winery",
+                "Wikidata_ID": "Q156362"
+            },
+            {
+                "originalKey": "national economy",
+                "original_value": "Economy of North Macedonia",
+                "Wikidata_ID": "Q974375"
+            },
+            {
+                "originalKey": "export-oriented",
+                "original_value": "Export",
+                "Wikidata_ID": "Q182722"
+            },
+            {
+                "originalKey": "domestic market",
+                "original_value": "Domestic market",
+                "Wikidata_ID": "Q1047494"
+            },
+            {
+                "originalKey": "imported wines",
+                "original_value": "Import of wine",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "winery yards",
+                "original_value": "Winery",
+                "Wikidata_ID": "Q156362"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Maleshevski mountain",
+                "original_value": "Maleshevski Mountain",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "original_value": "Innovation (technology)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "New processes",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Forestry",
+                "original_value": "Forestry",
+                "Wikidata_ID": "Q38112"
+            },
+            {
+                "originalKey": "Natural land",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "originalKey": "Natural assets",
+                "original_value": "Natural resources",
+                "Wikidata_ID": "Q188460"
+            },
+            {
+                "originalKey": "Social assets",
+                "original_value": "Social capital",
+                "Wikidata_ID": "Q214693"
+            },
+            {
+                "originalKey": "Cultural assets",
+                "original_value": "Culture",
+                "Wikidata_ID": "Q11042"
+            }
+        ]
+    }
+]

@@ -1,0 +1,296 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "VC 02 AT",
+                "original_value": "Moving (company)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Almenland",
+                "original_value": "Alpenland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Stollenkäse GmbH",
+                "original_value": "Stollenkäse",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Alpen",
+                "Wikidata_ID": "Q446296"
+            },
+            {
+                "originalKey": "Weiz",
+                "original_value": "Weiz",
+                "Wikidata_ID": "Q875641"
+            },
+            {
+                "originalKey": "Styrian alpine pasture region",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population density",
+                "original_value": "Population density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth rate",
+                "Wikidata_ID": "Q386191"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income (EUR/year) [Province]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year) [Province]",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income (EUR/year) [Region]",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year) [Region]",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Region]",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Region]",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Region]",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Regional unit (Europe)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "BPs",
+                "original_value": "Bed place",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local administrative unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agricultural holding",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "km",
+                "original_value": "Kilometer",
+                "Wikidata_ID": "Q828224"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "dairy",
+                "original_value": "Dairy",
+                "Wikidata_ID": "Q637776"
+            },
+            {
+                "originalKey": "Almenland region",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland",
+                "original_value": "Almenland",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "AgrarMarkt Austria",
+                "original_value": "AgrarMarkt Austria",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland",
+                "original_value": "Alpen",
+                "Wikidata_ID": "Q446296"
+            },
+            {
+                "originalKey": "pasture",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Exogenous",
+                "original_value": "Exogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "Arzberger Ursteirer",
+                "original_value": "Arzberger Ursteiger",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "USA",
+                "original_value": "United States",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "Pasture farming",
+                "original_value": "Pasture farming",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "silver mine",
+                "original_value": "Silver mine",
+                "Wikidata_ID": "Q1048939"
+            }
+        ]
+    }
+]

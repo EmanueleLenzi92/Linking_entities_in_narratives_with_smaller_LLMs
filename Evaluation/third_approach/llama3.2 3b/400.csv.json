@@ -1,0 +1,283 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SWITZERLAND",
+                "original_value": "Switzerland",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "VC 16 CH1",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Engadiner",
+                "original_value": "Engadiner sheep",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Spiegelschaf",
+                "original_value": "Spiegelschaf",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Nera Verzasca",
+                "original_value": "Nera Verzasca sheep",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Capra Grigia",
+                "original_value": "Capra Grigia",
+                "Wikidata_ID": "Q1543712"
+            },
+            {
+                "originalKey": "Black Alpine Pig",
+                "original_value": "Black Alpine Pig",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "chickens",
+                "original_value": "Chicken",
+                "Wikidata_ID": "Q780"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area (km2) is unspecified.",
+                "original_value": "Unknown or unspecified geographic area",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The minimum altimetry of the LAU (Local Administrative Unit) is unspecified.",
+                "original_value": "Unknown or unspecified elevation range",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The maximum altimetry of the LAU is unspecified.",
+                "original_value": "Unknown or unspecified elevation range",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The total population (in thousand) is unspecified.",
+                "original_value": "Unknown or unspecified population",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The population density (Inhabitants/km2) in the LAU is unspecified.",
+                "original_value": "Unknown or unspecified population density",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The population change rate of the LAU in the last 10 years (%) is unspecified.",
+                "original_value": "Unknown or unspecified population growth rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The overall regional population density (Inhabitants/km2) is unspecified.",
+                "original_value": "Unknown or unspecified regional population density",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The regional population change rate in the last 10 years (%) is unspecified.",
+                "original_value": "Unknown or unspecified regional population growth rate",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The average per capita income (EUR/year) [Province] is unspecified.",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) [Province] is unspecified.",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "The primary sector share of total GVA/year [Province] is unspecified.",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "The secondary sector share of total GVA/year [Province] is unspecified.",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "The tertiary sector share of total GVA/year [Province] is unspecified.",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "The per capita income (EUR/year) [Region] is unspecified.",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) [Region] is unspecified.",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "The primary sector share of total GVA/year [Region] is unspecified.",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "The secondary sector share of total GVA/year [Region] is unspecified.",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "The tertiary sector share of total GVA/year [Region] is unspecified.",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Share",
+                "Wikidata_ID": "Q399476"
+            },
+            {
+                "originalKey": "number of agricultural holdings",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "original_value": "Settlement",
+                "Wikidata_ID": "Q1247845"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "traditional breeds",
+                "original_value": "List of traditional livestock breeds",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local situation",
+                "original_value": "Localism",
+                "Wikidata_ID": "Q20999658"
+            },
+            {
+                "originalKey": "farmer led initiative",
+                "original_value": "Agroecology",
+                "Wikidata_ID": "Q396338"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "Veganism",
+                "original_value": "Veganism",
+                "Wikidata_ID": "Q181138"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Value Chain",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "originalKey": "Grassland",
+                "original_value": "Grassland",
+                "Wikidata_ID": "Q1006733"
+            },
+            {
+                "originalKey": "Natural assets",
+                "original_value": "Natural asset",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cultural assets",
+                "original_value": "Intangible asset",
+                "Wikidata_ID": "Q427581"
+            }
+        ]
+    }
+]

@@ -1,0 +1,431 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "originalKey": "MOVING Card ID of this VC is VC 10 GR.",
+                "original_value": "Value Chain (Economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "chestnut trees",
+                "original_value": "Castanea sativa",
+                "Wikidata_ID": "Q22699"
+            },
+            {
+                "originalKey": "farmers",
+                "original_value": "Farmer",
+                "Wikidata_ID": "Q131512"
+            },
+            {
+                "originalKey": "local government",
+                "original_value": "Local Government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "academic institutions",
+                "original_value": "Academic Institutions",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local catering and tourism",
+                "original_value": "Local Cuisine, Tourism in Greece",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "small firms of standardization, packaging, promotion and marketing.",
+                "original_value": "Packaging Industry",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "White Mountains",
+                "original_value": "Mountains of Crete",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "KISSAMOS",
+                "original_value": "Sissaramitsos (band)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Elos LAU2 Code: 74050201",
+                "original_value": "Elos",
+                "Wikidata_ID": "Q2291550"
+            },
+            {
+                "originalKey": "Chania international airport and Souda bay international harbor",
+                "original_value": "Souda Bay Naval Base, Crete; Chania Airport",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size of the area",
+                "original_value": "Area_(land)_or_(territory)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "334.2 km2",
+                "original_value": "Size (area) of a specific region or country",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "minimum altimetry LAU",
+                "original_value": "Altitude_(elevation)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "0 meters",
+                "original_value": "Zero elevation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "maximum altimetry LAU",
+                "original_value": "Altitude_(elevation)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1000 meters",
+                "original_value": "Elevation",
+                "Wikidata_ID": "Q2633778"
+            },
+            {
+                "originalKey": "total population LAU",
+                "original_value": "Population_(demography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "159.893 thousand people",
+                "original_value": "Demographic statistics",
+                "Wikidata_ID": "Q1965979"
+            },
+            {
+                "originalKey": "population density LAU (Inhabitants/km2)",
+                "original_value": "Population_density_(demography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "67.50 Inhabitants/km2",
+                "original_value": "Densely populated areas",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "population change rate LAU in the last 10 years (%)",
+                "original_value": "Population_(demography)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "0.02%",
+                "original_value": "Demographic statistics",
+                "Wikidata_ID": "Q1965979"
+            },
+            {
+                "originalKey": "76.5 Inhabitants/km2",
+                "original_value": "Demographic statistics",
+                "Wikidata_ID": "Q1965979"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "List of European Union member states and the average gross domestic product (GDP) per capita",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA)",
+                "original_value": "Economy of Europe, Regional economies in Europe by country or region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Agriculture and fishing industry (by economic sectors)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Industry in Europe",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Service industry (by economic sectors)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "European Union member states and the average GDP per capita",
+                "original_value": "List of European Union countries by income",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places in tourist accommodations/year",
+                "original_value": "Tourism industry statistics by country or worldwide",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "0.029% regional share of total BPs/year",
+                "original_value": "Regional tourism and economic impact analysis",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "1444 bed places in LAU (Local Administrative Unit)",
+                "original_value": "List of administrative divisions by population density, including local units with significant accommodation capacity for tourism or events.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture in the specified region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "19873 agricultural holdings in LAU",
+                "original_value": "List of administrative divisions by number and type of farms, including those with significant agricultural activity.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "nearest settlement over 100000 population (km)",
+                "original_value": "Population density in the specified region",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "54 km",
+                "original_value": "Distance measurement and mapping of significant settlements.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "protected areas present in the region",
+                "original_value": "Protected areas by country or worldwide",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary economic activities",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary industry and manufacturing jobs in the United States by state or territory (2015)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary economic activities",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Province]",
+                "original_value": " // Specific province title not provided in the text. Please provide a specific name for accurate Wikipedia page reference.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": " // Specific region title not provided in the text. Please provide a specific name for accurate Wikipedia page reference.\n        }\n    ]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Chania chestnut trees",
+                "original_value": "List of protected species in Greece",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Crete mountain areas",
+                "original_value": "Mountains of Crete",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "chestnut cultivation/exploitation",
+                "original_value": "Chestnut production in Greece",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local farmers and cooperatives",
+                "original_value": "Agriculture Cooperatives of Crete",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "olive oil monoculture deadlocks",
+                "original_value": "Olive cultivation in Greece and its impact on the economy",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "territorial identity, cultural identity",
+                "original_value": "Cretan culture",
+                "Wikidata_ID": "Q134178"
+            },
+            {
+                "originalKey": "sustainable activity for mountainous areas of Crete",
+                "original_value": "Sustainable agriculture in Greece",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "forested / semi forests",
+                "original_value": "Forest",
+                "Wikidata_ID": "Q4421"
+            },
+            {
+                "originalKey": "grasslands of Western White Mountains",
+                "original_value": "Western Great Lakes Forests",
+                "Wikidata_ID": "Q3079236"
+            },
+            {
+                "originalKey": "agro-tourism",
+                "original_value": "Agrotourism",
+                "Wikidata_ID": "Q1956672"
+            },
+            {
+                "originalKey": "chestnut activities",
+                "original_value": "Castanea dentata (American chestnut)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cultivation and preservation of the chestnut forests in the area.",
+                "original_value": "Chestnut blight",
+                "Wikidata_ID": "Q1010057"
+            },
+            {
+                "originalKey": "annual 3-days chestnut festival",
+                "original_value": "American Chestnut Festival",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "chestnut trees",
+                "original_value": "Castanea sativa",
+                "Wikidata_ID": "Q22699"
+            },
+            {
+                "originalKey": "economic crisis",
+                "original_value": "Economic Crisis (disambiguation)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "farmers reconsidered the chestnut planting and cultivating new trees",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "lack of professionalism in agriculture",
+                "original_value": "Professionalization (disambiguation)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "climate change impact on farming",
+                "original_value": "Climate Change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "originalKey": "Greek agriculture and market competitiveness",
+                "original_value": "Agriculture in Greece",
+                "Wikidata_ID": "Q4414782"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Business Model Canvas",
+                "Wikidata_ID": "Q1393677"
+            },
+            {
+                "originalKey": "Exogenous innovation",
+                "original_value": "Innovation Types - Exogenous Innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "processing of chestnuts and production of processed products and by-products",
+                "original_value": "Chestnut (tree)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "international market interest in Crete region",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "academic institutions involvement",
+                "original_value": "Academic Institutions - Role and Importance",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New products development",
+                "original_value": "Product Development Processes",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "new marketing strategies",
+                "original_value": "Marketing Strategy - Types and Importance in Business",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Grassland land use systems",
+                "original_value": "Grasslands (ecosystem)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Forestry land use systems",
+                "original_value": "Forests - Types and Management",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural, social and cultural local assets",
+                "original_value": "Local Assets (Economics)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "chestnut trees",
+                "original_value": "Chestnut (Castanea)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "originalKey": "mountainous areas",
+                "original_value": "Mountains of Greece",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            }
+        ]
+    }
+]

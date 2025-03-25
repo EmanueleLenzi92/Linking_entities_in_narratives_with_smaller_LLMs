@@ -1,0 +1,511 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "SPAIN ADEGUA",
+                "original_value": "Spain",
+                "Wikidata_ID": "Q29"
+            },
+            {
+                "originalKey": "VC 35 ES",
+                "original_value": "VC 35 ES",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Organic Production of Foodstuffs linked to the Aragonese Territory",
+                "original_value": "Organic production",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "ATADES Gardeniers Special Employment Center",
+                "original_value": "ATADES Gardeniers Special Employment Center",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Boliche",
+                "original_value": "Chickpea",
+                "Wikidata_ID": "Q81375"
+            },
+            {
+                "originalKey": "Lentils",
+                "original_value": "Lentil",
+                "Wikidata_ID": "Q131226"
+            },
+            {
+                "originalKey": "Torres de Berrellén melon",
+                "original_value": "Torres de Berrellén melon",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Rural Development Program",
+                "original_value": "Rural development",
+                "Wikidata_ID": "Q3045473"
+            },
+            {
+                "originalKey": "European Agricultural Fund for Rural Development (EAFRD)",
+                "original_value": "European Agricultural Fund for Rural Development (EAFRD)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pyrenees",
+                "original_value": "Pyrenees",
+                "Wikidata_ID": "Q12431"
+            },
+            {
+                "originalKey": "Jaca (Ascara)",
+                "original_value": "Jaca (town)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Canal de Berdún",
+                "original_value": "Canal de Berdún",
+                "Wikidata_ID": "Q987419"
+            },
+            {
+                "originalKey": "Huesca",
+                "original_value": "Huesca",
+                "Wikidata_ID": "Q11967"
+            },
+            {
+                "originalKey": "Zaragoza",
+                "original_value": "Zaragoza",
+                "Wikidata_ID": "Q10305"
+            },
+            {
+                "originalKey": "Native legumes (boliche, chickpeas and lentils)",
+                "original_value": "Legumes",
+                "Wikidata_ID": "Q145909"
+            },
+            {
+                "originalKey": "Honey in Ascara (Huesca)",
+                "original_value": "Honey",
+                "Wikidata_ID": "Q10987"
+            },
+            {
+                "originalKey": "Melon from Torres de Berrellén in Alagón",
+                "original_value": "Melon",
+                "Wikidata_ID": "Q5881191"
+            },
+            {
+                "originalKey": "Montañana (Zaragoza)",
+                "original_value": "Montañana (town)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Gardeniers farm",
+                "original_value": "Farm",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "Cielos de Ascara agroecological social project",
+                "original_value": "Agroecology",
+                "Wikidata_ID": "Q396338"
+            },
+            {
+                "originalKey": "Sigpac references",
+                "original_value": "SIGPAQ",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Jaca (town)",
+                "original_value": "Jaca (town)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natura 2000 Network",
+                "original_value": "Natura 2000",
+                "Wikidata_ID": "Q503021"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "LAU",
+                "original_value": "Local Administrative Unit",
+                "Wikidata_ID": "Q193083"
+            },
+            {
+                "originalKey": "population",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "altimetry",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "population change rate",
+                "original_value": "Population growth rate",
+                "Wikidata_ID": "Q386191"
+            },
+            {
+                "originalKey": "regional population density",
+                "original_value": "Regional population density",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income",
+                "original_value": "Average income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "primary sector share",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "per capita income",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bed places",
+                "original_value": "Bed",
+                "Wikidata_ID": "Q42177"
+            },
+            {
+                "originalKey": "tourist accommodations/year",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Local administrative division",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "protected areas",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary sector",
+                "Wikidata_ID": "Q55640"
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary sector",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector",
+                "Wikidata_ID": "Q55638"
+            },
+            {
+                "originalKey": "Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "originalKey": "Region",
+                "original_value": "Region",
+                "Wikidata_ID": "Q82794"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Cielos de Ascara",
+                "original_value": "Cielos de Ascara",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Aragonese Pyrenees",
+                "original_value": "Pyrenees (mountain range)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "social and labor insertion difficulties",
+                "original_value": "Social exclusion",
+                "Wikidata_ID": "Q5853064"
+            },
+            {
+                "originalKey": "organic food production",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "mountain and valley areas",
+                "original_value": "Mountains",
+                "Wikidata_ID": "Q8502"
+            },
+            {
+                "originalKey": "public-private collaboration",
+                "original_value": "Public–private partnership",
+                "Wikidata_ID": "Q221096"
+            },
+            {
+                "originalKey": "endogenous innovation project",
+                "original_value": "Endogenous development",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "local actors",
+                "original_value": "Local government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "originalKey": "territially-based social development",
+                "original_value": "Sustainable development",
+                "Wikidata_ID": "Q131201"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aragon",
+                "original_value": "Aragon",
+                "Wikidata_ID": "Q4040"
+            },
+            {
+                "originalKey": "food heritage",
+                "original_value": "Food heritage",
+                "Wikidata_ID": "Q5465484"
+            },
+            {
+                "originalKey": "sustainable",
+                "original_value": "Sustainability",
+                "Wikidata_ID": "Q219416"
+            },
+            {
+                "originalKey": "proximity",
+                "original_value": "Proximity",
+                "Wikidata_ID": "Q1420641"
+            },
+            {
+                "originalKey": "healthy",
+                "original_value": "Healthy",
+                "Wikidata_ID": "Q12147"
+            },
+            {
+                "originalKey": "higher quality",
+                "original_value": "Higher quality",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "flavorful",
+                "original_value": "Flavorful",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "horticultural products",
+                "original_value": "Horticultural products",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "traditional products",
+                "original_value": "Traditional products",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "sustainability",
+                "original_value": "Sustainability",
+                "Wikidata_ID": "Q219416"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Venture capital",
+                "Wikidata_ID": "Q219409"
+            },
+            {
+                "originalKey": "rural development policies",
+                "original_value": "Rural development",
+                "Wikidata_ID": "Q3045473"
+            },
+            {
+                "originalKey": "urban consumption environments",
+                "original_value": "Urban consumption",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "originalKey": "Endogenous",
+                "original_value": "Endogenous development",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "revitalization of rural and mountain areas",
+                "original_value": "Rural development",
+                "Wikidata_ID": "Q3045473"
+            },
+            {
+                "originalKey": "traditional varieties",
+                "original_value": "Traditional agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "promote organic production and consumption",
+                "original_value": "Organic farming",
+                "Wikidata_ID": "Q165647"
+            },
+            {
+                "originalKey": "connect rural and urban areas",
+                "original_value": "Urban-rural linkages",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "generate employment",
+                "original_value": "Employment creation",
+                "Wikidata_ID": "Q41171"
+            },
+            {
+                "originalKey": "foster social integration",
+                "original_value": "Social integration",
+                "Wikidata_ID": "Q370735"
+            },
+            {
+                "originalKey": "stimulate forms of public-private cooperation",
+                "original_value": "Public-private partnerships",
+                "Wikidata_ID": "Q221096"
+            },
+            {
+                "originalKey": "New products",
+                "original_value": "Innovation in product development",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New processes",
+                "original_value": "Innovation in production processes",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "New governance systems",
+                "original_value": "Governance innovation",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cropland",
+                "original_value": "Agricultural land use",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural",
+                "original_value": "Natural resources",
+                "Wikidata_ID": "Q188460"
+            },
+            {
+                "originalKey": "social and cultural",
+                "original_value": "Social and cultural assets",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sites of Community Importance (SCI)",
+                "original_value": "Lists of sites of community importance in Spain",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Special Protection Area for Birds (SPA)",
+                "original_value": "Lists of special protection areas for birds in Spain",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+                "original_value": "Centro de Investigación y Tecnología Agroalimentaria de Aragón",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Special Employment Center Gardeniers of ATADES",
+                "original_value": "Lists of special employment centers in Spain",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agroecology",
+                "original_value": "Agroecology",
+                "Wikidata_ID": "Q396338"
+            },
+            {
+                "originalKey": "social insertion",
+                "original_value": "Social inclusion",
+                "Wikidata_ID": "Q5853064"
+            },
+            {
+                "originalKey": "digital bet",
+                "original_value": "Digital transformation",
+                "Wikidata_ID": "Q4252370"
+            }
+        ]
+    }
+]

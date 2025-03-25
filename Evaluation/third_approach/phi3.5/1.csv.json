@@ -1,0 +1,471 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "originalKey": "MOVING Card ID of this VC is VC 01 AT.",
+                "original_value": "VC (Value Chain)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "ALMO",
+                "original_value": "'Almo Steirisches Almochsenfleisch'",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Austrian Program for Environmentally Sound Agriculture (ÖPUL)",
+                "original_value": "Environmental Protection and Climate Change in Austria",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "'Genussregion Almenland'",
+                "original_value": "'Almenland', a region of culinary delight promoting local food specialities.",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Verwaltungsregion",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "RR 11, Austrian Alps",
+                "original_value": "Alpenhauptkamm Nr. 11 in Österreich (Austrian Alps)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Weiz",
+                "original_value": "Weiz",
+                "Wikidata_ID": "Q875641"
+            },
+            {
+                "originalKey": "Almenland",
+                "original_value": "Styrian Alps (Region)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "125 pastures, 36.6 km2",
+                "original_value": "Pastoralism in the Styrian Alps",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "between 1.200 and 1.500 m above sea level",
+                "original_value": "Altitudinal range of pastures in the Austrian Alps (Styria)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "humid climate, a lot of thunderstorms",
+                "original_value": "Climate of Styria",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "diverse rock formation: limestone, phyllite, slate and greywacke",
+                "original_value": "Geology of the Austrian Alps (Styria)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "The size of the area",
+                "original_value": "Area",
+                "Wikidata_ID": "Q11500"
+            },
+            {
+                "originalKey": "1098 km2",
+                "original_value": "Size (area)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The minimum altimetry of the LAU",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "464 meters",
+                "original_value": "Elevation (altitude)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The maximum altimetry of the LAU",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "originalKey": "1720 meters",
+                "original_value": "Elevation (altitude)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The total population of the LAU",
+                "original_value": "Population",
+                "Wikidata_ID": "Q2625603"
+            },
+            {
+                "originalKey": "90.654 thousand people",
+                "original_value": "Demographics (population)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The population density of the LAU in inhabitants/km2",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "82.56 inhabitants per km2",
+                "original_value": "Demographics (population density)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The population change rate of the LAU in the last 10 years",
+                "original_value": "Population Growth Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "3.68%",
+                "original_value": "Demographics (population growth rate)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The overall regional population density in inhabitants/km2",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "originalKey": "76.28 inhabitants per km2",
+                "original_value": "Demographics (population density)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "The regional population change rate in the last 10 years",
+                "original_value": "Population Growth Rate",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "3.30%",
+                "original_value": "Demographics (population growth rate)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income (EUR/year)",
+                "original_value": "List of European Union member states and the average gross national income per person",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "total Gross Value Added (GVA) (EUR million/year)",
+                "original_value": "Regional economies in Europe by economic output, 2018 data from Eurostat and World Bank",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year",
+                "original_value": "Agriculture as a percentage of European Union's economy by country, 2018 data from Eurostat and World Bank",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year",
+                "original_value": "Industry as a percentage of European Union's economy by country, 2018 data from Eurostat and World Bank",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year",
+                "original_value": "Service industry as a percentage of European Union's economy by country, 2018 data from Eurostat and World Bank",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "per capita income (EUR/year) [Region]",
+                "original_value": "List of countries by GDP per capita at purchasing power parity, 2019 data from World Bank",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Province or Region's Name Here] (EUR million/year)",
+                "original_value": "[Specific Province or Region’s Economic Data Page, replace with actual name]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places in tourist accommodations/year",
+                "original_value": "Tourism industry",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Administrative division, Local Government Area or similar entity in the context of tourism statistics may refer to pages like 'Governmental divisions' on Wikipedia",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "regional share",
+                "original_value": "Regional distribution and demographics, which might be explained under topics such as Regional economies or Population density in the context of tourism.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "original_value": "Agriculture",
+                "Wikidata_ID": "Q11451"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100,000 (km)",
+                "original_value": "Populated places and their distances from each other",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "protected areas present in the region",
+                "original_value": "Protected area",
+                "Wikidata_ID": "Q473972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "original_value": "Primary economic activities",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "secondary sector",
+                "original_value": "Secondary industry and manufacturing jobs in the United States by state or territory (2015)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary economic activities",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Province]",
+                "original_value": " // Specific province title not provided in the text. Please provide a specific name for accurate Wikipedia page reference.",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "original_value": " // Specific region title not provided in the text. Please provide a specific name or area for accurate Wikipedia page reference.\n        }\n    ]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO",
+                "original_value": "Alm-Oxen Farmers Association",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "LEADER-region Almenland and Energieregion Weiz-Gleisdorf",
+                "original_value": "Leader Region (European Union)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "traditional pasture framing",
+                "original_value": "Pastoralism",
+                "Wikidata_ID": "Q9056738"
+            },
+            {
+                "originalKey": "high animal welfs standards (cooperation with an Austrian animal welfare NGO)",
+                "original_value": "Animal Welfare in Austria",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "innovations emerged",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "cooperation between farmers and with other value chain actors (veterinaries, butchers, retailers)",
+                "original_value": "Value Chain Cooperation in Agriculture",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "tourism",
+                "original_value": "Tourism",
+                "Wikidata_ID": "Q49389"
+            },
+            {
+                "originalKey": "local culture",
+                "original_value": "Local Culture",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "regional slaughter house",
+                "original_value": "Regional abattoir",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "sheep farmers, free range pig farmers",
+                "original_value": "Pork production in the Netherlands and Belgium (Belgian Flemish)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pasture farming tradition over centuries",
+                "original_value": "Pastoralism",
+                "Wikidata_ID": "Q9056738"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Predicted changes in climate",
+                "original_value": "Effects of global warming",
+                "Wikidata_ID": "Q1430548"
+            },
+            {
+                "originalKey": "extrem weather conditions: drought, heavy rain",
+                "original_value": "Climate change and extreme weather events",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "feedbase for pasture-based meat production",
+                "original_value": "Pastoral farming",
+                "Wikidata_ID": "Q80962"
+            },
+            {
+                "originalKey": "vegetation might change due to climate effects",
+                "original_value": "Impact of global warming on vegetation and ecosystems",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "cultivation of feed for winter time may also need adjustment",
+                "original_value": "Agriculture in cold climates under climate change",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "alpine pasture areas wastage increasing",
+                "original_value": "Alpine ecosystems and their response to global warming",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pasture intensity adjustment",
+                "original_value": "Pastoral farming management strategies under climate change",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "forage plant growth quality improvement",
+                "original_value": "Improving forage crop production and soil health in pastures",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "small scale, women led farms economically vulnerable",
+                "original_value": "Women-led agriculture: Challenges and opportunities under climate change",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "stable price arrangements importance for income security",
+                "original_value": "Agricultural economics of smallholder farms in the context of globalization",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Current and Predicted challenges faced by VC (VC stands for Value Chain)",
+                "original_value": "Value chain analysis under changing environmental conditions",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "original_value": "Incorporating innovation in traditional farming systems for sustainability",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Endogenous innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "Exogenous innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "Social relations and engagement within the VC",
+                "original_value": "Value Chain (Economics)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Local action groups in LEADER projects",
+                "original_value": "LEADER",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Cross-sectoral exchange of ideas and insights into regional development concept",
+                "original_value": "Regional Development Concepts",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Feed specific practices for high meat quality",
+                "original_value": "Animal Husbandry Practices",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "System Haberl stables model",
+                "original_value": "Stable Design and Construction in Agriculture",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Pasture farming land use systems",
+                "original_value": "Agricultural Land Use Systems",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Natural, social and cultural local assets",
+                "original_value": "Local Assets (Economics)",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ALMO producing farmers",
+                "original_value": "Almwirtschaftlicher Landmanagement (farmer cooperatives in Alpine regions)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Lower Austria",
+                "original_value": "Land of Lower Austria",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Carinthia",
+                "original_value": "Landschaftsverband Carinthen (regional association in the Austrian state of Carinthia)",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "NUTS-II AT 12 and NUTS-II AT 21",
+                "original_value": "Nomenclature of Territorial Units for Statistics (NUTS) - Austria",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "pasture farmed beef in Austria",
+                "original_value": "Austrian agricultural practices and meat production – Pastoralism section on Wikipedia",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "specific organisational structure and partnerships within the VC",
+                "original_value": "VC (Verband Carinthen) - Austrian regional association's organizational details page",
+                "Wikidata_ID": null
+            }
+        ]
+    }
+]
