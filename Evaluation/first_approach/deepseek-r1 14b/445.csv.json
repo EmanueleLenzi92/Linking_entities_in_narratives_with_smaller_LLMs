@@ -1,0 +1,318 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "TURKEY",
+                "Wikidata_ID": "Q197"
+            },
+            {
+                "originalKey": "MUGLA",
+                "Wikidata_ID": "Q205563"
+            },
+            {
+                "originalKey": "TURKSTAT",
+                "Wikidata_ID": "Q106453987"
+            },
+            {
+                "originalKey": "beekeeping",
+                "Wikidata_ID": "Q178498"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Menteşe Mountains",
+                "Wikidata_ID": "Q1023685"
+            },
+            {
+                "originalKey": "Ula",
+                "Wikidata_ID": "Q7419236"
+            },
+            {
+                "originalKey": "Muğla province",
+                "Wikidata_ID": "Q185064"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size of the area (km2)",
+                "Wikidata_ID": "P20461"
+            },
+            {
+                "originalKey": "minimum altimetry",
+                "Wikidata_ID": "P571"
+            },
+            {
+                "originalKey": "maximum altimetry",
+                "Wikidata_ID": "P571"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "Wikidata_ID": "P1082"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2)",
+                "Wikidata_ID": "P4039"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": "P2976"
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "P4039"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": "P2976"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "Wikidata_ID": "P1982"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year)",
+                "Wikidata_ID": "P146"
+            },
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q17052839"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q17052840"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q17052841"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bed places (BPs)",
+                "Wikidata_ID": "Q2356487"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q1020989"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q825063"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q1742559"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "Wikidata_ID": "Q5155"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q2384679"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q192850"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q192849"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q192848"
+            },
+            {
+                "originalKey": "employment",
+                "Wikidata_ID": "Q8076"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "Wikidata_ID": "Q192"
+            },
+            {
+                "originalKey": "Pine Honey",
+                "Wikidata_ID": "Q170436"
+            },
+            {
+                "originalKey": "Turkish Patent and Trademark Office",
+                "Wikidata_ID": "Q858298"
+            },
+            {
+                "originalKey": "Geographical Indication",
+                "Wikidata_ID": "Q858298"
+            },
+            {
+                "originalKey": "Agriculture",
+                "Wikidata_ID": "Q940"
+            },
+            {
+                "originalKey": "Tourism",
+                "Wikidata_ID": "Q16956"
+            },
+            {
+                "originalKey": "Beekeeping",
+                "Wikidata_ID": "Q16956"
+            },
+            {
+                "originalKey": "Organic Honey Production",
+                "Wikidata_ID": "Q858298"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pine honey",
+                "Wikidata_ID": "Q205684"
+            },
+            {
+                "originalKey": "Turkey",
+                "Wikidata_ID": "Q192"
+            },
+            {
+                "originalKey": "Muğla Province",
+                "Wikidata_ID": "Q3720"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Honey",
+                "Wikidata_ID": "Q2029863"
+            },
+            {
+                "originalKey": "Yield",
+                "Wikidata_ID": "Q174564"
+            },
+            {
+                "originalKey": "Climatic Conditions",
+                "Wikidata_ID": "Q171472"
+            },
+            {
+                "originalKey": "Migratory Beekeeper",
+                "Wikidata_ID": "Q159654"
+            },
+            {
+                "originalKey": "Young People",
+                "Wikidata_ID": "Q1069644"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q383825"
+            },
+            {
+                "originalKey": "Innovative",
+                "Wikidata_ID": "Q173090"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q169423"
+            },
+            {
+                "originalKey": "Rainforest Alliance",
+                "Wikidata_ID": "Q835072"
+            },
+            {
+                "originalKey": "Forestry",
+                "Wikidata_ID": "Q170664"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q1597853"
+            },
+            {
+                "originalKey": "Cultural",
+                "Wikidata_ID": "Q201684"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "Wikidata_ID": "Q197"
+            },
+            {
+                "originalKey": "Switzerland",
+                "Wikidata_ID": "Q24"
+            },
+            {
+                "originalKey": "UK",
+                "Wikidata_ID": "Q16"
+            },
+            {
+                "originalKey": "Austria",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "Czech Republic",
+                "Wikidata_ID": "Q85"
+            },
+            {
+                "originalKey": "France",
+                "Wikidata_ID": "Q14"
+            },
+            {
+                "originalKey": "Greece",
+                "Wikidata_ID": "Q15"
+            },
+            {
+                "originalKey": "Hungary",
+                "Wikidata_ID": "Q18"
+            },
+            {
+                "originalKey": "Italy",
+                "Wikidata_ID": "Q9"
+            },
+            {
+                "originalKey": "North Macedonia",
+                "Wikidata_ID": "Q747"
+            },
+            {
+                "originalKey": "Romania",
+                "Wikidata_ID": "Q20"
+            },
+            {
+                "originalKey": "Serbia",
+                "Wikidata_ID": "Q36"
+            },
+            {
+                "originalKey": "Slovakia",
+                "Wikidata_ID": "Q25"
+            },
+            {
+                "originalKey": "Spain",
+                "Wikidata_ID": "Q18"
+            },
+            {
+                "originalKey": "pine honey",
+                "Wikidata_ID": "Q207435"
+            }
+        ]
+    }
+]

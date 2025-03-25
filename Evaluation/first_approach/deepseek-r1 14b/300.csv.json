@@ -1,0 +1,285 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "Wikidata_ID": "Q1034756"
+            },
+            {
+                "originalKey": "Barley",
+                "Wikidata_ID": "Q2981"
+            },
+            {
+                "originalKey": "Roros",
+                "Wikidata_ID": "Q185633"
+            },
+            {
+                "originalKey": "fungui",
+                "Wikidata_ID": "Q43470"
+            },
+            {
+                "originalKey": "Rorosmat",
+                "Wikidata_ID": "No known Wikidata ID found."
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavian Mountains - Scandes",
+                "Wikidata_ID": "Q9053"
+            },
+            {
+                "originalKey": "Tynset",
+                "Wikidata_ID": "Q10236847"
+            },
+            {
+                "originalKey": "Østerdalen",
+                "Wikidata_ID": "Q10236859"
+            },
+            {
+                "originalKey": "Skiing",
+                "Wikidata_ID": "Q180664"
+            },
+            {
+                "originalKey": "Fishing",
+                "Wikidata_ID": "Q20158"
+            },
+            {
+                "originalKey": "Hiking",
+                "Wikidata_ID": "Q16943"
+            },
+            {
+                "originalKey": "Hunting",
+                "Wikidata_ID": "Q170645"
+            },
+            {
+                "originalKey": "Subarctic Climate",
+                "Wikidata_ID": "Q198965"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income (EUR/year) [Province]",
+                "Wikidata_ID": "Q104263"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year) [Province]",
+                "Wikidata_ID": "P1984"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year [Province]",
+                "Wikidata_ID": "Q205678"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year [Province]",
+                "Wikidata_ID": "Q193452"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year [Province]",
+                "Wikidata_ID": "Q193453"
+            },
+            {
+                "originalKey": "per capita income (EUR/year) [Region]",
+                "Wikidata_ID": "Q104263"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year) [Region]",
+                "Wikidata_ID": "P1984"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bed places (BPs)",
+                "Wikidata_ID": "Q16954837"
+            },
+            {
+                "originalKey": "Local Administrative Unit (LAU)",
+                "Wikidata_ID": "Q201291"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q5107846"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q1319827"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "Wikidata_ID": "Q515"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q1724638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q41735"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q41736"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q41737"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Ancient crop",
+                "Wikidata_ID": "Q1047"
+            },
+            {
+                "originalKey": "Farmers",
+                "Wikidata_ID": "Q169584"
+            },
+            {
+                "originalKey": "Grain",
+                "Wikidata_ID": "Q1047"
+            },
+            {
+                "originalKey": "Flour",
+                "Wikidata_ID": "Q2005"
+            },
+            {
+                "originalKey": "Milling",
+                "Wikidata_ID": "Q169584"
+            },
+            {
+                "originalKey": "Customers",
+                "Wikidata_ID": "Q23793"
+            },
+            {
+                "originalKey": "E-commerce platform",
+                "Wikidata_ID": "Q18024589"
+            },
+            {
+                "originalKey": "Market access",
+                "Wikidata_ID": "Q16520"
+            },
+            {
+                "originalKey": "Innovation",
+                "Wikidata_ID": "Q184962"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Norway",
+                "Wikidata_ID": "Q1003968"
+            },
+            {
+                "originalKey": "Rorosmat",
+                "Wikidata_ID": "Q114257768"
+            },
+            {
+                "originalKey": "stone mill",
+                "Wikidata_ID": "Q169493"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "fertilizers",
+                "Wikidata_ID": "Q1652348"
+            },
+            {
+                "originalKey": "pesticides",
+                "Wikidata_ID": "Q170594"
+            },
+            {
+                "originalKey": "barley",
+                "Wikidata_ID": "Q2635"
+            },
+            {
+                "originalKey": "wheat",
+                "Wikidata_ID": "Q144"
+            },
+            {
+                "originalKey": "Climate Change",
+                "Wikidata_ID": "Q8925017"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q24506"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q173895"
+            },
+            {
+                "originalKey": "Exogenous",
+                "Wikidata_ID": "Q1652034"
+            },
+            {
+                "originalKey": "Rorosmat",
+                "Wikidata_ID": "Q104753628"
+            },
+            {
+                "originalKey": "e-commerce",
+                "Wikidata_ID": "Q9054"
+            },
+            {
+                "originalKey": "mill",
+                "Wikidata_ID": "Q167238"
+            },
+            {
+                "originalKey": "website",
+                "Wikidata_ID": "Q16827388"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q201647"
+            },
+            {
+                "originalKey": "Cropland",
+                "Wikidata_ID": "Q1895345"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q201678"
+            },
+            {
+                "originalKey": "social",
+                "Wikidata_ID": "Q169453"
+            },
+            {
+                "originalKey": "cultural",
+                "Wikidata_ID": "Q174383"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Barack Obama",
+                "Wikidata_ID": "Q83"
+            },
+            {
+                "originalKey": "United States",
+                "Wikidata_ID": "Q30"
+            }
+        ]
+    }
+]

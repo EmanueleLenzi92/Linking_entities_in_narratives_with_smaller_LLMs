@@ -1,0 +1,162 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SWITZERLAND",
+                "Wikidata_ID": "Q20"
+            },
+            {
+                "originalKey": "Alps",
+                "Wikidata_ID": "Q14563897"
+            },
+            {
+                "originalKey": "mountain zones 1-4",
+                "Wikidata_ID": "Q2357986"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "mountain chain",
+                "Wikidata_ID": "Q23564"
+            },
+            {
+                "originalKey": "mountain landscape",
+                "Wikidata_ID": "Q108972"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "Wikidata_ID": "P20461"
+            },
+            {
+                "originalKey": "altimetry",
+                "Wikidata_ID": "P571"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q201886"
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": "P1082"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "P4039"
+            },
+            {
+                "originalKey": "Inhabitants/km2",
+                "Wikidata_ID": "Q18620465"
+            },
+            {
+                "originalKey": "year",
+                "Wikidata_ID": "P570"
+            },
+            {
+                "originalKey": "%",
+                "Wikidata_ID": "Q202634"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q24567830"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q1988734"
+            },
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q205628"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q197343"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q197344"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bed places (BPs)",
+                "Wikidata_ID": "Q23564780"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "Wikidata_ID": "Q23564780"
+            },
+            {
+                "originalKey": "Local Administrative Unit (LAU)",
+                "Wikidata_ID": "Q190452"
+            },
+            {
+                "originalKey": "regional share",
+                "Wikidata_ID": "Q178670"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q23564781"
+            },
+            {
+                "originalKey": "settlement",
+                "Wikidata_ID": "Q1695088"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q276512"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q486824"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "traditional VC",
+                "Wikidata_ID": "Q24509381"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bees",
+                "Wikidata_ID": "Q7459"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q237405"
+            },
+            {
+                "originalKey": "Beehives",
+                "Wikidata_ID": "Q1652098"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q150"
+            }
+        ]
+    }
+]

@@ -1,0 +1,290 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "Wikidata_ID": "Q183"
+            },
+            {
+                "originalKey": "Cretan Diet Festival",
+                "Wikidata_ID": "Q97624057"
+            },
+            {
+                "originalKey": "Pancretan Network of Organic Farmers of Aloe Vera",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Minoan Land",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Dikti Mountains",
+                "Wikidata_ID": "Q1682749"
+            },
+            {
+                "originalKey": "VIANNOS",
+                "Wikidata_ID": "Q5307777"
+            },
+            {
+                "originalKey": "Pinus brutia",
+                "Wikidata_ID": "Q164892"
+            },
+            {
+                "originalKey": "Quercus coccifera",
+                "Wikidata_ID": "Q157307"
+            },
+            {
+                "originalKey": "Cupressus sempervirens",
+                "Wikidata_ID": "Q164893"
+            },
+            {
+                "originalKey": "Quercus ilex",
+                "Wikidata_ID": "Q157299"
+            },
+            {
+                "originalKey": "Acer sempervirens",
+                "Wikidata_ID": "Q164894"
+            },
+            {
+                "originalKey": "aloe vera",
+                "Wikidata_ID": "Q273057"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q489237"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q1056777"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q30976"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q18245"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q3824976"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q105777"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q302657"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q302658"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q302659"
+            },
+            {
+                "originalKey": "[Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe vera",
+                "Wikidata_ID": "Q159874"
+            },
+            {
+                "originalKey": "Dikti mountain landscape",
+                "Wikidata_ID": "Q6230777"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q180"
+            },
+            {
+                "originalKey": "Greece",
+                "Wikidata_ID": "Q8"
+            },
+            {
+                "originalKey": "North America",
+                "Wikidata_ID": "Q15927"
+            },
+            {
+                "originalKey": "Europe",
+                "Wikidata_ID": "Q30"
+            },
+            {
+                "originalKey": "Viannos",
+                "Wikidata_ID": "Q1879462"
+            },
+            {
+                "originalKey": "Minoan Land",
+                "Wikidata_ID": "null"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Dikti Mountain",
+                "Wikidata_ID": "Q1758439"
+            },
+            {
+                "originalKey": "Olives",
+                "Wikidata_ID": "Q10267"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "Wikidata_ID": "Q43895"
+            },
+            {
+                "originalKey": "e-commerce",
+                "Wikidata_ID": "Q12076"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Dikti area",
+                "Wikidata_ID": "Q10497863"
+            },
+            {
+                "originalKey": "Viannos",
+                "Wikidata_ID": "Q251977"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "Wikidata_ID": "Q160843"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe Vera plants",
+                "Wikidata_ID": "Q159874"
+            },
+            {
+                "originalKey": "Dikti region",
+                "Wikidata_ID": "Q2063777"
+            },
+            {
+                "originalKey": "Minoan Land",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "organic farming",
+                "Wikidata_ID": "Q1234786"
+            },
+            {
+                "originalKey": "contract farming",
+                "Wikidata_ID": "Q1095777"
+            },
+            {
+                "originalKey": "nutritional supplements",
+                "Wikidata_ID": "Q234687"
+            },
+            {
+                "originalKey": "herbal cosmetics",
+                "Wikidata_ID": "Q1059777"
+            },
+            {
+                "originalKey": "green economy",
+                "Wikidata_ID": "Q238467"
+            },
+            {
+                "originalKey": "juices",
+                "Wikidata_ID": "Q1095777"
+            },
+            {
+                "originalKey": "foods",
+                "Wikidata_ID": "Q234687"
+            },
+            {
+                "originalKey": "gels",
+                "Wikidata_ID": "Q1095777"
+            },
+            {
+                "originalKey": "natural fertilizers",
+                "Wikidata_ID": "Q234687"
+            },
+            {
+                "originalKey": "food industry",
+                "Wikidata_ID": "Q1095777"
+            },
+            {
+                "originalKey": "pharmaceutical industry",
+                "Wikidata_ID": "Q234687"
+            },
+            {
+                "originalKey": "nutraceuticals industries",
+                "Wikidata_ID": "Q1095777"
+            },
+            {
+                "originalKey": "medical institutions",
+                "Wikidata_ID": "Q234687"
+            },
+            {
+                "originalKey": "Cropland",
+                "Wikidata_ID": "Q1095777"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q234687"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe Vera",
+                "Wikidata_ID": "Q159873"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q180246"
+            },
+            {
+                "originalKey": "Andalusia",
+                "Wikidata_ID": "Q17953"
+            },
+            {
+                "originalKey": "Spain",
+                "Wikidata_ID": "Q846"
+            },
+            {
+                "originalKey": "European consumers",
+                "Wikidata_ID": "Q1097352"
+            }
+        ]
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SPAIN ADEGUA",
+                "Wikidata_ID": "Q1830479"
+            },
+            {
+                "originalKey": "VC 34 ES",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Betic System",
+                "Wikidata_ID": "Q1027486"
+            },
+            {
+                "originalKey": "Carcabuey",
+                "Wikidata_ID": "Q1953977"
+            },
+            {
+                "originalKey": "Sierra Subbética",
+                "Wikidata_ID": "Q2084677"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q584632"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q170977"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q598"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q10764"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q39476"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q18250"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q39280"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q174567"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q39281"
+            },
+            {
+                "originalKey": "[Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ageing population",
+                "Wikidata_ID": "Q1047386"
+            },
+            {
+                "originalKey": "elderly",
+                "Wikidata_ID": "Q295477"
+            },
+            {
+                "originalKey": "mountain centres",
+                "Wikidata_ID": "Q1086377"
+            },
+            {
+                "originalKey": "female population",
+                "Wikidata_ID": "Q425977"
+            },
+            {
+                "originalKey": "immigrant female population",
+                "Wikidata_ID": "Q1086377"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "PROMI",
+                "Wikidata_ID": "Q113587629"
+            },
+            {
+                "originalKey": "Provincial Council",
+                "Wikidata_ID": "Q40477"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Ageing population",
+                "Wikidata_ID": "Q18697403"
+            },
+            {
+                "originalKey": "Sierra Leone",
+                "Wikidata_ID": "Q185297"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q18649703"
+            },
+            {
+                "originalKey": "public services",
+                "Wikidata_ID": "Q254377"
+            },
+            {
+                "originalKey": "elderly population",
+                "Wikidata_ID": "Q186908"
+            },
+            {
+                "originalKey": "New governance systems",
+                "Wikidata_ID": "Q423757"
+            },
+            {
+                "originalKey": "urban space",
+                "Wikidata_ID": "Q186907"
+            },
+            {
+                "originalKey": "infrastructures",
+                "Wikidata_ID": "Q234547"
+            },
+            {
+                "originalKey": "Social and cultural",
+                "Wikidata_ID": "Q186908"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sierra",
+                "Wikidata_ID": "Q1027489"
+            },
+            {
+                "originalKey": "Subbética",
+                "Wikidata_ID": "Q1035677"
+            }
+        ]
+    }
+]

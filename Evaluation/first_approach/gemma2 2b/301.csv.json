@@ -1,0 +1,390 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state of this VC (Value Chain)",
+                "Wikidata_ID": "Q10479865"
+            },
+            {
+                "originalKey": "SKANDINAVIAN UCO",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "reference MOVING Card ID of this VC",
+                "Wikidata_ID": "Q10479865"
+            },
+            {
+                "originalKey": "Pultost",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "sour milk cheese",
+                "Wikidata_ID": "Q10479865"
+            },
+            {
+                "originalKey": "cow's milk",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "rennet",
+                "Wikidata_ID": "Q10479865"
+            },
+            {
+                "originalKey": "self-produced culture of old strains of lactic bacteria",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "drained, crumbled and fermented",
+                "Wikidata_ID": "Q10479865"
+            },
+            {
+                "originalKey": "salt and caraway seeds",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "stop fermentation",
+                "Wikidata_ID": "Q10479865"
+            },
+            {
+                "originalKey": "special character",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "cheese can be eaten fresh or matured in wooden containers up to one year",
+                "Wikidata_ID": "Q10479865"
+            },
+            {
+                "originalKey": "leftover cream",
+                "Wikidata_ID": "Q237777"
+            },
+            {
+                "originalKey": "sour cream or butter",
+                "Wikidata_ID": "Q10479865"
+            },
+            {
+                "originalKey": "Slowfood Foundation for Biodiversity",
+                "Wikidata_ID": "Q237777"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandinavean Mountains - Scandes",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "Lesja",
+                "Wikidata_ID": "Q258377"
+            },
+            {
+                "originalKey": "Lesjaskogsvatnet (Lesjas lake)",
+                "Wikidata_ID": "Q104967"
+            },
+            {
+                "originalKey": "Rauma river",
+                "Wikidata_ID": "Q32587"
+            },
+            {
+                "originalKey": "Gudbrandsdalslågen river",
+                "Wikidata_ID": "Q104968"
+            },
+            {
+                "originalKey": "Lesjas lake",
+                "Wikidata_ID": "Q104967"
+            },
+            {
+                "originalKey": "Norwegian trout",
+                "Wikidata_ID": "Q28537"
+            },
+            {
+                "originalKey": "municipality",
+                "Wikidata_ID": "Q104969"
+            },
+            {
+                "originalKey": "treeline",
+                "Wikidata_ID": "Q27358"
+            },
+            {
+                "originalKey": "summer farms",
+                "Wikidata_ID": "Q104970"
+            },
+            {
+                "originalKey": "traditional livestock systems",
+                "Wikidata_ID": "Q28538"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size of the area (km2)",
+                "Wikidata_ID": "Q147593"
+            },
+            {
+                "originalKey": "minimum altimetry of the LAU",
+                "Wikidata_ID": "Q106877"
+            },
+            {
+                "originalKey": "maximum altimetry of the LAU",
+                "Wikidata_ID": "Q106878"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "Wikidata_ID": "Q147593"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2) in the LAU",
+                "Wikidata_ID": "Q106877"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": "Q106877"
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q106877"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q106877"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q10456"
+            },
+            {
+                "originalKey": "GVA (EUR million/year)",
+                "Wikidata_ID": "Q27983"
+            },
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "Wikidata_ID": "Q10456"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q10456"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "Wikidata_ID": "Q1047986"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q25307"
+            },
+            {
+                "originalKey": "regional (Region) share of total BPs/year",
+                "Wikidata_ID": "Q149687"
+            },
+            {
+                "originalKey": "number of agricultural holdings in the LAU",
+                "Wikidata_ID": "Q205377"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q149687"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q23577"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q124568"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q124569"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q124570"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q124571"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q124572"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q124573"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "High quality product",
+                "Wikidata_ID": "Q104786"
+            },
+            {
+                "originalKey": "high reputation",
+                "Wikidata_ID": "Q23597"
+            },
+            {
+                "originalKey": "tradition in the area",
+                "Wikidata_ID": "Q104867"
+            },
+            {
+                "originalKey": "natural assets",
+                "Wikidata_ID": "Q5293"
+            },
+            {
+                "originalKey": "natural pastures",
+                "Wikidata_ID": "Q104867"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q2953"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "mountain pastures",
+                "Wikidata_ID": "Q104759"
+            },
+            {
+                "originalKey": "cooperation among Pultost producers",
+                "Wikidata_ID": "Q12345678"
+            },
+            {
+                "originalKey": "Pultosts BA",
+                "Wikidata_ID": "Q10987654"
+            },
+            {
+                "originalKey": "Pultost Innlandet SA",
+                "Wikidata_ID": "Q12345678"
+            },
+            {
+                "originalKey": "Slowfood Foundation",
+                "Wikidata_ID": "Q10987654"
+            },
+            {
+                "originalKey": "traditional knowledge",
+                "Wikidata_ID": "Q12345678"
+            },
+            {
+                "originalKey": "cheese and butter production",
+                "Wikidata_ID": "Q10987654"
+            },
+            {
+                "originalKey": "cattle management",
+                "Wikidata_ID": "Q10987654"
+            },
+            {
+                "originalKey": "ecological system",
+                "Wikidata_ID": "Q12345678"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "industrial dairies",
+                "Wikidata_ID": "Q25387"
+            },
+            {
+                "originalKey": "artisanal cheese making",
+                "Wikidata_ID": "Q104967"
+            },
+            {
+                "originalKey": "market",
+                "Wikidata_ID": "Q385"
+            },
+            {
+                "originalKey": "local",
+                "Wikidata_ID": "Q10749"
+            },
+            {
+                "originalKey": "national",
+                "Wikidata_ID": "Q2356"
+            },
+            {
+                "originalKey": "challenge",
+                "Wikidata_ID": "Q10749"
+            },
+            {
+                "originalKey": "type of challenge",
+                "Wikidata_ID": "Q10749"
+            },
+            {
+                "originalKey": "classification",
+                "Wikidata_ID": "Q2356"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q104769"
+            },
+            {
+                "originalKey": "innovation",
+                "Wikidata_ID": "Q5238"
+            },
+            {
+                "originalKey": "land use systems",
+                "Wikidata_ID": "Q104769"
+            },
+            {
+                "originalKey": "Grassland",
+                "Wikidata_ID": "Q2538"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q104769"
+            },
+            {
+                "originalKey": "local assets",
+                "Wikidata_ID": "Q5238"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q104769"
+            },
+            {
+                "originalKey": "social",
+                "Wikidata_ID": "Q5238"
+            },
+            {
+                "originalKey": "cultural",
+                "Wikidata_ID": "Q5238"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q27968"
+            },
+            {
+                "originalKey": "Etnedal",
+                "Wikidata_ID": "Q104537"
+            }
+        ]
+    }
+]

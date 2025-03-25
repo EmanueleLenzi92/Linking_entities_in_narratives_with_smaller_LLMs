@@ -1,0 +1,198 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "ITALY",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "UNIMOL",
+                "Wikidata_ID": "Q102465793"
+            },
+            {
+                "originalKey": "UNIPI",
+                "Wikidata_ID": "Q200398"
+            },
+            {
+                "originalKey": "organic production of aromatic herbs",
+                "Wikidata_ID": "Q16457468"
+            },
+            {
+                "originalKey": "honey production",
+                "Wikidata_ID": "Q201934"
+            },
+            {
+                "originalKey": "infusion herbs",
+                "Wikidata_ID": "Q16457468"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Northern Apennines - Tuscan Emilian Apennines",
+                "Wikidata_ID": "Q13190865"
+            },
+            {
+                "originalKey": "Anghiari",
+                "Wikidata_ID": "Q24727"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q102356894"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "Wikidata_ID": "Q105828794"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year)",
+                "Wikidata_ID": "Q105828795"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year",
+                "Wikidata_ID": "Q105828796"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year",
+                "Wikidata_ID": "Q105828797"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year",
+                "Wikidata_ID": "Q105828798"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Bed places (BPs)",
+                "Wikidata_ID": "Q180392"
+            },
+            {
+                "originalKey": "Local Administrative Unit (LAU)",
+                "Wikidata_ID": "Q102354"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q102354"
+            },
+            {
+                "originalKey": "Agricultural holdings",
+                "Wikidata_ID": "Q8967"
+            },
+            {
+                "originalKey": "Settlement with population over 100,000",
+                "Wikidata_ID": "Q515384"
+            },
+            {
+                "originalKey": "Protected areas",
+                "Wikidata_ID": "Q23679"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q1294508"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q1294507"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q1294508"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Mountain Product",
+                "Wikidata_ID": "Q1043627"
+            },
+            {
+                "originalKey": "Pontepietra",
+                "Wikidata_ID": "Q1859464"
+            },
+            {
+                "originalKey": "Apennines",
+                "Wikidata_ID": "Q906392"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Steinbruck",
+                "Wikidata_ID": "Q14026358"
+            },
+            {
+                "originalKey": "Apennines",
+                "Wikidata_ID": "Q917"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Google",
+                "Wikidata_ID": "Q24550"
+            },
+            {
+                "originalKey": "AI",
+                "Wikidata_ID": "Q1658739"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Endogenous",
+                "Wikidata_ID": "Q1047956"
+            },
+            {
+                "originalKey": "Exogenous",
+                "Wikidata_ID": "Q1047956"
+            },
+            {
+                "originalKey": "Nature",
+                "Wikidata_ID": "Q237"
+            },
+            {
+                "originalKey": "sostenibility",
+                "Wikidata_ID": "Q830491"
+            },
+            {
+                "originalKey": "quality",
+                "Wikidata_ID": "Q165627"
+            },
+            {
+                "originalKey": "New products",
+                "Wikidata_ID": "Q217456"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q869304"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q1694267"
+            },
+            {
+                "originalKey": "aromatic herbs",
+                "Wikidata_ID": "Q1598443"
+            }
+        ]
+    }
+]

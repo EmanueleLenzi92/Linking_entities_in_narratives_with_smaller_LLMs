@@ -1,0 +1,218 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SCOTLAND HUTTON",
+                "Wikidata_ID": "Q1759283"
+            },
+            {
+                "originalKey": "UK",
+                "Wikidata_ID": "Q47889"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "Wikidata_ID": "Q1759283"
+            },
+            {
+                "originalKey": "Scottish heather Honey",
+                "Wikidata_ID": "Q6407377"
+            },
+            {
+                "originalKey": "British Standards Institution Kitemark for Food Assurance",
+                "Wikidata_ID": "Q105982777"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Highlands and Islands",
+                "Wikidata_ID": "Q1758964"
+            },
+            {
+                "originalKey": "Eastern Scotland",
+                "Wikidata_ID": "Q203777"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "Wikidata_ID": "Q1758964"
+            },
+            {
+                "originalKey": "Tay",
+                "Wikidata_ID": "Q203777"
+            },
+            {
+                "originalKey": "Earn",
+                "Wikidata_ID": "Q184965"
+            },
+            {
+                "originalKey": "Perth",
+                "Wikidata_ID": "Q203777"
+            },
+            {
+                "originalKey": "Scotland",
+                "Wikidata_ID": "Q184965"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q523894"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q170677"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q5943"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q182760"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q478967"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q10235"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q207577"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q186394"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q207578"
+            },
+            {
+                "originalKey": "[Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scottish Heather honey",
+                "Wikidata_ID": "Q108973642"
+            },
+            {
+                "originalKey": "Champagne",
+                "Wikidata_ID": "Q15477"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "Wikidata_ID": "Q1802963"
+            },
+            {
+                "originalKey": "Heather Hills honey",
+                "Wikidata_ID": "null"
+            },
+            {
+                "originalKey": "Manuka Honey",
+                "Wikidata_ID": "Q108973641"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Heather Hills",
+                "Wikidata_ID": "Q108935647"
+            },
+            {
+                "originalKey": "honey bees",
+                "Wikidata_ID": "Q123968"
+            },
+            {
+                "originalKey": "Honey Sommelier",
+                "Wikidata_ID": "Q107457777"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "changing climate",
+                "Wikidata_ID": "Q56248"
+            },
+            {
+                "originalKey": "product",
+                "Wikidata_ID": "Q193709"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q42586"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q10897463"
+            },
+            {
+                "originalKey": "BCI kitemark",
+                "Wikidata_ID": "Q57277777"
+            },
+            {
+                "originalKey": "UK",
+                "Wikidata_ID": "Q47889"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Heather hills",
+                "Wikidata_ID": "Q1829743"
+            },
+            {
+                "originalKey": "Aberdeenshire LAU1",
+                "Wikidata_ID": "Q5607777"
+            },
+            {
+                "originalKey": "Scotland",
+                "Wikidata_ID": "Q182934"
+            },
+            {
+                "originalKey": "Germany",
+                "Wikidata_ID": "Q183"
+            },
+            {
+                "originalKey": "Luneburg",
+                "Wikidata_ID": "Q175496"
+            },
+            {
+                "originalKey": "Ireland",
+                "Wikidata_ID": "Q4982"
+            }
+        ]
+    }
+]

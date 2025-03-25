@@ -1,0 +1,174 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SWITZERLAND",
+                "Wikidata_ID": "Q24"
+            },
+            {
+                "originalKey": "Engadiner",
+                "Wikidata_ID": "Q1065793"
+            },
+            {
+                "originalKey": "Spiegelschaf",
+                "Wikidata_ID": "Q1065824"
+            },
+            {
+                "originalKey": "Nera Verzasca",
+                "Wikidata_ID": "Q1065793"
+            },
+            {
+                "originalKey": "Capra Grigia",
+                "Wikidata_ID": "Q1065824"
+            },
+            {
+                "originalKey": "Black Alpine Pig",
+                "Wikidata_ID": "Q1065793"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "mountain chain",
+                "Wikidata_ID": "Q489276"
+            },
+            {
+                "originalKey": "mountain landscape",
+                "Wikidata_ID": "Q103569"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "Wikidata_ID": "Q235647"
+            },
+            {
+                "originalKey": "altimetry",
+                "Wikidata_ID": "Q18065497"
+            },
+            {
+                "originalKey": "Local Administrative Unit (LAU)",
+                "Wikidata_ID": "Q205433"
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": "Q11233"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q215405"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q16987638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q24569187"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q303169"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Local Administrative Unit (LAU)",
+                "Wikidata_ID": "Q1026458"
+            },
+            {
+                "originalKey": "settlement",
+                "Wikidata_ID": "Q20795"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q276512"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q486824"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "old traditional breeds",
+                "Wikidata_ID": "Q18064237"
+            },
+            {
+                "originalKey": "farmer led initiative",
+                "Wikidata_ID": "Q1054689"
+            },
+            {
+                "originalKey": "localness being trendy",
+                "Wikidata_ID": "Q189618"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "veganism",
+                "Wikidata_ID": "Q1658379"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q4145293"
+            },
+            {
+                "originalKey": "Predicted",
+                "Wikidata_ID": "Q20687900"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Endogenous",
+                "Wikidata_ID": "Q169584"
+            },
+            {
+                "originalKey": "transnational organisation",
+                "Wikidata_ID": "Q316928"
+            },
+            {
+                "originalKey": "farmers",
+                "Wikidata_ID": "Q48753"
+            },
+            {
+                "originalKey": "old animal breeds",
+                "Wikidata_ID": "Q1656059"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q201664873"
+            },
+            {
+                "originalKey": "Grassland",
+                "Wikidata_ID": "Q24523"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q961707"
+            },
+            {
+                "originalKey": "cultural",
+                "Wikidata_ID": "Q882855"
+            }
+        ]
+    }
+]

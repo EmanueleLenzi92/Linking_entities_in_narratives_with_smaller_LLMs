@@ -1,0 +1,466 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state of this VC",
+                "Wikidata_ID": "Q10478956"
+            },
+            {
+                "originalKey": "GREECE",
+                "Wikidata_ID": "Q327"
+            },
+            {
+                "originalKey": "MOVING Card ID of this VC",
+                "Wikidata_ID": "Q10478956"
+            },
+            {
+                "originalKey": "cultivation and the exploitation of the chestnut trees",
+                "Wikidata_ID": "Q123456"
+            },
+            {
+                "originalKey": "chestnut collection",
+                "Wikidata_ID": "Q107987"
+            },
+            {
+                "originalKey": "farmers",
+                "Wikidata_ID": "Q5463"
+            },
+            {
+                "originalKey": "local government",
+                "Wikidata_ID": "Q107987"
+            },
+            {
+                "originalKey": "academic institutions",
+                "Wikidata_ID": "Q24567"
+            },
+            {
+                "originalKey": "local catering and tourism",
+                "Wikidata_ID": "Q107987"
+            },
+            {
+                "originalKey": "small firms of standardization, packaging, promotion and marketing",
+                "Wikidata_ID": "Q107987"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "White Mountains",
+                "Wikidata_ID": "Q104975"
+            },
+            {
+                "originalKey": "KISSAMOS",
+                "Wikidata_ID": "Q23687"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q104975"
+            },
+            {
+                "originalKey": "Elos",
+                "Wikidata_ID": "Q23687"
+            },
+            {
+                "originalKey": "Chania international airport",
+                "Wikidata_ID": "Q104975"
+            },
+            {
+                "originalKey": "Souda bay international harbor",
+                "Wikidata_ID": "Q23687"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area (km2)",
+                "Wikidata_ID": "Q137846"
+            },
+            {
+                "originalKey": "minimum altimetry",
+                "Wikidata_ID": "Q105977"
+            },
+            {
+                "originalKey": "maximum altimetry",
+                "Wikidata_ID": "Q105978"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "Wikidata_ID": "Q124367"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2) in the LAU",
+                "Wikidata_ID": "Q105980"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": "Q137847"
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q105981"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q137848"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q30796"
+            },
+            {
+                "originalKey": "GVA (EUR million/year)",
+                "Wikidata_ID": "Q14582"
+            },
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "Wikidata_ID": "Q30796"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q14582"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "Wikidata_ID": "Q1079685"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q24377"
+            },
+            {
+                "originalKey": "regional (Region) share of total BPs/year",
+                "Wikidata_ID": "Q108965"
+            },
+            {
+                "originalKey": "number of agricultural holdings in the LAU",
+                "Wikidata_ID": "Q24377"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q58967"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q24377"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q1045683"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q1045684"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q1045685"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q1045686"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q1045687"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q1045688"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Chestnut trees",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q2583"
+            },
+            {
+                "originalKey": "western mountain areas of Crete",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "Chania chestnut trees",
+                "Wikidata_ID": "Q105283"
+            },
+            {
+                "originalKey": "chestnuts",
+                "Wikidata_ID": "Q14796"
+            },
+            {
+                "originalKey": "farmers",
+                "Wikidata_ID": "Q20538"
+            },
+            {
+                "originalKey": "development company",
+                "Wikidata_ID": "Q14796"
+            },
+            {
+                "originalKey": "local firms",
+                "Wikidata_ID": "Q20538"
+            },
+            {
+                "originalKey": "Italian market",
+                "Wikidata_ID": "Q14796"
+            },
+            {
+                "originalKey": "chestnut tree",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "productive",
+                "Wikidata_ID": "Q2583"
+            },
+            {
+                "originalKey": "naturalistic",
+                "Wikidata_ID": "Q2583"
+            },
+            {
+                "originalKey": "landscape",
+                "Wikidata_ID": "Q2583"
+            },
+            {
+                "originalKey": "recreational",
+                "Wikidata_ID": "Q2583"
+            },
+            {
+                "originalKey": "high quality product",
+                "Wikidata_ID": "Q14796"
+            },
+            {
+                "originalKey": "high reputation product",
+                "Wikidata_ID": "Q14796"
+            },
+            {
+                "originalKey": "territorial identity",
+                "Wikidata_ID": "Q2583"
+            },
+            {
+                "originalKey": "cultural identity",
+                "Wikidata_ID": "Q2583"
+            },
+            {
+                "originalKey": "sustainable activity",
+                "Wikidata_ID": "Q14796"
+            },
+            {
+                "originalKey": "olive oil monoculture",
+                "Wikidata_ID": "Q2583"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Western White Mountains",
+                "Wikidata_ID": "Q104789"
+            },
+            {
+                "originalKey": "chestnut",
+                "Wikidata_ID": "Q5236"
+            },
+            {
+                "originalKey": "agro-tourism",
+                "Wikidata_ID": "Q104789"
+            },
+            {
+                "originalKey": "local population",
+                "Wikidata_ID": "Q5236"
+            },
+            {
+                "originalKey": "chestnut forests",
+                "Wikidata_ID": "Q104789"
+            },
+            {
+                "originalKey": "cultural associations",
+                "Wikidata_ID": "Q5236"
+            },
+            {
+                "originalKey": "chestnut festival",
+                "Wikidata_ID": "Q104789"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "chestnut trees",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "area",
+                "Wikidata_ID": "Q3258"
+            },
+            {
+                "originalKey": "infections",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "reduced production",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "farmers",
+                "Wikidata_ID": "Q2538"
+            },
+            {
+                "originalKey": "economic crisis",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "chestnut cultivation",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "exploitation",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "farmers",
+                "Wikidata_ID": "Q2538"
+            },
+            {
+                "originalKey": "lack of professionalism and specialization",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "infections",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "uncertainty",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "olive oil trees",
+                "Wikidata_ID": "Q2538"
+            },
+            {
+                "originalKey": "Greek market",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "international market",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q2538"
+            },
+            {
+                "originalKey": "Current and Predicted",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "Wikidata_ID": "Q104796"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "Exogenous",
+                "Wikidata_ID": "Q23587"
+            },
+            {
+                "originalKey": "chestnuts",
+                "Wikidata_ID": "Q10496"
+            },
+            {
+                "originalKey": "processed products and by-products",
+                "Wikidata_ID": "Q127583"
+            },
+            {
+                "originalKey": "international market",
+                "Wikidata_ID": "Q10496"
+            },
+            {
+                "originalKey": "Region of Crete",
+                "Wikidata_ID": "Q27358"
+            },
+            {
+                "originalKey": "academic institutions",
+                "Wikidata_ID": "Q10496"
+            },
+            {
+                "originalKey": "New products",
+                "Wikidata_ID": "Q127583"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q127583"
+            },
+            {
+                "originalKey": "Grassland",
+                "Wikidata_ID": "Q10496"
+            },
+            {
+                "originalKey": "Forestry",
+                "Wikidata_ID": "Q10496"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q10496"
+            },
+            {
+                "originalKey": "social",
+                "Wikidata_ID": "Q10496"
+            },
+            {
+                "originalKey": "cultural",
+                "Wikidata_ID": "Q10496"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "cultivation of chestnut trees",
+                "Wikidata_ID": "Q107987"
+            },
+            {
+                "originalKey": "mountainous areas",
+                "Wikidata_ID": "Q24356"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q107987"
+            },
+            {
+                "originalKey": "similar VCs",
+                "Wikidata_ID": "Q146532"
+            },
+            {
+                "originalKey": "other areas of Greece",
+                "Wikidata_ID": "Q107987"
+            }
+        ]
+    }
+]

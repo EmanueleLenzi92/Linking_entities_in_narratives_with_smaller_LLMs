@@ -1,0 +1,442 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SPAIN ADEGUA",
+                "Wikidata_ID": "Q1047968"
+            },
+            {
+                "originalKey": "VC 34 ES",
+                "Wikidata_ID": "Q1257777"
+            },
+            {
+                "originalKey": "elderly people",
+                "Wikidata_ID": "Q106987"
+            },
+            {
+                "originalKey": "local and immigrant women",
+                "Wikidata_ID": "Q245377"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q106987"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Betic System",
+                "Wikidata_ID": "Q104759"
+            },
+            {
+                "originalKey": "Carcabuey",
+                "Wikidata_ID": "Q236877"
+            },
+            {
+                "originalKey": "Sierra Subbética",
+                "Wikidata_ID": "Q104957"
+            },
+            {
+                "originalKey": "Natural Park",
+                "Wikidata_ID": "Q236877"
+            },
+            {
+                "originalKey": "olive growing",
+                "Wikidata_ID": "Q104957"
+            },
+            {
+                "originalKey": "depopulation",
+                "Wikidata_ID": "Q236877"
+            },
+            {
+                "originalKey": "exodus of the younger population",
+                "Wikidata_ID": "Q236877"
+            },
+            {
+                "originalKey": "Carcabuey",
+                "Wikidata_ID": "Q236877"
+            },
+            {
+                "originalKey": "intergenerational links",
+                "Wikidata_ID": "Q104957"
+            },
+            {
+                "originalKey": "local culture and idiosyncrasy",
+                "Wikidata_ID": "Q236877"
+            },
+            {
+                "originalKey": "participatory character",
+                "Wikidata_ID": "Q104957"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size of the area (km2)",
+                "Wikidata_ID": "Q147598"
+            },
+            {
+                "originalKey": "minimum altimetry of the LAU",
+                "Wikidata_ID": "Q106377"
+            },
+            {
+                "originalKey": "maximum altimetry of the LAU",
+                "Wikidata_ID": "Q106378"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "Wikidata_ID": "Q147599"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2) in the LAU",
+                "Wikidata_ID": "Q106380"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": "Q147600"
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q106381"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q147601"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q58927"
+            },
+            {
+                "originalKey": "GVA (EUR million/year)",
+                "Wikidata_ID": "Q104367"
+            },
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "Wikidata_ID": "Q25897"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q104367"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "Wikidata_ID": "Q1047698"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q25377"
+            },
+            {
+                "originalKey": "regional (Region) share of total BPs/year",
+                "Wikidata_ID": "Q1047698"
+            },
+            {
+                "originalKey": "number of agricultural holdings in the LAU",
+                "Wikidata_ID": "Q25377"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q14698"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q27537"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q1039682"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q1039683"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q1039684"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q1039685"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q1039686"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q1039687"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "ageing population",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "care of the elderly",
+                "Wikidata_ID": "Q2358"
+            },
+            {
+                "originalKey": "local peculiarities",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "high quality (self-assessed)",
+                "Wikidata_ID": "Q2358"
+            },
+            {
+                "originalKey": "ageing and depopulation in mountain centres",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "interaction with the environment",
+                "Wikidata_ID": "Q2358"
+            },
+            {
+                "originalKey": "territorial identity",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "survival of intergenerational social cohesion",
+                "Wikidata_ID": "Q2358"
+            },
+            {
+                "originalKey": "Private care company",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "local women",
+                "Wikidata_ID": "Q2358"
+            },
+            {
+                "originalKey": "professionalise their activity",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "certificates of professionalism based on experience in the informal sector",
+                "Wikidata_ID": "Q2358"
+            },
+            {
+                "originalKey": "traditionally female sector",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "non-monetised and informal economy",
+                "Wikidata_ID": "Q2358"
+            },
+            {
+                "originalKey": "female population under 65",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "attraction of immigrant female population",
+                "Wikidata_ID": "Q2358"
+            },
+            {
+                "originalKey": "formal sector, more in the informal sector",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "value chain",
+                "Wikidata_ID": "Q2358"
+            },
+            {
+                "originalKey": "multilevel governance system",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "greater structuring",
+                "Wikidata_ID": "Q2358"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Municipal residence for the elderly",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "PROMI",
+                "Wikidata_ID": "Q108901"
+            },
+            {
+                "originalKey": "Active participation centre",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Dependency assistance company hired by municipality",
+                "Wikidata_ID": "Q108901"
+            },
+            {
+                "originalKey": "Emergency carers",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Assistance in the framework of the informal economy",
+                "Wikidata_ID": "Q108901"
+            },
+            {
+                "originalKey": "Organised civil society groups",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "Neighbourhood mutual aid",
+                "Wikidata_ID": "Q108901"
+            },
+            {
+                "originalKey": "Older people themselves",
+                "Wikidata_ID": "Q1234567"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Ageing population",
+                "Wikidata_ID": "Q104798"
+            },
+            {
+                "originalKey": "negative replacement rate",
+                "Wikidata_ID": "Q123456"
+            },
+            {
+                "originalKey": "depopulation",
+                "Wikidata_ID": "Q107987"
+            },
+            {
+                "originalKey": "exodus of young population",
+                "Wikidata_ID": "Q104798"
+            },
+            {
+                "originalKey": "public resources",
+                "Wikidata_ID": "Q5263"
+            },
+            {
+                "originalKey": "informal economy",
+                "Wikidata_ID": "Q107987"
+            },
+            {
+                "originalKey": "professionalisation process",
+                "Wikidata_ID": "Q104798"
+            },
+            {
+                "originalKey": "precarisation of female work",
+                "Wikidata_ID": "Q104798"
+            },
+            {
+                "originalKey": "disappearance of local and social cultures of small Sierra communities",
+                "Wikidata_ID": "Q104798"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q235678"
+            },
+            {
+                "originalKey": "Current",
+                "Wikidata_ID": "Q104798"
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "Wikidata_ID": "Q104798"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q104758"
+            },
+            {
+                "originalKey": "Endogenous and Exogenous innovation",
+                "Wikidata_ID": "Q123456"
+            },
+            {
+                "originalKey": "Informal and traditional care",
+                "Wikidata_ID": "Q107987"
+            },
+            {
+                "originalKey": "Public services",
+                "Wikidata_ID": "Q52436"
+            },
+            {
+                "originalKey": "Public-private partnerships",
+                "Wikidata_ID": "Q107988"
+            },
+            {
+                "originalKey": "Innovation",
+                "Wikidata_ID": "Q24356"
+            },
+            {
+                "originalKey": "New governance systems",
+                "Wikidata_ID": "Q107989"
+            },
+            {
+                "originalKey": "Urban space",
+                "Wikidata_ID": "Q24357"
+            },
+            {
+                "originalKey": "Infrastructures",
+                "Wikidata_ID": "Q107990"
+            },
+            {
+                "originalKey": "Social and cultural assets",
+                "Wikidata_ID": "Q24358"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q104769"
+            },
+            {
+                "originalKey": "Sierra",
+                "Wikidata_ID": "Q2583"
+            },
+            {
+                "originalKey": "Subbética",
+                "Wikidata_ID": "Q107946"
+            },
+            {
+                "originalKey": "processes of depopulation",
+                "Wikidata_ID": "Q123587"
+            },
+            {
+                "originalKey": "ageing",
+                "Wikidata_ID": "Q10496"
+            },
+            {
+                "originalKey": "social balances",
+                "Wikidata_ID": "Q123587"
+            },
+            {
+                "originalKey": "social cohesion",
+                "Wikidata_ID": "Q10496"
+            },
+            {
+                "originalKey": "availability of the needed resources",
+                "Wikidata_ID": "Q123587"
+            }
+        ]
+    }
+]

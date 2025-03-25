@@ -1,0 +1,254 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "North Macedonia",
+                "Wikidata_ID": "Q186"
+            },
+            {
+                "originalKey": "Kozuvcanka",
+                "Wikidata_ID": "Q4295037"
+            },
+            {
+                "originalKey": "Pelisterka",
+                "Wikidata_ID": "Q5705446"
+            },
+            {
+                "originalKey": "National Chamber of Commerce",
+                "Wikidata_ID": "Q102898034"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Mountain Meleshevija",
+                "Wikidata_ID": "Q102358967"
+            },
+            {
+                "originalKey": "Maleshevski mountains",
+                "Wikidata_ID": "Q102358967"
+            },
+            {
+                "originalKey": "Republic of North Macedonia",
+                "Wikidata_ID": "Q4207"
+            },
+            {
+                "originalKey": "Berovo",
+                "Wikidata_ID": "Q102358968"
+            },
+            {
+                "originalKey": "Pehchevo",
+                "Wikidata_ID": "Q102358969"
+            },
+            {
+                "originalKey": "Bregalnica river",
+                "Wikidata_ID": "Q47576"
+            },
+            {
+                "originalKey": "Strumica river",
+                "Wikidata_ID": "Q102358970"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "Wikidata_ID": "P2046"
+            },
+            {
+                "originalKey": "altimetry",
+                "Wikidata_ID": "P2048"
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": "P1082"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "P1396"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "P2945"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "Wikidata_ID": "Q201893"
+            },
+            {
+                "originalKey": "Gross Value Added (GVA) (EUR million/year)",
+                "Wikidata_ID": "Q1684759"
+            },
+            {
+                "originalKey": "primary sector share of total GVA/year",
+                "Wikidata_ID": "Q201893"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA/year",
+                "Wikidata_ID": "Q201893"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA/year",
+                "Wikidata_ID": "Q201893"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q1695283"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q4027"
+            },
+            {
+                "originalKey": "Protected area",
+                "Wikidata_ID": "Q43296"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q201689"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q201690"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q201691"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q34587"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q164873"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vardar planning region",
+                "Wikidata_ID": "Q23547896"
+            },
+            {
+                "originalKey": "Crni Drim",
+                "Wikidata_ID": "Q102390"
+            },
+            {
+                "originalKey": "Bregalnica",
+                "Wikidata_ID": "Q102394"
+            },
+            {
+                "originalKey": "Babuna",
+                "Wikidata_ID": "Q102387"
+            },
+            {
+                "originalKey": "Topolka",
+                "Wikidata_ID": "Q102396"
+            },
+            {
+                "originalKey": "Otvica",
+                "Wikidata_ID": "Q102395"
+            },
+            {
+                "originalKey": "Tikvesh",
+                "Wikidata_ID": "Q483505"
+            },
+            {
+                "originalKey": "Lices",
+                "Wikidata_ID": "Q483506"
+            },
+            {
+                "originalKey": "Mladost",
+                "Wikidata_ID": "Q483507"
+            },
+            {
+                "originalKey": "Kozuvcanka",
+                "Wikidata_ID": "Q102393"
+            },
+            {
+                "originalKey": "Kavadarci",
+                "Wikidata_ID": "Q102392"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Kozuvcanka",
+                "Wikidata_ID": "Q103064587"
+            },
+            {
+                "originalKey": "mineral water",
+                "Wikidata_ID": "Q1396"
+            },
+            {
+                "originalKey": "Maleshevski mountain",
+                "Wikidata_ID": "Q23520545"
+            },
+            {
+                "originalKey": "Vardarski region",
+                "Wikidata_ID": "Q1968733"
+            },
+            {
+                "originalKey": "Value chain",
+                "Wikidata_ID": "Q201638"
+            },
+            {
+                "originalKey": "Maleshevija",
+                "Wikidata_ID": "Q1968734"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q1695738"
+            },
+            {
+                "originalKey": "New processes",
+                "Wikidata_ID": "Q204954"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q1695738"
+            },
+            {
+                "originalKey": "Forestry",
+                "Wikidata_ID": "Q201649"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q85372"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q1695738"
+            },
+            {
+                "originalKey": "Social",
+                "Wikidata_ID": "Q204954"
+            },
+            {
+                "originalKey": "Cultural",
+                "Wikidata_ID": "Q1695738"
+            }
+        ]
+    }
+]

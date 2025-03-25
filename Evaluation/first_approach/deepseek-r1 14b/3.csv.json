@@ -1,0 +1,270 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "AUSTRIA",
+                "Wikidata_ID": "Q90"
+            },
+            {
+                "originalKey": "organic",
+                "Wikidata_ID": "Q89624350"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Austrian Alps",
+                "Wikidata_ID": "Q1042"
+            },
+            {
+                "originalKey": "Weiz",
+                "Wikidata_ID": "Q34658"
+            },
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q1794353"
+            },
+            {
+                "originalKey": "Europe",
+                "Wikidata_ID": "Q2"
+            },
+            {
+                "originalKey": "limestone",
+                "Wikidata_ID": "Q143946"
+            },
+            {
+                "originalKey": "phyllite",
+                "Wikidata_ID": "Q143940"
+            },
+            {
+                "originalKey": "slate",
+                "Wikidata_ID": "Q143948"
+            },
+            {
+                "originalKey": "greywacke",
+                "Wikidata_ID": "Q143950"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Area",
+                "Wikidata_ID": "P20461"
+            },
+            {
+                "originalKey": "Altimetry",
+                "Wikidata_ID": "P590"
+            },
+            {
+                "originalKey": "Total population",
+                "Wikidata_ID": "P1082"
+            },
+            {
+                "originalKey": "Population density",
+                "Wikidata_ID": "Note: There is no direct Wikidata property for population density. It can be calculated as Total population (P1082) divided by Area (P20461)."
+            },
+            {
+                "originalKey": "Population change rate",
+                "Wikidata_ID": "P1799"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q8095437"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bed places (BPs)",
+                "Wikidata_ID": "Q24563980"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q174465"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q208964"
+            },
+            {
+                "originalKey": "settlement with population over 100000",
+                "Wikidata_ID": "Q515387"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q2496099"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q16808295"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q47364"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland Nature Park",
+                "Wikidata_ID": "Q106523984"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Almenland",
+                "Wikidata_ID": "Q102368975"
+            },
+            {
+                "originalKey": "AgrarMarkt Austria",
+                "Wikidata_ID": "Q4835230"
+            },
+            {
+                "originalKey": "ecological perspective",
+                "Wikidata_ID": "Q862503"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Extreme weather conditions",
+                "Wikidata_ID": "Q207631"
+            },
+            {
+                "originalKey": "Climate change",
+                "Wikidata_ID": "Q859"
+            },
+            {
+                "originalKey": "Natural vegetation",
+                "Wikidata_ID": "Q145266"
+            },
+            {
+                "originalKey": "Cultivation practices",
+                "Wikidata_ID": "Q307383"
+            },
+            {
+                "originalKey": "Herbs",
+                "Wikidata_ID": "Q15994"
+            },
+            {
+                "originalKey": "Irrigation",
+                "Wikidata_ID": "Q201692"
+            },
+            {
+                "originalKey": "Current and Predicted",
+                "Wikidata_ID": "Q1042390"
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "Wikidata_ID": "Q1058764"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q1280369"
+            },
+            {
+                "originalKey": "Endogenous",
+                "Wikidata_ID": "Q475543"
+            },
+            {
+                "originalKey": "Exogenous",
+                "Wikidata_ID": "Q475544"
+            },
+            {
+                "originalKey": "tea",
+                "Wikidata_ID": "Q1602"
+            },
+            {
+                "originalKey": "herbal salt",
+                "Wikidata_ID": "Q3089827"
+            },
+            {
+                "originalKey": "pure herbs",
+                "Wikidata_ID": "Q452581"
+            },
+            {
+                "originalKey": "spice mixes",
+                "Wikidata_ID": "Q1963027"
+            },
+            {
+                "originalKey": "liquor",
+                "Wikidata_ID": "Q13545"
+            },
+            {
+                "originalKey": "syrups",
+                "Wikidata_ID": "Q201879"
+            },
+            {
+                "originalKey": "sweets with birch sugar",
+                "Wikidata_ID": "Q5695435"
+            },
+            {
+                "originalKey": "soaps",
+                "Wikidata_ID": "Q201879"
+            },
+            {
+                "originalKey": "creams",
+                "Wikidata_ID": "Q165368"
+            },
+            {
+                "originalKey": "incense materials",
+                "Wikidata_ID": "Q442530"
+            },
+            {
+                "originalKey": "New products",
+                "Wikidata_ID": "Q19708635"
+            },
+            {
+                "originalKey": "New processes",
+                "Wikidata_ID": "Q19708636"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q19708637"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q24554"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q103030"
+            },
+            {
+                "originalKey": "cultural",
+                "Wikidata_ID": "Q9786"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "herbs",
+                "Wikidata_ID": "Q150239"
+            },
+            {
+                "originalKey": "Austrian mountainous regions",
+                "Wikidata_ID": "No direct Wikidata ID found."
+            }
+        ]
+    }
+]

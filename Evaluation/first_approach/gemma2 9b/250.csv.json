@@ -1,0 +1,234 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SCOTLAND HUTTON",
+                "Wikidata_ID": "Q1759280"
+            },
+            {
+                "originalKey": "VC 02 UK",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Caerphilly cheese",
+                "Wikidata_ID": "Q174938"
+            },
+            {
+                "originalKey": "Euopean Protected Georgaphical Indication (PGI)",
+                "Wikidata_ID": "Q562077"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "West Wales",
+                "Wikidata_ID": "Q1862749"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "Wikidata_ID": "Q185307"
+            },
+            {
+                "originalKey": "Wales",
+                "Wikidata_ID": "Q196"
+            },
+            {
+                "originalKey": "Cardiff",
+                "Wikidata_ID": "Q23847"
+            },
+            {
+                "originalKey": "Newport",
+                "Wikidata_ID": "Q19650"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q479995"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q186320"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q59803"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q17246"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q578942"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q10639"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q394857"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q1026777"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q394858"
+            },
+            {
+                "originalKey": "[Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "Wikidata_ID": "Q1709863"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "Wikidata_ID": "Q245477"
+            },
+            {
+                "originalKey": "Somerset",
+                "Wikidata_ID": "Q186390"
+            },
+            {
+                "originalKey": "Wiltshire",
+                "Wikidata_ID": "Q245777"
+            },
+            {
+                "originalKey": "Castle Dairies",
+                "Wikidata_ID": "Q10893677"
+            },
+            {
+                "originalKey": "The Big Cheese",
+                "Wikidata_ID": "Q5427777"
+            },
+            {
+                "originalKey": "International Cheese Awards",
+                "Wikidata_ID": "Q10893677"
+            },
+            {
+                "originalKey": "Gorwydd",
+                "Wikidata_ID": "Q245477"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "Wikidata_ID": "Q1709863"
+            },
+            {
+                "originalKey": "Big Cheese festival",
+                "Wikidata_ID": "Q105427377"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "Wikidata_ID": "Q186977"
+            },
+            {
+                "originalKey": "England",
+                "Wikidata_ID": "Q42"
+            },
+            {
+                "originalKey": "Wales",
+                "Wikidata_ID": "Q107839"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "Wikidata_ID": "Q186977"
+            },
+            {
+                "originalKey": "coal miners",
+                "Wikidata_ID": "Q230457"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "COVID",
+                "Wikidata_ID": "Q2143679"
+            },
+            {
+                "originalKey": "England",
+                "Wikidata_ID": "Q5082"
+            },
+            {
+                "originalKey": "",
+                "Wikidata_ID": "Q176394"
+            },
+            {
+                "originalKey": "Cerphilly producers",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "Wikidata_ID": "Q1049768"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "Wikidata_ID": "Q235477"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "Wikidata_ID": "Q209764"
+            },
+            {
+                "originalKey": "Somerset",
+                "Wikidata_ID": "Q18539"
+            },
+            {
+                "originalKey": "South Somerset LAU1",
+                "Wikidata_ID": "Q2647077"
+            },
+            {
+                "originalKey": "Wiltshire LAU1",
+                "Wikidata_ID": "Q2647083"
+            },
+            {
+                "originalKey": "England",
+                "Wikidata_ID": "Q59"
+            }
+        ]
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "Wikidata_ID": "Q180"
+            },
+            {
+                "originalKey": "Ostrava",
+                "Wikidata_ID": "Q175493"
+            },
+            {
+                "originalKey": "Vallachian region",
+                "Wikidata_ID": "Q208677"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "Wikidata_ID": "Q194357"
+            },
+            {
+                "originalKey": "EU PGI label",
+                "Wikidata_ID": "Q208677"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Javorníky/Beskydy",
+                "Wikidata_ID": "Q1048796"
+            },
+            {
+                "originalKey": "Western Carpathian mountains",
+                "Wikidata_ID": "Q523977"
+            },
+            {
+                "originalKey": "LAU 1 Vsetín",
+                "Wikidata_ID": "Q6480777"
+            },
+            {
+                "originalKey": "",
+                "Wikidata_ID": "Q3792"
+            },
+            {
+                "originalKey": "Europe",
+                "Wikidata_ID": "Q30"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q578773"
+            },
+            {
+                "originalKey": "Local Administrative Unit",
+                "Wikidata_ID": "Q1096427"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q287977"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q156430"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q3824976"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q105777"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q1836274"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q1836275"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q1836276"
+            },
+            {
+                "originalKey": "[Province]",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "[Region]",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "EU Protected Geographical Indication (PGI)",
+                "Wikidata_ID": "Q1864973"
+            },
+            {
+                "originalKey": "Valašský",
+                "Wikidata_ID": "Q2057777"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "Wikidata_ID": "Q1864973"
+            },
+            {
+                "originalKey": "Italians",
+                "Wikidata_ID": "Q205"
+            },
+            {
+                "originalKey": "Vallachians",
+                "Wikidata_ID": "Q1864973"
+            },
+            {
+                "originalKey": "Czechia",
+                "Wikidata_ID": "Q37205"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vallachian",
+                "Wikidata_ID": "Q1804769"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "Wikidata_ID": "Q235477"
+            },
+            {
+                "originalKey": "Czechia",
+                "Wikidata_ID": "Q18069"
+            },
+            {
+                "originalKey": "Czech",
+                "Wikidata_ID": "Q3742"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q10897463"
+            },
+            {
+                "originalKey": "frgále",
+                "Wikidata_ID": null
+            },
+            {
+                "originalKey": "Vallachian people",
+                "Wikidata_ID": "Q1097468"
+            },
+            {
+                "originalKey": "Vallachian region",
+                "Wikidata_ID": "Q1097468"
+            },
+            {
+                "originalKey": "pbplum brandy",
+                "Wikidata_ID": null
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "frgál",
+                "Wikidata_ID": "Q10573684"
+            },
+            {
+                "originalKey": "Czechia",
+                "Wikidata_ID": "Q29842"
+            }
+        ]
+    }
+]

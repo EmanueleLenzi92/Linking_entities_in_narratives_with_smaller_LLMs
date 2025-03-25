@@ -1,0 +1,522 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "GREECE",
+                "Wikidata_ID": "Q10479"
+            },
+            {
+                "originalKey": "VC 09 GR",
+                "Wikidata_ID": "Q12345678"
+            },
+            {
+                "originalKey": "Aloe vera",
+                "Wikidata_ID": "Q100000"
+            },
+            {
+                "originalKey": "economic crisis of 2008-2016",
+                "Wikidata_ID": "Q147953"
+            },
+            {
+                "originalKey": "juice",
+                "Wikidata_ID": "Q10479"
+            },
+            {
+                "originalKey": "gel",
+                "Wikidata_ID": "Q10479"
+            },
+            {
+                "originalKey": "cosmetics",
+                "Wikidata_ID": "Q10479"
+            },
+            {
+                "originalKey": "nutraceuticals",
+                "Wikidata_ID": "Q10479"
+            },
+            {
+                "originalKey": "research",
+                "Wikidata_ID": "Q23568"
+            },
+            {
+                "originalKey": "new processing and production methods",
+                "Wikidata_ID": "Q10479"
+            },
+            {
+                "originalKey": "marketing strategies",
+                "Wikidata_ID": "Q10479"
+            },
+            {
+                "originalKey": "local diet",
+                "Wikidata_ID": "Q10479"
+            },
+            {
+                "originalKey": "tourist sector",
+                "Wikidata_ID": "Q10479"
+            },
+            {
+                "originalKey": "Minoan Land",
+                "Wikidata_ID": "Q10479"
+            },
+            {
+                "originalKey": "Cretan Diet Festival",
+                "Wikidata_ID": "Q10479"
+            },
+            {
+                "originalKey": "Pancretan Network of Organic Farmers of Aloe Vera",
+                "Wikidata_ID": "Q10479"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Dikti Mountains",
+                "Wikidata_ID": "Q104975"
+            },
+            {
+                "originalKey": "VIANNOS",
+                "Wikidata_ID": "Q28637"
+            },
+            {
+                "originalKey": "Dikti mountain range",
+                "Wikidata_ID": "Q104975"
+            },
+            {
+                "originalKey": "2,148",
+                "Wikidata_ID": "Q106377"
+            },
+            {
+                "originalKey": "pines (Pinus brutia)",
+                "Wikidata_ID": "Q15977"
+            },
+            {
+                "originalKey": "Kermes oaks (Quercus coccifera)",
+                "Wikidata_ID": "Q24063"
+            },
+            {
+                "originalKey": "cypresses (Cupressus sempervirens)",
+                "Wikidata_ID": "Q17598"
+            },
+            {
+                "originalKey": "Holm Oaks (Quercus ilex)",
+                "Wikidata_ID": "Q24064"
+            },
+            {
+                "originalKey": "Cretan Maples (Acer sempervirens)",
+                "Wikidata_ID": "Q17599"
+            },
+            {
+                "originalKey": "plateaus",
+                "Wikidata_ID": "Q24065"
+            },
+            {
+                "originalKey": "valleys",
+                "Wikidata_ID": "Q24066"
+            },
+            {
+                "originalKey": "secondary peaks",
+                "Wikidata_ID": "Q17598"
+            },
+            {
+                "originalKey": "Dikti/Dicte",
+                "Wikidata_ID": "Q24067"
+            },
+            {
+                "originalKey": "aloe vera",
+                "Wikidata_ID": "Q15980"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size of the area (km2)",
+                "Wikidata_ID": "Q147596"
+            },
+            {
+                "originalKey": "minimum altimetry of the LAU",
+                "Wikidata_ID": "Q103877"
+            },
+            {
+                "originalKey": "maximum altimetry of the LAU",
+                "Wikidata_ID": "Q103878"
+            },
+            {
+                "originalKey": "total population (in thousand)",
+                "Wikidata_ID": "Q147596"
+            },
+            {
+                "originalKey": "population density (Inhabitants/km2) in the LAU",
+                "Wikidata_ID": "Q103877"
+            },
+            {
+                "originalKey": "population change rate of the LAU in the last 10 years (%)",
+                "Wikidata_ID": "Q103877"
+            },
+            {
+                "originalKey": "overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": "Q103877"
+            },
+            {
+                "originalKey": "regional population change rate in the last 10 years (%)",
+                "Wikidata_ID": "Q103877"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q30796"
+            },
+            {
+                "originalKey": "GVA (EUR million/year)",
+                "Wikidata_ID": "Q14582"
+            },
+            {
+                "originalKey": "per capita income (EUR/year)",
+                "Wikidata_ID": "Q30796"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q14582"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "Wikidata_ID": "Q1047968"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q25307"
+            },
+            {
+                "originalKey": "tourist accommodations/year",
+                "Wikidata_ID": "Q14968"
+            },
+            {
+                "originalKey": "regional (Region) share of total BPs/year",
+                "Wikidata_ID": "Q20753"
+            },
+            {
+                "originalKey": "agricultural holdings in the LAU",
+                "Wikidata_ID": "Q14968"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q27537"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q14968"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q5046832"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q179007"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Province]",
+                "Wikidata_ID": "Q5046832"
+            },
+            {
+                "originalKey": "primary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q179007"
+            },
+            {
+                "originalKey": "secondary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q179007"
+            },
+            {
+                "originalKey": "tertiary sector share of total employment/year [Region]",
+                "Wikidata_ID": "Q179007"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe vera",
+                "Wikidata_ID": "Q104756"
+            },
+            {
+                "originalKey": "Dikti mountain landscape",
+                "Wikidata_ID": "Q293877"
+            },
+            {
+                "originalKey": "rural development",
+                "Wikidata_ID": "N5046"
+            },
+            {
+                "originalKey": "marginalized areas",
+                "Wikidata_ID": "Q173982"
+            },
+            {
+                "originalKey": "Dikt mountain landscape",
+                "Wikidata_ID": "Q293877"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q10465"
+            },
+            {
+                "originalKey": "semi-mountainous regions of Crete",
+                "Wikidata_ID": "Q293877"
+            },
+            {
+                "originalKey": "Dikti area",
+                "Wikidata_ID": "Q10465"
+            },
+            {
+                "originalKey": "processing and marketing companies",
+                "Wikidata_ID": "N5046"
+            },
+            {
+                "originalKey": "nutraceutical products",
+                "Wikidata_ID": "Q173982"
+            },
+            {
+                "originalKey": "pharmaceutical products",
+                "Wikidata_ID": "Q173982"
+            },
+            {
+                "originalKey": "medicinal plant",
+                "Wikidata_ID": "Q104756"
+            },
+            {
+                "originalKey": "Viannos",
+                "Wikidata_ID": "Q293877"
+            },
+            {
+                "originalKey": "climatic and bioclimatic conditions",
+                "Wikidata_ID": "N5046"
+            },
+            {
+                "originalKey": "organic fertilization",
+                "Wikidata_ID": "Q173982"
+            },
+            {
+                "originalKey": "amateur and professional level",
+                "Wikidata_ID": "N5046"
+            },
+            {
+                "originalKey": "consumers in North America and Europe",
+                "Wikidata_ID": "Q173982"
+            },
+            {
+                "originalKey": "natural byproducts for health care",
+                "Wikidata_ID": "N5046"
+            },
+            {
+                "originalKey": "processing facilities and market pathways",
+                "Wikidata_ID": "Q173982"
+            },
+            {
+                "originalKey": "Minoan Land cooperative",
+                "Wikidata_ID": "Q104756"
+            },
+            {
+                "originalKey": "PanCretan Network",
+                "Wikidata_ID": "Q104756"
+            },
+            {
+                "originalKey": "value chain",
+                "Wikidata_ID": "N5046"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "agricultural sector",
+                "Wikidata_ID": "Q104796"
+            },
+            {
+                "originalKey": "Dikti Mountain landscape",
+                "Wikidata_ID": "Q253877"
+            },
+            {
+                "originalKey": "Olives",
+                "Wikidata_ID": "Q10496"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "Wikidata_ID": "Q52783"
+            },
+            {
+                "originalKey": "farmers",
+                "Wikidata_ID": "Q10496"
+            },
+            {
+                "originalKey": "processing facilities",
+                "Wikidata_ID": "Q27358"
+            },
+            {
+                "originalKey": "food/cosmetic industries",
+                "Wikidata_ID": "Q10496"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "risk of extinction of rare plants of the local flora",
+                "Wikidata_ID": "Q1047896"
+            },
+            {
+                "originalKey": "Dikti area",
+                "Wikidata_ID": "Q52377"
+            },
+            {
+                "originalKey": "Viannos",
+                "Wikidata_ID": "Q104869"
+            },
+            {
+                "originalKey": "leaf-processing units",
+                "Wikidata_ID": "Q127537"
+            },
+            {
+                "originalKey": "Quality checks",
+                "Wikidata_ID": "Q104869"
+            },
+            {
+                "originalKey": "costly",
+                "Wikidata_ID": "Q127537"
+            },
+            {
+                "originalKey": "reduced harvests",
+                "Wikidata_ID": "Q104869"
+            },
+            {
+                "originalKey": "adulteration of the final products",
+                "Wikidata_ID": "Q127537"
+            },
+            {
+                "originalKey": "Aloe Vera",
+                "Wikidata_ID": "Q104869"
+            },
+            {
+                "originalKey": "young people",
+                "Wikidata_ID": "Q127537"
+            },
+            {
+                "originalKey": "competition of land use",
+                "Wikidata_ID": "Q104869"
+            },
+            {
+                "originalKey": "implementation of ambivalent investment programms",
+                "Wikidata_ID": "Q127537"
+            },
+            {
+                "originalKey": "Aloe vera",
+                "Wikidata_ID": "Q104869"
+            },
+            {
+                "originalKey": "farmerns",
+                "Wikidata_ID": "Q127537"
+            },
+            {
+                "originalKey": "crisis-ravaged",
+                "Wikidata_ID": "Q104869"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q127537"
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "Wikidata_ID": "Q104869"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "network of partners farmers and byproduct producers of Aloe Vera plants",
+                "Wikidata_ID": "Q10475968"
+            },
+            {
+                "originalKey": "Minoan Land",
+                "Wikidata_ID": "Q1234567"
+            },
+            {
+                "originalKey": "organic and contract farming",
+                "Wikidata_ID": "Q1089777"
+            },
+            {
+                "originalKey": "high-quality leaves, free from residues of dangerous pesticides",
+                "Wikidata_ID": "Q10475968"
+            },
+            {
+                "originalKey": "raw material processed for high biological production value nutritional supplements and herbal cosmetics based on modern green economy",
+                "Wikidata_ID": "Q10475968"
+            },
+            {
+                "originalKey": "Aloe Vera leaves are processed to create juices, foods,gels, cosmetics, production of natural fertilizers as a byproduct compliments the farming industries.",
+                "Wikidata_ID": "Q10475968"
+            },
+            {
+                "originalKey": "Research activities using aromatic/medicinal plants in food industry, pharmaceutical, and nutraceuticals industries is new to the regioin",
+                "Wikidata_ID": "Q10475968"
+            },
+            {
+                "originalKey": "Medical institutions and societies have approved of the juice for specific medical conditions and diets.",
+                "Wikidata_ID": "Q10475968"
+            },
+            {
+                "originalKey": "New products, New processes and New marketing strategies",
+                "Wikidata_ID": "Q10475968"
+            },
+            {
+                "originalKey": "Cropland and Natural land",
+                "Wikidata_ID": "Q10475968"
+            },
+            {
+                "originalKey": "Natural, social and cultural",
+                "Wikidata_ID": "Q10475968"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aloe Vera",
+                "Wikidata_ID": "Q104769"
+            },
+            {
+                "originalKey": "MRLs",
+                "Wikidata_ID": "Q23587"
+            },
+            {
+                "originalKey": "Crete",
+                "Wikidata_ID": "Q10496"
+            },
+            {
+                "originalKey": "Andalusia",
+                "Wikidata_ID": "Q27538"
+            },
+            {
+                "originalKey": "European consumers",
+                "Wikidata_ID": "Q10496"
+            },
+            {
+                "originalKey": "Nutritional supplements",
+                "Wikidata_ID": "Q27538"
+            },
+            {
+                "originalKey": "Health products",
+                "Wikidata_ID": "Q10496"
+            }
+        ]
+    }
+]
