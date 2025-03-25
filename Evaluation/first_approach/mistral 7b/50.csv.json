@@ -1,0 +1,374 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q3687"
+            },
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "VC 09 CZ",
+                "Wikidata_ID": "Q3687"
+            },
+            {
+                "originalKey": "EU PGI label",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "specific symbol of the region",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "clean air and nature",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "Ostrava",
+                "Wikidata_ID": "Q1348"
+            },
+            {
+                "originalKey": "Vallachian region",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "Wikidata_ID": "Q1348"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Javorníky/Beskydy (Western Carpathian) mountains",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "LAU 1 Vsetín",
+                "Wikidata_ID": "Q37469"
+            },
+            {
+                "originalKey": "Mountain Reference Landscape (LAU 1 - Vsetín)",
+                "Wikidata_ID": "Q52085"
+            },
+            {
+                "originalKey": "nature protected area",
+                "Wikidata_ID": "Q37469"
+            },
+            {
+                "originalKey": "largest in the Czech Republic",
+                "Wikidata_ID": "Q10852"
+            },
+            {
+                "originalKey": "unique nature",
+                "Wikidata_ID": "Q37469"
+            },
+            {
+                "originalKey": "attractive conditions for tourism",
+                "Wikidata_ID": "Q10852"
+            },
+            {
+                "originalKey": "most valuable locations in Europe",
+                "Wikidata_ID": "Q37469"
+            },
+            {
+                "originalKey": "extensive farming in perennial grassland",
+                "Wikidata_ID": "Q10852"
+            },
+            {
+                "originalKey": "sheep and cattle",
+                "Wikidata_ID": "Q37469"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size",
+                "Wikidata_ID": "Q3562"
+            },
+            {
+                "originalKey": "minimum altimetry",
+                "Wikidata_ID": "Q10487"
+            },
+            {
+                "originalKey": "maximum altimetry",
+                "Wikidata_ID": "Q10487"
+            },
+            {
+                "originalKey": "total population",
+                "Wikidata_ID": "Q235"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q10487"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q235"
+            },
+            {
+                "originalKey": "overall regional population density",
+                "Wikidata_ID": "Q10487"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "Wikidata_ID": "Q235"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Average per capita income (EUR/year) [Province]",
+                "Wikidata_ID": "Q23874"
+            },
+            {
+                "originalKey": "Total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "Wikidata_ID": "Q10956"
+            },
+            {
+                "originalKey": "Primary sector share of total GVA/year [Province]",
+                "Wikidata_ID": "Q23874"
+            },
+            {
+                "originalKey": "Secondary sector share of total GVA/year [Province]",
+                "Wikidata_ID": "Q23874"
+            },
+            {
+                "originalKey": "Tertiary sector share of total GVA/year [Province]",
+                "Wikidata_ID": "Q23874"
+            },
+            {
+                "originalKey": "Per capita income (EUR/year) [Region]",
+                "Wikidata_ID": "Q10956"
+            },
+            {
+                "originalKey": "Total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "Wikidata_ID": "Q23874"
+            },
+            {
+                "originalKey": "Primary sector share of total GVA/year [Region]",
+                "Wikidata_ID": "Q23874"
+            },
+            {
+                "originalKey": "Secondary sector share of total GVA/year [Region]",
+                "Wikidata_ID": "Q23874"
+            },
+            {
+                "originalKey": "Tertiary sector share of total GVA/year [Region]",
+                "Wikidata_ID": "Q23874"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total BPs/year",
+                "Wikidata_ID": "Q21786"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q30594"
+            },
+            {
+                "originalKey": "regional share",
+                "Wikidata_ID": "Q12876"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q30594"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q27865"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q30594"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q1268"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q1270"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q1269"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q874"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q102"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "EU Protected Geographical Indication (PGI)",
+                "Wikidata_ID": "Q10275"
+            },
+            {
+                "originalKey": "regional product label",
+                "Wikidata_ID": "Q10348"
+            },
+            {
+                "originalKey": "Valašský region",
+                "Wikidata_ID": "Q27569"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "Wikidata_ID": "Q10834"
+            },
+            {
+                "originalKey": "Vallachians - valašský",
+                "Wikidata_ID": "Q27569"
+            },
+            {
+                "originalKey": "traditional cake from Vallachian region in Beskydy",
+                "Wikidata_ID": "Q10348"
+            },
+            {
+                "originalKey": "pears",
+                "Wikidata_ID": "Q27569"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Vallachian region",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "cake",
+                "Wikidata_ID": "Q3697"
+            },
+            {
+                "originalKey": "region is the symbolic asset",
+                "Wikidata_ID": "Q18425"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "cake",
+                "Wikidata_ID": "Q1065"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q24839"
+            },
+            {
+                "originalKey": "Beskydy mountains",
+                "Wikidata_ID": "Q10756"
+            },
+            {
+                "originalKey": "valašský",
+                "Wikidata_ID": "Q24839"
+            },
+            {
+                "originalKey": "lašský",
+                "Wikidata_ID": "Q24839"
+            },
+            {
+                "originalKey": "frgále",
+                "Wikidata_ID": "Q1065"
+            },
+            {
+                "originalKey": "Current and Predicted",
+                "Wikidata_ID": "Q24839"
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "Wikidata_ID": "Q24839"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q10652"
+            },
+            {
+                "originalKey": "Endogenous",
+                "Wikidata_ID": "Q13478"
+            },
+            {
+                "originalKey": "cake",
+                "Wikidata_ID": "Q2056"
+            },
+            {
+                "originalKey": "frgále",
+                "Wikidata_ID": "Q13478"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q2056"
+            },
+            {
+                "originalKey": "symbolic specificity of the territory",
+                "Wikidata_ID": "Q13478"
+            },
+            {
+                "originalKey": "Vallachian region",
+                "Wikidata_ID": "Q2056"
+            },
+            {
+                "originalKey": "people using specific dialect (Vallachian)",
+                "Wikidata_ID": "Q13478"
+            },
+            {
+                "originalKey": "two products symbolise the region",
+                "Wikidata_ID": "Q2056"
+            },
+            {
+                "originalKey": "'frgále' cake and pblum brandy (spirit)",
+                "Wikidata_ID": "Q13478"
+            },
+            {
+                "originalKey": "local assets",
+                "Wikidata_ID": "Q2056"
+            },
+            {
+                "originalKey": "Social and cultural",
+                "Wikidata_ID": "Q13478"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "frgál",
+                "Wikidata_ID": "Q10253"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q10254"
+            },
+            {
+                "originalKey": "Czechia",
+                "Wikidata_ID": "Q658"
+            }
+        ]
+    }
+]

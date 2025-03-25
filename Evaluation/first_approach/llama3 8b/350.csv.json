@@ -1,0 +1,230 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SPAIN",
+                "Wikidata_ID": "Q34"
+            },
+            {
+                "originalKey": "Sierras Cazorla",
+                "Wikidata_ID": "Q756444"
+            },
+            {
+                "originalKey": "Granada",
+                "Wikidata_ID": "Q1863"
+            },
+            {
+                "originalKey": "Sierra de Castril",
+                "Wikidata_ID": "Q756445"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Betic System",
+                "Wikidata_ID": "Q89543"
+            },
+            {
+                "originalKey": "Castril",
+                "Wikidata_ID": "Q5764444"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q1152684"
+            },
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q2959"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q829"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q11132"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q134"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q11132"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q343"
+            },
+            {
+                "originalKey": "settlement",
+                "Wikidata_ID": "Q1839"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q287312"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q27551"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Europe",
+                "Wikidata_ID": "Q12"
+            },
+            {
+                "originalKey": "Mediterranean area",
+                "Wikidata_ID": "Q13445"
+            },
+            {
+                "originalKey": "Alps",
+                "Wikidata_ID": "Q144"
+            },
+            {
+                "originalKey": "Spain",
+                "Wikidata_ID": "Q55"
+            },
+            {
+                "originalKey": "UNESCO",
+                "Wikidata_ID": "Q80"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Natural Park of the Sierras de Cazorla, Segura and Las Villas",
+                "Wikidata_ID": "Q1194444"
+            },
+            {
+                "originalKey": "Jaén",
+                "Wikidata_ID": "Q1155"
+            },
+            {
+                "originalKey": "Castril",
+                "Wikidata_ID": "Q1166"
+            },
+            {
+                "originalKey": "Granada",
+                "Wikidata_ID": "Q1779"
+            },
+            {
+                "originalKey": "Sierra Morena",
+                "Wikidata_ID": "Q1434444"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Transhumance",
+                "Wikidata_ID": "Q1341444"
+            },
+            {
+                "originalKey": "Shepherds",
+                "Wikidata_ID": "Q131444"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Transhumance",
+                "Wikidata_ID": "Q134"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q11424"
+            },
+            {
+                "originalKey": "Grassland",
+                "Wikidata_ID": "Q1315"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Soria",
+                "Wikidata_ID": "Q14444"
+            },
+            {
+                "originalKey": "Cuenca",
+                "Wikidata_ID": "Q1434"
+            },
+            {
+                "originalKey": "La Rioja",
+                "Wikidata_ID": "Q1453"
+            },
+            {
+                "originalKey": "Andalusia",
+                "Wikidata_ID": "Q144"
+            },
+            {
+                "originalKey": "Cazorla",
+                "Wikidata_ID": "Q1064444"
+            },
+            {
+                "originalKey": "Segura",
+                "Wikidata_ID": "Q1435"
+            },
+            {
+                "originalKey": "Las Villas",
+                "Wikidata_ID": "Q1169643"
+            },
+            {
+                "originalKey": "Jaén",
+                "Wikidata_ID": "Q1442"
+            },
+            {
+                "originalKey": "Sierra de Castril",
+                "Wikidata_ID": "Q1194444"
+            },
+            {
+                "originalKey": "Granada",
+                "Wikidata_ID": "Q1436"
+            },
+            {
+                "originalKey": "Sierra Morena",
+                "Wikidata_ID": "Q1445"
+            },
+            {
+                "originalKey": "Sierra Nevada",
+                "Wikidata_ID": "Q1451"
+            },
+            {
+                "originalKey": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "Austria",
+                "Wikidata_ID": "Q149"
+            },
+            {
+                "originalKey": "Greece",
+                "Wikidata_ID": "Q150"
+            }
+        ]
+    }
+]

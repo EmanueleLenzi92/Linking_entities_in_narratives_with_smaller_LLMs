@@ -1,0 +1,330 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state",
+                "Wikidata_ID": "Q10852"
+            },
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q13476"
+            },
+            {
+                "originalKey": "SCOTLAND HUTTON",
+                "Wikidata_ID": "Q20589"
+            },
+            {
+                "originalKey": "VC 02 UK",
+                "Wikidata_ID": "Q13476"
+            },
+            {
+                "originalKey": "Traditional Welsh artisanal Caerphilly cheese",
+                "Wikidata_ID": "Q10852"
+            },
+            {
+                "originalKey": "Euopean Protected Georgaphical Indication (PGI)",
+                "Wikidata_ID": "Q13476"
+            },
+            {
+                "originalKey": "English and Welsh spellings",
+                "Wikidata_ID": "Q10852"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "West Wales",
+                "Wikidata_ID": "Q12057"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "Wikidata_ID": "Q13486"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size",
+                "Wikidata_ID": "Q1465"
+            },
+            {
+                "originalKey": "minimum altimetry",
+                "Wikidata_ID": "Q20789"
+            },
+            {
+                "originalKey": "maximum altimetry",
+                "Wikidata_ID": "Q20789"
+            },
+            {
+                "originalKey": "total population",
+                "Wikidata_ID": "Q1345"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q20789"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q1345"
+            },
+            {
+                "originalKey": "overall regional population density",
+                "Wikidata_ID": "Q20789"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "Wikidata_ID": "Q1345"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Average per capita income",
+                "Wikidata_ID": "Q20358"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q1476"
+            },
+            {
+                "originalKey": "Total Gross Value Added",
+                "Wikidata_ID": "Q20359"
+            },
+            {
+                "originalKey": "Primary sector share",
+                "Wikidata_ID": "Q1476"
+            },
+            {
+                "originalKey": "Secondary sector share",
+                "Wikidata_ID": "Q1476"
+            },
+            {
+                "originalKey": "Tertiary sector share",
+                "Wikidata_ID": "Q1476"
+            },
+            {
+                "originalKey": "Per capita income",
+                "Wikidata_ID": "Q20358"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q1476"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total BPs/year",
+                "Wikidata_ID": "Q12578"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q6039"
+            },
+            {
+                "originalKey": "regional share",
+                "Wikidata_ID": "Q12578"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q10639"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q24758"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q12578"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q108"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q109"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q110"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q625"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q626"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "cheese",
+                "Wikidata_ID": "Q698"
+            },
+            {
+                "originalKey": "Caerphilly town",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "The Big Cheese",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "Castle Dairies",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "PGI",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "Gorwydd",
+                "Wikidata_ID": "Q1205"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Caerphilly cheese",
+                "Wikidata_ID": "Q10725"
+            },
+            {
+                "originalKey": "Big Cheese festival",
+                "Wikidata_ID": "Q36849"
+            },
+            {
+                "originalKey": "Caerphilly",
+                "Wikidata_ID": "Q10725"
+            },
+            {
+                "originalKey": "PGI status",
+                "Wikidata_ID": "Q36849"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "tourism",
+                "Wikidata_ID": "Q1092"
+            },
+            {
+                "originalKey": "COVID",
+                "Wikidata_ID": "Q1348"
+            },
+            {
+                "originalKey": "cheese",
+                "Wikidata_ID": "Q207"
+            },
+            {
+                "originalKey": "England",
+                "Wikidata_ID": "Q65"
+            },
+            {
+                "originalKey": "Caerphilly producers",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "mass production methods",
+                "Wikidata_ID": "Q1095"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q247"
+            },
+            {
+                "originalKey": "traditional",
+                "Wikidata_ID": "Q1098"
+            },
+            {
+                "originalKey": "innovative",
+                "Wikidata_ID": "Q1099"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q10682"
+            },
+            {
+                "originalKey": "Endogenous",
+                "Wikidata_ID": "Q13579"
+            },
+            {
+                "originalKey": "Caerphilly cheese",
+                "Wikidata_ID": "Q20846"
+            },
+            {
+                "originalKey": "factory and machine-based methods",
+                "Wikidata_ID": "Q13579"
+            },
+            {
+                "originalKey": "traditional pre-war cheesemaking processes",
+                "Wikidata_ID": "Q13579"
+            },
+            {
+                "originalKey": "handmade",
+                "Wikidata_ID": "Q13579"
+            },
+            {
+                "originalKey": "New processes",
+                "Wikidata_ID": "Q13579"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q13579"
+            },
+            {
+                "originalKey": "Grassland",
+                "Wikidata_ID": "Q20846"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q13579"
+            },
+            {
+                "originalKey": "Social",
+                "Wikidata_ID": "Q13579"
+            },
+            {
+                "originalKey": "Cultural",
+                "Wikidata_ID": "Q13579"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "caerphilly cheese",
+                "Wikidata_ID": "Q2075"
+            },
+            {
+                "originalKey": "Somerset",
+                "Wikidata_ID": "Q1348"
+            },
+            {
+                "originalKey": "Wiltshire",
+                "Wikidata_ID": "Q1295"
+            }
+        ]
+    }
+]

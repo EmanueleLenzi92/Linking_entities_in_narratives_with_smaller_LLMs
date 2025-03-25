@@ -1,0 +1,478 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state of this VC",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "VC 04 UK",
+                "Wikidata_ID": "Q37869"
+            },
+            {
+                "originalKey": "Deer hunting (stalking) are popular tourist activities within the Highlands and Islands of Scotland",
+                "Wikidata_ID": "Q10254"
+            },
+            {
+                "originalKey": "wild land",
+                "Wikidata_ID": "Q37869"
+            },
+            {
+                "originalKey": "mountain hares and burning of heather/ gorse to improve hunting potential in the area",
+                "Wikidata_ID": "Q10254"
+            },
+            {
+                "originalKey": "Stalking season for stags runs between July and October, but roe and fallow bucks can be stalked almost year round",
+                "Wikidata_ID": "Q10254"
+            },
+            {
+                "originalKey": "Blair Atholl Estates and Glen Lyon",
+                "Wikidata_ID": "Q37869"
+            },
+            {
+                "originalKey": "Venison meat is then sold across Perth and Kinross and the wider Highlands and islands NUT3 region in local butchers and online hubs e.g. www.highlandgame.com",
+                "Wikidata_ID": "Q10254"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Highlands and Islands",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "Eastern Scotland",
+                "Wikidata_ID": "Q1348"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "Wikidata_ID": "Q2057"
+            },
+            {
+                "originalKey": "Tay",
+                "Wikidata_ID": "Q1349"
+            },
+            {
+                "originalKey": "Earn",
+                "Wikidata_ID": "Q2058"
+            },
+            {
+                "originalKey": "Perth",
+                "Wikidata_ID": "Q1347"
+            },
+            {
+                "originalKey": "High quality agricultural land",
+                "Wikidata_ID": "Q2059"
+            },
+            {
+                "originalKey": "Major road and rail links",
+                "Wikidata_ID": "Q1346"
+            },
+            {
+                "originalKey": "Tourism and outdoor recreation",
+                "Wikidata_ID": "Q2056"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "area",
+                "Wikidata_ID": "Q239"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q1085"
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": "Q237"
+            },
+            {
+                "originalKey": "altimetry",
+                "Wikidata_ID": "Q1085"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q237"
+            },
+            {
+                "originalKey": "regional population density",
+                "Wikidata_ID": "Q1085"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Average per capita income (EUR/year) [Province]",
+                "Wikidata_ID": "Q13569"
+            },
+            {
+                "originalKey": "Total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "Wikidata_ID": "Q20784"
+            },
+            {
+                "originalKey": "Primary sector share of total GVA/year [Province]",
+                "Wikidata_ID": "Q13569"
+            },
+            {
+                "originalKey": "Secondary sector share of total GVA/year [Province]",
+                "Wikidata_ID": "Q13569"
+            },
+            {
+                "originalKey": "Tertiary sector share of total GVA/year [Province]",
+                "Wikidata_ID": "Q13569"
+            },
+            {
+                "originalKey": "Per capita income (EUR/year) [Region]",
+                "Wikidata_ID": "Q13569"
+            },
+            {
+                "originalKey": "Total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "Wikidata_ID": "Q20784"
+            },
+            {
+                "originalKey": "Primary sector share of total GVA/year [Region]",
+                "Wikidata_ID": "Q13569"
+            },
+            {
+                "originalKey": "Secondary sector share of total GVA/year [Region]",
+                "Wikidata_ID": "Q13569"
+            },
+            {
+                "originalKey": "Tertiary sector share of total GVA/year [Region]",
+                "Wikidata_ID": "Q13569"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total BPs/year",
+                "Wikidata_ID": "Q14786"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q20359"
+            },
+            {
+                "originalKey": "regional share",
+                "Wikidata_ID": "Q14786"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q20359"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q14786"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q20359"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q1092"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q1093"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q1094"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q625"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q626"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Sporting game",
+                "Wikidata_ID": "Q1025"
+            },
+            {
+                "originalKey": "Scottish estates",
+                "Wikidata_ID": "Q3487"
+            },
+            {
+                "originalKey": "Deer stalking",
+                "Wikidata_ID": "Q1025"
+            },
+            {
+                "originalKey": "£100 million industry",
+                "Wikidata_ID": "Q184967"
+            },
+            {
+                "originalKey": "Stalking guide",
+                "Wikidata_ID": "Q2355"
+            },
+            {
+                "originalKey": "Gorse/heather",
+                "Wikidata_ID": "Q1067"
+            },
+            {
+                "originalKey": "Mountains hares",
+                "Wikidata_ID": "Q2355"
+            },
+            {
+                "originalKey": "Vension meat",
+                "Wikidata_ID": "Q1025"
+            },
+            {
+                "originalKey": "Scottish Quality Wild Vensions",
+                "Wikidata_ID": "Q184967"
+            },
+            {
+                "originalKey": "Atholl estate",
+                "Wikidata_ID": "Q2355"
+            },
+            {
+                "originalKey": "Perth and Kinross",
+                "Wikidata_ID": "Q1067"
+            },
+            {
+                "originalKey": "Blair Atholl and Glen Lyon estate",
+                "Wikidata_ID": "Q2355"
+            },
+            {
+                "originalKey": "Innovative counting mechanisms",
+                "Wikidata_ID": "Q1067"
+            },
+            {
+                "originalKey": "Habitat quality",
+                "Wikidata_ID": "Q2355"
+            },
+            {
+                "originalKey": "Deer numbers",
+                "Wikidata_ID": "Q1067"
+            },
+            {
+                "originalKey": "Hikers",
+                "Wikidata_ID": "Q2355"
+            },
+            {
+                "originalKey": "Sheep numbers",
+                "Wikidata_ID": "Q1067"
+            },
+            {
+                "originalKey": "Bird population numbers",
+                "Wikidata_ID": "Q2355"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "natural assets",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "wild (but managed) land",
+                "Wikidata_ID": "Q6579"
+            },
+            {
+                "originalKey": "deer and grouse",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "hospitable environment",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "scenery for stalking visitors",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "social assets",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "local communities living and working near and in these stalking estates (i.e., for tourist accommodation)",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "hikers",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "wildlife conservation organizations",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "cultural assets",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "sporting game",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "traditional and local knowledge for stalking practices, processes and habitat management",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "processes for deer stalking",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "centuries",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "ponies to remove deer trophies from the moutain",
+                "Wikidata_ID": "Q1028"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "potential for or existing conflicts with other agricultural activities (i.e., sheep)",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "hillwalking",
+                "Wikidata_ID": "Q36794"
+            },
+            {
+                "originalKey": "relies heavily on international tourists which have been absent during COVID",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "potential conflicts over land management practices and culling of mountain hares and burning of gorse",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "conflicts between organisations promoting the culling of deer and those visiting for stalking purposes (i.e., returning empty-handed)",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "for grouse shooting there are also actual/ potential conflicts with population numbers of other birds (i.e., raptors) being scared off/ accidentally killed",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "potential difficulties in sale of venison eat abroad due to brexit",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "risk of overgrazing of landscape",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "Current and predicted",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "Wikidata_ID": "Q10285"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "innovation",
+                "Wikidata_ID": "Q6574"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "methods of counting deer numbers",
+                "Wikidata_ID": "Q6574"
+            },
+            {
+                "originalKey": "drones",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "camera traps",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "GPS collars",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "thermal imaging",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "New governance systems",
+                "Wikidata_ID": "Q6574"
+            },
+            {
+                "originalKey": "land use systems involved",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q6574"
+            },
+            {
+                "originalKey": "local assets include",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q6574"
+            },
+            {
+                "originalKey": "Social and Cultural",
+                "Wikidata_ID": "Q1028"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Deer stalking",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "Highland and Islands NUT3 region of Scotland",
+                "Wikidata_ID": "Q47569"
+            },
+            {
+                "originalKey": "Aberdeenshire",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "Badendoch and Strathsphey LAU1 areas",
+                "Wikidata_ID": "Q47569"
+            },
+            {
+                "originalKey": "Grouse shooting",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "NUTS3 regions",
+                "Wikidata_ID": "Q47569"
+            },
+            {
+                "originalKey": "North east and North West England",
+                "Wikidata_ID": "Q1028"
+            }
+        ]
+    }
+]

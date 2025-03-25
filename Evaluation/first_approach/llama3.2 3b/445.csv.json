@@ -1,0 +1,294 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "TURKEY",
+                "Wikidata_ID": "Q338"
+            },
+            {
+                "originalKey": "VC 11 TR",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "Mugla",
+                "Wikidata_ID": "Q193"
+            },
+            {
+                "originalKey": "TURKSTAT",
+                "Wikidata_ID": "Q192"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Mente\\u015fe Mountains",
+                "Wikidata_ID": "Q201111"
+            },
+            {
+                "originalKey": "Ula",
+                "Wikidata_ID": "Q113657"
+            },
+            {
+                "originalKey": "Mu\\u011fla province",
+                "Wikidata_ID": "Q157236"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q111357"
+            },
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q175"
+            },
+            {
+                "originalKey": "thousand",
+                "Wikidata_ID": "Q201"
+            },
+            {
+                "originalKey": "Inhabitants/km2",
+                "Wikidata_ID": "Q214"
+            },
+            {
+                "originalKey": "%",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income",
+                "Wikidata_ID": "Q361"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "Wikidata_ID": "Q193"
+            },
+            {
+                "originalKey": "primary sector share of total GVA",
+                "Wikidata_ID": "Q116"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA",
+                "Wikidata_ID": "Q117"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA",
+                "Wikidata_ID": "Q118"
+            },
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q361"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "Wikidata_ID": "Q193"
+            },
+            {
+                "originalKey": "primary sector share of total GVA",
+                "Wikidata_ID": "Q116"
+            },
+            {
+                "originalKey": "secondary sector share of total GVA",
+                "Wikidata_ID": "Q117"
+            },
+            {
+                "originalKey": "tertiary sector share of total GVA",
+                "Wikidata_ID": "Q118"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q384259"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q340"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q193"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q173215"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q362"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q371"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pine honey",
+                "Wikidata_ID": "Q242475"
+            },
+            {
+                "originalKey": "Turkish Patent and Trademark Office",
+                "Wikidata_ID": "Q113357"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "Wikidata_ID": "Q51"
+            },
+            {
+                "originalKey": "Muğla Province",
+                "Wikidata_ID": "Q193"
+            },
+            {
+                "originalKey": "Muğla",
+                "Wikidata_ID": "Q193"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Honey yield",
+                "Wikidata_ID": "Q119813"
+            },
+            {
+                "originalKey": "Climatic conditions",
+                "Wikidata_ID": "Q116166"
+            },
+            {
+                "originalKey": "Accommodation",
+                "Wikidata_ID": "Q193718"
+            },
+            {
+                "originalKey": "Beekeeper",
+                "Wikidata_ID": "Q192777"
+            },
+            {
+                "originalKey": "Young people",
+                "Wikidata_ID": "Q108"
+            },
+            {
+                "originalKey": "Beekeeping",
+                "Wikidata_ID": "Q193716"
+            },
+            {
+                "originalKey": "VC (Variable Climate)",
+                "Wikidata_ID": "Q116167"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q193417"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q116807"
+            },
+            {
+                "originalKey": "Organic",
+                "Wikidata_ID": "Q1540"
+            },
+            {
+                "originalKey": "Rainforest Alliance",
+                "Wikidata_ID": "Q103221"
+            },
+            {
+                "originalKey": "Tea",
+                "Wikidata_ID": "Q416"
+            },
+            {
+                "originalKey": "Forestry",
+                "Wikidata_ID": "Q1734"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q117"
+            },
+            {
+                "originalKey": "Cultural",
+                "Wikidata_ID": "Q198"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Turkey",
+                "Wikidata_ID": "Q512"
+            },
+            {
+                "originalKey": "Switzerland",
+                "Wikidata_ID": "Q51"
+            },
+            {
+                "originalKey": "UK",
+                "Wikidata_ID": "Q32"
+            },
+            {
+                "originalKey": "Austria",
+                "Wikidata_ID": "Q384"
+            },
+            {
+                "originalKey": "Czech Republic",
+                "Wikidata_ID": "Q120"
+            },
+            {
+                "originalKey": "France",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "Greece",
+                "Wikidata_ID": "Q34"
+            },
+            {
+                "originalKey": "Hungary",
+                "Wikidata_ID": "Q356"
+            },
+            {
+                "originalKey": "Italy",
+                "Wikidata_ID": "Q35"
+            },
+            {
+                "originalKey": "North Macedonia",
+                "Wikidata_ID": "Q381"
+            },
+            {
+                "originalKey": "Romania",
+                "Wikidata_ID": "Q39"
+            },
+            {
+                "originalKey": "Serbia",
+                "Wikidata_ID": "Q128"
+            },
+            {
+                "originalKey": "Slovakia",
+                "Wikidata_ID": "Q64"
+            },
+            {
+                "originalKey": "Spain",
+                "Wikidata_ID": "Q20"
+            }
+        ]
+    }
+]

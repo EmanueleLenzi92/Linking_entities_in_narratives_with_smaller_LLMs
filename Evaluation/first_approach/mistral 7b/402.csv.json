@@ -1,0 +1,278 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q18"
+            },
+            {
+                "originalKey": "Switzerland",
+                "Wikidata_ID": "Q65"
+            },
+            {
+                "originalKey": "VC 18 CH1",
+                "Wikidata_ID": "Q247390"
+            },
+            {
+                "originalKey": "Alpine tourism",
+                "Wikidata_ID": "Q658"
+            },
+            {
+                "originalKey": "hotels",
+                "Wikidata_ID": "Q102"
+            },
+            {
+                "originalKey": "restaurants",
+                "Wikidata_ID": "Q103"
+            },
+            {
+                "originalKey": "ski lifts",
+                "Wikidata_ID": "Q2475"
+            },
+            {
+                "originalKey": "richer regions",
+                "Wikidata_ID": "Q106"
+            },
+            {
+                "originalKey": "less prosperous regions",
+                "Wikidata_ID": "Q107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "reference mountain chain",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "reference mountain landscape",
+                "Wikidata_ID": "Q10286"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size",
+                "Wikidata_ID": "Q325"
+            },
+            {
+                "originalKey": "altimetry",
+                "Wikidata_ID": "Q1048"
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": "Q237"
+            },
+            {
+                "originalKey": "density",
+                "Wikidata_ID": "Q108"
+            },
+            {
+                "originalKey": "change rate",
+                "Wikidata_ID": "Q236"
+            },
+            {
+                "originalKey": "region",
+                "Wikidata_ID": "Q1085"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "total Gross Value Added",
+                "Wikidata_ID": "Q3695"
+            },
+            {
+                "originalKey": "primary sector share",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "total Gross Value Added",
+                "Wikidata_ID": "Q3695"
+            },
+            {
+                "originalKey": "primary sector share",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "Wikidata_ID": "Q1028"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total BPs/year",
+                "Wikidata_ID": "Q23586"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q10479"
+            },
+            {
+                "originalKey": "regional share",
+                "Wikidata_ID": "Q23586"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q10479"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q23586"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q108"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q109"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q110"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q678"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q679"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC-systems",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "Alps",
+                "Wikidata_ID": "Q6743"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "tourism",
+                "Wikidata_ID": "Q120"
+            },
+            {
+                "originalKey": "climate change",
+                "Wikidata_ID": "Q658"
+            },
+            {
+                "originalKey": "mountains",
+                "Wikidata_ID": "Q1204"
+            },
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q1356"
+            },
+            {
+                "originalKey": "Current and Predicted",
+                "Wikidata_ID": "Q2078"
+            },
+            {
+                "originalKey": "Traditional and Innovative",
+                "Wikidata_ID": "Q1356"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q1068"
+            },
+            {
+                "originalKey": "Innovation",
+                "Wikidata_ID": "Q2375"
+            },
+            {
+                "originalKey": "Endogenous",
+                "Wikidata_ID": "Q1068"
+            },
+            {
+                "originalKey": "Exogenous",
+                "Wikidata_ID": "Q1068"
+            },
+            {
+                "originalKey": "Touristic attractions",
+                "Wikidata_ID": "Q2375"
+            },
+            {
+                "originalKey": "Skiing",
+                "Wikidata_ID": "Q1068"
+            },
+            {
+                "originalKey": "New products",
+                "Wikidata_ID": "Q2375"
+            },
+            {
+                "originalKey": "New processes",
+                "Wikidata_ID": "Q2375"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q2375"
+            },
+            {
+                "originalKey": "New governance systems",
+                "Wikidata_ID": "Q2375"
+            },
+            {
+                "originalKey": "Landscape in general",
+                "Wikidata_ID": "Q1068"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q2375"
+            },
+            {
+                "originalKey": "Social",
+                "Wikidata_ID": "Q2375"
+            },
+            {
+                "originalKey": "Cultural",
+                "Wikidata_ID": "Q2375"
+            }
+        ]
+    }
+]

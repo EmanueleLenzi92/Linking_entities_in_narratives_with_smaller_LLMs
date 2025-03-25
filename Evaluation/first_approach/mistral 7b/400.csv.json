@@ -1,0 +1,294 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "reference member state",
+                "Wikidata_ID": "Q13679"
+            },
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q20584"
+            },
+            {
+                "originalKey": "SWITZERLAND",
+                "Wikidata_ID": "Q65"
+            },
+            {
+                "originalKey": "VC 16 CH1",
+                "Wikidata_ID": "Q20584:P379"
+            },
+            {
+                "originalKey": "transnational organisation with regional branches",
+                "Wikidata_ID": "Q10655"
+            },
+            {
+                "originalKey": "old animal breeds",
+                "Wikidata_ID": "Q20749"
+            },
+            {
+                "originalKey": "Engadiner",
+                "Wikidata_ID": "Q13685"
+            },
+            {
+                "originalKey": "Spiegelschaf",
+                "Wikidata_ID": "Q13686"
+            },
+            {
+                "originalKey": "Nera Verzasca",
+                "Wikidata_ID": "Q13687"
+            },
+            {
+                "originalKey": "Capra Grigia",
+                "Wikidata_ID": "Q13688"
+            },
+            {
+                "originalKey": "Black Alpine Pig",
+                "Wikidata_ID": "Q13690"
+            },
+            {
+                "originalKey": "chickens",
+                "Wikidata_ID": "Q13691"
+            },
+            {
+                "originalKey": "products",
+                "Wikidata_ID": "Q20749"
+            },
+            {
+                "originalKey": "labelled",
+                "Wikidata_ID": "Q13685"
+            },
+            {
+                "originalKey": "better price",
+                "Wikidata_ID": "Q20749"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "reference mountain chain",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "reference mountain landscape",
+                "Wikidata_ID": "Q10286"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size",
+                "Wikidata_ID": "Q325"
+            },
+            {
+                "originalKey": "altimetry",
+                "Wikidata_ID": "Q1048"
+            },
+            {
+                "originalKey": "population",
+                "Wikidata_ID": "Q237"
+            },
+            {
+                "originalKey": "density",
+                "Wikidata_ID": "Q106"
+            },
+            {
+                "originalKey": "change rate",
+                "Wikidata_ID": "Q238"
+            },
+            {
+                "originalKey": "region",
+                "Wikidata_ID": "Q1067"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "average per capita income",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "total Gross Value Added",
+                "Wikidata_ID": "Q3695"
+            },
+            {
+                "originalKey": "primary sector share",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "total Gross Value Added",
+                "Wikidata_ID": "Q3695"
+            },
+            {
+                "originalKey": "primary sector share",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "Wikidata_ID": "Q1028"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "total BPs/year",
+                "Wikidata_ID": "Q23587"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q10469"
+            },
+            {
+                "originalKey": "regional share",
+                "Wikidata_ID": "Q23587"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q10469"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q23587"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q108"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q109"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q110"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q678"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q679"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "revival",
+                "Wikidata_ID": "Q1027"
+            },
+            {
+                "originalKey": "old traditional breeds",
+                "Wikidata_ID": "Q3658"
+            },
+            {
+                "originalKey": "local situation",
+                "Wikidata_ID": "Q1072"
+            },
+            {
+                "originalKey": "farmer led initiative",
+                "Wikidata_ID": "Q3658"
+            },
+            {
+                "originalKey": "localness being trendy",
+                "Wikidata_ID": "Q1072"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q1067"
+            },
+            {
+                "originalKey": "trend",
+                "Wikidata_ID": "Q2584"
+            },
+            {
+                "originalKey": "veganism",
+                "Wikidata_ID": "Q1093"
+            },
+            {
+                "originalKey": "challenge",
+                "Wikidata_ID": "Q2586"
+            },
+            {
+                "originalKey": "predicted",
+                "Wikidata_ID": "Q1093"
+            },
+            {
+                "originalKey": "traditional",
+                "Wikidata_ID": "Q2586"
+            },
+            {
+                "originalKey": "innovative",
+                "Wikidata_ID": "Q2586"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "transnational organisation with regional branches",
+                "Wikidata_ID": "Q1035"
+            },
+            {
+                "originalKey": "farmers who breed old animal breeds and sell their products",
+                "Wikidata_ID": "Q2476"
+            },
+            {
+                "originalKey": "Endogenous innovation",
+                "Wikidata_ID": "Q1038"
+            },
+            {
+                "originalKey": "New marketing strategies",
+                "Wikidata_ID": "Q2476"
+            },
+            {
+                "originalKey": "Grassland land use systems",
+                "Wikidata_ID": "Q1035"
+            },
+            {
+                "originalKey": "Natural and cultural local assets",
+                "Wikidata_ID": "Q2476"
+            }
+        ]
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "SWITZERLAND",
+                "Wikidata_ID": "Q33"
+            },
+            {
+                "originalKey": "VC 17 CH1",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "alps",
+                "Wikidata_ID": "Q168"
+            },
+            {
+                "originalKey": "Pro Montagna",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q1133219"
+            },
+            {
+                "originalKey": "mountain chain",
+                "Wikidata_ID": "P131"
+            },
+            {
+                "originalKey": "landscape",
+                "Wikidata_ID": "P1242"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q119097"
+            },
+            {
+                "originalKey": "altimetry",
+                "Wikidata_ID": "Q204"
+            },
+            {
+                "originalKey": "thousand",
+                "Wikidata_ID": "Q214"
+            },
+            {
+                "originalKey": "Inhabitants/km2",
+                "Wikidata_ID": "Q149"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q104"
+            },
+            {
+                "originalKey": "regional population density",
+                "Wikidata_ID": "Q114"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Gross Value Added (GVA)",
+                "Wikidata_ID": "Q460"
+            },
+            {
+                "originalKey": "per capita income",
+                "Wikidata_ID": "Q204"
+            },
+            {
+                "originalKey": "primary sector share",
+                "Wikidata_ID": "Q116236"
+            },
+            {
+                "originalKey": "secondary sector share",
+                "Wikidata_ID": ""
+            },
+            {
+                "originalKey": "tertiary sector share",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q384259"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q340"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q193"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q375"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q384"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q384"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "traditional VC",
+                "Wikidata_ID": "Q193928"
+            },
+            {
+                "originalKey": "is",
+                "Wikidata_ID": "null"
+            },
+            {
+                "originalKey": "well sought after",
+                "Wikidata_ID": "null"
+            },
+            {
+                "originalKey": "traditional VC",
+                "Wikidata_ID": "Q193928"
+            },
+            {
+                "originalKey": "that is",
+                "Wikidata_ID": "null"
+            },
+            {
+                "originalKey": "working well",
+                "Wikidata_ID": "null"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q193417"
+            },
+            {
+                "originalKey": "bees",
+                "Wikidata_ID": "Q7"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q158111"
+            },
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q168361"
+            },
+            {
+                "originalKey": "Beehives",
+                "Wikidata_ID": "Q417"
+            },
+            {
+                "originalKey": "Natural",
+                "Wikidata_ID": "Q116"
+            }
+        ]
+    }
+]

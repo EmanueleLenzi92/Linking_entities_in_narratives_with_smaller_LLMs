@@ -1,0 +1,362 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "MOVING reference member state",
+                "Wikidata_ID": "Q1045"
+            },
+            {
+                "originalKey": "VC (Value Chain)",
+                "Wikidata_ID": "Q23786"
+            },
+            {
+                "originalKey": "CZECH REPUBLIC",
+                "Wikidata_ID": "Q1045"
+            },
+            {
+                "originalKey": "VC 10 CZ",
+                "Wikidata_ID": "Q23786"
+            },
+            {
+                "originalKey": "herb liquers",
+                "Wikidata_ID": "Q1954"
+            },
+            {
+                "originalKey": "niche market",
+                "Wikidata_ID": "Q2038"
+            },
+            {
+                "originalKey": "producers",
+                "Wikidata_ID": "Q1954"
+            },
+            {
+                "originalKey": "region",
+                "Wikidata_ID": "Q2038"
+            },
+            {
+                "originalKey": "promotion of the regions identity",
+                "Wikidata_ID": "Q1954"
+            },
+            {
+                "originalKey": "eshops",
+                "Wikidata_ID": "Q2038"
+            },
+            {
+                "originalKey": "farmers markets",
+                "Wikidata_ID": "Q1954"
+            },
+            {
+                "originalKey": "direct selling",
+                "Wikidata_ID": "Q2038"
+            },
+            {
+                "originalKey": "specialized shops",
+                "Wikidata_ID": "Q1954"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "mountain chain",
+                "Wikidata_ID": "Q10679"
+            },
+            {
+                "originalKey": "mountain landscape",
+                "Wikidata_ID": "Q23584"
+            },
+            {
+                "originalKey": "LAU 1 Trutnov",
+                "Wikidata_ID": "Q67095"
+            },
+            {
+                "originalKey": "NUTS 3 Kralovehradecky",
+                "Wikidata_ID": "Q24815"
+            },
+            {
+                "originalKey": "agricultural land",
+                "Wikidata_ID": "Q6079"
+            },
+            {
+                "originalKey": "arable land",
+                "Wikidata_ID": "Q12584"
+            },
+            {
+                "originalKey": "perennial grassland",
+                "Wikidata_ID": "Q6079"
+            },
+            {
+                "originalKey": "forest land",
+                "Wikidata_ID": "Q12584"
+            },
+            {
+                "originalKey": "Giant Mountains",
+                "Wikidata_ID": "Q10679"
+            },
+            {
+                "originalKey": "highest peak",
+                "Wikidata_ID": "Q23584"
+            },
+            {
+                "originalKey": "National Park",
+                "Wikidata_ID": "Q10679"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "size",
+                "Wikidata_ID": "Q2583"
+            },
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q10476"
+            },
+            {
+                "originalKey": "minimum altimetry",
+                "Wikidata_ID": "Q2583"
+            },
+            {
+                "originalKey": "maximum altimetry",
+                "Wikidata_ID": "Q2583"
+            },
+            {
+                "originalKey": "total population",
+                "Wikidata_ID": "Q10476"
+            },
+            {
+                "originalKey": "population density",
+                "Wikidata_ID": "Q2583"
+            },
+            {
+                "originalKey": "population change rate",
+                "Wikidata_ID": "Q10476"
+            },
+            {
+                "originalKey": "regional population density",
+                "Wikidata_ID": "Q2583"
+            },
+            {
+                "originalKey": "regional population change rate",
+                "Wikidata_ID": "Q10476"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Average per capita income (EUR/year) [Province]",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Total Gross Value Added (GVA) (EUR million/year) [Province]",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Primary sector share of total GVA/year [Province]",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Secondary sector share of total GVA/year [Province]",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Tertiary sector share of total GVA/year [Province]",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Per capita income (EUR/year) [Region]",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Total Gross Value Added (GVA) (EUR million/year) [Region]",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Primary sector share of total GVA/year [Region]",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Secondary sector share of total GVA/year [Region]",
+                "Wikidata_ID": "Q123456789"
+            },
+            {
+                "originalKey": "Tertiary sector share of total GVA/year [Region]",
+                "Wikidata_ID": "Q123456789"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bed places",
+                "Wikidata_ID": "Q25786"
+            },
+            {
+                "originalKey": "tourist accommodations",
+                "Wikidata_ID": "Q10493"
+            },
+            {
+                "originalKey": "LAU (Local Administrative Unit)",
+                "Wikidata_ID": "Q27586"
+            },
+            {
+                "originalKey": "regional share",
+                "Wikidata_ID": "Q10493"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q25786"
+            },
+            {
+                "originalKey": "nearest settlement with population over 100000 (km)",
+                "Wikidata_ID": "Q25786"
+            },
+            {
+                "originalKey": "protected areas",
+                "Wikidata_ID": "Q25786"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "primary sector",
+                "Wikidata_ID": "Q108"
+            },
+            {
+                "originalKey": "secondary sector",
+                "Wikidata_ID": "Q109"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "Wikidata_ID": "Q110"
+            },
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q678"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q679"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "herb liquers",
+                "Wikidata_ID": "Q36749"
+            },
+            {
+                "originalKey": "flavours",
+                "Wikidata_ID": "Q10852"
+            },
+            {
+                "originalKey": "regional product",
+                "Wikidata_ID": "Q36749"
+            },
+            {
+                "originalKey": "symbolic assets",
+                "Wikidata_ID": "Q10852"
+            },
+            {
+                "originalKey": "mountain regions",
+                "Wikidata_ID": "Q36749"
+            },
+            {
+                "originalKey": "natural values",
+                "Wikidata_ID": "Q10852"
+            },
+            {
+                "originalKey": "selling proposition",
+                "Wikidata_ID": "Q36749"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "producers",
+                "Wikidata_ID": "Q1205"
+            },
+            {
+                "originalKey": "traditional knowledge embedded in the region",
+                "Wikidata_ID": "Q184673"
+            },
+            {
+                "originalKey": "product labels refer to cultural traits associated with the mountain area",
+                "Wikidata_ID": "Q20955"
+            },
+            {
+                "originalKey": "symbolic value refering to the mountains",
+                "Wikidata_ID": "Q184673"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Herb liquers",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "mainstream food markets",
+                "Wikidata_ID": "Q36749"
+            },
+            {
+                "originalKey": "valorization of the product",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "marketing strategy",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "Current",
+                "Wikidata_ID": "Q10285"
+            },
+            {
+                "originalKey": "Traditional",
+                "Wikidata_ID": "Q10285"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "innovation",
+                "Wikidata_ID": "Q6579"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q1082"
+            },
+            {
+                "originalKey": "local assets",
+                "Wikidata_ID": "Q6579"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "Wikidata_ID": "Q1028"
+            },
+            {
+                "originalKey": "mountain region",
+                "Wikidata_ID": "Q6574"
+            }
+        ]
+    }
+]

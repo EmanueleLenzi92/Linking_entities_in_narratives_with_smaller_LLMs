@@ -1,0 +1,157 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "ITALY",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "UNIMOL",
+                "Wikidata_ID": "Q7901444"
+            },
+            {
+                "originalKey": "UNIPI",
+                "Wikidata_ID": "Q7924445"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Northern Apennines",
+                "Wikidata_ID": "Q14444"
+            },
+            {
+                "originalKey": "Anghiari",
+                "Wikidata_ID": "Q27443"
+            },
+            {
+                "originalKey": "Arezzo Province",
+                "Wikidata_ID": "Q36445"
+            },
+            {
+                "originalKey": "Tuscany Region",
+                "Wikidata_ID": "Q36977"
+            },
+            {
+                "originalKey": "Italy",
+                "Wikidata_ID": "Q38"
+            },
+            {
+                "originalKey": "Umbria region",
+                "Wikidata_ID": "Q3949"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q1157184"
+            },
+            {
+                "originalKey": "km2",
+                "Wikidata_ID": "Q2959"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q515"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q4867"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "LAU",
+                "Wikidata_ID": "Q1152134"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q11197"
+            },
+            {
+                "originalKey": "agricultural holdings",
+                "Wikidata_ID": "Q34343"
+            },
+            {
+                "originalKey": "settlement",
+                "Wikidata_ID": "Q18354"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Province",
+                "Wikidata_ID": "Q287312"
+            },
+            {
+                "originalKey": "Region",
+                "Wikidata_ID": "Q27591"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pontepietra",
+                "Wikidata_ID": "Q111144"
+            },
+            {
+                "originalKey": "Apennines",
+                "Wikidata_ID": "Q17144"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Steinbruck",
+                "Wikidata_ID": "Q"
+            },
+            {
+                "originalKey": "Apennines",
+                "Wikidata_ID": "Q"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Value Chain",
+                "Wikidata_ID": "Q106333"
+            },
+            {
+                "originalKey": "Nature",
+                "Wikidata_ID": "Q20"
+            },
+            {
+                "originalKey": "Quality",
+                "Wikidata_ID": "Q1313"
+            },
+            {
+                "originalKey": "Communication",
+                "Wikidata_ID": "Q11424"
+            },
+            {
+                "originalKey": "Natural land",
+                "Wikidata_ID": "Q1313"
+            },
+            {
+                "originalKey": "Local assets",
+                "Wikidata_ID": "Q134"
+            }
+        ]
+    }
+]
