@@ -1,0 +1,323 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Supply chain",
+    "Wikidata_ID" : "Q1824206"
+  }, {
+    "originalKey" : "CZECH REPUBLIC",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "originalKey" : "VC 11 CZ",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "mountains",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  }, {
+    "originalKey" : "fruit",
+    "original_value" : "Fruit",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "eshops",
+    "original_value" : "E-commerce",
+    "Wikidata_ID" : "Q484847"
+  }, {
+    "originalKey" : "farmers markets",
+    "original_value" : "Farmers' market",
+    "Wikidata_ID" : "Q1522620"
+  }, {
+    "originalKey" : "farmers shops",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional SES",
+    "original_value" : "Social-ecological system",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "symbolic value",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tourism",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Sumava - Cesky les",
+    "original_value" : "Šumava",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU 1 Klatovy",
+    "original_value" : "Klatovy District",
+    "Wikidata_ID" : "Q838341"
+  }, {
+    "originalKey" : "agricultural land",
+    "original_value" : "Agricultural Land",
+    "Wikidata_ID" : "Q3395383"
+  }, {
+    "originalKey" : "arable",
+    "original_value" : "Arable Land",
+    "Wikidata_ID" : "Q843920"
+  }, {
+    "originalKey" : "wheat",
+    "original_value" : "Wheat",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "rape seeds",
+    "original_value" : "Rapeseed",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "potato production",
+    "original_value" : "Potato Production",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Germany",
+    "original_value" : "Germany",
+    "Wikidata_ID" : "Q183"
+  }, {
+    "originalKey" : "Sumava mountains",
+    "original_value" : "Šumava",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "forests",
+    "original_value" : "Forest",
+    "Wikidata_ID" : "Q4421"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Local Administrative Unit",
+    "original_value" : "NUTS",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population density",
+    "original_value" : "Population_density",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income",
+    "original_value" : "Per_capita_income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross_value_added",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary_sector_of_the_economy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary_sector_of_the_economy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary_sector_of_the_economy",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Local Administrative Unit",
+    "original_value" : "NUTS",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourism accommodation",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "bed places",
+    "original_value" : "Bedplace",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector of the economy",
+    "Wikidata_ID" : "Q55640"
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector of the economy",
+    "Wikidata_ID" : "Q55639"
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector of the economy",
+    "Wikidata_ID" : "Q55638"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "bee products",
+    "original_value" : "Bee product",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "mountain regions",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  }, {
+    "originalKey" : "beekeeping",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "originalKey" : "farming",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "environmental conditions",
+    "original_value" : "Environmental condition",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "anthropogenic pollutions",
+    "original_value" : "Anthropogenic pollution",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "credence goods",
+    "original_value" : "Credence good",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "vulnerability of bee colonies",
+    "original_value" : "Colony collapse disorder",
+    "Wikidata_ID" : "Q497841"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Sumava Mountains",
+    "original_value" : "Šumava",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "socialist-era (1950s-1989)",
+    "original_value" : "Communism in Czechoslovakia",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "pre-WII tradition",
+    "original_value" : "Interwar period",
+    "Wikidata_ID" : "Q154611"
+  }, {
+    "originalKey" : "tourists",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "originalKey" : "beekeepers",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "originalKey" : "local ecosystems",
+    "original_value" : "Ecosystem",
+    "Wikidata_ID" : "Q37813"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "beekeepers",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "originalKey" : "honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "originalKey" : "mountain region",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  }, {
+    "originalKey" : "mainstream, large-scale bee-keepers",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "originalKey" : "intensive methods of production",
+    "original_value" : "Intensive farming",
+    "Wikidata_ID" : "Q1148482"
+  }, {
+    "originalKey" : "global climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "originalKey" : "pollutions",
+    "original_value" : "Pollution",
+    "Wikidata_ID" : "Q58734"
+  }, {
+    "originalKey" : "bee colonies",
+    "original_value" : "Bee colony",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "organic standards in beekeeping",
+    "original_value" : "Organic farming#Beekeeping",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Czech Republic",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "originalKey" : "VC is Current and Predicted",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Traditional",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "beekeepers",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "originalKey" : "vulnerability of bee colonies",
+    "original_value" : "Colony collapse disorder",
+    "Wikidata_ID" : "Q497841"
+  }, {
+    "originalKey" : "varroa disease",
+    "original_value" : "Varroosis",
+    "Wikidata_ID" : "Q780805"
+  }, {
+    "originalKey" : "chemical inputs",
+    "original_value" : "Pesticide",
+    "Wikidata_ID" : "Q131656"
+  }, {
+    "originalKey" : "natural processes and potentials of bee colonies",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "originalKey" : "Natural land",
+    "original_value" : "Wilderness",
+    "Wikidata_ID" : "Q911871"
+  }, {
+    "originalKey" : "Natural and cultural assets",
+    "original_value" : "Cultural heritage",
+    "Wikidata_ID" : "Q210272"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "beekeeping",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "originalKey" : "Czech Republic",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  } ]
+} ]

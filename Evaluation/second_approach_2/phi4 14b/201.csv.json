@@ -1,0 +1,175 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Supply chain",
+    "Wikidata_ID" : "Q1824206"
+  }, {
+    "originalKey" : "NMK",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  }, {
+    "originalKey" : "tobacco seeds",
+    "original_value" : "Tobacco seed",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "planting seedlings",
+    "original_value" : "Seedling",
+    "Wikidata_ID" : "Q1385709"
+  }, {
+    "originalKey" : "harvesting",
+    "original_value" : "Harvest (agriculture)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "selling the row material",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "processing",
+    "original_value" : "Processing",
+    "Wikidata_ID" : "Q1053535"
+  }, {
+    "originalKey" : "tobacco product",
+    "original_value" : "Tobacco products",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural land",
+    "original_value" : "Agricultural land",
+    "Wikidata_ID" : "Q3395383"
+  }, {
+    "originalKey" : "Jaka Prilep",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Mountain Meleshevija",
+    "original_value" : "Maleshevo Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Republic of North Macedonia",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  }, {
+    "originalKey" : "Berovo",
+    "original_value" : "Berovo",
+    "Wikidata_ID" : "Q827047"
+  }, {
+    "originalKey" : "Pehchevo",
+    "original_value" : "Pehčevo",
+    "Wikidata_ID" : "Q162952"
+  }, {
+    "originalKey" : "Bregalnica",
+    "original_value" : "Bregalnica River",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Strumica",
+    "original_value" : "Struma (river)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Local Administrative Unit",
+    "original_value" : "NUTS",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population density",
+    "original_value" : "Population_density",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income",
+    "original_value" : "Per_capita_income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross_value_added",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary_sector_of_the_economy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary_sector_of_the_economy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary_sector_of_the_economy",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Local Administrative Unit",
+    "original_value" : "NUTS",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector of the economy",
+    "Wikidata_ID" : "Q55640"
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector of the economy",
+    "Wikidata_ID" : "Q55639"
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector of the economy",
+    "Wikidata_ID" : "Q55638"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Republic of Macedonia",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  }, {
+    "originalKey" : "tobacco production",
+    "original_value" : "Tobacco_production",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "oriental types",
+    "original_value" : "Oriental_tobacco",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "oriental tobacco",
+    "original_value" : "Oriental tobacco",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "value added",
+    "original_value" : "Value-added tax",
+    "Wikidata_ID" : "Q128635"
+  }, {
+    "originalKey" : "tobacco",
+    "original_value" : "Tobacco",
+    "Wikidata_ID" : "Q1566"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Natural land",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  } ]
+} ]

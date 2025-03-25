@@ -1,0 +1,275 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Supply chain",
+    "Wikidata_ID" : "Q1824206"
+  }, {
+    "originalKey" : "GREECE",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "originalKey" : "apiculture",
+    "original_value" : "Apiculture",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region of Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "originalKey" : "EU Geographical Indications (GIs)",
+    "original_value" : "Protected designation of origin",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "socio-ecological system",
+    "original_value" : "Social ecology",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "White Mountains",
+    "original_value" : "White Mountains (Crete)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "KISSAMOS",
+    "original_value" : "Chania (regional unit)",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "flora and fauna species",
+    "original_value" : "Flora and Fauna",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "stenoendemic",
+    "original_value" : "Stenoendemism",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Local Administrative Unit",
+    "original_value" : "NUTS",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "population density",
+    "original_value" : "Population_density",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income",
+    "original_value" : "Per_capita_income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross_value_added",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary_sector_of_the_economy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary_sector_of_the_economy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary_sector_of_the_economy",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Local Administrative Unit",
+    "original_value" : "NUTS",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "originalKey" : "bed places",
+    "original_value" : "Bedplace",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector of the economy",
+    "Wikidata_ID" : "Q55640"
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector of the economy",
+    "Wikidata_ID" : "Q55639"
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector of the economy",
+    "Wikidata_ID" : "Q55638"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Kissamos mountains",
+    "original_value" : "Mount Kissos",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "PDO",
+    "original_value" : "Protected designation of origin",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Pine honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "originalKey" : "Thyme honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Topolia/Kissamos",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "originalKey" : "Cretan way of life",
+    "original_value" : "Cretan culture",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Minoan Civilization 1600 BC",
+    "original_value" : "Minoan civilization",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "originalKey" : "bees",
+    "original_value" : "Honey bee",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "honey production",
+    "original_value" : "Honey production",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "pesticides",
+    "original_value" : "Pesticide",
+    "Wikidata_ID" : "Q131656"
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "adulteration with inferior types of honey",
+    "original_value" : "Honey adulteration",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Pefkothymaromelo",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "value chain (VC)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous growth theory",
+    "Wikidata_ID" : "Q576355"
+  }, {
+    "originalKey" : "apiculture",
+    "original_value" : "Apiculture",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "pefkothymaromelo",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "PDO characterization",
+    "original_value" : "Protected designation of origin",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Kissamos",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "originalKey" : "New products",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New marketing strategies",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "New governance systems",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "originalKey" : "Natural land",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Natural assets",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "social assets",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "cultural assets",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Greece",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "originalKey" : "EU katalog (eAmbrosia)",
+    "original_value" : "E-Bee register",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Peyfothymaromelo",
+    "original_value" : "Thyme honey",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Cretan honey",
+    "original_value" : "Honey production in Greece",
+    "Wikidata_ID" : ""
+  } ]
+} ]

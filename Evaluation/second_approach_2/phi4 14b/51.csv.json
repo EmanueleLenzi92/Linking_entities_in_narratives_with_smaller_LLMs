@@ -1,0 +1,239 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "CZECH REPUBLIC",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "originalKey" : "Herb liquers",
+    "original_value" : "Liqueur",
+    "Wikidata_ID" : "Q178780"
+  }, {
+    "originalKey" : "eshops",
+    "original_value" : "E-commerce",
+    "Wikidata_ID" : "Q484847"
+  }, {
+    "originalKey" : "farmers markets",
+    "original_value" : "Farmers' market",
+    "Wikidata_ID" : "Q1522620"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Giant Mountains",
+    "original_value" : "Krkonoše",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "LAU 1 Trutnov",
+    "original_value" : "Trutnov District",
+    "Wikidata_ID" : "Q517734"
+  }, {
+    "originalKey" : "NUTS 3 Kralovehradecky",
+    "original_value" : "Hradec Králové Region",
+    "Wikidata_ID" : "Q193295"
+  }, {
+    "originalKey" : "agricultural land",
+    "original_value" : "Agricultural Land",
+    "Wikidata_ID" : "Q3395383"
+  }, {
+    "originalKey" : "arable land",
+    "original_value" : "Arable Land",
+    "Wikidata_ID" : "Q843920"
+  }, {
+    "originalKey" : "perennial grassland",
+    "original_value" : "Perennial Grassland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "forest land",
+    "original_value" : "Forest Land",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "NUTS2",
+    "original_value" : "Nomenclature of Territorial Units for Statistics",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "originalKey" : "Local Administrative Unit (LAU)",
+    "original_value" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "originalKey" : "population density (Inhabitants/km2)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth",
+    "Wikidata_ID" : "Q386191"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income",
+    "original_value" : "Per_capita_income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross_value_added",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary_sector_of_the_economy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary_sector_of_the_economy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary_sector_of_the_economy",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Local Administrative Unit",
+    "original_value" : "NUTS",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector of the economy",
+    "Wikidata_ID" : "Q55640"
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector of the economy",
+    "Wikidata_ID" : "Q55639"
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector of the economy",
+    "Wikidata_ID" : "Q55638"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "herb liquers",
+    "original_value" : "Herbal liqueur",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "regional product",
+    "original_value" : "Regional food products in the European Union",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "symbolic assets",
+    "original_value" : "Symbolic capital",
+    "Wikidata_ID" : "Q1751638"
+  }, {
+    "originalKey" : "mountain regions",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  }, {
+    "originalKey" : "natural and symbolic values",
+    "original_value" : "Cultural landscape",
+    "Wikidata_ID" : "Q1129474"
+  }, {
+    "originalKey" : "unique selling proposition",
+    "original_value" : "Unique selling proposition",
+    "Wikidata_ID" : "Q963465"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "natural assets",
+    "original_value" : "Natural resource",
+    "Wikidata_ID" : "Q188460"
+  }, {
+    "originalKey" : "social construction of quality",
+    "original_value" : "Social constructivism",
+    "Wikidata_ID" : "Q1135710"
+  }, {
+    "originalKey" : "traditional knowledge",
+    "original_value" : "Traditional knowledge",
+    "Wikidata_ID" : "Q1428168"
+  }, {
+    "originalKey" : "product labels",
+    "original_value" : "Product labeling",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "cultural traits",
+    "original_value" : "Cultural trait",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "symbolic value",
+    "original_value" : "Symbolic value (economics)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Herb liquers",
+    "original_value" : "Liqueur",
+    "Wikidata_ID" : "Q178780"
+  }, {
+    "originalKey" : "mainstream food markets",
+    "original_value" : "Supermarket",
+    "Wikidata_ID" : "Q180846"
+  }, {
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "originalKey" : "valorization of the product",
+    "original_value" : "Product valorization",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "marketing strategy",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Natural land",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "originalKey" : "Natural and cultural",
+    "original_value" : "Cultural landscape",
+    "Wikidata_ID" : "Q1129474"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "natural (tangible) resources",
+    "original_value" : "Natural resource",
+    "Wikidata_ID" : "Q188460"
+  }, {
+    "originalKey" : "mountain region",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  } ]
+} ]

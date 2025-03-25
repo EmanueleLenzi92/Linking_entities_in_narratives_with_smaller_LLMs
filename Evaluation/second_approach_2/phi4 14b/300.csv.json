@@ -1,0 +1,291 @@
+[ {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Supply chain",
+    "Wikidata_ID" : "Q1824206"
+  }, {
+    "originalKey" : "SKANDINAVIAN UCO",
+    "original_value" : "Nordic Council of Ministers",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "VC 07 SCA",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Barley",
+    "original_value" : "Hordeum vulgare",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Roros",
+    "original_value" : "Røros",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "fungui",
+    "original_value" : "Fungi",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "pesticide",
+    "original_value" : "Pesticide",
+    "Wikidata_ID" : "Q131656"
+  }, {
+    "originalKey" : "Rorosmat",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Scandinavean Mountains",
+    "original_value" : "Scandes",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Tynset",
+    "original_value" : "Tynset",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Østerdalen",
+    "original_value" : "Østerdalen",
+    "Wikidata_ID" : "Q308349"
+  }, {
+    "originalKey" : "Norway",
+    "original_value" : "Norway",
+    "Wikidata_ID" : "Q20"
+  }, {
+    "originalKey" : "forest",
+    "original_value" : "Forest",
+    "Wikidata_ID" : "Q4421"
+  }, {
+    "originalKey" : "family farms",
+    "original_value" : "Family farm",
+    "Wikidata_ID" : "Q5433334"
+  }, {
+    "originalKey" : "farming",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "originalKey" : "forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "originalKey" : "skiing",
+    "original_value" : "Skiing",
+    "Wikidata_ID" : "Q130949"
+  }, {
+    "originalKey" : "fishing",
+    "original_value" : "Fishing",
+    "Wikidata_ID" : "Q14373"
+  }, {
+    "originalKey" : "hiking",
+    "original_value" : "Hiking",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "hunting",
+    "original_value" : "Hunting",
+    "Wikidata_ID" : "Q36963"
+  }, {
+    "originalKey" : "subarctic climate",
+    "original_value" : "Subarctic climate",
+    "Wikidata_ID" : "Q5967371"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "originalKey" : "Local Administrative Unit (LAU)",
+    "original_value" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "originalKey" : "population density (Inhabitants/km2)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "originalKey" : "population change rate",
+    "original_value" : "Demographic transition model",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "per capita income",
+    "original_value" : "Per_capita_income",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross_value_added",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary_sector_of_the_economy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary_sector_of_the_economy",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary_sector_of_the_economy",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Local Administrative Unit",
+    "original_value" : "NUTS",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "originalKey" : "bed places",
+    "original_value" : "Bedplace",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector of the economy",
+    "Wikidata_ID" : "Q55640"
+  }, {
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector of the economy",
+    "Wikidata_ID" : "Q55639"
+  }, {
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector of the economy",
+    "Wikidata_ID" : "Q55638"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Ancient crop",
+    "original_value" : "Ancient grains",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "extreme climate conditions",
+    "original_value" : "Extreme weather",
+    "Wikidata_ID" : "Q1277161"
+  }, {
+    "originalKey" : "e-commerce platform",
+    "original_value" : "E-commerce",
+    "Wikidata_ID" : "Q484847"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "barley",
+    "original_value" : "Barley",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "500masl",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "originalKey" : "Norway",
+    "original_value" : "Norway",
+    "Wikidata_ID" : "Q20"
+  }, {
+    "originalKey" : "Rorosmat",
+    "original_value" : "Roros Mat AS",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "stone mill",
+    "original_value" : "Mill (grinding)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "fertilizers",
+    "original_value" : "Fertilizer",
+    "Wikidata_ID" : "Q83323"
+  }, {
+    "originalKey" : "pesticides",
+    "original_value" : "Pesticide",
+    "Wikidata_ID" : "Q131656"
+  }, {
+    "originalKey" : "barley",
+    "original_value" : "Barley",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "wheat",
+    "original_value" : "Wheat",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Climate Change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "originalKey" : "plant diseases",
+    "original_value" : "Plant disease",
+    "Wikidata_ID" : "Q2662845"
+  }, {
+    "originalKey" : "pest",
+    "original_value" : "Pest",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "value chain (VC)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "Exogenous innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "originalKey" : "Rorosmat brand",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "e-commerce",
+    "original_value" : "E-commerce",
+    "Wikidata_ID" : "Q484847"
+  }, {
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "originalKey" : "Cropland",
+    "original_value" : "Cropland",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Natural assets",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Social assets",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "originalKey" : "Cultural assets",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "originalKey" : "value chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "originalKey" : "sustainability",
+    "original_value" : "Sustainability",
+    "Wikidata_ID" : "Q219416"
+  } ]
+} ]
