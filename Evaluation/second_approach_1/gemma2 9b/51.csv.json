@@ -1,0 +1,167 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "CZECH REPUBLIC",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "CZECH REPUBLIC",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "VC 10 CZ",
+    "wikipedia_title" : "None",
+    "originalKey" : "VC 10 CZ",
+    "original_value" : "None",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Giant Mountains",
+    "wikipedia_title" : "Giant Mountains",
+    "originalKey" : "Giant Mountains",
+    "original_value" : "Giant Mountains",
+    "Wikidata_ID" : "Q214644"
+  }, {
+    "entity_in_the_text" : "LAU 1 Trutnov",
+    "wikipedia_title" : "Trutnov District",
+    "originalKey" : "LAU 1 Trutnov",
+    "original_value" : "Trutnov District",
+    "Wikidata_ID" : "Q517734"
+  }, {
+    "entity_in_the_text" : "NUTS 3 Kralovehradecky",
+    "wikipedia_title" : "Královéhradecký Region",
+    "originalKey" : "NUTS 3 Kralovehradecky",
+    "original_value" : "Královéhradecký Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Czech Republic",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czech Republic",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "National Park",
+    "wikipedia_title" : "Krkonoše National Park",
+    "originalKey" : "National Park",
+    "original_value" : "Krkonoše National Park",
+    "Wikidata_ID" : "Q2043817"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "herb liquers",
+    "wikipedia_title" : "Liqueur",
+    "originalKey" : "herb liquers",
+    "original_value" : "Liqueur",
+    "Wikidata_ID" : "Q178780"
+  }, {
+    "entity_in_the_text" : "mountain regions",
+    "wikipedia_title" : "Mountain",
+    "originalKey" : "mountain regions",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "mountains",
+    "wikipedia_title" : "Mountains",
+    "originalKey" : "mountains",
+    "original_value" : "Mountains",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Herb liquers",
+    "wikipedia_title" : "Liqueur",
+    "originalKey" : "Herb liquers",
+    "original_value" : "Liqueur",
+    "Wikidata_ID" : "Q178780"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Land use",
+    "originalKey" : "Natural land",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "entity_in_the_text" : "Natural and cultural",
+    "wikipedia_title" : "Cultural heritage",
+    "originalKey" : "Natural and cultural",
+    "original_value" : "Cultural heritage",
+    "Wikidata_ID" : "Q210272"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "mountain region",
+    "wikipedia_title" : "Mountain range",
+    "originalKey" : "mountain region",
+    "original_value" : "Mountain range",
+    "Wikidata_ID" : ""
+  } ]
+} ]

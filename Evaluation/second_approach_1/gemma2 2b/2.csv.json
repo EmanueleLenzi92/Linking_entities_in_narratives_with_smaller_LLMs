@@ -1,0 +1,635 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "AUSTRIA",
+    "wikipedia_title" : "Austria",
+    "originalKey" : "AUSTRIA",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  }, {
+    "entity_in_the_text" : "VC 02 AT",
+    "wikipedia_title" : "Value Chain (VC) - Wikipedia",
+    "originalKey" : "VC 02 AT",
+    "original_value" : "Value Chain (VC) - Wikipedia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Almenland Stollenkäse GmbH",
+    "wikipedia_title" : "Almenland Stollenkäse GmbH",
+    "originalKey" : "Almenland Stollenkäse GmbH",
+    "original_value" : "Almenland Stollenkäse GmbH",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "South of Germany",
+    "wikipedia_title" : "Germany",
+    "originalKey" : "South of Germany",
+    "original_value" : "Germany",
+    "Wikidata_ID" : "Q183"
+  }, {
+    "entity_in_the_text" : "Austria",
+    "wikipedia_title" : "Austria",
+    "originalKey" : "Austria",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  }, {
+    "entity_in_the_text" : "Almenland product",
+    "wikipedia_title" : "Almenland cheese",
+    "originalKey" : "Almenland product",
+    "original_value" : "Almenland cheese",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Valley (geographical feature)",
+    "originalKey" : "VC",
+    "original_value" : "Valley (geographical feature)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "RR 11",
+    "wikipedia_title" : "Roraima Range",
+    "originalKey" : "RR 11",
+    "original_value" : "Roraima Range",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Austrian Alps",
+    "wikipedia_title" : "Austrian Alps",
+    "originalKey" : "Austrian Alps",
+    "original_value" : "Austrian Alps",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Weiz (No: 617)",
+    "wikipedia_title" : "Weiz, Austria",
+    "originalKey" : "Weiz (No: 617)",
+    "original_value" : "Weiz, Austria",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Europe",
+    "wikipedia_title" : "Europe",
+    "originalKey" : "Europe",
+    "original_value" : "Europe",
+    "Wikidata_ID" : "Q46"
+  }, {
+    "entity_in_the_text" : "pastures",
+    "wikipedia_title" : "Pasture (agriculture)",
+    "originalKey" : "pastures",
+    "original_value" : "Pasture (agriculture)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "1.200 and 1.500 m above sea level",
+    "wikipedia_title" : "Elevation",
+    "originalKey" : "1.200 and 1.500 m above sea level",
+    "original_value" : "Elevation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "humid",
+    "wikipedia_title" : "Humidity",
+    "originalKey" : "humid",
+    "original_value" : "Humidity",
+    "Wikidata_ID" : "Q180600"
+  }, {
+    "entity_in_the_text" : "thunderstorms",
+    "wikipedia_title" : "Thunderstorm",
+    "originalKey" : "thunderstorms",
+    "original_value" : "Thunderstorm",
+    "Wikidata_ID" : "Q2857578"
+  }, {
+    "entity_in_the_text" : "limestone",
+    "wikipedia_title" : "Limestone",
+    "originalKey" : "limestone",
+    "original_value" : "Limestone",
+    "Wikidata_ID" : "Q23757"
+  }, {
+    "entity_in_the_text" : "phylite, slate and greywacke",
+    "wikipedia_title" : "Phyllite, Slate, and Greywacke",
+    "originalKey" : "phylite, slate and greywacke",
+    "original_value" : "Phyllite, Slate, and Greywacke",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "area (km2)",
+    "wikipedia_title" : "Area of a place",
+    "originalKey" : "area (km2)",
+    "original_value" : "Area of a place",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "minimum altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "minimum altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "maximum altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "maximum altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population (in thousand)",
+    "wikipedia_title" : "Population",
+    "originalKey" : "population (in thousand)",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density (Inhabitants/km2)",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "population density (Inhabitants/km2)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "population change rate of the LAU in the last 10 years (%)",
+    "wikipedia_title" : "Population growth rate",
+    "originalKey" : "population change rate of the LAU in the last 10 years (%)",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "overall regional population density (Inhabitants/km2)",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "overall regional population density (Inhabitants/km2)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "regional population change rate in the last 10 years (%)",
+    "wikipedia_title" : "Population growth rate",
+    "originalKey" : "regional population change rate in the last 10 years (%)",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces in Europe",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "List of regions in Europe",
+    "originalKey" : "Region",
+    "original_value" : "List of regions in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income (EUR/year)",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income (EUR/year)",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year)",
+    "wikipedia_title" : "Gross Domestic Product (GDP)",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year)",
+    "original_value" : "Gross Domestic Product (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total GVA/year",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total GVA/year",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total GVA/year",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "tourist accommodations",
+    "wikipedia_title" : "List of tourist accommodation in the world",
+    "originalKey" : "tourist accommodations",
+    "original_value" : "List of tourist accommodation in the world",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "bed places (BPs)",
+    "wikipedia_title" : "Bed capacity",
+    "originalKey" : "bed places (BPs)",
+    "original_value" : "Bed capacity",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Regional",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Regional",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population over 100000 (km)",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "population over 100000 (km)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total employment/year [Province]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total employment/year [Province]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total employment/year [Province]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Primary industry by region",
+    "originalKey" : "primary sector share of total employment/year [Region]",
+    "original_value" : "Primary industry by region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Secondary industry by region",
+    "originalKey" : "secondary sector share of total employment/year [Region]",
+    "original_value" : "Secondary industry by region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Tertiary industry by region",
+    "originalKey" : "tertiary sector share of total employment/year [Region]",
+    "original_value" : "Tertiary industry by region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "14 different types of cheese",
+    "wikipedia_title" : "List of cheeses",
+    "originalKey" : "14 different types of cheese",
+    "original_value" : "List of cheeses",
+    "Wikidata_ID" : "Q1455981"
+  }, {
+    "entity_in_the_text" : "cow, sheep and goat",
+    "wikipedia_title" : "Milk-producing animals",
+    "originalKey" : "cow, sheep and goat",
+    "original_value" : "Milk-producing animals",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "local hey milk",
+    "wikipedia_title" : "Grass-fed milk",
+    "originalKey" : "local hey milk",
+    "original_value" : "Grass-fed milk",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "former silver mine",
+    "wikipedia_title" : "Mine",
+    "originalKey" : "former silver mine",
+    "original_value" : "Mine",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "100m deep in the mountain",
+    "wikipedia_title" : "Depth",
+    "originalKey" : "100m deep in the mountain",
+    "original_value" : "Depth",
+    "Wikidata_ID" : "Q181591"
+  }, {
+    "entity_in_the_text" : "Almenland dairy",
+    "wikipedia_title" : "Dairy industry",
+    "originalKey" : "Almenland dairy",
+    "original_value" : "Dairy industry",
+    "Wikidata_ID" : "Q13554450"
+  }, {
+    "entity_in_the_text" : "'pit house'",
+    "wikipedia_title" : "House",
+    "originalKey" : "'pit house'",
+    "original_value" : "House",
+    "Wikidata_ID" : "Q3947"
+  }, {
+    "entity_in_the_text" : "270 m tunnel",
+    "wikipedia_title" : "Tunnel",
+    "originalKey" : "270 m tunnel",
+    "original_value" : "Tunnel",
+    "Wikidata_ID" : "Q44377"
+  }, {
+    "entity_in_the_text" : "'cheese workshop'",
+    "wikipedia_title" : "Workshop",
+    "originalKey" : "'cheese workshop'",
+    "original_value" : "Workshop",
+    "Wikidata_ID" : "Q656720"
+  }, {
+    "entity_in_the_text" : "Almenland umbrella quality brand",
+    "wikipedia_title" : "Brand",
+    "originalKey" : "Almenland umbrella quality brand",
+    "original_value" : "Brand",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Almenland region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Almenland region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "guided tours",
+    "wikipedia_title" : "Tour",
+    "originalKey" : "guided tours",
+    "original_value" : "Tour",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "educational programmes",
+    "wikipedia_title" : "Education",
+    "originalKey" : "educational programmes",
+    "original_value" : "Education",
+    "Wikidata_ID" : "Q8434"
+  }, {
+    "entity_in_the_text" : "cheese tastings",
+    "wikipedia_title" : "Tasting",
+    "originalKey" : "cheese tastings",
+    "original_value" : "Tasting",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Genussregion",
+    "wikipedia_title" : "Region of culinary delight",
+    "originalKey" : "Genussregion",
+    "original_value" : "Region of culinary delight",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "AgrarMarkt Austria",
+    "wikipedia_title" : "Agrarmarkt Austria",
+    "originalKey" : "AgrarMarkt Austria",
+    "original_value" : "Agrarmarkt Austria",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "milk producing sector",
+    "wikipedia_title" : "Milk production in Austria",
+    "originalKey" : "milk producing sector",
+    "original_value" : "Milk production in Austria",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tourist sector",
+    "wikipedia_title" : "Tourism in Austria",
+    "originalKey" : "tourist sector",
+    "original_value" : "Tourism in Austria",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Almenland producers",
+    "wikipedia_title" : "Producers of Almenland products",
+    "originalKey" : "Almenland producers",
+    "original_value" : "Producers of Almenland products",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "milk production",
+    "wikipedia_title" : "Milk production",
+    "originalKey" : "milk production",
+    "original_value" : "Milk production",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "climate",
+    "wikipedia_title" : "Climate",
+    "originalKey" : "climate",
+    "original_value" : "Climate",
+    "Wikidata_ID" : "Q7937"
+  }, {
+    "entity_in_the_text" : "extreme weather conditions",
+    "wikipedia_title" : "Extreme weather",
+    "originalKey" : "extreme weather conditions",
+    "original_value" : "Extreme weather",
+    "Wikidata_ID" : "Q1277161"
+  }, {
+    "entity_in_the_text" : "drought",
+    "wikipedia_title" : "Drought",
+    "originalKey" : "drought",
+    "original_value" : "Drought",
+    "Wikidata_ID" : "Q43059"
+  }, {
+    "entity_in_the_text" : "heavy rain",
+    "wikipedia_title" : "Heavy rainfall",
+    "originalKey" : "heavy rain",
+    "original_value" : "Heavy rainfall",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "feedbase",
+    "wikipedia_title" : "Feed base",
+    "originalKey" : "feedbase",
+    "original_value" : "Feed base",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "pasture based meat production",
+    "wikipedia_title" : "Pasture-based livestock farming",
+    "originalKey" : "pasture based meat production",
+    "original_value" : "Pasture-based livestock farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "vegetation",
+    "wikipedia_title" : "Vegetation",
+    "originalKey" : "vegetation",
+    "original_value" : "Vegetation",
+    "Wikidata_ID" : "Q187997"
+  }, {
+    "entity_in_the_text" : "cultivation of feed for the winter time",
+    "wikipedia_title" : "Winter feeding",
+    "originalKey" : "cultivation of feed for the winter time",
+    "original_value" : "Winter feeding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "alpine pasture areas",
+    "wikipedia_title" : "Alpine meadows",
+    "originalKey" : "alpine pasture areas",
+    "original_value" : "Alpine meadows",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "waste",
+    "wikipedia_title" : "Waste management",
+    "originalKey" : "waste",
+    "original_value" : "Waste management",
+    "Wikidata_ID" : "Q180388"
+  }, {
+    "entity_in_the_text" : "pasture intensity",
+    "wikipedia_title" : "Pasture management",
+    "originalKey" : "pasture intensity",
+    "original_value" : "Pasture management",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "forage plant growth",
+    "wikipedia_title" : "Forage crops",
+    "originalKey" : "forage plant growth",
+    "original_value" : "Forage crops",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "upscaling",
+    "wikipedia_title" : "Scaling up",
+    "originalKey" : "upscaling",
+    "original_value" : "Scaling up",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "production",
+    "wikipedia_title" : "Production",
+    "originalKey" : "production",
+    "original_value" : "Production",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "demand",
+    "wikipedia_title" : "Demand",
+    "originalKey" : "demand",
+    "original_value" : "Demand",
+    "Wikidata_ID" : "Q4402708"
+  }, {
+    "entity_in_the_text" : "international demand",
+    "wikipedia_title" : "International trade",
+    "originalKey" : "international demand",
+    "original_value" : "International trade",
+    "Wikidata_ID" : "Q178803"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture Capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture Capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "Predicted",
+    "wikipedia_title" : "Prediction",
+    "originalKey" : "Predicted",
+    "original_value" : "Prediction",
+    "Wikidata_ID" : "Q748250"
+  }, {
+    "entity_in_the_text" : "Traditional and Innovative",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "Traditional and Innovative",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Endogenous and Exogenous",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "Endogenous and Exogenous",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "cheese is matured in the tunnel of the former silver mine",
+    "wikipedia_title" : "Cheesemaking",
+    "originalKey" : "cheese is matured in the tunnel of the former silver mine",
+    "original_value" : "Cheesemaking",
+    "Wikidata_ID" : "Q1281188"
+  }, {
+    "entity_in_the_text" : "local hey milk",
+    "wikipedia_title" : "Milk",
+    "originalKey" : "local hey milk",
+    "original_value" : "Milk",
+    "Wikidata_ID" : "Q8495"
+  }, {
+    "entity_in_the_text" : "cheese is only mad from local hey milk",
+    "wikipedia_title" : "Cheesemaking",
+    "originalKey" : "cheese is only mad from local hey milk",
+    "original_value" : "Cheesemaking",
+    "Wikidata_ID" : "Q1281188"
+  }, {
+    "entity_in_the_text" : "several awards have been achieved: e.g. the 'Arzberger Ursteirer' was even vice world champion in the USA.",
+    "wikipedia_title" : "Awards",
+    "originalKey" : "several awards have been achieved: e.g. the 'Arzberger Ursteirer' was even vice world champion in the USA.",
+    "original_value" : "Awards",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New products, New processes and New marketing strategies",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "New products, New processes and New marketing strategies",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "land use systems involved are pasture farming",
+    "wikipedia_title" : "Pasture Farming",
+    "originalKey" : "land use systems involved are pasture farming",
+    "original_value" : "Pasture Farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "local assets include Natural",
+    "wikipedia_title" : "Natural resources",
+    "originalKey" : "local assets include Natural",
+    "original_value" : "Natural resources",
+    "Wikidata_ID" : "Q6980594"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Cheese",
+    "wikipedia_title" : "Cheese",
+    "originalKey" : "Cheese",
+    "original_value" : "Cheese",
+    "Wikidata_ID" : "Q10943"
+  }, {
+    "entity_in_the_text" : "Austrian Alps",
+    "wikipedia_title" : "Austrian Alps",
+    "originalKey" : "Austrian Alps",
+    "original_value" : "Austrian Alps",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "hay milk",
+    "wikipedia_title" : "Milk",
+    "originalKey" : "hay milk",
+    "original_value" : "Milk",
+    "Wikidata_ID" : "Q8495"
+  }, {
+    "entity_in_the_text" : "former silver mine",
+    "wikipedia_title" : "Mine",
+    "originalKey" : "former silver mine",
+    "original_value" : "Mine",
+    "Wikidata_ID" : ""
+  } ]
+} ]

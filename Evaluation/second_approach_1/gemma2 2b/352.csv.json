@@ -1,0 +1,749 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SPAIN ADEGUA",
+    "wikipedia_title" : "Spain",
+    "originalKey" : "SPAIN ADEGUA",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  }, {
+    "entity_in_the_text" : "VC 35 ES",
+    "wikipedia_title" : "List of European Union rural development programs",
+    "originalKey" : "VC 35 ES",
+    "original_value" : "List of European Union rural development programs",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Organic Production of Foodstuffs linked to the Aragonese Territory",
+    "wikipedia_title" : "Aragón (Spain)",
+    "originalKey" : "Organic Production of Foodstuffs linked to the Aragonese Territory",
+    "original_value" : "Aragón (Spain)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "ATADES Gardeniers Special Employment Center",
+    "wikipedia_title" : "Special employment centers in Spain",
+    "originalKey" : "ATADES Gardeniers Special Employment Center",
+    "original_value" : "Special employment centers in Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "boliche",
+    "wikipedia_title" : "Boliche (Spain)",
+    "originalKey" : "boliche",
+    "original_value" : "Boliche (Spain)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "chickpeas",
+    "wikipedia_title" : "Chickpea",
+    "originalKey" : "chickpeas",
+    "original_value" : "Chickpea",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "lentils",
+    "wikipedia_title" : "Lentil",
+    "originalKey" : "lentils",
+    "original_value" : "Lentil",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Torres de Berrellén melon",
+    "wikipedia_title" : "Melon",
+    "originalKey" : "Torres de Berrellén melon",
+    "original_value" : "Melon",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "traditional growing region in the province of Zaragoza",
+    "wikipedia_title" : "Aragón (Spain)",
+    "originalKey" : "traditional growing region in the province of Zaragoza",
+    "original_value" : "Aragón (Spain)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "borage flower",
+    "wikipedia_title" : "Borage",
+    "originalKey" : "borage flower",
+    "original_value" : "Borage",
+    "Wikidata_ID" : "Q147075"
+  }, {
+    "entity_in_the_text" : "Rural Development Program",
+    "wikipedia_title" : "Rural development programs in Europe",
+    "originalKey" : "Rural Development Program",
+    "original_value" : "Rural development programs in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Government of Aragon",
+    "wikipedia_title" : "Aragon (Spain)",
+    "originalKey" : "Government of Aragon",
+    "original_value" : "Aragon (Spain)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "European Agricultural Fund for Rural Development (EAFRD)",
+    "wikipedia_title" : "European Agricultural Fund for Rural Development",
+    "originalKey" : "European Agricultural Fund for Rural Development (EAFRD)",
+    "original_value" : "European Agricultural Fund for Rural Development",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Pyrenees",
+    "wikipedia_title" : "Pyrénées",
+    "originalKey" : "Pyrenees",
+    "original_value" : "Pyrénées",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Jaca (Ascara)",
+    "wikipedia_title" : "Jaca",
+    "originalKey" : "Jaca (Ascara)",
+    "original_value" : "Jaca",
+    "Wikidata_ID" : "Q49581"
+  }, {
+    "entity_in_the_text" : "Canal de Berdún",
+    "wikipedia_title" : "Canal de Berdún",
+    "originalKey" : "Canal de Berdún",
+    "original_value" : "Canal de Berdún",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cielos de Ascara",
+    "wikipedia_title" : "Cielos de Ascara",
+    "originalKey" : "Cielos de Ascara",
+    "original_value" : "Cielos de Ascara",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Huesca",
+    "wikipedia_title" : "Huesca",
+    "originalKey" : "Huesca",
+    "original_value" : "Huesca",
+    "Wikidata_ID" : "Q11967"
+  }, {
+    "entity_in_the_text" : "Zaragoza",
+    "wikipedia_title" : "Zaragoza",
+    "originalKey" : "Zaragoza",
+    "original_value" : "Zaragoza",
+    "Wikidata_ID" : "Q10305"
+  }, {
+    "entity_in_the_text" : "boliche",
+    "wikipedia_title" : "Boliche",
+    "originalKey" : "boliche",
+    "original_value" : "Boliche",
+    "Wikidata_ID" : "Q4939431"
+  }, {
+    "entity_in_the_text" : "chickpeas",
+    "wikipedia_title" : "Chickpea",
+    "originalKey" : "chickpeas",
+    "original_value" : "Chickpea",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "lentils",
+    "wikipedia_title" : "Lentil",
+    "originalKey" : "lentils",
+    "original_value" : "Lentil",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Ascara (Huesca)",
+    "wikipedia_title" : "Ascara, Huesca",
+    "originalKey" : "Ascara (Huesca)",
+    "original_value" : "Ascara, Huesca",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Torres de Berrellén",
+    "wikipedia_title" : "Torres de Berrellén",
+    "originalKey" : "Torres de Berrellén",
+    "original_value" : "Torres de Berrellén",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Alagón",
+    "wikipedia_title" : "Alagón",
+    "originalKey" : "Alagón",
+    "original_value" : "Alagón",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Montañana",
+    "wikipedia_title" : "Montañana",
+    "originalKey" : "Montañana",
+    "original_value" : "Montañana",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gardeniers farm",
+    "wikipedia_title" : "Gardeniers Farm",
+    "originalKey" : "Gardeniers farm",
+    "original_value" : "Gardeniers Farm",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cielos de Ascara agroecological social project",
+    "wikipedia_title" : "Cielos de Ascara",
+    "originalKey" : "Cielos de Ascara agroecological social project",
+    "original_value" : "Cielos de Ascara",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Sigpac",
+    "wikipedia_title" : "Sigpac",
+    "originalKey" : "Sigpac",
+    "original_value" : "Sigpac",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Jaca",
+    "wikipedia_title" : "Jaca",
+    "originalKey" : "Jaca",
+    "original_value" : "Jaca",
+    "Wikidata_ID" : "Q49581"
+  }, {
+    "entity_in_the_text" : "Jacetania region",
+    "wikipedia_title" : "Jacetania",
+    "originalKey" : "Jacetania region",
+    "original_value" : "Jacetania",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natura 2000 Network",
+    "wikipedia_title" : "Natura 2000",
+    "originalKey" : "Natura 2000 Network",
+    "original_value" : "Natura 2000",
+    "Wikidata_ID" : "Q503021"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "406.35",
+    "wikipedia_title" : "Area",
+    "originalKey" : "406.35",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "650",
+    "wikipedia_title" : "Minimum altimetry",
+    "originalKey" : "650",
+    "original_value" : "Minimum altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "2100",
+    "wikipedia_title" : "Maximum altimetry",
+    "originalKey" : "2100",
+    "original_value" : "Maximum altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "13.129",
+    "wikipedia_title" : "Population (thousand)",
+    "originalKey" : "13.129",
+    "original_value" : "Population (thousand)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "32.31",
+    "wikipedia_title" : "Population density (Inhabitants/km2)",
+    "originalKey" : "32.31",
+    "original_value" : "Population density (Inhabitants/km2)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "-0.02%",
+    "wikipedia_title" : "Population change rate (%) in the last 10 years",
+    "originalKey" : "-0.02%",
+    "original_value" : "Population change rate (%) in the last 10 years",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "27.86",
+    "wikipedia_title" : "Overall regional population density (Inhabitants/km2)",
+    "originalKey" : "27.86",
+    "original_value" : "Overall regional population density (Inhabitants/km2)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "0.00%",
+    "wikipedia_title" : "Regional population change rate (%) in the last 10 years",
+    "originalKey" : "0.00%",
+    "original_value" : "Regional population change rate (%) in the last 10 years",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces in Europe",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "List of regions in Europe",
+    "originalKey" : "Region",
+    "original_value" : "List of regions in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "average per capita income (EUR/year)",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "average per capita income (EUR/year)",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year)",
+    "wikipedia_title" : "Gross Domestic Product",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year)",
+    "original_value" : "Gross Domestic Product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total GVA/year",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total GVA/year",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total GVA/year",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "bed places",
+    "wikipedia_title" : "List of accommodations in the United States",
+    "originalKey" : "bed places",
+    "original_value" : "List of accommodations in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tourist accommodations",
+    "wikipedia_title" : "Tourism in the United States",
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourism in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total bed places/year",
+    "wikipedia_title" : "List of accommodations in the United States",
+    "originalKey" : "total bed places/year",
+    "original_value" : "List of accommodations in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional share",
+    "wikipedia_title" : "Regional government of the United States",
+    "originalKey" : "regional share",
+    "original_value" : "Regional government of the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agriculture in the United States",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement (geography)",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population over 100000",
+    "wikipedia_title" : "Population density of the United States",
+    "originalKey" : "population over 100000",
+    "original_value" : "Population density of the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area in the United States",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area in the United States",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total employment/year [Province]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total employment/year [Province]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total employment/year [Province]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Primary industry by region",
+    "originalKey" : "primary sector share of total employment/year [Region]",
+    "original_value" : "Primary industry by region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Secondary industry by region",
+    "originalKey" : "secondary sector share of total employment/year [Region]",
+    "original_value" : "Secondary industry by region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Tertiary industry by region",
+    "originalKey" : "tertiary sector share of total employment/year [Region]",
+    "original_value" : "Tertiary industry by region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Cielos de Ascara",
+    "wikipedia_title" : "Cielos de Ascara",
+    "originalKey" : "Cielos de Ascara",
+    "original_value" : "Cielos de Ascara",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Aragonese Pyrenees",
+    "wikipedia_title" : "Aragon",
+    "originalKey" : "Aragonese Pyrenees",
+    "original_value" : "Aragon",
+    "Wikidata_ID" : "Q4040"
+  }, {
+    "entity_in_the_text" : "social and labor insertion difficulties",
+    "wikipedia_title" : "Social inclusion",
+    "originalKey" : "social and labor insertion difficulties",
+    "original_value" : "Social inclusion",
+    "Wikidata_ID" : "Q3149923"
+  }, {
+    "entity_in_the_text" : "organic food production",
+    "wikipedia_title" : "Organic farming",
+    "originalKey" : "organic food production",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "mountain and valley areas",
+    "wikipedia_title" : "Mountainous regions",
+    "originalKey" : "mountain and valley areas",
+    "original_value" : "Mountainous regions",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "public-private collaboration",
+    "wikipedia_title" : "Public-private partnership",
+    "originalKey" : "public-private collaboration",
+    "original_value" : "Public-private partnership",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "endogenous innovation project",
+    "wikipedia_title" : "Local development",
+    "originalKey" : "endogenous innovation project",
+    "original_value" : "Local development",
+    "Wikidata_ID" : "Q5803798"
+  }, {
+    "entity_in_the_text" : "public co-financing",
+    "wikipedia_title" : "Public funding",
+    "originalKey" : "public co-financing",
+    "original_value" : "Public funding",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Aragon",
+    "wikipedia_title" : "Aragon",
+    "originalKey" : "Aragon",
+    "original_value" : "Aragon",
+    "Wikidata_ID" : "Q4040"
+  }, {
+    "entity_in_the_text" : "food heritage",
+    "wikipedia_title" : "Food culture of Aragon",
+    "originalKey" : "food heritage",
+    "original_value" : "Food culture of Aragon",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "sustainable, proximity, healthy, higher quality, and flavorful horticultural products",
+    "wikipedia_title" : "Horticulture in Spain",
+    "originalKey" : "sustainable, proximity, healthy, higher quality, and flavorful horticultural products",
+    "original_value" : "Horticulture in Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "consumer",
+    "wikipedia_title" : "Consumer (economics)",
+    "originalKey" : "consumer",
+    "original_value" : "Consumer (economics)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "market",
+    "wikipedia_title" : "Market (economics)",
+    "originalKey" : "market",
+    "original_value" : "Market (economics)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "innovative products",
+    "wikipedia_title" : "Innovation in food production",
+    "originalKey" : "innovative products",
+    "original_value" : "Innovation in food production",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "diversity source for a standardized market occupied by few varieties",
+    "wikipedia_title" : "Food diversity",
+    "originalKey" : "diversity source for a standardized market occupied by few varieties",
+    "original_value" : "Food diversity",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Organic Production of Foodstuffs linked to the Aragonese Territory",
+    "wikipedia_title" : "Organic agriculture",
+    "originalKey" : "Organic Production of Foodstuffs linked to the Aragonese Territory",
+    "original_value" : "Organic agriculture",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "sustainability",
+    "wikipedia_title" : "Sustainability",
+    "originalKey" : "sustainability",
+    "original_value" : "Sustainability",
+    "Wikidata_ID" : "Q219416"
+  }, {
+    "entity_in_the_text" : "economic aspects",
+    "wikipedia_title" : "Economics",
+    "originalKey" : "economic aspects",
+    "original_value" : "Economics",
+    "Wikidata_ID" : "Q8134"
+  }, {
+    "entity_in_the_text" : "social aspects",
+    "wikipedia_title" : "Social sciences",
+    "originalKey" : "social aspects",
+    "original_value" : "Social sciences",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "ecological aspects",
+    "wikipedia_title" : "Ecology",
+    "originalKey" : "ecological aspects",
+    "original_value" : "Ecology",
+    "Wikidata_ID" : "Q7150"
+  }, {
+    "entity_in_the_text" : "institutional actors",
+    "wikipedia_title" : "Government",
+    "originalKey" : "institutional actors",
+    "original_value" : "Government",
+    "Wikidata_ID" : "Q7188"
+  }, {
+    "entity_in_the_text" : "private actors",
+    "wikipedia_title" : "Business",
+    "originalKey" : "private actors",
+    "original_value" : "Business",
+    "Wikidata_ID" : "Q4830453"
+  }, {
+    "entity_in_the_text" : "collaboration",
+    "wikipedia_title" : "Collaboration (social science)",
+    "originalKey" : "collaboration",
+    "original_value" : "Collaboration (social science)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "activities promoted by the project",
+    "wikipedia_title" : "Project",
+    "originalKey" : "activities promoted by the project",
+    "original_value" : "Project",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "interconnection between activities",
+    "wikipedia_title" : "Interconnectivity",
+    "originalKey" : "interconnection between activities",
+    "original_value" : "Interconnectivity",
+    "Wikidata_ID" : "Q17121468"
+  }, {
+    "entity_in_the_text" : "model",
+    "wikipedia_title" : "Model (general)",
+    "originalKey" : "model",
+    "original_value" : "Model (general)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "initiatives",
+    "wikipedia_title" : "Initiative",
+    "originalKey" : "initiatives",
+    "original_value" : "Initiative",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "visibility",
+    "wikipedia_title" : "Publicity",
+    "originalKey" : "visibility",
+    "original_value" : "Publicity",
+    "Wikidata_ID" : "Q1333727"
+  }, {
+    "entity_in_the_text" : "public funding for rural development policies",
+    "wikipedia_title" : "Rural Development Policy",
+    "originalKey" : "public funding for rural development policies",
+    "original_value" : "Rural Development Policy",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "urban consumption environments",
+    "wikipedia_title" : "Urban Consumption",
+    "originalKey" : "urban consumption environments",
+    "original_value" : "Urban Consumption",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "challenge faced by this VC",
+    "wikipedia_title" : "Challenge (general)",
+    "originalKey" : "challenge faced by this VC",
+    "original_value" : "Challenge (general)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "type of challenge",
+    "wikipedia_title" : "Problem",
+    "originalKey" : "type of challenge",
+    "original_value" : "Problem",
+    "Wikidata_ID" : "Q621184"
+  }, {
+    "entity_in_the_text" : "classification of VC",
+    "wikipedia_title" : "Venture Capital",
+    "originalKey" : "classification of VC",
+    "original_value" : "Venture Capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Endogenous",
+    "wikipedia_title" : "Endogenous innovation",
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "rural and mountain areas",
+    "wikipedia_title" : "Rural development",
+    "originalKey" : "rural and mountain areas",
+    "original_value" : "Rural development",
+    "Wikidata_ID" : "Q3045473"
+  }, {
+    "entity_in_the_text" : "areas of natural and cultural interest",
+    "wikipedia_title" : "Cultural heritage",
+    "originalKey" : "areas of natural and cultural interest",
+    "original_value" : "Cultural heritage",
+    "Wikidata_ID" : "Q210272"
+  }, {
+    "entity_in_the_text" : "traditional varieties",
+    "wikipedia_title" : "Traditional agriculture",
+    "originalKey" : "traditional varieties",
+    "original_value" : "Traditional agriculture",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "organic production and consumption",
+    "wikipedia_title" : "Organic farming",
+    "originalKey" : "organic production and consumption",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "rural and urban areas",
+    "wikipedia_title" : "Urban-rural divide",
+    "originalKey" : "rural and urban areas",
+    "original_value" : "Urban-rural divide",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "employment",
+    "wikipedia_title" : "Employment",
+    "originalKey" : "employment",
+    "original_value" : "Employment",
+    "Wikidata_ID" : "Q656365"
+  }, {
+    "entity_in_the_text" : "social integration",
+    "wikipedia_title" : "Social cohesion",
+    "originalKey" : "social integration",
+    "original_value" : "Social cohesion",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "public-private cooperation",
+    "wikipedia_title" : "Public-private partnership",
+    "originalKey" : "public-private cooperation",
+    "original_value" : "Public-private partnership",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : "Product innovation",
+    "originalKey" : "New products",
+    "original_value" : "Product innovation",
+    "Wikidata_ID" : "Q7247768"
+  }, {
+    "entity_in_the_text" : "New processes",
+    "wikipedia_title" : "Process innovation",
+    "originalKey" : "New processes",
+    "original_value" : "Process innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "New governance systems",
+    "wikipedia_title" : "Governance",
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance",
+    "Wikidata_ID" : "Q1553864"
+  }, {
+    "entity_in_the_text" : "Cropland",
+    "wikipedia_title" : "Agriculture",
+    "originalKey" : "Cropland",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "entity_in_the_text" : "Natural, social and cultural",
+    "wikipedia_title" : "Local assets",
+    "originalKey" : "Natural, social and cultural",
+    "original_value" : "Local assets",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Sites of Community Importance (SCI)",
+    "wikipedia_title" : "List of Sites of Community Importance in Spain",
+    "originalKey" : "Sites of Community Importance (SCI)",
+    "original_value" : "List of Sites of Community Importance in Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Special Protection Area for Birds (SPA)",
+    "wikipedia_title" : "Special Protection Areas for Birds",
+    "originalKey" : "Special Protection Area for Birds (SPA)",
+    "original_value" : "Special Protection Areas for Birds",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected landscape of San Juan de la Peña and Monte Oroel",
+    "wikipedia_title" : "San Juan de la Peña and Monte Oroel Protected Landscape",
+    "originalKey" : "protected landscape of San Juan de la Peña and Monte Oroel",
+    "original_value" : "San Juan de la Peña and Monte Oroel Protected Landscape",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural Park of the Western Valleys",
+    "wikipedia_title" : "Western Valleys Natural Park",
+    "originalKey" : "Natural Park of the Western Valleys",
+    "original_value" : "Western Valleys Natural Park",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Torres de Berrellén melon trials",
+    "wikipedia_title" : "Melon Trials in Torres de Berrellén",
+    "originalKey" : "Torres de Berrellén melon trials",
+    "original_value" : "Melon Trials in Torres de Berrellén",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "research centre Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+    "wikipedia_title" : "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+    "originalKey" : "research centre Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+    "original_value" : "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Processing Plant of organic vegetables and fruits of the Special Employment Center Gardeniers of ATADES",
+    "wikipedia_title" : "ATADES Organic Vegetable Processing Plant",
+    "originalKey" : "Processing Plant of organic vegetables and fruits of the Special Employment Center Gardeniers of ATADES",
+    "original_value" : "ATADES Organic Vegetable Processing Plant",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "organic canning workshop that manages in Mercazaragoza",
+    "wikipedia_title" : "Mercazaragoza Canning Workshop",
+    "originalKey" : "organic canning workshop that manages in Mercazaragoza",
+    "original_value" : "Mercazaragoza Canning Workshop",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Europe",
+    "wikipedia_title" : "Europe",
+    "originalKey" : "Europe",
+    "original_value" : "Europe",
+    "Wikidata_ID" : "Q46"
+  } ]
+} ]

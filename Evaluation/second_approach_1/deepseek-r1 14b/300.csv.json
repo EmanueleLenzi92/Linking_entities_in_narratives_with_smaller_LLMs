@@ -1,0 +1,329 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "Barley",
+    "wikipedia_title" : "Barley",
+    "originalKey" : "Barley",
+    "original_value" : "Barley",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Roros",
+    "wikipedia_title" : "Røros",
+    "originalKey" : "Roros",
+    "original_value" : "Røros",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "fungui",
+    "wikipedia_title" : "Fungus",
+    "originalKey" : "fungui",
+    "original_value" : "Fungus",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Scandinavean Mountains - Scandes",
+    "wikipedia_title" : "Scandinavian Mountains",
+    "originalKey" : "Scandinavean Mountains - Scandes",
+    "original_value" : "Scandinavian Mountains",
+    "Wikidata_ID" : "Q186547"
+  }, {
+    "entity_in_the_text" : "Tynset",
+    "wikipedia_title" : "Tynset",
+    "originalKey" : "Tynset",
+    "original_value" : "Tynset",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Østerdalen",
+    "wikipedia_title" : "Østerdalen",
+    "originalKey" : "Østerdalen",
+    "original_value" : "Østerdalen",
+    "Wikidata_ID" : "Q308349"
+  }, {
+    "entity_in_the_text" : "subarctic climate",
+    "wikipedia_title" : "Subarctic climate",
+    "originalKey" : "subarctic climate",
+    "original_value" : "Subarctic climate",
+    "Wikidata_ID" : "Q5967371"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Local Administrative Unit",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "Local Administrative Unit",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "per capita income",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added (GVA)",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA",
+    "wikipedia_title" : "Primary sector share of total Gross Value Added",
+    "originalKey" : "primary sector share of total GVA",
+    "original_value" : "Primary sector share of total Gross Value Added",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA",
+    "wikipedia_title" : "Secondary sector share of total Gross Value Added",
+    "originalKey" : "secondary sector share of total GVA",
+    "original_value" : "Secondary sector share of total Gross Value Added",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA",
+    "wikipedia_title" : "Tertiary sector share of total Gross Value Added",
+    "originalKey" : "tertiary sector share of total GVA",
+    "original_value" : "Tertiary sector share of total Gross Value Added",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "bed places",
+    "wikipedia_title" : "Bed and breakfast",
+    "originalKey" : "bed places",
+    "original_value" : "Bed and breakfast",
+    "Wikidata_ID" : "Q367914"
+  }, {
+    "entity_in_the_text" : "tourist accommodations",
+    "wikipedia_title" : "Tourism accommodation",
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourism accommodation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU (Local Administrative Unit)",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "entity_in_the_text" : "settlements",
+    "wikipedia_title" : "Settlement (anthropology)",
+    "originalKey" : "settlements",
+    "original_value" : "Settlement (anthropology)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Ancient crop",
+    "wikipedia_title" : "Ancient crops",
+    "originalKey" : "Ancient crop",
+    "original_value" : "Ancient crops",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Farmers",
+    "wikipedia_title" : "Farmer",
+    "originalKey" : "Farmers",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  }, {
+    "entity_in_the_text" : "Grain",
+    "wikipedia_title" : "Grain",
+    "originalKey" : "Grain",
+    "original_value" : "Grain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Flour",
+    "wikipedia_title" : "Flour",
+    "originalKey" : "Flour",
+    "original_value" : "Flour",
+    "Wikidata_ID" : "Q36465"
+  }, {
+    "entity_in_the_text" : "E-commerce platform",
+    "wikipedia_title" : "E-commerce",
+    "originalKey" : "E-commerce platform",
+    "original_value" : "E-commerce",
+    "Wikidata_ID" : "Q484847"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "natural asset",
+    "wikipedia_title" : "Natural Capital",
+    "originalKey" : "natural asset",
+    "original_value" : "Natural Capital",
+    "Wikidata_ID" : "Q1540268"
+  }, {
+    "entity_in_the_text" : "location and weather",
+    "wikipedia_title" : "Geographical Indication of Origin",
+    "originalKey" : "location and weather",
+    "original_value" : "Geographical Indication of Origin",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "barley produced at 500masl in Norway",
+    "wikipedia_title" : "Barley",
+    "originalKey" : "barley produced at 500masl in Norway",
+    "original_value" : "Barley",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "social asset",
+    "wikipedia_title" : "Social Capital",
+    "originalKey" : "social asset",
+    "original_value" : "Social Capital",
+    "Wikidata_ID" : "Q214693"
+  }, {
+    "entity_in_the_text" : "local brand Rorosmat",
+    "wikipedia_title" : "Rorosmat",
+    "originalKey" : "local brand Rorosmat",
+    "original_value" : "Rorosmat",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "cultural aspect",
+    "wikipedia_title" : "Cultural Heritage",
+    "originalKey" : "cultural aspect",
+    "original_value" : "Cultural Heritage",
+    "Wikidata_ID" : "Q210272"
+  }, {
+    "entity_in_the_text" : "use of stone mill",
+    "wikipedia_title" : "Stone Mill",
+    "originalKey" : "use of stone mill",
+    "original_value" : "Stone Mill",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "traditional techniques",
+    "wikipedia_title" : "Traditional Techniques",
+    "originalKey" : "traditional techniques",
+    "original_value" : "Traditional Techniques",
+    "Wikidata_ID" : "Q87397907"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "fertilizers",
+    "wikipedia_title" : "Fertilizer",
+    "originalKey" : "fertilizers",
+    "original_value" : "Fertilizer",
+    "Wikidata_ID" : "Q83323"
+  }, {
+    "entity_in_the_text" : "pesticides",
+    "wikipedia_title" : "Pesticide",
+    "originalKey" : "pesticides",
+    "original_value" : "Pesticide",
+    "Wikidata_ID" : "Q131656"
+  }, {
+    "entity_in_the_text" : "barley",
+    "wikipedia_title" : "Barley",
+    "originalKey" : "barley",
+    "original_value" : "Barley",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "wheat",
+    "wikipedia_title" : "Wheat",
+    "originalKey" : "wheat",
+    "original_value" : "Wheat",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Climate Change",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "Climate Change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "entity_in_the_text" : "plant diseases",
+    "wikipedia_title" : "Plant disease",
+    "originalKey" : "plant diseases",
+    "original_value" : "Plant disease",
+    "Wikidata_ID" : "Q2662845"
+  }, {
+    "entity_in_the_text" : "pests",
+    "wikipedia_title" : "Pest (organism)",
+    "originalKey" : "pests",
+    "original_value" : "Pest (organism)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Exogenous",
+    "wikipedia_title" : "Exogenous",
+    "originalKey" : "Exogenous",
+    "original_value" : "Exogenous",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Rorosmat brand",
+    "wikipedia_title" : "Rorosmat",
+    "originalKey" : "Rorosmat brand",
+    "original_value" : "Rorosmat",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "e-commerce",
+    "wikipedia_title" : "E-commerce",
+    "originalKey" : "e-commerce",
+    "original_value" : "E-commerce",
+    "Wikidata_ID" : "Q484847"
+  }, {
+    "entity_in_the_text" : "mill",
+    "wikipedia_title" : "Mill (building)",
+    "originalKey" : "mill",
+    "original_value" : "Mill (building)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Cropland",
+    "wikipedia_title" : "Cropland",
+    "originalKey" : "Cropland",
+    "original_value" : "Cropland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Local assets",
+    "wikipedia_title" : "Local assets",
+    "originalKey" : "Local assets",
+    "original_value" : "Local assets",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "iPhone",
+    "wikipedia_title" : "iPhone",
+    "originalKey" : "iPhone",
+    "original_value" : "iPhone",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Samsung Galaxy",
+    "wikipedia_title" : "Samsung Galaxy",
+    "originalKey" : "Samsung Galaxy",
+    "original_value" : "Samsung Galaxy",
+    "Wikidata_ID" : "Q493064"
+  } ]
+} ]

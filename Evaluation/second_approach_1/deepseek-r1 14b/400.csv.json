@@ -1,0 +1,211 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SWITZERLAND",
+    "wikipedia_title" : "Switzerland",
+    "originalKey" : "SWITZERLAND",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "entity_in_the_text" : "Engadiner",
+    "wikipedia_title" : "Engadiner",
+    "originalKey" : "Engadiner",
+    "original_value" : "Engadiner",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Spiegelschaf",
+    "wikipedia_title" : "Spiegelschaf",
+    "originalKey" : "Spiegelschaf",
+    "original_value" : "Spiegelschaf",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Nera Verzasca",
+    "wikipedia_title" : "Nera (sheep)",
+    "originalKey" : "Nera Verzasca",
+    "original_value" : "Nera (sheep)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Capra Grigia",
+    "wikipedia_title" : "Capra grigia",
+    "originalKey" : "Capra Grigia",
+    "original_value" : "Capra grigia",
+    "Wikidata_ID" : "Q1543712"
+  }, {
+    "entity_in_the_text" : "Black Alpine Pig",
+    "wikipedia_title" : "Alpine Black Pig",
+    "originalKey" : "Black Alpine Pig",
+    "original_value" : "Alpine Black Pig",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "reference mountain chain",
+    "wikipedia_title" : "Mountain",
+    "originalKey" : "reference mountain chain",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  }, {
+    "entity_in_the_text" : "reference mountain landscape",
+    "wikipedia_title" : "Mountain",
+    "originalKey" : "reference mountain landscape",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  } ]
+}, {
+  "entities" : [ ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "per capita income (EUR/year)",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income (EUR/year)",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added (GVA) (EUR million/year)",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "Gross Value Added (GVA) (EUR million/year)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Administrative region",
+    "originalKey" : "[Region]",
+    "original_value" : "Administrative region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "bed places",
+    "wikipedia_title" : "Accommodation",
+    "originalKey" : "bed places",
+    "original_value" : "Accommodation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tourist accommodations",
+    "wikipedia_title" : "Tourism Infrastructure",
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourism Infrastructure",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Local Administrative Unit (LAU)",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "Local Administrative Unit (LAU)",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional",
+    "wikipedia_title" : "Administrative Region",
+    "originalKey" : "regional",
+    "original_value" : "Administrative Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural Holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural Holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Human Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Human Settlement",
+    "Wikidata_ID" : "Q486972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "No exact title available as the specific province is unspecified.",
+    "originalKey" : "[Province]",
+    "original_value" : "No exact title available as the specific province is unspecified.",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "No exact title available as the specific region is unspecified.",
+    "originalKey" : "[Region]",
+    "original_value" : "No exact title available as the specific region is unspecified.",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "old traditional breeds",
+    "wikipedia_title" : "Traditional Breeds",
+    "originalKey" : "old traditional breeds",
+    "original_value" : "Traditional Breeds",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "farmer led initiative",
+    "wikipedia_title" : "Sustainable Agriculture Movement",
+    "originalKey" : "farmer led initiative",
+    "original_value" : "Sustainable Agriculture Movement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "localness being trendy",
+    "wikipedia_title" : "Locavore Movement",
+    "originalKey" : "localness being trendy",
+    "original_value" : "Locavore Movement",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "veganism",
+    "wikipedia_title" : "Veganism",
+    "originalKey" : "veganism",
+    "original_value" : "Veganism",
+    "Wikidata_ID" : "Q181138"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Endogenous",
+    "wikipedia_title" : "Endogenous innovation",
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Grassland",
+    "wikipedia_title" : "Grassland",
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  } ]
+} ]

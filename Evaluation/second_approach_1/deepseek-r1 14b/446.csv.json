@@ -1,0 +1,245 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "TURKEY",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "TURKEY",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "Rize",
+    "wikipedia_title" : "Rize",
+    "originalKey" : "Rize",
+    "original_value" : "Rize",
+    "Wikidata_ID" : "Q201101"
+  }, {
+    "entity_in_the_text" : "General Directorate of Tea Enterprises (Çay-Kur)",
+    "wikipedia_title" : "General Directorate of Tea Enterprises",
+    "originalKey" : "General Directorate of Tea Enterprises (Çay-Kur)",
+    "original_value" : "General Directorate of Tea Enterprises",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Eastern Black Sea Mountains",
+    "wikipedia_title" : "Eastern Black Sea Mountains",
+    "originalKey" : "Eastern Black Sea Mountains",
+    "original_value" : "Eastern Black Sea Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Güneysu",
+    "wikipedia_title" : "Güneysu, Rize",
+    "originalKey" : "Güneysu",
+    "original_value" : "Güneysu, Rize",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Rize Province",
+    "wikipedia_title" : "Rize Province",
+    "originalKey" : "Rize Province",
+    "original_value" : "Rize Province",
+    "Wikidata_ID" : "Q483481"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Local Administrative Unit (LAU)",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "Local Administrative Unit (LAU)",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Area",
+    "wikipedia_title" : "Area",
+    "originalKey" : "Area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Altimetry",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "Altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "entity_in_the_text" : "Population",
+    "wikipedia_title" : "Population",
+    "originalKey" : "Population",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Population Density",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "Population Density",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "Population Change Rate",
+    "wikipedia_title" : "Population growth rate",
+    "originalKey" : "Population Change Rate",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "per capita income (EUR/year)",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income (EUR/year)",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added (GVA) (EUR million/year)",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "Gross Value Added (GVA) (EUR million/year)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative region",
+    "originalKey" : "Region",
+    "original_value" : "Administrative region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed and breakfast",
+    "originalKey" : "BPs",
+    "original_value" : "Bed and breakfast",
+    "Wikidata_ID" : "Q367914"
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Rize",
+    "wikipedia_title" : "Rize Province",
+    "originalKey" : "Rize",
+    "original_value" : "Rize Province",
+    "Wikidata_ID" : "Q483481"
+  }, {
+    "entity_in_the_text" : "Tea",
+    "wikipedia_title" : "Tea",
+    "originalKey" : "Tea",
+    "original_value" : "Tea",
+    "Wikidata_ID" : "Q6097"
+  }, {
+    "entity_in_the_text" : "Rize Tea",
+    "wikipedia_title" : "Rize Tea",
+    "originalKey" : "Rize Tea",
+    "original_value" : "Rize Tea",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Rainforest Alliance",
+    "wikipedia_title" : "Rainforest Alliance",
+    "originalKey" : "Rainforest Alliance",
+    "original_value" : "Rainforest Alliance",
+    "Wikidata_ID" : "Q2034373"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Rize region",
+    "wikipedia_title" : "Rize",
+    "originalKey" : "Rize region",
+    "original_value" : "Rize",
+    "Wikidata_ID" : "Q201101"
+  }, {
+    "entity_in_the_text" : "Mountains",
+    "wikipedia_title" : "Mountain",
+    "originalKey" : "Mountains",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  }, {
+    "entity_in_the_text" : "Rize tea",
+    "wikipedia_title" : "Rize Tea",
+    "originalKey" : "Rize tea",
+    "original_value" : "Rize Tea",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Turkish culture",
+    "wikipedia_title" : "Turkish Culture",
+    "originalKey" : "Turkish culture",
+    "original_value" : "Turkish Culture",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Turkey",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "Turkey",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "Turkish tradition",
+    "wikipedia_title" : "Turkish Tradition",
+    "originalKey" : "Turkish tradition",
+    "original_value" : "Turkish Tradition",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Cropland",
+    "wikipedia_title" : "Cropland",
+    "originalKey" : "Cropland",
+    "original_value" : "Cropland",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Turkey",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "Turkey",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "tea",
+    "wikipedia_title" : "Tea",
+    "originalKey" : "tea",
+    "original_value" : "Tea",
+    "Wikidata_ID" : "Q6097"
+  } ]
+} ]

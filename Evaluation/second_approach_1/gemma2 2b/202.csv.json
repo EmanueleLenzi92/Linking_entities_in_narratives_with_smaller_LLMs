@@ -1,0 +1,415 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "MOVING",
+    "wikipedia_title" : "Moving (disambiguation)",
+    "originalKey" : "MOVING",
+    "original_value" : "Moving (disambiguation)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Value Chain",
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "VMK",
+    "wikipedia_title" : "Wines of Macedonia",
+    "originalKey" : "VMK",
+    "original_value" : "Wines of Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "North Macedonia",
+    "wikipedia_title" : "North Macedonia",
+    "originalKey" : "North Macedonia",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Mountain Meleshevija",
+    "wikipedia_title" : "Meleshevija Mountains",
+    "originalKey" : "Mountain Meleshevija",
+    "original_value" : "Meleshevija Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Maleshevski mountains",
+    "wikipedia_title" : "Maleshevski Mountains",
+    "originalKey" : "Maleshevski mountains",
+    "original_value" : "Maleshevski Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Berovo",
+    "wikipedia_title" : "Berovo Municipality",
+    "originalKey" : "Berovo",
+    "original_value" : "Berovo Municipality",
+    "Wikidata_ID" : "Q793727"
+  }, {
+    "entity_in_the_text" : "Pehchevo",
+    "wikipedia_title" : "Pehchevo Municipality",
+    "originalKey" : "Pehchevo",
+    "original_value" : "Pehchevo Municipality",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Republic of North Macedonia",
+    "wikipedia_title" : "North Macedonia",
+    "originalKey" : "Republic of North Macedonia",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  }, {
+    "entity_in_the_text" : "Bregalnica",
+    "wikipedia_title" : "Bregalnica River",
+    "originalKey" : "Bregalnica",
+    "original_value" : "Bregalnica River",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Strumica",
+    "wikipedia_title" : "Strumica",
+    "originalKey" : "Strumica",
+    "original_value" : "Strumica",
+    "Wikidata_ID" : "Q48814"
+  }, {
+    "entity_in_the_text" : "Maleshevija region",
+    "wikipedia_title" : "Maleshevija Region",
+    "originalKey" : "Maleshevija region",
+    "original_value" : "Maleshevija Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "area (km2)",
+    "wikipedia_title" : "Area",
+    "originalKey" : "area (km2)",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "minimum altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "minimum altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "maximum altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "maximum altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population (in thousand)",
+    "wikipedia_title" : "Population",
+    "originalKey" : "population (in thousand)",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density (Inhabitants/km2) in the LAU",
+    "wikipedia_title" : "Population Density",
+    "originalKey" : "population density (Inhabitants/km2) in the LAU",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "population change rate of the LAU in the last 10 years (%)",
+    "wikipedia_title" : "Population Change Rate",
+    "originalKey" : "population change rate of the LAU in the last 10 years (%)",
+    "original_value" : "Population Change Rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "overall regional population density (Inhabitants/km2)",
+    "wikipedia_title" : "Population Density",
+    "originalKey" : "overall regional population density (Inhabitants/km2)",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "regional population change rate in the last 10 years (%)",
+    "wikipedia_title" : "Population Change Rate",
+    "originalKey" : "regional population change rate in the last 10 years (%)",
+    "original_value" : "Population Change Rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces in Europe",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "List of regions in Europe",
+    "originalKey" : "Region",
+    "original_value" : "List of regions in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income (EUR/year)",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income (EUR/year)",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year)",
+    "wikipedia_title" : "Gross Domestic Product (GDP)",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year)",
+    "original_value" : "Gross Domestic Product (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total GVA/year",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total GVA/year",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total GVA/year",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "bed places",
+    "wikipedia_title" : "List of accommodations in the United States",
+    "originalKey" : "bed places",
+    "original_value" : "List of accommodations in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tourist accommodations",
+    "wikipedia_title" : "Tourism in the United States",
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourism in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total bed places (BPs)",
+    "wikipedia_title" : "List of accommodations in the United States",
+    "originalKey" : "total bed places (BPs)",
+    "original_value" : "List of accommodations in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional share",
+    "wikipedia_title" : "Regional government",
+    "originalKey" : "regional share",
+    "original_value" : "Regional government",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agriculture in the United States",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population over 100000 (km)",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "population over 100000 (km)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector share of total employment/year [Province]",
+    "wikipedia_title" : "List of primary industries by country",
+    "originalKey" : "primary sector share of total employment/year [Province]",
+    "original_value" : "List of primary industries by country",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Province]",
+    "wikipedia_title" : "List of secondary industries by country",
+    "originalKey" : "secondary sector share of total employment/year [Province]",
+    "original_value" : "List of secondary industries by country",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Province]",
+    "wikipedia_title" : "List of tertiary industries by country",
+    "originalKey" : "tertiary sector share of total employment/year [Province]",
+    "original_value" : "List of tertiary industries by country",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total employment/year [Region]",
+    "wikipedia_title" : "List of primary industries by country",
+    "originalKey" : "primary sector share of total employment/year [Region]",
+    "original_value" : "List of primary industries by country",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Region]",
+    "wikipedia_title" : "List of secondary industries by country",
+    "originalKey" : "secondary sector share of total employment/year [Region]",
+    "original_value" : "List of secondary industries by country",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Region]",
+    "wikipedia_title" : "List of tertiary industries by country",
+    "originalKey" : "tertiary sector share of total employment/year [Region]",
+    "original_value" : "List of tertiary industries by country",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Vardar planning region",
+    "wikipedia_title" : "Vardar Planning Region",
+    "originalKey" : "Vardar planning region",
+    "original_value" : "Vardar Planning Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agriculture",
+    "wikipedia_title" : "Agriculture in North Macedonia",
+    "originalKey" : "agriculture",
+    "original_value" : "Agriculture in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "viticulture",
+    "wikipedia_title" : "Viticulture in North Macedonia",
+    "originalKey" : "viticulture",
+    "original_value" : "Viticulture in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural land",
+    "wikipedia_title" : "Land use in North Macedonia",
+    "originalKey" : "agricultural land",
+    "original_value" : "Land use in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "arable land",
+    "wikipedia_title" : "Arable Land in North Macedonia",
+    "originalKey" : "arable land",
+    "original_value" : "Arable Land in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "pastures",
+    "wikipedia_title" : "Pastureland in North Macedonia",
+    "originalKey" : "pastures",
+    "original_value" : "Pastureland in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "vineyards",
+    "wikipedia_title" : "Vineyards in North Macedonia",
+    "originalKey" : "vineyards",
+    "original_value" : "Vineyards in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "winery",
+    "wikipedia_title" : "Winery",
+    "originalKey" : "winery",
+    "original_value" : "Winery",
+    "Wikidata_ID" : "Q156362"
+  }, {
+    "entity_in_the_text" : "national economy",
+    "wikipedia_title" : "Economy of North Macedonia",
+    "originalKey" : "national economy",
+    "original_value" : "Economy of North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "registered wineries",
+    "wikipedia_title" : "List of wineries in North Macedonia",
+    "originalKey" : "registered wineries",
+    "original_value" : "List of wineries in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "wine",
+    "wikipedia_title" : "Wine",
+    "originalKey" : "wine",
+    "original_value" : "Wine",
+    "Wikidata_ID" : "Q282"
+  }, {
+    "entity_in_the_text" : "export-oriented",
+    "wikipedia_title" : "Export-Oriented Production",
+    "originalKey" : "export-oriented",
+    "original_value" : "Export-Oriented Production",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "imported wines",
+    "wikipedia_title" : "Imported Wine",
+    "originalKey" : "imported wines",
+    "original_value" : "Imported Wine",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Maleshevski mountain",
+    "wikipedia_title" : "Maleshevskiy Mountains",
+    "originalKey" : "Maleshevski mountain",
+    "original_value" : "Maleshevskiy Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Maleshevija",
+    "wikipedia_title" : "Malesheviya",
+    "originalKey" : "Maleshevija",
+    "original_value" : "Malesheviya",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Current and Predicted",
+    "wikipedia_title" : "Challenges in Value Chains",
+    "originalKey" : "Current and Predicted",
+    "original_value" : "Challenges in Value Chains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Traditional and Innovative",
+    "wikipedia_title" : "Innovation vs. Tradition",
+    "originalKey" : "Traditional and Innovative",
+    "original_value" : "Innovation vs. Tradition",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "production and distribution",
+    "wikipedia_title" : "Production and distribution",
+    "originalKey" : "production and distribution",
+    "original_value" : "Production and distribution",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New processes",
+    "wikipedia_title" : "Process innovation",
+    "originalKey" : "New processes",
+    "original_value" : "Process innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Forestry and Natural land",
+    "wikipedia_title" : "Land use",
+    "originalKey" : "Forestry and Natural land",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "entity_in_the_text" : "Natural, social and cultural",
+    "wikipedia_title" : "Local assets",
+    "originalKey" : "Natural, social and cultural",
+    "original_value" : "Local assets",
+    "Wikidata_ID" : ""
+  } ]
+} ]

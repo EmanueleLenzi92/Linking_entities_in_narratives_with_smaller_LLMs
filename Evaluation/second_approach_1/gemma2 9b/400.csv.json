@@ -1,0 +1,121 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SWITZERLAND",
+    "wikipedia_title" : "Switzerland",
+    "originalKey" : "SWITZERLAND",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "entity_in_the_text" : "Engadiner",
+    "wikipedia_title" : "Engadine sheep",
+    "originalKey" : "Engadiner",
+    "original_value" : "Engadine sheep",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Spiegelschaf",
+    "wikipedia_title" : "Spiegelschaf",
+    "originalKey" : "Spiegelschaf",
+    "original_value" : "Spiegelschaf",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Nera Verzasca",
+    "wikipedia_title" : "Nera Verzasca",
+    "originalKey" : "Nera Verzasca",
+    "original_value" : "Nera Verzasca",
+    "Wikidata_ID" : "Q15836540"
+  }, {
+    "entity_in_the_text" : "Capra Grigia",
+    "wikipedia_title" : "Capra Grigia",
+    "originalKey" : "Capra Grigia",
+    "original_value" : "Capra Grigia",
+    "Wikidata_ID" : "Q1543712"
+  }, {
+    "entity_in_the_text" : "Black Alpine Pig",
+    "wikipedia_title" : "Black Alpine pig",
+    "originalKey" : "Black Alpine Pig",
+    "original_value" : "Black Alpine pig",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ ]
+}, {
+  "entities" : [ ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "farmer led initiative",
+    "wikipedia_title" : "Farmer",
+    "originalKey" : "farmer led initiative",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  }, {
+    "entity_in_the_text" : "localness being trendy",
+    "wikipedia_title" : "Localism",
+    "originalKey" : "localness being trendy",
+    "original_value" : "Localism",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "veganism",
+    "wikipedia_title" : "Veganism",
+    "originalKey" : "veganism",
+    "original_value" : "Veganism",
+    "Wikidata_ID" : "Q181138"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Grassland",
+    "wikipedia_title" : "Grassland",
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  } ]
+} ]

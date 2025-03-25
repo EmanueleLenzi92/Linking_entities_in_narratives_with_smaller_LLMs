@@ -1,0 +1,259 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "NMK",
+    "wikipedia_title" : "North Macedonia",
+    "originalKey" : "NMK",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  }, {
+    "entity_in_the_text" : "Wines of Macedonia",
+    "wikipedia_title" : "Wines of Macedonia",
+    "originalKey" : "Wines of Macedonia",
+    "original_value" : "Wines of Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Ministry of Agriculture of North Macedonia",
+    "wikipedia_title" : "Ministry of Agriculture, Forestry and Water Economy of the Republic of North Macedonia",
+    "originalKey" : "Ministry of Agriculture of North Macedonia",
+    "original_value" : "Ministry of Agriculture, Forestry and Water Economy of the Republic of North Macedonia",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Mountain Meleshevija",
+    "wikipedia_title" : "Meleshevija",
+    "originalKey" : "Mountain Meleshevija",
+    "original_value" : "Meleshevija",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Maleshevski mountains",
+    "wikipedia_title" : "Meleshevija",
+    "originalKey" : "Maleshevski mountains",
+    "original_value" : "Meleshevija",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Bregalnica river",
+    "wikipedia_title" : "Bregalnica",
+    "originalKey" : "Bregalnica river",
+    "original_value" : "Bregalnica",
+    "Wikidata_ID" : "Q849296"
+  }, {
+    "entity_in_the_text" : "Strumica river",
+    "wikipedia_title" : "Strumica (river)",
+    "originalKey" : "Strumica river",
+    "original_value" : "Strumica (river)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Berovo municipality",
+    "wikipedia_title" : "Berovo",
+    "originalKey" : "Berovo municipality",
+    "original_value" : "Berovo",
+    "Wikidata_ID" : "Q827047"
+  }, {
+    "entity_in_the_text" : "Pehchevo municipality",
+    "wikipedia_title" : "Pehčevo",
+    "originalKey" : "Pehchevo municipality",
+    "original_value" : "Pehčevo",
+    "Wikidata_ID" : "Q162952"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Local Administrative Unit",
+    "wikipedia_title" : "Local administrative units in France",
+    "originalKey" : "Local Administrative Unit",
+    "original_value" : "Local administrative units in France",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "per capita income (EUR/year)",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income (EUR/year)",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added (GVA) (EUR million/year)",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "Gross Value Added (GVA) (EUR million/year)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector share of total GVA/year",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector share of total GVA/year",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector share of total GVA/year",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Vardar planning region",
+    "wikipedia_title" : "Vardar (region)",
+    "originalKey" : "Vardar planning region",
+    "original_value" : "Vardar (region)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "viticulture",
+    "wikipedia_title" : "Viticulture",
+    "originalKey" : "viticulture",
+    "original_value" : "Viticulture",
+    "Wikidata_ID" : "Q253140"
+  }, {
+    "entity_in_the_text" : "winery",
+    "wikipedia_title" : "Winery",
+    "originalKey" : "winery",
+    "original_value" : "Winery",
+    "Wikidata_ID" : "Q156362"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Maleshevski mountain",
+    "wikipedia_title" : "Maleshevska Mountain",
+    "originalKey" : "Maleshevski mountain",
+    "original_value" : "Maleshevska Mountain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Maleshevija",
+    "wikipedia_title" : "Maleshevja",
+    "originalKey" : "Maleshevija",
+    "original_value" : "Maleshevja",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "technology",
+    "wikipedia_title" : "Technology (business)",
+    "originalKey" : "technology",
+    "original_value" : "Technology (business)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New processes",
+    "wikipedia_title" : "Process innovation",
+    "originalKey" : "New processes",
+    "original_value" : "Process innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Natural environment",
+    "originalKey" : "Natural land",
+    "original_value" : "Natural environment",
+    "Wikidata_ID" : "Q43619"
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Nature",
+    "originalKey" : "Natural",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  }, {
+    "entity_in_the_text" : "Social",
+    "wikipedia_title" : "Society",
+    "originalKey" : "Social",
+    "original_value" : "Society",
+    "Wikidata_ID" : "Q8425"
+  }, {
+    "entity_in_the_text" : "Cultural",
+    "wikipedia_title" : "Culture",
+    "originalKey" : "Cultural",
+    "original_value" : "Culture",
+    "Wikidata_ID" : ""
+  } ]
+} ]

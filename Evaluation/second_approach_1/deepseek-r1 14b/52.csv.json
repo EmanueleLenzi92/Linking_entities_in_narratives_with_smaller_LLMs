@@ -1,0 +1,275 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "CZECH REPUBLIC",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "CZECH REPUBLIC",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Sumava",
+    "wikipedia_title" : "Sudeten_Mountains",
+    "originalKey" : "Sumava",
+    "original_value" : "Sudeten_Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cesky les",
+    "wikipedia_title" : "Bohemian_Forest",
+    "originalKey" : "Cesky les",
+    "original_value" : "Bohemian_Forest",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU 1 Klatovy",
+    "wikipedia_title" : "Czech_LAU_1_Klatovy",
+    "originalKey" : "LAU 1 Klatovy",
+    "original_value" : "Czech_LAU_1_Klatovy",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Local Administrative Unit",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "Local Administrative Unit",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "entity_in_the_text" : "Population change rate",
+    "wikipedia_title" : "Population change",
+    "originalKey" : "Population change rate",
+    "original_value" : "Population change",
+    "Wikidata_ID" : "Q7229797"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "per capita income",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added (GVA)",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "bed places",
+    "wikipedia_title" : "Bed and breakfast",
+    "originalKey" : "bed places",
+    "original_value" : "Bed and breakfast",
+    "Wikidata_ID" : "Q367914"
+  }, {
+    "entity_in_the_text" : "tourist accommodations",
+    "wikipedia_title" : "Tourism accommodation",
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourism accommodation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Local Administrative Unit (LAU)",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "Local Administrative Unit (LAU)",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "region",
+    "wikipedia_title" : "Regions",
+    "originalKey" : "region",
+    "original_value" : "Regions",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Human settlements",
+    "originalKey" : "settlement",
+    "original_value" : "Human settlements",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Bee products",
+    "wikipedia_title" : "Bee product",
+    "originalKey" : "Bee products",
+    "original_value" : "Bee product",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Mountain regions",
+    "wikipedia_title" : "Mountain",
+    "originalKey" : "Mountain regions",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  }, {
+    "entity_in_the_text" : "Beekeeping",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "Beekeeping",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "Beekeepers",
+    "wikipedia_title" : "Beekeeper",
+    "originalKey" : "Beekeepers",
+    "original_value" : "Beekeeper",
+    "Wikidata_ID" : "Q852389"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Sumava Mountains",
+    "wikipedia_title" : "Sumava",
+    "originalKey" : "Sumava Mountains",
+    "original_value" : "Sumava",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "beekeepers",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "beekeepers",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "bee products",
+    "wikipedia_title" : "Bee product",
+    "originalKey" : "bee products",
+    "original_value" : "Bee product",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Beekeepers",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "Beekeepers",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "Honey",
+    "wikipedia_title" : "Honey",
+    "originalKey" : "Honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "entity_in_the_text" : "Mainstream, large-scale bee-keepers",
+    "wikipedia_title" : "Large-scale beekeeping",
+    "originalKey" : "Mainstream, large-scale bee-keepers",
+    "original_value" : "Large-scale beekeeping",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Organic standards in beekeeping",
+    "wikipedia_title" : "Organic beekeeping",
+    "originalKey" : "Organic standards in beekeeping",
+    "original_value" : "Organic beekeeping",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Czech Republic",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czech Republic",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "beekeepers",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "beekeepers",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "bee colonies",
+    "wikipedia_title" : "Bee colony",
+    "originalKey" : "bee colonies",
+    "original_value" : "Bee colony",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "varroa disease",
+    "wikipedia_title" : "Varroa destructor",
+    "originalKey" : "varroa disease",
+    "original_value" : "Varroa destructor",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Natural environment",
+    "originalKey" : "Natural land",
+    "original_value" : "Natural environment",
+    "Wikidata_ID" : "Q43619"
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Nature",
+    "originalKey" : "Natural",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  }, {
+    "entity_in_the_text" : "Cultural",
+    "wikipedia_title" : "Cultural heritage",
+    "originalKey" : "Cultural",
+    "original_value" : "Cultural heritage",
+    "Wikidata_ID" : "Q210272"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "beekeeping",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "beekeeping",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "Czech Republic",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czech Republic",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  } ]
+} ]

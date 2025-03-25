@@ -1,0 +1,467 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SKANDINAVIAN UCO",
+    "wikipedia_title" : "Skandinavian UCO",
+    "originalKey" : "SKANDINAVIAN UCO",
+    "original_value" : "Skandinavian UCO",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC 09 SCA",
+    "wikipedia_title" : "Value Chain (VC) 09 SCA",
+    "originalKey" : "VC 09 SCA",
+    "original_value" : "Value Chain (VC) 09 SCA",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Undredal Stølsysteri SA",
+    "wikipedia_title" : "Undredal Stølsysteri SA",
+    "originalKey" : "Undredal Stølsysteri SA",
+    "original_value" : "Undredal Stølsysteri SA",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Slowfood Foundation for Biodiversity",
+    "wikipedia_title" : "Slow Food Foundation for Biodiversity",
+    "originalKey" : "Slowfood Foundation for Biodiversity",
+    "original_value" : "Slow Food Foundation for Biodiversity",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Brimost cheese",
+    "wikipedia_title" : "Brimost Cheese",
+    "originalKey" : "Brimost cheese",
+    "original_value" : "Brimost Cheese",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Undredal Brown Cheese Presidium",
+    "wikipedia_title" : "Undredal Brown Cheese Presidium",
+    "originalKey" : "Undredal Brown Cheese Presidium",
+    "original_value" : "Undredal Brown Cheese Presidium",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "SES",
+    "wikipedia_title" : "Sustainable Development Goals (SDGs)",
+    "originalKey" : "SES",
+    "original_value" : "Sustainable Development Goals (SDGs)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Scandinavean Mountains - Scandes",
+    "wikipedia_title" : "Scandinavian Mountains",
+    "originalKey" : "Scandinavean Mountains - Scandes",
+    "original_value" : "Scandinavian Mountains",
+    "Wikidata_ID" : "Q186547"
+  }, {
+    "entity_in_the_text" : "Aurland",
+    "wikipedia_title" : "Aurland",
+    "originalKey" : "Aurland",
+    "original_value" : "Aurland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Sognefjorden",
+    "wikipedia_title" : "Sognefjord",
+    "originalKey" : "Sognefjorden",
+    "original_value" : "Sognefjord",
+    "Wikidata_ID" : "Q208495"
+  }, {
+    "entity_in_the_text" : "West Norwegian Fjords of Geirangefjord and Nærøyfjord",
+    "wikipedia_title" : "Geirangerfjord and Nærøyfjord",
+    "originalKey" : "West Norwegian Fjords of Geirangefjord and Nærøyfjord",
+    "original_value" : "Geirangerfjord and Nærøyfjord",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Nærøyfjorden",
+    "wikipedia_title" : "Nærøyfjord",
+    "originalKey" : "Nærøyfjorden",
+    "original_value" : "Nærøyfjord",
+    "Wikidata_ID" : "Q212205"
+  }, {
+    "entity_in_the_text" : "Undredal",
+    "wikipedia_title" : "Undredal",
+    "originalKey" : "Undredal",
+    "original_value" : "Undredal",
+    "Wikidata_ID" : "Q1006480"
+  }, {
+    "entity_in_the_text" : "goat cheese festival",
+    "wikipedia_title" : "Goat Cheese Festival in Norway",
+    "originalKey" : "goat cheese festival",
+    "original_value" : "Goat Cheese Festival in Norway",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "size (km2)",
+    "wikipedia_title" : "Area",
+    "originalKey" : "size (km2)",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "minimum altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "minimum altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "maximum altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "maximum altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total population (thousand)",
+    "wikipedia_title" : "Population",
+    "originalKey" : "total population (thousand)",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density (Inhabitants/km2)",
+    "wikipedia_title" : "Population Density",
+    "originalKey" : "population density (Inhabitants/km2)",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "population change rate of the LAU in the last 10 years (%)",
+    "wikipedia_title" : "Population Change Rate",
+    "originalKey" : "population change rate of the LAU in the last 10 years (%)",
+    "original_value" : "Population Change Rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "overall regional population density (Inhabitants/km2)",
+    "wikipedia_title" : "Population Density",
+    "originalKey" : "overall regional population density (Inhabitants/km2)",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "regional population change rate in the last 10 years (%)",
+    "wikipedia_title" : "Population Change Rate",
+    "originalKey" : "regional population change rate in the last 10 years (%)",
+    "original_value" : "Population Change Rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces in Europe",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "List of regions in Europe",
+    "originalKey" : "Region",
+    "original_value" : "List of regions in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "EUR/year",
+    "wikipedia_title" : "Euro (currency unit)",
+    "originalKey" : "EUR/year",
+    "original_value" : "Euro (currency unit)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "EUR million/year",
+    "wikipedia_title" : "Million Euro",
+    "originalKey" : "EUR million/year",
+    "original_value" : "Million Euro",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "bed places",
+    "wikipedia_title" : "List of accommodations in the United States",
+    "originalKey" : "bed places",
+    "original_value" : "List of accommodations in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tourist accommodations",
+    "wikipedia_title" : "Tourism in the United States",
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourism in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total bed places/year",
+    "wikipedia_title" : "List of accommodations in the United States",
+    "originalKey" : "total bed places/year",
+    "original_value" : "List of accommodations in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional share",
+    "wikipedia_title" : "Regionalism",
+    "originalKey" : "regional share",
+    "original_value" : "Regionalism",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agriculture in the United States",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement (geography)",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population over 100000",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "population over 100000",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total employment/year [Province]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total employment/year [Province]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total employment/year [Province]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Primary industry by region",
+    "originalKey" : "primary sector share of total employment/year [Region]",
+    "original_value" : "Primary industry by region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Secondary industry by region",
+    "originalKey" : "secondary sector share of total employment/year [Region]",
+    "original_value" : "Secondary industry by region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Tertiary industry by region",
+    "originalKey" : "tertiary sector share of total employment/year [Region]",
+    "original_value" : "Tertiary industry by region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "high quality product",
+    "wikipedia_title" : "High-quality products",
+    "originalKey" : "high quality product",
+    "original_value" : "High-quality products",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "high reputation nationwide",
+    "wikipedia_title" : "Reputation (public perception)",
+    "originalKey" : "high reputation nationwide",
+    "original_value" : "Reputation (public perception)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "long history of connectedness with the natural ecosystem",
+    "wikipedia_title" : "Environmental sustainability",
+    "originalKey" : "long history of connectedness with the natural ecosystem",
+    "original_value" : "Environmental sustainability",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "cultural heritage",
+    "wikipedia_title" : "Cultural heritage",
+    "originalKey" : "cultural heritage",
+    "original_value" : "Cultural heritage",
+    "Wikidata_ID" : "Q210272"
+  }, {
+    "entity_in_the_text" : "identity",
+    "wikipedia_title" : "Identity",
+    "originalKey" : "identity",
+    "original_value" : "Identity",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "website",
+    "wikipedia_title" : "Website",
+    "originalKey" : "website",
+    "original_value" : "Website",
+    "Wikidata_ID" : "Q35127"
+  }, {
+    "entity_in_the_text" : "online store",
+    "wikipedia_title" : "Online retail",
+    "originalKey" : "online store",
+    "original_value" : "Online retail",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "natural pastures",
+    "wikipedia_title" : "Pasture",
+    "originalKey" : "natural pastures",
+    "original_value" : "Pasture",
+    "Wikidata_ID" : "Q30121"
+  }, {
+    "entity_in_the_text" : "forage for the winter months",
+    "wikipedia_title" : "Winter fodder",
+    "originalKey" : "forage for the winter months",
+    "original_value" : "Winter fodder",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "goats",
+    "wikipedia_title" : "Goat",
+    "originalKey" : "goats",
+    "original_value" : "Goat",
+    "Wikidata_ID" : "Q2934"
+  }, {
+    "entity_in_the_text" : "Undfredal",
+    "wikipedia_title" : "Undredal",
+    "originalKey" : "Undfredal",
+    "original_value" : "Undredal",
+    "Wikidata_ID" : "Q1006480"
+  }, {
+    "entity_in_the_text" : "cheese",
+    "wikipedia_title" : "Cheese",
+    "originalKey" : "cheese",
+    "original_value" : "Cheese",
+    "Wikidata_ID" : "Q10943"
+  }, {
+    "entity_in_the_text" : "cultural assets",
+    "wikipedia_title" : "Cultural heritage",
+    "originalKey" : "cultural assets",
+    "original_value" : "Cultural heritage",
+    "Wikidata_ID" : "Q210272"
+  }, {
+    "entity_in_the_text" : "territorial identity of the inhabitants",
+    "wikipedia_title" : "Identity",
+    "originalKey" : "territorial identity of the inhabitants",
+    "original_value" : "Identity",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "road comunication",
+    "wikipedia_title" : "Road communication",
+    "originalKey" : "road comunication",
+    "original_value" : "Road communication",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "local dairy production",
+    "wikipedia_title" : "Dairy farming",
+    "originalKey" : "local dairy production",
+    "original_value" : "Dairy farming",
+    "Wikidata_ID" : "Q14096331"
+  }, {
+    "entity_in_the_text" : "cheese market",
+    "wikipedia_title" : "Cheese market",
+    "originalKey" : "cheese market",
+    "original_value" : "Cheese market",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Norsk Gardsost",
+    "wikipedia_title" : "Norwegian Dairy Association",
+    "originalKey" : "Norsk Gardsost",
+    "original_value" : "Norwegian Dairy Association",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Slowfood Presidium",
+    "wikipedia_title" : "Slow Food Presidium",
+    "originalKey" : "Slowfood Presidium",
+    "original_value" : "Slow Food Presidium",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "industrial dairies",
+    "wikipedia_title" : "Dairy industry",
+    "originalKey" : "industrial dairies",
+    "original_value" : "Dairy industry",
+    "Wikidata_ID" : "Q13554450"
+  }, {
+    "entity_in_the_text" : "traditional cheeses",
+    "wikipedia_title" : "Traditional cheesemaking",
+    "originalKey" : "traditional cheeses",
+    "original_value" : "Traditional cheesemaking",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "Current and Predicted",
+    "wikipedia_title" : "Challenge (business)",
+    "originalKey" : "Current and Predicted",
+    "original_value" : "Challenge (business)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Traditional and Innovative",
+    "wikipedia_title" : "Business model",
+    "originalKey" : "Traditional and Innovative",
+    "original_value" : "Business model",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Exogenous",
+    "wikipedia_title" : "Exogenous innovation",
+    "originalKey" : "Exogenous",
+    "original_value" : "Exogenous innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "website and e-commerce marketing",
+    "wikipedia_title" : "E-commerce",
+    "originalKey" : "website and e-commerce marketing",
+    "original_value" : "E-commerce",
+    "Wikidata_ID" : "Q484847"
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Grassland and Natural land",
+    "wikipedia_title" : "Land use",
+    "originalKey" : "Grassland and Natural land",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "entity_in_the_text" : "Natural, social and cultural",
+    "wikipedia_title" : "Local assets",
+    "originalKey" : "Natural, social and cultural",
+    "original_value" : "Local assets",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Sweden Jämtland Cellar-Matured Goat Cheese",
+    "wikipedia_title" : "Jämtland cheese",
+    "originalKey" : "Sweden Jämtland Cellar-Matured Goat Cheese",
+    "original_value" : "Jämtland cheese",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "NUTS3 SE322",
+    "wikipedia_title" : "List of NUTS codes",
+    "originalKey" : "NUTS3 SE322",
+    "original_value" : "List of NUTS codes",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Presidium of the Slowfood Foundation for Biodiversity",
+    "wikipedia_title" : "Slow Food",
+    "originalKey" : "Presidium of the Slowfood Foundation for Biodiversity",
+    "original_value" : "Slow Food",
+    "Wikidata_ID" : "Q335823"
+  } ]
+} ]

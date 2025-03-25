@@ -1,0 +1,275 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SPAIN ADEGUA",
+    "wikipedia_title" : "Spain",
+    "originalKey" : "SPAIN ADEGUA",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  }, {
+    "entity_in_the_text" : "Sierras Cazorla, Segura and Las Villas",
+    "wikipedia_title" : "Sierra de Cazorla,_Segura_and_Las_Villas",
+    "originalKey" : "Sierras Cazorla, Segura and Las Villas",
+    "original_value" : "Sierra de Cazorla,_Segura_and_Las_Villas",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Sierra de Castril",
+    "wikipedia_title" : "Sierra_de_Castril",
+    "originalKey" : "Sierra de Castril",
+    "original_value" : "Sierra_de_Castril",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Granada",
+    "wikipedia_title" : "Granada,_Spain",
+    "originalKey" : "Granada",
+    "original_value" : "Granada,_Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Betic System",
+    "wikipedia_title" : "Betic Cordillera",
+    "originalKey" : "Betic System",
+    "original_value" : "Betic Cordillera",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Castril",
+    "wikipedia_title" : "Castril",
+    "originalKey" : "Castril",
+    "original_value" : "Castril",
+    "Wikidata_ID" : "Q555913"
+  }, {
+    "entity_in_the_text" : "Natura 2000 Network",
+    "wikipedia_title" : "Natura 2000",
+    "originalKey" : "Natura 2000 Network",
+    "original_value" : "Natura 2000",
+    "Wikidata_ID" : "Q503021"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Transhumance",
+    "wikipedia_title" : "Transhumance",
+    "originalKey" : "Transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "entity_in_the_text" : "Mediterranean area",
+    "wikipedia_title" : "Mediterranean Sea",
+    "originalKey" : "Mediterranean area",
+    "original_value" : "Mediterranean Sea",
+    "Wikidata_ID" : "Q4918"
+  }, {
+    "entity_in_the_text" : "Alps",
+    "wikipedia_title" : "Alps",
+    "originalKey" : "Alps",
+    "original_value" : "Alps",
+    "Wikidata_ID" : "Q1286"
+  }, {
+    "entity_in_the_text" : "Spain",
+    "wikipedia_title" : "Spain",
+    "originalKey" : "Spain",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  }, {
+    "entity_in_the_text" : "UNESCO",
+    "wikipedia_title" : "United Nations Educational, Scientific and Cultural Organization",
+    "originalKey" : "UNESCO",
+    "original_value" : "United Nations Educational, Scientific and Cultural Organization",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Natural Park of the Sierras de Cazorla, Segura and Las Villas",
+    "wikipedia_title" : "Sierra de Cazorla, Segura y Las Villas Natural Park",
+    "originalKey" : "Natural Park of the Sierras de Cazorla, Segura and Las Villas",
+    "original_value" : "Sierra de Cazorla, Segura y Las Villas Natural Park",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Jaén",
+    "wikipedia_title" : "Jaén",
+    "originalKey" : "Jaén",
+    "original_value" : "Jaén",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Castril",
+    "wikipedia_title" : "Castril",
+    "originalKey" : "Castril",
+    "original_value" : "Castril",
+    "Wikidata_ID" : "Q555913"
+  }, {
+    "entity_in_the_text" : "Sierra Morena",
+    "wikipedia_title" : "Sierra Morena",
+    "originalKey" : "Sierra Morena",
+    "original_value" : "Sierra Morena",
+    "Wikidata_ID" : "Q686362"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Transhumance",
+    "wikipedia_title" : "Transhumance",
+    "originalKey" : "Transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "entity_in_the_text" : "livestock trails and infrastructures",
+    "wikipedia_title" : "Livestock trail",
+    "originalKey" : "livestock trails and infrastructures",
+    "original_value" : "Livestock trail",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "extensive livestock farming",
+    "wikipedia_title" : "Extensive grazing",
+    "originalKey" : "extensive livestock farming",
+    "original_value" : "Extensive grazing",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Transhumance",
+    "wikipedia_title" : "Transhumance",
+    "originalKey" : "Transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "entity_in_the_text" : "Grassland",
+    "wikipedia_title" : "Grassland",
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Soria",
+    "wikipedia_title" : "Soria",
+    "originalKey" : "Soria",
+    "original_value" : "Soria",
+    "Wikidata_ID" : "Q12155"
+  }, {
+    "entity_in_the_text" : "Cuenca",
+    "wikipedia_title" : "Cuenca",
+    "originalKey" : "Cuenca",
+    "original_value" : "Cuenca",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "La Rioja",
+    "wikipedia_title" : "La Rioja",
+    "originalKey" : "La Rioja",
+    "original_value" : "La Rioja",
+    "Wikidata_ID" : "Q5727"
+  }, {
+    "entity_in_the_text" : "Andalusia",
+    "wikipedia_title" : "Andalusia",
+    "originalKey" : "Andalusia",
+    "original_value" : "Andalusia",
+    "Wikidata_ID" : "Q5783"
+  }, {
+    "entity_in_the_text" : "Sierras of Cazorla, Segura and Las Villas",
+    "wikipedia_title" : "Sierra de Cazorla",
+    "originalKey" : "Sierras of Cazorla, Segura and Las Villas",
+    "original_value" : "Sierra de Cazorla",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Jaén",
+    "wikipedia_title" : "Jaén",
+    "originalKey" : "Jaén",
+    "original_value" : "Jaén",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Sierra de Castril",
+    "wikipedia_title" : "Sierra de Castril",
+    "originalKey" : "Sierra de Castril",
+    "original_value" : "Sierra de Castril",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Granada",
+    "wikipedia_title" : "Granada",
+    "originalKey" : "Granada",
+    "original_value" : "Granada",
+    "Wikidata_ID" : "Q8810"
+  }, {
+    "entity_in_the_text" : "Sierra Morena",
+    "wikipedia_title" : "Sierra Morena",
+    "originalKey" : "Sierra Morena",
+    "original_value" : "Sierra Morena",
+    "Wikidata_ID" : "Q686362"
+  }, {
+    "entity_in_the_text" : "Sierra Nevada",
+    "wikipedia_title" : "Sierra Nevada",
+    "originalKey" : "Sierra Nevada",
+    "original_value" : "Sierra Nevada",
+    "Wikidata_ID" : "Q26777"
+  }, {
+    "entity_in_the_text" : "Italy",
+    "wikipedia_title" : "Italy",
+    "originalKey" : "Italy",
+    "original_value" : "Italy",
+    "Wikidata_ID" : "Q38"
+  }, {
+    "entity_in_the_text" : "Austria",
+    "wikipedia_title" : "Austria",
+    "originalKey" : "Austria",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  }, {
+    "entity_in_the_text" : "Greece",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "Greece",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  } ]
+} ]

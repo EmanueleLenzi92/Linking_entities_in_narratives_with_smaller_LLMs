@@ -1,0 +1,353 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SCOTLAND HUTTON",
+    "wikipedia_title" : "Scotland",
+    "originalKey" : "SCOTLAND HUTTON",
+    "original_value" : "Scotland",
+    "Wikidata_ID" : "Q22"
+  }, {
+    "entity_in_the_text" : "Highlands and Islands of Scotland",
+    "wikipedia_title" : "Highlands and Islands of Scotland",
+    "originalKey" : "Highlands and Islands of Scotland",
+    "original_value" : "Highlands and Islands of Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Perth and Kinross",
+    "wikipedia_title" : "Perth and Kinross",
+    "originalKey" : "Perth and Kinross",
+    "original_value" : "Perth and Kinross",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Blair Atholl Estates",
+    "wikipedia_title" : "Blair Atholl Estate",
+    "originalKey" : "Blair Atholl Estates",
+    "original_value" : "Blair Atholl Estate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Glen Lyon",
+    "wikipedia_title" : "Glen Lyon",
+    "originalKey" : "Glen Lyon",
+    "original_value" : "Glen Lyon",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Highlands and islands NUT3 region",
+    "wikipedia_title" : "Scottish Highlands",
+    "originalKey" : "Highlands and islands NUT3 region",
+    "original_value" : "Scottish Highlands",
+    "Wikidata_ID" : "Q106652"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Highlands and Islands",
+    "wikipedia_title" : "Highlands and Islands",
+    "originalKey" : "Highlands and Islands",
+    "original_value" : "Highlands and Islands",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Eastern Scotland",
+    "wikipedia_title" : "East of Scotland",
+    "originalKey" : "Eastern Scotland",
+    "original_value" : "East of Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Perth and Kinross",
+    "wikipedia_title" : "Perth and Kinross",
+    "originalKey" : "Perth and Kinross",
+    "original_value" : "Perth and Kinross",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Tay",
+    "wikipedia_title" : "River Tay",
+    "originalKey" : "Tay",
+    "original_value" : "River Tay",
+    "Wikidata_ID" : "Q19719"
+  }, {
+    "entity_in_the_text" : "Earn",
+    "wikipedia_title" : "River Earn",
+    "originalKey" : "Earn",
+    "original_value" : "River Earn",
+    "Wikidata_ID" : "Q1277544"
+  }, {
+    "entity_in_the_text" : "Perth",
+    "wikipedia_title" : "Perth, Scotland",
+    "originalKey" : "Perth",
+    "original_value" : "Perth, Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Highlands",
+    "wikipedia_title" : "Scottish Highlands",
+    "originalKey" : "Highlands",
+    "original_value" : "Scottish Highlands",
+    "Wikidata_ID" : "Q106652"
+  }, {
+    "entity_in_the_text" : "Scotland's central belt",
+    "wikipedia_title" : "Central Belt (Scotland)",
+    "originalKey" : "Scotland's central belt",
+    "original_value" : "Central Belt (Scotland)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Scottish estates",
+    "wikipedia_title" : "Estate (land ownership)",
+    "originalKey" : "Scottish estates",
+    "original_value" : "Estate (land ownership)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Deer stalking",
+    "wikipedia_title" : "Stalking (hunting)",
+    "originalKey" : "Deer stalking",
+    "original_value" : "Stalking (hunting)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Vension meat",
+    "wikipedia_title" : "Venison",
+    "originalKey" : "Vension meat",
+    "original_value" : "Venison",
+    "Wikidata_ID" : "Q2296872"
+  }, {
+    "entity_in_the_text" : "Scottish Quality Wild Vensions",
+    "wikipedia_title" : "Red deer",
+    "originalKey" : "Scottish Quality Wild Vensions",
+    "original_value" : "Red deer",
+    "Wikidata_ID" : "Q79794"
+  }, {
+    "entity_in_the_text" : "Perth and Kinross",
+    "wikipedia_title" : "Perth and Kinross",
+    "originalKey" : "Perth and Kinross",
+    "original_value" : "Perth and Kinross",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Atholl estate",
+    "wikipedia_title" : "Atholl Estates",
+    "originalKey" : "Atholl estate",
+    "original_value" : "Atholl Estates",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Blair Atholl",
+    "wikipedia_title" : "Blair Atholl",
+    "originalKey" : "Blair Atholl",
+    "original_value" : "Blair Atholl",
+    "Wikidata_ID" : "Q881156"
+  }, {
+    "entity_in_the_text" : "Glen Lyon estate",
+    "wikipedia_title" : "Glen Lyon",
+    "originalKey" : "Glen Lyon estate",
+    "original_value" : "Glen Lyon",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "deer",
+    "wikipedia_title" : "Deer",
+    "originalKey" : "deer",
+    "original_value" : "Deer",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "grouse",
+    "wikipedia_title" : "Grouse",
+    "originalKey" : "grouse",
+    "original_value" : "Grouse",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "stalking estates",
+    "wikipedia_title" : "Shooting estate",
+    "originalKey" : "stalking estates",
+    "original_value" : "Shooting estate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "hikers",
+    "wikipedia_title" : "Hiking",
+    "originalKey" : "hikers",
+    "original_value" : "Hiking",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "wildlfie conservation organsiations",
+    "wikipedia_title" : "Wildlife conservation",
+    "originalKey" : "wildlfie conservation organsiations",
+    "original_value" : "Wildlife conservation",
+    "Wikidata_ID" : "Q766328"
+  }, {
+    "entity_in_the_text" : "ponies",
+    "wikipedia_title" : "Pony",
+    "originalKey" : "ponies",
+    "original_value" : "Pony",
+    "Wikidata_ID" : "Q188828"
+  }, {
+    "entity_in_the_text" : "moutain",
+    "wikipedia_title" : "Mountain",
+    "originalKey" : "moutain",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "sheep",
+    "wikipedia_title" : "Sheep",
+    "originalKey" : "sheep",
+    "original_value" : "Sheep",
+    "Wikidata_ID" : "Q7368"
+  }, {
+    "entity_in_the_text" : "COVID",
+    "wikipedia_title" : "COVID-19 pandemic",
+    "originalKey" : "COVID",
+    "original_value" : "COVID-19 pandemic",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "mountain hares",
+    "wikipedia_title" : "Mountain hare",
+    "originalKey" : "mountain hares",
+    "original_value" : "Mountain hare",
+    "Wikidata_ID" : "Q180035"
+  }, {
+    "entity_in_the_text" : "raptors",
+    "wikipedia_title" : "Raptor",
+    "originalKey" : "raptors",
+    "original_value" : "Raptor",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "venison",
+    "wikipedia_title" : "Venison",
+    "originalKey" : "venison",
+    "original_value" : "Venison",
+    "Wikidata_ID" : "Q2296872"
+  }, {
+    "entity_in_the_text" : "brexit",
+    "wikipedia_title" : "Brexit",
+    "originalKey" : "brexit",
+    "original_value" : "Brexit",
+    "Wikidata_ID" : "Q7888194"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "drones",
+    "wikipedia_title" : "Drone",
+    "originalKey" : "drones",
+    "original_value" : "Drone",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "camera traps",
+    "wikipedia_title" : "Camera trap",
+    "originalKey" : "camera traps",
+    "original_value" : "Camera trap",
+    "Wikidata_ID" : "Q1723004"
+  }, {
+    "entity_in_the_text" : "GPS collars",
+    "wikipedia_title" : "Radio collar",
+    "originalKey" : "GPS collars",
+    "original_value" : "Radio collar",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "thermal imaging",
+    "wikipedia_title" : "Thermal imaging",
+    "originalKey" : "thermal imaging",
+    "original_value" : "Thermal imaging",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New governance systems",
+    "wikipedia_title" : "Governance",
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance",
+    "Wikidata_ID" : "Q1553864"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Land use",
+    "originalKey" : "Natural land",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Highland and Islands NUT3",
+    "wikipedia_title" : "Highlands and Islands",
+    "originalKey" : "Highland and Islands NUT3",
+    "original_value" : "Highlands and Islands",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Aberdeenshire",
+    "wikipedia_title" : "Aberdeenshire",
+    "originalKey" : "Aberdeenshire",
+    "original_value" : "Aberdeenshire",
+    "Wikidata_ID" : "Q189912"
+  }, {
+    "entity_in_the_text" : "Badendoch",
+    "wikipedia_title" : "Badenoch and Strathspey",
+    "originalKey" : "Badendoch",
+    "original_value" : "Badenoch and Strathspey",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Strathsphey LAU1 areas",
+    "wikipedia_title" : "Badenoch and Strathspey",
+    "originalKey" : "Strathsphey LAU1 areas",
+    "original_value" : "Badenoch and Strathspey",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "North east England",
+    "wikipedia_title" : "North East England",
+    "originalKey" : "North east England",
+    "original_value" : "North East England",
+    "Wikidata_ID" : "Q47983"
+  }, {
+    "entity_in_the_text" : "North West England",
+    "wikipedia_title" : "North West England",
+    "originalKey" : "North West England",
+    "original_value" : "North West England",
+    "Wikidata_ID" : "Q47967"
+  } ]
+} ]

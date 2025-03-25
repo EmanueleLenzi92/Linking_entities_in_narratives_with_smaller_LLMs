@@ -1,0 +1,307 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "NMK",
+    "wikipedia_title" : "North Macedonia",
+    "originalKey" : "NMK",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  }, {
+    "entity_in_the_text" : "Kozuvcanka",
+    "wikipedia_title" : "Kozuvcanka",
+    "originalKey" : "Kozuvcanka",
+    "original_value" : "Kozuvcanka",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Pelisterka",
+    "wikipedia_title" : "Pelisterka",
+    "originalKey" : "Pelisterka",
+    "original_value" : "Pelisterka",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Maya",
+    "wikipedia_title" : "Maya (company)",
+    "originalKey" : "Maya",
+    "original_value" : "Maya (company)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Mountain Meleshevija",
+    "wikipedia_title" : "Meleshevija",
+    "originalKey" : "Mountain Meleshevija",
+    "original_value" : "Meleshevija",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Maleshevski mountains",
+    "wikipedia_title" : "Meleshevija",
+    "originalKey" : "Maleshevski mountains",
+    "original_value" : "Meleshevija",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Bregalnica river",
+    "wikipedia_title" : "Bregalnica",
+    "originalKey" : "Bregalnica river",
+    "original_value" : "Bregalnica",
+    "Wikidata_ID" : "Q849296"
+  }, {
+    "entity_in_the_text" : "Strumica river",
+    "wikipedia_title" : "Strumica (river)",
+    "originalKey" : "Strumica river",
+    "original_value" : "Strumica (river)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Berovo municipality",
+    "wikipedia_title" : "Berovo",
+    "originalKey" : "Berovo municipality",
+    "original_value" : "Berovo",
+    "Wikidata_ID" : "Q827047"
+  }, {
+    "entity_in_the_text" : "Pehchevo municipality",
+    "wikipedia_title" : "Pehčevo",
+    "originalKey" : "Pehchevo municipality",
+    "original_value" : "Pehčevo",
+    "Wikidata_ID" : "Q162952"
+  } ]
+},     {
+  "entities": []
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "per capita income",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added (GVA)",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Vardar planning region",
+    "wikipedia_title" : "Vardar (region)",
+    "originalKey" : "Vardar planning region",
+    "original_value" : "Vardar (region)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "commercial water",
+    "wikipedia_title" : "Commercial use of water",
+    "originalKey" : "commercial water",
+    "original_value" : "Commercial use of water",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "rivers Vardar, Crni Drim, Bregalnica, Babuna, Topolka and Otovica",
+    "wikipedia_title" : "Vardar River",
+    "originalKey" : "rivers Vardar, Crni Drim, Bregalnica, Babuna, Topolka and Otovica",
+    "original_value" : "Vardar River",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "hydro reservoirs",
+    "wikipedia_title" : "Hydropower in North Macedonia",
+    "originalKey" : "hydro reservoirs",
+    "original_value" : "Hydropower in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Tikvesh",
+    "wikipedia_title" : "Tikvesh Hydroelectric Power Plant",
+    "originalKey" : "Tikvesh",
+    "original_value" : "Tikvesh Hydroelectric Power Plant",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Lices",
+    "wikipedia_title" : "Lices Hydroelectric Power Plant",
+    "originalKey" : "Lices",
+    "original_value" : "Lices Hydroelectric Power Plant",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Mladost",
+    "wikipedia_title" : "Mladost Hydroelectric Power Plant",
+    "originalKey" : "Mladost",
+    "original_value" : "Mladost Hydroelectric Power Plant",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kozuvcanka",
+    "wikipedia_title" : "Kozuvcanka",
+    "originalKey" : "Kozuvcanka",
+    "original_value" : "Kozuvcanka",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "mineral water",
+    "wikipedia_title" : "Mineral water",
+    "originalKey" : "mineral water",
+    "original_value" : "Mineral water",
+    "Wikidata_ID" : "Q178921"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Kozuvcanka",
+    "wikipedia_title" : "Kozuvcanka",
+    "originalKey" : "Kozuvcanka",
+    "original_value" : "Kozuvcanka",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Maleshevski mountain",
+    "wikipedia_title" : "Mount Maleshevska",
+    "originalKey" : "Maleshevski mountain",
+    "original_value" : "Mount Maleshevska",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Vardarski region",
+    "wikipedia_title" : "Vardar",
+    "originalKey" : "Vardarski region",
+    "original_value" : "Vardar",
+    "Wikidata_ID" : "Q189596"
+  }, {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Maleshevija",
+    "wikipedia_title" : "Maleshevja",
+    "originalKey" : "Maleshevija",
+    "original_value" : "Maleshevja",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "technology",
+    "wikipedia_title" : "Technology (business)",
+    "originalKey" : "technology",
+    "original_value" : "Technology (business)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New processes",
+    "wikipedia_title" : "Process innovation",
+    "originalKey" : "New processes",
+    "original_value" : "Process innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Natural environment",
+    "originalKey" : "Natural land",
+    "original_value" : "Natural environment",
+    "Wikidata_ID" : "Q43619"
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Nature",
+    "originalKey" : "Natural",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  }, {
+    "entity_in_the_text" : "Social",
+    "wikipedia_title" : "Society",
+    "originalKey" : "Social",
+    "original_value" : "Society",
+    "Wikidata_ID" : "Q8425"
+  }, {
+    "entity_in_the_text" : "Cultural",
+    "wikipedia_title" : "Culture",
+    "originalKey" : "Cultural",
+    "original_value" : "Culture",
+    "Wikidata_ID" : ""
+  } ]
+} ]

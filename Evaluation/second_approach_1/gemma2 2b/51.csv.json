@@ -1,0 +1,461 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "CZECH REPUBLIC",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "CZECH REPUBLIC",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "VC 10 CZ",
+    "wikipedia_title" : "List of Value Chains in the European Union",
+    "originalKey" : "VC 10 CZ",
+    "original_value" : "List of Value Chains in the European Union",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "herb liquers",
+    "wikipedia_title" : "Herbal liqueur",
+    "originalKey" : "herb liquers",
+    "original_value" : "Herbal liqueur",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Giant Mountains",
+    "wikipedia_title" : "Giant Mountains (Czech Republic)",
+    "originalKey" : "Giant Mountains",
+    "original_value" : "Giant Mountains (Czech Republic)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU 1 Trutnov",
+    "wikipedia_title" : "Trutnov District",
+    "originalKey" : "LAU 1 Trutnov",
+    "original_value" : "Trutnov District",
+    "Wikidata_ID" : "Q517734"
+  }, {
+    "entity_in_the_text" : "NUTS 3 Kralovehradecky",
+    "wikipedia_title" : "Kralovehradecký Region (NUTS)",
+    "originalKey" : "NUTS 3 Kralovehradecky",
+    "original_value" : "Kralovehradecký Region (NUTS)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU 1 - Trutnov",
+    "wikipedia_title" : "Trutnov District",
+    "originalKey" : "LAU 1 - Trutnov",
+    "original_value" : "Trutnov District",
+    "Wikidata_ID" : "Q517734"
+  }, {
+    "entity_in_the_text" : "43,2%",
+    "wikipedia_title" : "Agricultural land in the Czech Republic",
+    "originalKey" : "43,2%",
+    "original_value" : "Agricultural land in the Czech Republic",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "53%",
+    "wikipedia_title" : "Arable land in the Czech Republic",
+    "originalKey" : "53%",
+    "original_value" : "Arable land in the Czech Republic",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "41,6%",
+    "wikipedia_title" : "Perennial grassland in the Czech Republic",
+    "originalKey" : "41,6%",
+    "original_value" : "Perennial grassland in the Czech Republic",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "46,9%",
+    "wikipedia_title" : "Forest land in the Czech Republic",
+    "originalKey" : "46,9%",
+    "original_value" : "Forest land in the Czech Republic",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "National Park",
+    "wikipedia_title" : "Czech National Parks",
+    "originalKey" : "National Park",
+    "original_value" : "Czech National Parks",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "area (km2)",
+    "wikipedia_title" : "Area",
+    "originalKey" : "area (km2)",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "minimum altimetry of the LAU",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "minimum altimetry of the LAU",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "maximum altimetry of the LAU",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "maximum altimetry of the LAU",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total population (in thousand)",
+    "wikipedia_title" : "Population",
+    "originalKey" : "total population (in thousand)",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density (Inhabitants/km2) in the LAU",
+    "wikipedia_title" : "Population Density",
+    "originalKey" : "population density (Inhabitants/km2) in the LAU",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "population change rate of the LAU in the last 10 years (%)",
+    "wikipedia_title" : "Population Change Rate",
+    "originalKey" : "population change rate of the LAU in the last 10 years (%)",
+    "original_value" : "Population Change Rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "overall regional population density (Inhabitants/km2)",
+    "wikipedia_title" : "Population Density",
+    "originalKey" : "overall regional population density (Inhabitants/km2)",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "regional population change rate in the last 10 years (%)",
+    "wikipedia_title" : "Population Change Rate",
+    "originalKey" : "regional population change rate in the last 10 years (%)",
+    "original_value" : "Population Change Rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Europe",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "List of regions of Europe",
+    "originalKey" : "Region",
+    "original_value" : "List of regions of Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "EUR/year",
+    "wikipedia_title" : "Euro (currency)",
+    "originalKey" : "EUR/year",
+    "original_value" : "Euro (currency)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Europe",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "List of regions of Europe",
+    "originalKey" : "Region",
+    "original_value" : "List of regions of Europe",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "total number of bed places (BPs) in tourist accommodations/year",
+    "wikipedia_title" : "List of hotels and motels in the United States",
+    "originalKey" : "total number of bed places (BPs) in tourist accommodations/year",
+    "original_value" : "List of hotels and motels in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "55419",
+    "wikipedia_title" : "List of cities and towns in the United States by population",
+    "originalKey" : "55419",
+    "original_value" : "List of cities and towns in the United States by population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional (Region) share of total BPs/year",
+    "wikipedia_title" : "Regional economy",
+    "originalKey" : "regional (Region) share of total BPs/year",
+    "original_value" : "Regional economy",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "0.45%",
+    "wikipedia_title" : "Percentage of the population in a country or region",
+    "originalKey" : "0.45%",
+    "original_value" : "Percentage of the population in a country or region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agriculture",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "entity_in_the_text" : "1759",
+    "wikipedia_title" : "Number of agricultural holdings in the United States",
+    "originalKey" : "1759",
+    "original_value" : "Number of agricultural holdings in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "nearest settlement with population over 100000 (km)",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "nearest settlement with population over 100000 (km)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "100",
+    "wikipedia_title" : "Distance between two points",
+    "originalKey" : "100",
+    "original_value" : "Distance between two points",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total employment/year [Province]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total employment/year [Province]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total employment/year [Province]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Primary industry by region",
+    "originalKey" : "primary sector share of total employment/year [Region]",
+    "original_value" : "Primary industry by region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Secondary industry by region",
+    "originalKey" : "secondary sector share of total employment/year [Region]",
+    "original_value" : "Secondary industry by region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Tertiary industry by region",
+    "originalKey" : "tertiary sector share of total employment/year [Region]",
+    "original_value" : "Tertiary industry by region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture Capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture Capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "herb liquers",
+    "wikipedia_title" : "Liqueur",
+    "originalKey" : "herb liquers",
+    "original_value" : "Liqueur",
+    "Wikidata_ID" : "Q178780"
+  }, {
+    "entity_in_the_text" : "regional product",
+    "wikipedia_title" : "Regional Product",
+    "originalKey" : "regional product",
+    "original_value" : "Regional Product",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "symbolic assets of the region",
+    "wikipedia_title" : "Cultural Heritage",
+    "originalKey" : "symbolic assets of the region",
+    "original_value" : "Cultural Heritage",
+    "Wikidata_ID" : "Q210272"
+  }, {
+    "entity_in_the_text" : "mountain regions",
+    "wikipedia_title" : "Mountain Region",
+    "originalKey" : "mountain regions",
+    "original_value" : "Mountain Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "natural and symbolic values associated with the region",
+    "wikipedia_title" : "Cultural Significance",
+    "originalKey" : "natural and symbolic values associated with the region",
+    "original_value" : "Cultural Significance",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "unique selling proposition",
+    "wikipedia_title" : "Marketing Strategy",
+    "originalKey" : "unique selling proposition",
+    "original_value" : "Marketing Strategy",
+    "Wikidata_ID" : "Q1363963"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "natural assets",
+    "wikipedia_title" : "Natural resources",
+    "originalKey" : "natural assets",
+    "original_value" : "Natural resources",
+    "Wikidata_ID" : "Q6980594"
+  }, {
+    "entity_in_the_text" : "social construction of quality",
+    "wikipedia_title" : "Marketing",
+    "originalKey" : "social construction of quality",
+    "original_value" : "Marketing",
+    "Wikidata_ID" : "Q39809"
+  }, {
+    "entity_in_the_text" : "traditional knowledge",
+    "wikipedia_title" : "Traditional knowledge",
+    "originalKey" : "traditional knowledge",
+    "original_value" : "Traditional knowledge",
+    "Wikidata_ID" : "Q1428168"
+  }, {
+    "entity_in_the_text" : "product labels",
+    "wikipedia_title" : "Product labeling",
+    "originalKey" : "product labels",
+    "original_value" : "Product labeling",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "cultural traits",
+    "wikipedia_title" : "Cultural traits",
+    "originalKey" : "cultural traits",
+    "original_value" : "Cultural traits",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "mountains",
+    "wikipedia_title" : "Mountains",
+    "originalKey" : "mountains",
+    "original_value" : "Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "products",
+    "wikipedia_title" : "Product",
+    "originalKey" : "products",
+    "original_value" : "Product",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "symbolic value",
+    "wikipedia_title" : "Symbolic value",
+    "originalKey" : "symbolic value",
+    "original_value" : "Symbolic value",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Herb liquers",
+    "wikipedia_title" : "Liqueurs",
+    "originalKey" : "Herb liquers",
+    "original_value" : "Liqueurs",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Mainstream food markets",
+    "wikipedia_title" : "Grocery stores",
+    "originalKey" : "Mainstream food markets",
+    "original_value" : "Grocery stores",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Highly competetive",
+    "wikipedia_title" : "Competition (business)",
+    "originalKey" : "Highly competetive",
+    "original_value" : "Competition (business)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture Capitalist",
+    "originalKey" : "VC",
+    "original_value" : "Venture Capitalist",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "valorization of the product",
+    "wikipedia_title" : "Product valuation",
+    "originalKey" : "valorization of the product",
+    "original_value" : "Product valuation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "marketing strategy",
+    "wikipedia_title" : "Marketing",
+    "originalKey" : "marketing strategy",
+    "original_value" : "Marketing",
+    "Wikidata_ID" : "Q39809"
+  }, {
+    "entity_in_the_text" : "challenge faced by this VC",
+    "wikipedia_title" : "Business challenge",
+    "originalKey" : "challenge faced by this VC",
+    "original_value" : "Business challenge",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Current",
+    "wikipedia_title" : "Present",
+    "originalKey" : "Current",
+    "original_value" : "Present",
+    "Wikidata_ID" : "Q193168"
+  }, {
+    "entity_in_the_text" : "Traditional",
+    "wikipedia_title" : "Traditional business model",
+    "originalKey" : "Traditional",
+    "original_value" : "Traditional business model",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Value Chain",
+    "originalKey" : "VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "innovation",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "land use systems",
+    "wikipedia_title" : "Land Use System",
+    "originalKey" : "land use systems",
+    "original_value" : "Land Use System",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Natural Land",
+    "originalKey" : "Natural land",
+    "original_value" : "Natural Land",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "local assets",
+    "wikipedia_title" : "Local Assets",
+    "originalKey" : "local assets",
+    "original_value" : "Local Assets",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Village Community",
+    "originalKey" : "VC",
+    "original_value" : "Village Community",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "mountain region",
+    "wikipedia_title" : "Mountainous regions",
+    "originalKey" : "mountain region",
+    "original_value" : "Mountainous regions",
+    "Wikidata_ID" : ""
+  } ]
+} ]

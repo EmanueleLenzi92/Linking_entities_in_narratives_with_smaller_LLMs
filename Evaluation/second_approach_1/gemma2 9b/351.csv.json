@@ -1,0 +1,179 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SPAIN ADEGUA",
+    "wikipedia_title" : "Spain",
+    "originalKey" : "SPAIN ADEGUA",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  }, {
+    "entity_in_the_text" : "VC 34 ES",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC 34 ES",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Betic System",
+    "wikipedia_title" : "Betic Cordillera",
+    "originalKey" : "Betic System",
+    "original_value" : "Betic Cordillera",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Carcabuey",
+    "wikipedia_title" : "Carcabuey",
+    "originalKey" : "Carcabuey",
+    "original_value" : "Carcabuey",
+    "Wikidata_ID" : "Q842679"
+  }, {
+    "entity_in_the_text" : "Sierra Subbética",
+    "wikipedia_title" : "Subbetic Mountains",
+    "originalKey" : "Sierra Subbética",
+    "original_value" : "Subbetic Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural Park",
+    "wikipedia_title" : "Natural park",
+    "originalKey" : "Natural Park",
+    "original_value" : "Natural park",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "care of the elderly",
+    "wikipedia_title" : "Elderly care",
+    "originalKey" : "care of the elderly",
+    "original_value" : "Elderly care",
+    "Wikidata_ID" : "Q437458"
+  }, {
+    "entity_in_the_text" : "mountain centres",
+    "wikipedia_title" : "Mountain",
+    "originalKey" : "mountain centres",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  }, {
+    "entity_in_the_text" : "private care company",
+    "wikipedia_title" : "Home care",
+    "originalKey" : "private care company",
+    "original_value" : "Home care",
+    "Wikidata_ID" : "Q1642542"
+  }, {
+    "entity_in_the_text" : "certificates of professionalism",
+    "wikipedia_title" : "Professional certification",
+    "originalKey" : "certificates of professionalism",
+    "original_value" : "Professional certification",
+    "Wikidata_ID" : "Q16023913"
+  }, {
+    "entity_in_the_text" : "informal sector",
+    "wikipedia_title" : "Informal economy",
+    "originalKey" : "informal sector",
+    "original_value" : "Informal economy",
+    "Wikidata_ID" : "Q944235"
+  }, {
+    "entity_in_the_text" : "immigrant female population",
+    "wikipedia_title" : "Immigration",
+    "originalKey" : "immigrant female population",
+    "original_value" : "Immigration",
+    "Wikidata_ID" : "Q131288"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "PROMI",
+    "wikipedia_title" : "PROMI",
+    "originalKey" : "PROMI",
+    "original_value" : "PROMI",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Provincial Council",
+    "wikipedia_title" : "Provincial council",
+    "originalKey" : "Provincial Council",
+    "original_value" : "Provincial council",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Ageing population",
+    "wikipedia_title" : "Aging population",
+    "originalKey" : "Ageing population",
+    "original_value" : "Aging population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Sierra communities",
+    "wikipedia_title" : "Sierra Leonean people",
+    "originalKey" : "Sierra communities",
+    "original_value" : "Sierra Leonean people",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "New governance systems",
+    "wikipedia_title" : "Governance",
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance",
+    "Wikidata_ID" : "Q1553864"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Sierra",
+    "wikipedia_title" : "Sierra (geography)",
+    "originalKey" : "Sierra",
+    "original_value" : "Sierra (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Subbética",
+    "wikipedia_title" : "Subbética",
+    "originalKey" : "Subbética",
+    "original_value" : "Subbética",
+    "Wikidata_ID" : ""
+  } ]
+} ]

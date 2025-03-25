@@ -1,0 +1,233 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "CZECH REPUBLIC",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "CZECH REPUBLIC",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "EU PGI label",
+    "wikipedia_title" : "Protected_Geographical_Indication",
+    "originalKey" : "EU PGI label",
+    "original_value" : "Protected_Geographical_Indication",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Ostrava",
+    "wikipedia_title" : "Ostrava",
+    "originalKey" : "Ostrava",
+    "original_value" : "Ostrava",
+    "Wikidata_ID" : "Q8385"
+  }, {
+    "entity_in_the_text" : "Beskydy mountains",
+    "wikipedia_title" : "Bílé Karpaty",
+    "originalKey" : "Beskydy mountains",
+    "original_value" : "Bílé Karpaty",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Javorníky/Beskydy (Western Carpathian) mountains",
+    "wikipedia_title" : "Javorníky Mountains",
+    "originalKey" : "Javorníky/Beskydy (Western Carpathian) mountains",
+    "original_value" : "Javorníky Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU 1 Vsetín",
+    "wikipedia_title" : "Vsetín Region",
+    "originalKey" : "LAU 1 Vsetín",
+    "original_value" : "Vsetín Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "nature protected area (555 km²)",
+    "wikipedia_title" : "Kronohradský les",
+    "originalKey" : "nature protected area (555 km²)",
+    "original_value" : "Kronohradský les",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Local Administrative Unit",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "Local Administrative Unit",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "per capita income (EUR/year)",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income (EUR/year)",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added (GVA) (EUR million/year)",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "Gross Value Added (GVA) (EUR million/year)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector share of total GVA/year",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector share of total GVA/year",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector share of total GVA/year",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "bed places",
+    "wikipedia_title" : "Hotel bed-nights",
+    "originalKey" : "bed places",
+    "original_value" : "Hotel bed-nights",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tourist accommodations",
+    "wikipedia_title" : "Tourism accommodation",
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourism accommodation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Local Administrative Unit (LAU)",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "Local Administrative Unit (LAU)",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Valašský",
+    "wikipedia_title" : "Valašský kraj",
+    "originalKey" : "Valašský",
+    "original_value" : "Valašský kraj",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Beskydy mountains",
+    "wikipedia_title" : "Bieszczady Mountains",
+    "originalKey" : "Beskydy mountains",
+    "original_value" : "Bieszczady Mountains",
+    "Wikidata_ID" : "Q125529"
+  }, {
+    "entity_in_the_text" : "Vallachians (valašský)",
+    "wikipedia_title" : "Vlachs",
+    "originalKey" : "Vallachians (valašský)",
+    "original_value" : "Vlachs",
+    "Wikidata_ID" : "Q475021"
+  }, {
+    "entity_in_the_text" : "Czechia",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czechia",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "PGI",
+    "wikipedia_title" : "Protected geographical indication",
+    "originalKey" : "PGI",
+    "original_value" : "Protected geographical indication",
+    "Wikidata_ID" : "Q3104453"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Vallachian region",
+    "wikipedia_title" : "Wallachia",
+    "originalKey" : "Vallachian region",
+    "original_value" : "Wallachia",
+    "Wikidata_ID" : "Q171393"
+  }, {
+    "entity_in_the_text" : "doue",
+    "wikipedia_title" : "Dough",
+    "originalKey" : "doue",
+    "original_value" : "Dough",
+    "Wikidata_ID" : "Q178024"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Vallachian",
+    "wikipedia_title" : "Valašský kraj",
+    "originalKey" : "Vallachian",
+    "original_value" : "Valašský kraj",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Beskydy mountains",
+    "wikipedia_title" : "Beskids Mountains",
+    "originalKey" : "Beskydy mountains",
+    "original_value" : "Beskids Mountains",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Endogenous",
+    "wikipedia_title" : "Endogenous",
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "'frgále'",
+    "wikipedia_title" : "'Frgále'",
+    "originalKey" : "'frgále'",
+    "original_value" : "'Frgále'",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Vallachian region",
+    "wikipedia_title" : "Vallachian dialect",
+    "originalKey" : "Vallachian region",
+    "original_value" : "Vallachian dialect",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "pblum brandy",
+    "wikipedia_title" : "Pivo",
+    "originalKey" : "pblum brandy",
+    "original_value" : "Pivo",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "'frgál'",
+    "wikipedia_title" : "Frgál",
+    "originalKey" : "'frgál'",
+    "original_value" : "Frgál",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Výrobce Čokoládě",
+    "originalKey" : "VC",
+    "original_value" : "Výrobce Čokoládě",
+    "Wikidata_ID" : ""
+  } ]
+} ]

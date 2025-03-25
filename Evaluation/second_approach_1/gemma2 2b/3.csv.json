@@ -1,0 +1,659 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "AUSTRIA",
+    "wikipedia_title" : "Austria",
+    "originalKey" : "AUSTRIA",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  }, {
+    "entity_in_the_text" : "VC 03 AT",
+    "wikipedia_title" : "Value Chain (VC) 03 AT",
+    "originalKey" : "VC 03 AT",
+    "original_value" : "Value Chain (VC) 03 AT",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "12 farms",
+    "wikipedia_title" : "List of farms in Austria",
+    "originalKey" : "12 farms",
+    "original_value" : "List of farms in Austria",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "certified organic",
+    "wikipedia_title" : "Organic farming",
+    "originalKey" : "certified organic",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Valley (geographical feature)",
+    "originalKey" : "VC",
+    "original_value" : "Valley (geographical feature)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "RR 11",
+    "wikipedia_title" : "Roraima Range",
+    "originalKey" : "RR 11",
+    "original_value" : "Roraima Range",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Austrian Alps",
+    "wikipedia_title" : "Austrian Alps",
+    "originalKey" : "Austrian Alps",
+    "original_value" : "Austrian Alps",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Weiz (No: 617)",
+    "wikipedia_title" : "Weiz, Austria",
+    "originalKey" : "Weiz (No: 617)",
+    "original_value" : "Weiz, Austria",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Europe",
+    "wikipedia_title" : "Europe",
+    "originalKey" : "Europe",
+    "original_value" : "Europe",
+    "Wikidata_ID" : "Q46"
+  }, {
+    "entity_in_the_text" : "pastures",
+    "wikipedia_title" : "Pasture (agriculture)",
+    "originalKey" : "pastures",
+    "original_value" : "Pasture (agriculture)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "1.200 and 1.500 m above sea level",
+    "wikipedia_title" : "Elevation",
+    "originalKey" : "1.200 and 1.500 m above sea level",
+    "original_value" : "Elevation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "humid",
+    "wikipedia_title" : "Humidity",
+    "originalKey" : "humid",
+    "original_value" : "Humidity",
+    "Wikidata_ID" : "Q180600"
+  }, {
+    "entity_in_the_text" : "thunderstorms",
+    "wikipedia_title" : "Thunderstorm",
+    "originalKey" : "thunderstorms",
+    "original_value" : "Thunderstorm",
+    "Wikidata_ID" : "Q2857578"
+  }, {
+    "entity_in_the_text" : "limestone",
+    "wikipedia_title" : "Limestone",
+    "originalKey" : "limestone",
+    "original_value" : "Limestone",
+    "Wikidata_ID" : "Q23757"
+  }, {
+    "entity_in_the_text" : "phylite, slate and greywacke",
+    "wikipedia_title" : "Phyllite, Slate, and Greywacke",
+    "originalKey" : "phylite, slate and greywacke",
+    "original_value" : "Phyllite, Slate, and Greywacke",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "area (km2)",
+    "wikipedia_title" : "Area of a place",
+    "originalKey" : "area (km2)",
+    "original_value" : "Area of a place",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "minimum altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "minimum altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "maximum altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "maximum altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population (in thousand)",
+    "wikipedia_title" : "Population",
+    "originalKey" : "population (in thousand)",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density (Inhabitants/km2)",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "population density (Inhabitants/km2)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "population change rate of the LAU in the last 10 years (%)",
+    "wikipedia_title" : "Population growth rate",
+    "originalKey" : "population change rate of the LAU in the last 10 years (%)",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "overall regional population density (Inhabitants/km2)",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "overall regional population density (Inhabitants/km2)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "regional population change rate in the last 10 years (%)",
+    "wikipedia_title" : "Population growth rate",
+    "originalKey" : "regional population change rate in the last 10 years (%)",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces in Europe",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "List of regions in Europe",
+    "originalKey" : "Region",
+    "original_value" : "List of regions in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income (EUR/year)",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income (EUR/year)",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year)",
+    "wikipedia_title" : "Gross Domestic Product (GDP)",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year)",
+    "original_value" : "Gross Domestic Product (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total GVA/year",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total GVA/year",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total GVA/year",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "tourist accommodations",
+    "wikipedia_title" : "Tourist accommodation",
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourist accommodation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "bed places (BPs)",
+    "wikipedia_title" : "Bed capacity",
+    "originalKey" : "bed places (BPs)",
+    "original_value" : "Bed capacity",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Regional",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Regional",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population over 100000 (km)",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "population over 100000 (km)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total employment/year [Province]",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total employment/year [Province]",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Province]",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total employment/year [Province]",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Primary industry by region",
+    "originalKey" : "primary sector share of total employment/year [Region]",
+    "original_value" : "Primary industry by region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Secondary industry by region",
+    "originalKey" : "secondary sector share of total employment/year [Region]",
+    "original_value" : "Secondary industry by region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Region]",
+    "wikipedia_title" : "Tertiary industry by region",
+    "originalKey" : "tertiary sector share of total employment/year [Region]",
+    "original_value" : "Tertiary industry by region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Almenland Nature Park",
+    "wikipedia_title" : "Almenland Nature Park",
+    "originalKey" : "Almenland Nature Park",
+    "original_value" : "Almenland Nature Park",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Almenland Kräuter",
+    "wikipedia_title" : "Almenland Kräuter",
+    "originalKey" : "Almenland Kräuter",
+    "original_value" : "Almenland Kräuter",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "herb farmers",
+    "wikipedia_title" : "List of herbalists",
+    "originalKey" : "herb farmers",
+    "original_value" : "List of herbalists",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "organic cultivation",
+    "wikipedia_title" : "Organic farming",
+    "originalKey" : "organic cultivation",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "wild nature",
+    "wikipedia_title" : "Wild Nature",
+    "originalKey" : "wild nature",
+    "original_value" : "Wild Nature",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "hand harvested",
+    "wikipedia_title" : "Hand harvesting",
+    "originalKey" : "hand harvested",
+    "original_value" : "Hand harvesting",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "food and drinks",
+    "wikipedia_title" : "Food and drink",
+    "originalKey" : "food and drinks",
+    "original_value" : "Food and drink",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "cosmetic and wellness products",
+    "wikipedia_title" : "Cosmetics",
+    "originalKey" : "cosmetic and wellness products",
+    "original_value" : "Cosmetics",
+    "Wikidata_ID" : "Q131207"
+  }, {
+    "entity_in_the_text" : "business model",
+    "wikipedia_title" : "Business Model",
+    "originalKey" : "business model",
+    "original_value" : "Business Model",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "product range",
+    "wikipedia_title" : "Product Range",
+    "originalKey" : "product range",
+    "original_value" : "Product Range",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional development",
+    "wikipedia_title" : "Regional Development",
+    "originalKey" : "regional development",
+    "original_value" : "Regional Development",
+    "Wikidata_ID" : "Q482379"
+  }, {
+    "entity_in_the_text" : "nature park",
+    "wikipedia_title" : "Nature Park",
+    "originalKey" : "nature park",
+    "original_value" : "Nature Park",
+    "Wikidata_ID" : "Q728904"
+  }, {
+    "entity_in_the_text" : "gastronomy",
+    "wikipedia_title" : "Gastronomy",
+    "originalKey" : "gastronomy",
+    "original_value" : "Gastronomy",
+    "Wikidata_ID" : "Q171141"
+  }, {
+    "entity_in_the_text" : "hotels",
+    "wikipedia_title" : "Hotels",
+    "originalKey" : "hotels",
+    "original_value" : "Hotels",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "educational/touristic programmes",
+    "wikipedia_title" : "Educational programs",
+    "originalKey" : "educational/touristic programmes",
+    "original_value" : "Educational programs",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Genussregion",
+    "wikipedia_title" : "Almenland (Region of Culinary Delight)",
+    "originalKey" : "Genussregion",
+    "original_value" : "Almenland (Region of Culinary Delight)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "AgrarMarkt Austria",
+    "wikipedia_title" : "Agrarmarkt Österreich",
+    "originalKey" : "AgrarMarkt Austria",
+    "original_value" : "Agrarmarkt Österreich",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "nature park",
+    "wikipedia_title" : "Nature Park",
+    "originalKey" : "nature park",
+    "original_value" : "Nature Park",
+    "Wikidata_ID" : "Q728904"
+  }, {
+    "entity_in_the_text" : "health related aspects",
+    "wikipedia_title" : "Health",
+    "originalKey" : "health related aspects",
+    "original_value" : "Health",
+    "Wikidata_ID" : "Q12147"
+  }, {
+    "entity_in_the_text" : "touristic programme",
+    "wikipedia_title" : "Tourism",
+    "originalKey" : "touristic programme",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "entity_in_the_text" : "ecological perspective",
+    "wikipedia_title" : "Ecology",
+    "originalKey" : "ecological perspective",
+    "original_value" : "Ecology",
+    "Wikidata_ID" : "Q7150"
+  }, {
+    "entity_in_the_text" : "herbs",
+    "wikipedia_title" : "Herb",
+    "originalKey" : "herbs",
+    "original_value" : "Herb",
+    "Wikidata_ID" : "Q207123"
+  }, {
+    "entity_in_the_text" : "pesticide",
+    "wikipedia_title" : "Pesticide",
+    "originalKey" : "pesticide",
+    "original_value" : "Pesticide",
+    "Wikidata_ID" : "Q131656"
+  }, {
+    "entity_in_the_text" : "flowering plants",
+    "wikipedia_title" : "Flowering Plant",
+    "originalKey" : "flowering plants",
+    "original_value" : "Flowering Plant",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "insects",
+    "wikipedia_title" : "Insect",
+    "originalKey" : "insects",
+    "original_value" : "Insect",
+    "Wikidata_ID" : "Q1390"
+  }, {
+    "entity_in_the_text" : "habitat fragmentation",
+    "wikipedia_title" : "Habitat Fragmentation",
+    "originalKey" : "habitat fragmentation",
+    "original_value" : "Habitat Fragmentation",
+    "Wikidata_ID" : "Q913302"
+  }, {
+    "entity_in_the_text" : "permanent grasslands",
+    "wikipedia_title" : "Grassland",
+    "originalKey" : "permanent grasslands",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  }, {
+    "entity_in_the_text" : "local farmers",
+    "wikipedia_title" : "Farmer",
+    "originalKey" : "local farmers",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Extreme weather conditions",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "Extreme weather conditions",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "entity_in_the_text" : "climate change",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "entity_in_the_text" : "natural vegetation",
+    "wikipedia_title" : "Vegetation",
+    "originalKey" : "natural vegetation",
+    "original_value" : "Vegetation",
+    "Wikidata_ID" : "Q187997"
+  }, {
+    "entity_in_the_text" : "cultivation practices",
+    "wikipedia_title" : "Agriculture",
+    "originalKey" : "cultivation practices",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "entity_in_the_text" : "herbs",
+    "wikipedia_title" : "Herb",
+    "originalKey" : "herbs",
+    "original_value" : "Herb",
+    "Wikidata_ID" : "Q207123"
+  }, {
+    "entity_in_the_text" : "climate change",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "entity_in_the_text" : "irrigation",
+    "wikipedia_title" : "Irrigation",
+    "originalKey" : "irrigation",
+    "original_value" : "Irrigation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "varieties",
+    "wikipedia_title" : "Variety",
+    "originalKey" : "varieties",
+    "original_value" : "Variety",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "challenge faced by this VC",
+    "wikipedia_title" : "Challenge",
+    "originalKey" : "challenge faced by this VC",
+    "original_value" : "Challenge",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Current and Predicted",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "Current and Predicted",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "entity_in_the_text" : "Traditional and Innovative",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "Traditional and Innovative",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Endogenous and Exogenous",
+    "wikipedia_title" : "Endogenous innovation",
+    "originalKey" : "Endogenous and Exogenous",
+    "original_value" : "Endogenous innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "products",
+    "wikipedia_title" : "List of products",
+    "originalKey" : "products",
+    "original_value" : "List of products",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tea",
+    "wikipedia_title" : "Tea",
+    "originalKey" : "tea",
+    "original_value" : "Tea",
+    "Wikidata_ID" : "Q6097"
+  }, {
+    "entity_in_the_text" : "herbal salt",
+    "wikipedia_title" : "Herbal salt",
+    "originalKey" : "herbal salt",
+    "original_value" : "Herbal salt",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "pure herbs",
+    "wikipedia_title" : "Herbs",
+    "originalKey" : "pure herbs",
+    "original_value" : "Herbs",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "spice mixes",
+    "wikipedia_title" : "Spice blends",
+    "originalKey" : "spice mixes",
+    "original_value" : "Spice blends",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "liquor",
+    "wikipedia_title" : "Alcohol",
+    "originalKey" : "liquor",
+    "original_value" : "Alcohol",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "syrups",
+    "wikipedia_title" : "Syrup",
+    "originalKey" : "syrups",
+    "original_value" : "Syrup",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "sweets",
+    "wikipedia_title" : "Candy",
+    "originalKey" : "sweets",
+    "original_value" : "Candy",
+    "Wikidata_ID" : "Q185583"
+  }, {
+    "entity_in_the_text" : "birch sugar",
+    "wikipedia_title" : "Birch sugar",
+    "originalKey" : "birch sugar",
+    "original_value" : "Birch sugar",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "soaps",
+    "wikipedia_title" : "Soap",
+    "originalKey" : "soaps",
+    "original_value" : "Soap",
+    "Wikidata_ID" : "Q34396"
+  }, {
+    "entity_in_the_text" : "creams",
+    "wikipedia_title" : "Cream",
+    "originalKey" : "creams",
+    "original_value" : "Cream",
+    "Wikidata_ID" : "Q13228"
+  }, {
+    "entity_in_the_text" : "incense materials",
+    "wikipedia_title" : "Incense",
+    "originalKey" : "incense materials",
+    "original_value" : "Incense",
+    "Wikidata_ID" : "Q273131"
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : "Product development",
+    "originalKey" : "New products",
+    "original_value" : "Product development",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New processes",
+    "wikipedia_title" : "Process innovation",
+    "originalKey" : "New processes",
+    "original_value" : "Process innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Land use",
+    "originalKey" : "Natural land",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "entity_in_the_text" : "Local assets",
+    "wikipedia_title" : "Local resources",
+    "originalKey" : "Local assets",
+    "original_value" : "Local resources",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "herbs",
+    "wikipedia_title" : "Herb",
+    "originalKey" : "herbs",
+    "original_value" : "Herb",
+    "Wikidata_ID" : "Q207123"
+  }, {
+    "entity_in_the_text" : "Austrian mountainous regions",
+    "wikipedia_title" : "Austria",
+    "originalKey" : "Austrian mountainous regions",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  } ]
+} ]

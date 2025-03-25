@@ -1,0 +1,437 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SPAIN ADEGUA",
+    "wikipedia_title" : "Asociación Española de la Granja y el Agro",
+    "originalKey" : "SPAIN ADEGUA",
+    "original_value" : "Asociación Española de la Granja y el Agro",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "MOVING Card ID VC 35 ES",
+    "wikipedia_title" : "European Agricultural Fund for Rural Development",
+    "originalKey" : "MOVING Card ID VC 35 ES",
+    "original_value" : "European Agricultural Fund for Rural Development",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Organic Production of Foodstuffs linked to the Aragonese Territory",
+    "wikipedia_title" : null,
+    "originalKey" : "Organic Production of Foodstuffs linked to the Aragonese Territory",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "ATADES Gardeniers Special Employment Center",
+    "wikipedia_title" : "ATADES",
+    "originalKey" : "ATADES Gardeniers Special Employment Center",
+    "original_value" : "ATADES",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "boliche",
+    "wikipedia_title" : "Boricheel",
+    "originalKey" : "boliche",
+    "original_value" : "Boricheel",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "chickpeas",
+    "wikipedia_title" : "Chickpea",
+    "originalKey" : "chickpeas",
+    "original_value" : "Chickpea",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "lentils",
+    "wikipedia_title" : "Lentil",
+    "originalKey" : "lentils",
+    "original_value" : "Lentil",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Torres de Berrellén melon",
+    "wikipedia_title" : "Melón de Torres de Berrellén",
+    "originalKey" : "Torres de Berrellén melon",
+    "original_value" : "Melón de Torres de Berrellén",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Rural Development Program",
+    "wikipedia_title" : null,
+    "originalKey" : "Rural Development Program",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Pyrenees",
+    "wikipedia_title" : "Pyrenees",
+    "originalKey" : "Pyrenees",
+    "original_value" : "Pyrenees",
+    "Wikidata_ID" : "Q12431"
+  }, {
+    "entity_in_the_text" : "Jaca (Ascara)",
+    "wikipedia_title" : "Jaca",
+    "originalKey" : "Jaca (Ascara)",
+    "original_value" : "Jaca",
+    "Wikidata_ID" : "Q49581"
+  }, {
+    "entity_in_the_text" : "Canal de Berdún",
+    "wikipedia_title" : "Canal de Berdún",
+    "originalKey" : "Canal de Berdún",
+    "original_value" : "Canal de Berdún",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cielos de Ascara",
+    "wikipedia_title" : "Cielos de Ascara",
+    "originalKey" : "Cielos de Ascara",
+    "original_value" : "Cielos de Ascara",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Huesca",
+    "wikipedia_title" : "Huesca",
+    "originalKey" : "Huesca",
+    "original_value" : "Huesca",
+    "Wikidata_ID" : "Q11967"
+  }, {
+    "entity_in_the_text" : "Zaragoza",
+    "wikipedia_title" : "Zaragoza",
+    "originalKey" : "Zaragoza",
+    "original_value" : "Zaragoza",
+    "Wikidata_ID" : "Q10305"
+  }, {
+    "entity_in_the_text" : "boliche",
+    "wikipedia_title" : "Bitter vetchling",
+    "originalKey" : "boliche",
+    "original_value" : "Bitter vetchling",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "chickpeas",
+    "wikipedia_title" : "Chickpea",
+    "originalKey" : "chickpeas",
+    "original_value" : "Chickpea",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "lentils",
+    "wikipedia_title" : "Lentil",
+    "originalKey" : "lentils",
+    "original_value" : "Lentil",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "honey in Ascara",
+    "wikipedia_title" : "Honey",
+    "originalKey" : "honey in Ascara",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "entity_in_the_text" : "Ascara",
+    "wikipedia_title" : "Jaca",
+    "originalKey" : "Ascara",
+    "original_value" : "Jaca",
+    "Wikidata_ID" : "Q49581"
+  }, {
+    "entity_in_the_text" : "Torres de Berrellén",
+    "wikipedia_title" : "Torres de Berrellén",
+    "originalKey" : "Torres de Berrellén",
+    "original_value" : "Torres de Berrellén",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Alagón",
+    "wikipedia_title" : "Alagón",
+    "originalKey" : "Alagón",
+    "original_value" : "Alagón",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Montañana",
+    "wikipedia_title" : "Montañana",
+    "originalKey" : "Montañana",
+    "original_value" : "Montañana",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gardeniers farm",
+    "wikipedia_title" : "Gardeniers farm",
+    "originalKey" : "Gardeniers farm",
+    "original_value" : "Gardeniers farm",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Jaca",
+    "wikipedia_title" : "Jaca",
+    "originalKey" : "Jaca",
+    "original_value" : "Jaca",
+    "Wikidata_ID" : "Q49581"
+  }, {
+    "entity_in_the_text" : "Jacetania",
+    "wikipedia_title" : "Jacetania",
+    "originalKey" : "Jacetania",
+    "original_value" : "Jacetania",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Local Administrative Unit",
+    "wikipedia_title" : "Unité administrative locale",
+    "originalKey" : "Local Administrative Unit",
+    "original_value" : "Unité administrative locale",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative region",
+    "originalKey" : "Region",
+    "original_value" : "Administrative region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "Protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Cielos de Ascara",
+    "wikipedia_title" : "Cielos de Ascara",
+    "originalKey" : "Cielos de Ascara",
+    "original_value" : "Cielos de Ascara",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Aragonese Pyrenees",
+    "wikipedia_title" : "Pyrenees",
+    "originalKey" : "Aragonese Pyrenees",
+    "original_value" : "Pyrenees",
+    "Wikidata_ID" : "Q12431"
+  }, {
+    "entity_in_the_text" : "organic food production",
+    "wikipedia_title" : "Organic farming",
+    "originalKey" : "organic food production",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "public-private collaboration",
+    "wikipedia_title" : "Public–private partnership",
+    "originalKey" : "public-private collaboration",
+    "original_value" : "Public–private partnership",
+    "Wikidata_ID" : "Q221096"
+  }, {
+    "entity_in_the_text" : "endogenous innovation",
+    "wikipedia_title" : "Endogenous growth theory",
+    "originalKey" : "endogenous innovation",
+    "original_value" : "Endogenous growth theory",
+    "Wikidata_ID" : "Q576355"
+  }, {
+    "entity_in_the_text" : "social development",
+    "wikipedia_title" : "Social development",
+    "originalKey" : "social development",
+    "original_value" : "Social development",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Aragon",
+    "wikipedia_title" : "Aragon",
+    "originalKey" : "Aragon",
+    "original_value" : "Aragon",
+    "Wikidata_ID" : "Q4040"
+  }, {
+    "entity_in_the_text" : "'Organic Production of Foodstuffs linked to the Aragonese Territory'",
+    "wikipedia_title" : "'Organic Production of Foodstuffs linked to the Aragonese Territory'",
+    "originalKey" : "'Organic Production of Foodstuffs linked to the Aragonese Territory'",
+    "original_value" : "'Organic Production of Foodstuffs linked to the Aragonese Territory'",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "sustainability",
+    "wikipedia_title" : "Sustainability",
+    "originalKey" : "sustainability",
+    "original_value" : "Sustainability",
+    "Wikidata_ID" : "Q219416"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Endogenous innovation",
+    "wikipedia_title" : "Endogenous growth theory",
+    "originalKey" : "Endogenous innovation",
+    "original_value" : "Endogenous growth theory",
+    "Wikidata_ID" : "Q576355"
+  }, {
+    "entity_in_the_text" : "revitalization of rural and mountain areas",
+    "wikipedia_title" : "Rural revitalization",
+    "originalKey" : "revitalization of rural and mountain areas",
+    "original_value" : "Rural revitalization",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "natural and cultural interest areas",
+    "wikipedia_title" : "Protected landscapes and heritage areas",
+    "originalKey" : "natural and cultural interest areas",
+    "original_value" : "Protected landscapes and heritage areas",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "traditional varieties",
+    "wikipedia_title" : "Traditional crop varieties",
+    "originalKey" : "traditional varieties",
+    "original_value" : "Traditional crop varieties",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "organic production",
+    "wikipedia_title" : "Organic farming",
+    "originalKey" : "organic production",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "organic consumption",
+    "wikipedia_title" : "Sustainable consumption",
+    "originalKey" : "organic consumption",
+    "original_value" : "Sustainable consumption",
+    "Wikidata_ID" : "Q477335"
+  }, {
+    "entity_in_the_text" : "rural and urban areas",
+    "wikipedia_title" : "Rurban areas",
+    "originalKey" : "rural and urban areas",
+    "original_value" : "Rurban areas",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "public-private cooperation",
+    "wikipedia_title" : "Public–private partnership",
+    "originalKey" : "public-private cooperation",
+    "original_value" : "Public–private partnership",
+    "Wikidata_ID" : "Q221096"
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : "Product development",
+    "originalKey" : "New products",
+    "original_value" : "Product development",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New processes",
+    "wikipedia_title" : "Process innovation",
+    "originalKey" : "New processes",
+    "original_value" : "Process innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "New governance systems",
+    "wikipedia_title" : "Governance innovation",
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cropland",
+    "wikipedia_title" : "Agricultural land",
+    "originalKey" : "Cropland",
+    "original_value" : "Agricultural land",
+    "Wikidata_ID" : "Q3395383"
+  }, {
+    "entity_in_the_text" : "Natural, social and cultural",
+    "wikipedia_title" : "Triple bottom line",
+    "originalKey" : "Natural, social and cultural",
+    "original_value" : "Triple bottom line",
+    "Wikidata_ID" : "Q1252862"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Sites of Community Importance (SCI)",
+    "wikipedia_title" : "Site of Community Importance",
+    "originalKey" : "Sites of Community Importance (SCI)",
+    "original_value" : "Site of Community Importance",
+    "Wikidata_ID" : "Q796174"
+  }, {
+    "entity_in_the_text" : "Special Protection Area for Birds (SPA)",
+    "wikipedia_title" : "Special Protection Area",
+    "originalKey" : "Special Protection Area for Birds (SPA)",
+    "original_value" : "Special Protection Area",
+    "Wikidata_ID" : "Q2463705"
+  }, {
+    "entity_in_the_text" : "protected landscape of San Juan de la Peña and Monte Oroel",
+    "wikipedia_title" : "San Juan de la Peña",
+    "originalKey" : "protected landscape of San Juan de la Peña and Monte Oroel",
+    "original_value" : "San Juan de la Peña",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural Park of the Western Valleys",
+    "wikipedia_title" : "Western Valleys Natural Park",
+    "originalKey" : "Natural Park of the Western Valleys",
+    "original_value" : "Western Valleys Natural Park",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Torres de Berrellén melon trials",
+    "wikipedia_title" : "Torres de Berrellén",
+    "originalKey" : "Torres de Berrellén melon trials",
+    "original_value" : "Torres de Berrellén",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+    "wikipedia_title" : "Centro de Investigación y Tecnología Agroalimentaria de Aragón",
+    "originalKey" : "Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)",
+    "original_value" : "Centro de Investigación y Tecnología Agroalimentaria de Aragón",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Montañana",
+    "wikipedia_title" : "Montañana",
+    "originalKey" : "Montañana",
+    "original_value" : "Montañana",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Processing Plant of organic vegetables and fruits",
+    "wikipedia_title" : "Gardeniers",
+    "originalKey" : "Processing Plant of organic vegetables and fruits",
+    "original_value" : "Gardeniers",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Special Employment Center Gardeniers of ATADES",
+    "wikipedia_title" : "Gardeniers",
+    "originalKey" : "Special Employment Center Gardeniers of ATADES",
+    "original_value" : "Gardeniers",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Mercazaragoza",
+    "wikipedia_title" : "Mercabarna",
+    "originalKey" : "Mercazaragoza",
+    "original_value" : "Mercabarna",
+    "Wikidata_ID" : ""
+  } ]
+} ]

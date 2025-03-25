@@ -1,0 +1,469 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "MOVING reference member state of this VC",
+    "wikipedia_title" : "Value Chain (business model)",
+    "originalKey" : "MOVING reference member state of this VC",
+    "original_value" : "Value Chain (business model)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC 17 NMK",
+    "wikipedia_title" : "Value Chain (business model)",
+    "originalKey" : "VC 17 NMK",
+    "original_value" : "Value Chain (business model)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tobacco seeds",
+    "wikipedia_title" : "Tobacco cultivation",
+    "originalKey" : "tobacco seeds",
+    "original_value" : "Tobacco cultivation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "planting seedlings",
+    "wikipedia_title" : "Tobacco planting",
+    "originalKey" : "planting seedlings",
+    "original_value" : "Tobacco planting",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "harvesting",
+    "wikipedia_title" : "Tobacco harvesting",
+    "originalKey" : "harvesting",
+    "original_value" : "Tobacco harvesting",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "selling the row material",
+    "wikipedia_title" : "Tobacco trade",
+    "originalKey" : "selling the row material",
+    "original_value" : "Tobacco trade",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "processing",
+    "wikipedia_title" : "Tobacco processing",
+    "originalKey" : "processing",
+    "original_value" : "Tobacco processing",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "selling the final tobacco product to the end users",
+    "wikipedia_title" : "Tobacco sales",
+    "originalKey" : "selling the final tobacco product to the end users",
+    "original_value" : "Tobacco sales",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Jaka Prilep",
+    "wikipedia_title" : "Jaka Prilep",
+    "originalKey" : "Jaka Prilep",
+    "original_value" : "Jaka Prilep",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Mountain Meleshevija",
+    "wikipedia_title" : "Meleshevija Mountains",
+    "originalKey" : "Mountain Meleshevija",
+    "original_value" : "Meleshevija Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Maleshevski mountains",
+    "wikipedia_title" : "Maleshevski Mountains",
+    "originalKey" : "Maleshevski mountains",
+    "original_value" : "Maleshevski Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Berovo",
+    "wikipedia_title" : "Berovo Municipality",
+    "originalKey" : "Berovo",
+    "original_value" : "Berovo Municipality",
+    "Wikidata_ID" : "Q793727"
+  }, {
+    "entity_in_the_text" : "Pehchevo",
+    "wikipedia_title" : "Pehchevo Municipality",
+    "originalKey" : "Pehchevo",
+    "original_value" : "Pehchevo Municipality",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Republic of North Macedonia",
+    "wikipedia_title" : "North Macedonia",
+    "originalKey" : "Republic of North Macedonia",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  }, {
+    "entity_in_the_text" : "Bregalnica",
+    "wikipedia_title" : "Bregalnica River",
+    "originalKey" : "Bregalnica",
+    "original_value" : "Bregalnica River",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Strumica",
+    "wikipedia_title" : "Strumica",
+    "originalKey" : "Strumica",
+    "original_value" : "Strumica",
+    "Wikidata_ID" : "Q48814"
+  }, {
+    "entity_in_the_text" : "Maleshevija region",
+    "wikipedia_title" : "Maleshevija Region",
+    "originalKey" : "Maleshevija region",
+    "original_value" : "Maleshevija Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "area (km2)",
+    "wikipedia_title" : "Area",
+    "originalKey" : "area (km2)",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "minimum altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "minimum altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "maximum altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "maximum altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population (in thousand)",
+    "wikipedia_title" : "Population",
+    "originalKey" : "population (in thousand)",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density (Inhabitants/km2) in the LAU",
+    "wikipedia_title" : "Population Density",
+    "originalKey" : "population density (Inhabitants/km2) in the LAU",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "population change rate of the LAU in the last 10 years (%)",
+    "wikipedia_title" : "Population Change Rate",
+    "originalKey" : "population change rate of the LAU in the last 10 years (%)",
+    "original_value" : "Population Change Rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "overall regional population density (Inhabitants/km2)",
+    "wikipedia_title" : "Population Density",
+    "originalKey" : "overall regional population density (Inhabitants/km2)",
+    "original_value" : "Population Density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "regional population change rate in the last 10 years (%)",
+    "wikipedia_title" : "Population Change Rate",
+    "originalKey" : "regional population change rate in the last 10 years (%)",
+    "original_value" : "Population Change Rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces in Europe",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "List of regions in Europe",
+    "originalKey" : "Region",
+    "original_value" : "List of regions in Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income (EUR/year)",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income (EUR/year)",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year)",
+    "wikipedia_title" : "Gross Domestic Product (GDP)",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year)",
+    "original_value" : "Gross Domestic Product (GDP)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year",
+    "wikipedia_title" : "Primary industry",
+    "originalKey" : "primary sector share of total GVA/year",
+    "original_value" : "Primary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year",
+    "wikipedia_title" : "Secondary industry",
+    "originalKey" : "secondary sector share of total GVA/year",
+    "original_value" : "Secondary industry",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year",
+    "wikipedia_title" : "Tertiary industry",
+    "originalKey" : "tertiary sector share of total GVA/year",
+    "original_value" : "Tertiary industry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "bed places",
+    "wikipedia_title" : "List of accommodations in the United States",
+    "originalKey" : "bed places",
+    "original_value" : "List of accommodations in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tourist accommodations",
+    "wikipedia_title" : "Tourism in the United States",
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourism in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total bed places (BPs)",
+    "wikipedia_title" : "List of accommodations in the United States",
+    "originalKey" : "total bed places (BPs)",
+    "original_value" : "List of accommodations in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional share",
+    "wikipedia_title" : "Regional government",
+    "originalKey" : "regional share",
+    "original_value" : "Regional government",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agriculture in the United States",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture in the United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population over 100000 (km)",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "population over 100000 (km)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector share of total employment/year [Province]",
+    "wikipedia_title" : "List of primary industries by country",
+    "originalKey" : "primary sector share of total employment/year [Province]",
+    "original_value" : "List of primary industries by country",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Province]",
+    "wikipedia_title" : "List of secondary industries by country",
+    "originalKey" : "secondary sector share of total employment/year [Province]",
+    "original_value" : "List of secondary industries by country",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Province]",
+    "wikipedia_title" : "List of tertiary industries by country",
+    "originalKey" : "tertiary sector share of total employment/year [Province]",
+    "original_value" : "List of tertiary industries by country",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector share of total employment/year [Region]",
+    "wikipedia_title" : "List of primary industries by country",
+    "originalKey" : "primary sector share of total employment/year [Region]",
+    "original_value" : "List of primary industries by country",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total employment/year [Region]",
+    "wikipedia_title" : "List of secondary industries by country",
+    "originalKey" : "secondary sector share of total employment/year [Region]",
+    "original_value" : "List of secondary industries by country",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total employment/year [Region]",
+    "wikipedia_title" : "List of tertiary industries by country",
+    "originalKey" : "tertiary sector share of total employment/year [Region]",
+    "original_value" : "List of tertiary industries by country",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Republic of Macedonia",
+    "wikipedia_title" : "Republic of North Macedonia",
+    "originalKey" : "Republic of Macedonia",
+    "original_value" : "Republic of North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tobacco production",
+    "wikipedia_title" : "Tobacco production in the Republic of North Macedonia",
+    "originalKey" : "tobacco production",
+    "original_value" : "Tobacco production in the Republic of North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "oriental types",
+    "wikipedia_title" : "Oriental tobacco",
+    "originalKey" : "oriental types",
+    "original_value" : "Oriental tobacco",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Macedonia",
+    "wikipedia_title" : "North Macedonia",
+    "originalKey" : "Macedonia",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  }, {
+    "entity_in_the_text" : "state policy",
+    "wikipedia_title" : "Agricultural policies in North Macedonia",
+    "originalKey" : "state policy",
+    "original_value" : "Agricultural policies in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tobacco production collapse",
+    "wikipedia_title" : "Tobacco industry in North Macedonia",
+    "originalKey" : "tobacco production collapse",
+    "original_value" : "Tobacco industry in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "subsiding policy of the state",
+    "wikipedia_title" : "Economic policies of North Macedonia",
+    "originalKey" : "subsiding policy of the state",
+    "original_value" : "Economic policies of North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "good opportunities even to increase",
+    "wikipedia_title" : "Tobacco industry in North Macedonia",
+    "originalKey" : "good opportunities even to increase",
+    "original_value" : "Tobacco industry in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "alternative crop",
+    "wikipedia_title" : "Alternative crops in agriculture",
+    "originalKey" : "alternative crop",
+    "original_value" : "Alternative crops in agriculture",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "labor force",
+    "wikipedia_title" : "Labor market in North Macedonia",
+    "originalKey" : "labor force",
+    "original_value" : "Labor market in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "economic impact",
+    "wikipedia_title" : "Economic impact of tobacco industry in North Macedonia",
+    "originalKey" : "economic impact",
+    "original_value" : "Economic impact of tobacco industry in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "30,000 families",
+    "wikipedia_title" : "Tobacco production in North Macedonia",
+    "originalKey" : "30,000 families",
+    "original_value" : "Tobacco production in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "100,000 people",
+    "wikipedia_title" : "Tobacco industry in North Macedonia",
+    "originalKey" : "100,000 people",
+    "original_value" : "Tobacco industry in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tobacco",
+    "wikipedia_title" : "Tobacco",
+    "originalKey" : "tobacco",
+    "original_value" : "Tobacco",
+    "Wikidata_ID" : "Q1566"
+  }, {
+    "entity_in_the_text" : "Macedonian agriculture",
+    "wikipedia_title" : "Agriculture in North Macedonia",
+    "originalKey" : "Macedonian agriculture",
+    "original_value" : "Agriculture in North Macedonia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "poorer soils",
+    "wikipedia_title" : "Soil quality in North Macedonia",
+    "originalKey" : "poorer soils",
+    "original_value" : "Soil quality in North Macedonia",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Production of oriental tobacco was reduced for over four times",
+    "wikipedia_title" : "Tobacco production",
+    "originalKey" : "Production of oriental tobacco was reduced for over four times",
+    "original_value" : "Tobacco production",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "shift from tobacco toward growing other agricultural products with more value added",
+    "wikipedia_title" : "Agricultural economics",
+    "originalKey" : "shift from tobacco toward growing other agricultural products with more value added",
+    "original_value" : "Agricultural economics",
+    "Wikidata_ID" : "Q396340"
+  }, {
+    "entity_in_the_text" : "less people smoking tobacco",
+    "wikipedia_title" : "Smoking prevalence",
+    "originalKey" : "less people smoking tobacco",
+    "original_value" : "Smoking prevalence",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "labor intensive need for growing and producing tobacco",
+    "wikipedia_title" : "Agriculture",
+    "originalKey" : "labor intensive need for growing and producing tobacco",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "entity_in_the_text" : "solid soil potential for producing tobacco",
+    "wikipedia_title" : "Soil fertility",
+    "originalKey" : "solid soil potential for producing tobacco",
+    "original_value" : "Soil fertility",
+    "Wikidata_ID" : "Q202080"
+  }, {
+    "entity_in_the_text" : "VC is Current and Predicted",
+    "wikipedia_title" : "Challenges in business",
+    "originalKey" : "VC is Current and Predicted",
+    "original_value" : "Challenges in business",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC is classified as Traditional",
+    "wikipedia_title" : "Traditional business model",
+    "originalKey" : "VC is classified as Traditional",
+    "original_value" : "Traditional business model",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "innovation",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "land use systems",
+    "wikipedia_title" : "Land use system",
+    "originalKey" : "land use systems",
+    "original_value" : "Land use system",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Natural land",
+    "originalKey" : "Natural land",
+    "original_value" : "Natural land",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "local assets",
+    "wikipedia_title" : "Local asset",
+    "originalKey" : "local assets",
+    "original_value" : "Local asset",
+    "Wikidata_ID" : ""
+  } ]
+} ]
