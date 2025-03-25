@@ -1,0 +1,204 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "AUSTRIA",
+    "wikipedia_title" : "Austria",
+    "originalKey" : "AUSTRIA",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  }, {
+    "entity_in_the_text" : "Almenland small local diary",
+    "wikipedia_title" : "None (not a Wikipedia page)",
+    "originalKey" : "Almenland small local diary",
+    "original_value" : "None (not a Wikipedia page)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Almenland Stollenkäse GmbH",
+    "wikipedia_title" : "None (not a Wikipedia page)",
+    "originalKey" : "Almenland Stollenkäse GmbH",
+    "original_value" : "None (not a Wikipedia page)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "South of Germany",
+    "wikipedia_title" : "Southern Germany",
+    "originalKey" : "South of Germany",
+    "original_value" : "Southern Germany",
+    "Wikidata_ID" : "Q46519"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "RR 11",
+    "wikipedia_title" : "Rottenmann and Wölz Tauern",
+    "originalKey" : "RR 11",
+    "original_value" : "Rottenmann and Wölz Tauern",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Austrian Alps",
+    "wikipedia_title" : "Austrian Alps",
+    "originalKey" : "Austrian Alps",
+    "original_value" : "Austrian Alps",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Weiz",
+    "wikipedia_title" : "Weiz (Styria)",
+    "originalKey" : "Weiz",
+    "original_value" : "Weiz (Styria)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Human settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Human settlement",
+    "Wikidata_ID" : "Q486972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List_of_provinces_of_[Country]",
+    "originalKey" : "[Province]",
+    "original_value" : "List_of_provinces_of_[Country]",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Regions_of_[Country]",
+    "originalKey" : "[Region]",
+    "original_value" : "Regions_of_[Country]",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "cheese",
+    "wikipedia_title" : "Cheese",
+    "originalKey" : "cheese",
+    "original_value" : "Cheese",
+    "Wikidata_ID" : "Q10943"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "AgrarMarkt Austria",
+    "wikipedia_title" : "Agrarmarkt Österreich",
+    "originalKey" : "AgrarMarkt Austria",
+    "original_value" : "Agrarmarkt Österreich",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "climate",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "climate",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Silver mine",
+    "wikipedia_title" : "Mine",
+    "originalKey" : "Silver mine",
+    "original_value" : "Mine",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "USA",
+    "wikipedia_title" : "United States",
+    "originalKey" : "USA",
+    "original_value" : "United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Arzberger Ursteirer",
+    "wikipedia_title" : "Arzberger Ursteirer",
+    "Note" : "This might not be a Wikipedia page, as it seems to be a specific type of cheese)\n        }\n    ]",
+    "originalKey" : "Arzberger Ursteirer",
+    "original_value" : "Arzberger Ursteirer",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Austrian Alps",
+    "wikipedia_title" : "Austria",
+    "originalKey" : "Austrian Alps",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  }, {
+    "entity_in_the_text" : "hay milk",
+    "wikipedia_title" : "Haymilk",
+    "originalKey" : "hay milk",
+    "original_value" : "Haymilk",
+    "Wikidata_ID" : ""
+  } ]
+} ]

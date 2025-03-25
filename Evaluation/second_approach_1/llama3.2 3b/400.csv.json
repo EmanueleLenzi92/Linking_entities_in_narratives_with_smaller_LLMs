@@ -1,0 +1,313 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SWITZERLAND",
+    "wikipedia_title" : "Switzerland",
+    "originalKey" : "SWITZERLAND",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "entity_in_the_text" : "VC 16 CH1",
+    "wikipedia_title" : "Moving Card",
+    "originalKey" : "VC 16 CH1",
+    "original_value" : "Moving Card",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Engadiner",
+    "wikipedia_title" : "Engadiner sheep breed",
+    "originalKey" : "Engadiner",
+    "original_value" : "Engadiner sheep breed",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Spiegelschaf",
+    "wikipedia_title" : "Spiegelschaf",
+    "originalKey" : "Spiegelschaf",
+    "original_value" : "Spiegelschaf",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Nera Verzasca",
+    "wikipedia_title" : "Nera Verzasca goat breed",
+    "originalKey" : "Nera Verzasca",
+    "original_value" : "Nera Verzasca goat breed",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Capra Grigia",
+    "wikipedia_title" : "Capra Grigia",
+    "originalKey" : "Capra Grigia",
+    "original_value" : "Capra Grigia",
+    "Wikidata_ID" : "Q1543712"
+  }, {
+    "entity_in_the_text" : "Black Alpine Pig",
+    "wikipedia_title" : "Black Alpine Pig",
+    "originalKey" : "Black Alpine Pig",
+    "original_value" : "Black Alpine Pig",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Valley Contraction",
+    "originalKey" : "VC",
+    "original_value" : "Valley Contraction",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Valley Contraction",
+    "originalKey" : "VC",
+    "original_value" : "Valley Contraction",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "altimetry",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "entity_in_the_text" : "population density",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "population density",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "population change rate",
+    "wikipedia_title" : "Population growth rate",
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional population density",
+    "wikipedia_title" : "Regional population density",
+    "originalKey" : "regional population density",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "average per capita income (EUR/year) [Province]",
+    "wikipedia_title" : "Gross Domestic Product per capita",
+    "originalKey" : "average per capita income (EUR/year) [Province]",
+    "original_value" : "Gross Domestic Product per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year) [Province]",
+    "wikipedia_title" : "Gross Domestic Product",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Province]",
+    "original_value" : "Gross Domestic Product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Sectoral composition of GDP",
+    "originalKey" : "primary sector share of total GVA/year [Province]",
+    "original_value" : "Sectoral composition of GDP",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Sectoral composition of GDP",
+    "originalKey" : "secondary sector share of total GVA/year [Province]",
+    "original_value" : "Sectoral composition of GDP",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year [Province]",
+    "wikipedia_title" : "Sectoral composition of GDP",
+    "originalKey" : "tertiary sector share of total GVA/year [Province]",
+    "original_value" : "Sectoral composition of GDP",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income (EUR/year) [Region]",
+    "wikipedia_title" : "Gross Domestic Product per capita",
+    "originalKey" : "per capita income (EUR/year) [Region]",
+    "original_value" : "Gross Domestic Product per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added (GVA) (EUR million/year) [Region]",
+    "wikipedia_title" : "Gross Domestic Product",
+    "originalKey" : "total Gross Value Added (GVA) (EUR million/year) [Region]",
+    "original_value" : "Gross Domestic Product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Sectoral composition of GDP",
+    "originalKey" : "primary sector share of total GVA/year [Region]",
+    "original_value" : "Sectoral composition of GDP",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Sectoral composition of GDP",
+    "originalKey" : "secondary sector share of total GVA/year [Region]",
+    "original_value" : "Sectoral composition of GDP",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year [Region]",
+    "wikipedia_title" : "Sectoral composition of GDP",
+    "originalKey" : "tertiary sector share of total GVA/year [Region]",
+    "original_value" : "Sectoral composition of GDP",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region (geography)",
+    "originalKey" : "Region",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "nearest settlement with population over 100000",
+    "wikipedia_title" : "Nearest settlement",
+    "originalKey" : "nearest settlement with population over 100000",
+    "original_value" : "Nearest settlement",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List of provinces in Canada",
+    "originalKey" : "[Province]",
+    "original_value" : "List of provinces in Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Administrative regions of Canada",
+    "originalKey" : "[Region]",
+    "original_value" : "Administrative regions of Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "traditional breeds",
+    "wikipedia_title" : "List of traditional livestock breeds",
+    "originalKey" : "traditional breeds",
+    "original_value" : "List of traditional livestock breeds",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "local situation",
+    "wikipedia_title" : "Localism",
+    "originalKey" : "local situation",
+    "original_value" : "Localism",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "farmer led initiative",
+    "wikipedia_title" : "Agroecology",
+    "originalKey" : "farmer led initiative",
+    "original_value" : "Agroecology",
+    "Wikidata_ID" : "Q396338"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "Veganism",
+    "wikipedia_title" : "Veganism",
+    "originalKey" : "Veganism",
+    "original_value" : "Veganism",
+    "Wikidata_ID" : "Q181138"
+  }, {
+    "entity_in_the_text" : "Challenge",
+    "wikipedia_title" : "Challenge (problem)",
+    "originalKey" : "Challenge",
+    "original_value" : "Challenge (problem)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Trend",
+    "wikipedia_title" : "Trend",
+    "originalKey" : "Trend",
+    "original_value" : "Trend",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Traditional",
+    "wikipedia_title" : "Traditionalism",
+    "originalKey" : "Traditional",
+    "original_value" : "Traditionalism",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Innovative",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "Innovative",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Endogenous",
+    "wikipedia_title" : "Endogenous innovation",
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "transnational organisation",
+    "wikipedia_title" : "Transnational organization",
+    "originalKey" : "transnational organisation",
+    "original_value" : "Transnational organization",
+    "Wikidata_ID" : "Q16926150"
+  }, {
+    "entity_in_the_text" : "regional branches",
+    "wikipedia_title" : "Regional branch",
+    "originalKey" : "regional branches",
+    "original_value" : "Regional branch",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "farmers",
+    "wikipedia_title" : "Farmer",
+    "originalKey" : "farmers",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  }, {
+    "entity_in_the_text" : "old animal breeds",
+    "wikipedia_title" : "Old animal breed",
+    "originalKey" : "old animal breeds",
+    "original_value" : "Old animal breed",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Grassland",
+    "wikipedia_title" : "Grassland",
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Natural resource",
+    "originalKey" : "Natural",
+    "original_value" : "Natural resource",
+    "Wikidata_ID" : "Q188460"
+  }, {
+    "entity_in_the_text" : "cultural",
+    "wikipedia_title" : "Cultural asset",
+    "originalKey" : "cultural",
+    "original_value" : "Cultural asset",
+    "Wikidata_ID" : ""
+  } ]
+} ]

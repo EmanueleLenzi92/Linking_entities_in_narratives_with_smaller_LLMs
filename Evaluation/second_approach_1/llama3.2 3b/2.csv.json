@@ -1,0 +1,227 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "AUSTRIA",
+    "wikipedia_title" : "Austria",
+    "originalKey" : "AUSTRIA",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  }, {
+    "entity_in_the_text" : "VC 02 AT",
+    "wikipedia_title" : "None found, possibly a custom or private identifier",
+    "originalKey" : "VC 02 AT",
+    "original_value" : "None found, possibly a custom or private identifier",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Almenland Stollenkäse GmbH",
+    "wikipedia_title" : "None found, possibly a private company",
+    "originalKey" : "Almenland Stollenkäse GmbH",
+    "original_value" : "None found, possibly a private company",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Austrian Alps",
+    "wikipedia_title" : "Alpen",
+    "originalKey" : "Austrian Alps",
+    "original_value" : "Alpen",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Weiz",
+    "wikipedia_title" : "Weiz",
+    "originalKey" : "Weiz",
+    "original_value" : "Weiz",
+    "Wikidata_ID" : "Q875641"
+  }, {
+    "entity_in_the_text" : "Styrian alpine pasture region",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Styrian alpine pasture region",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "altimetry",
+    "wikipedia_title" : "Altimetry",
+    "originalKey" : "altimetry",
+    "original_value" : "Altimetry",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "per capita income (EUR/year)",
+    "wikipedia_title" : "Gross domestic product per capita",
+    "originalKey" : "per capita income (EUR/year)",
+    "original_value" : "Gross domestic product per capita",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added (GVA) (EUR million/year)",
+    "wikipedia_title" : "Gross domestic product",
+    "originalKey" : "Gross Value Added (GVA) (EUR million/year)",
+    "original_value" : "Gross domestic product",
+    "Wikidata_ID" : "Q12638"
+  }, {
+    "entity_in_the_text" : "primary sector share of total GVA/year",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector share of total GVA/year",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share of total GVA/year",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector share of total GVA/year",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share of total GVA/year",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector share of total GVA/year",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region (geography)",
+    "originalKey" : "Region",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed place",
+    "originalKey" : "BPs",
+    "original_value" : "Bed place",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List of provinces in Canada",
+    "originalKey" : "[Province]",
+    "original_value" : "List of provinces in Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "List of regions in Canada",
+    "originalKey" : "[Region]",
+    "original_value" : "List of regions in Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Almenland dairy",
+    "wikipedia_title" : "Almenland dairy",
+    "originalKey" : "Almenland dairy",
+    "original_value" : "Almenland dairy",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "AgrarMarkt Austria",
+    "wikipedia_title" : "AgrarMarkt Austria",
+    "originalKey" : "AgrarMarkt Austria",
+    "original_value" : "AgrarMarkt Austria",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Alpenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Alpenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Endogenous",
+    "wikipedia_title" : "Endogenous innovation",
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Exogenous",
+    "wikipedia_title" : "Exogenous innovation",
+    "originalKey" : "Exogenous",
+    "original_value" : "Exogenous innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cheese",
+    "wikipedia_title" : "Cheese",
+    "originalKey" : "Cheese",
+    "original_value" : "Cheese",
+    "Wikidata_ID" : "Q10943"
+  }, {
+    "entity_in_the_text" : "Tunnel",
+    "wikipedia_title" : "Mine tunnel",
+    "originalKey" : "Tunnel",
+    "original_value" : "Mine tunnel",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Arzberger Ursteirer",
+    "wikipedia_title" : "Arzberger Ursteiger",
+    "originalKey" : "Arzberger Ursteirer",
+    "original_value" : "Arzberger Ursteiger",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "USA",
+    "wikipedia_title" : "United States",
+    "originalKey" : "USA",
+    "original_value" : "United States",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Pasture farming",
+    "wikipedia_title" : "Pasture farming",
+    "originalKey" : "Pasture farming",
+    "original_value" : "Pasture farming",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Austrian Alps",
+    "wikipedia_title" : "Alps",
+    "originalKey" : "Austrian Alps",
+    "original_value" : "Alps",
+    "Wikidata_ID" : "Q1286"
+  }, {
+    "entity_in_the_text" : "silver mine",
+    "wikipedia_title" : "Silver mine",
+    "originalKey" : "silver mine",
+    "original_value" : "Silver mine",
+    "Wikidata_ID" : ""
+  } ]
+} ]

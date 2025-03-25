@@ -1,0 +1,287 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "TURKEY",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "TURKEY",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "Mugla",
+    "wikipedia_title" : "Muğla Province",
+    "originalKey" : "Mugla",
+    "original_value" : "Muğla Province",
+    "Wikidata_ID" : "Q123934"
+  }, {
+    "entity_in_the_text" : "TURKSTAT",
+    "wikipedia_title" : "Turkish Statistical Institute",
+    "originalKey" : "TURKSTAT",
+    "original_value" : "Turkish Statistical Institute",
+    "Wikidata_ID" : "Q1375058"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Menteşe Mountains",
+    "wikipedia_title" : "Menteşe Mountains",
+    "originalKey" : "Menteşe Mountains",
+    "original_value" : "Menteşe Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Ula",
+    "wikipedia_title" : "Ula, Muğla",
+    "originalKey" : "Ula",
+    "original_value" : "Ula, Muğla",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Muğla province",
+    "wikipedia_title" : "Muğla Province",
+    "originalKey" : "Muğla province",
+    "original_value" : "Muğla Province",
+    "Wikidata_ID" : "Q123934"
+  }, {
+    "entity_in_the_text" : "Turkey",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "Turkey",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province (administrative division)",
+    "originalKey" : "Province",
+    "original_value" : "Province (administrative division)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List_of_provinces_and_territories_of_Canada",
+    "originalKey" : "[Province]",
+    "original_value" : "List_of_provinces_and_territories_of_Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Economic_regions_of_Canada",
+    "originalKey" : "[Region]",
+    "original_value" : "Economic_regions_of_Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Turkey",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "Turkey",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "Pine honey",
+    "wikipedia_title" : "Honey",
+    "originalKey" : "Pine honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "entity_in_the_text" : "Turkish Patent and Trademark Office",
+    "wikipedia_title" : "Turkish Patent and Trademark Office",
+    "originalKey" : "Turkish Patent and Trademark Office",
+    "original_value" : "Turkish Patent and Trademark Office",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Turkey",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "Turkey",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "Muğla Province",
+    "wikipedia_title" : "Muğla Province",
+    "originalKey" : "Muğla Province",
+    "original_value" : "Muğla Province",
+    "Wikidata_ID" : "Q123934"
+  }, {
+    "entity_in_the_text" : "Muğla",
+    "wikipedia_title" : "Muğla",
+    "originalKey" : "Muğla",
+    "original_value" : "Muğla",
+    "Wikidata_ID" : "Q216912"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Honey yield",
+    "wikipedia_title" : "Honey production",
+    "originalKey" : "Honey yield",
+    "original_value" : "Honey production",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Climatic conditions",
+    "wikipedia_title" : "Climate",
+    "originalKey" : "Climatic conditions",
+    "original_value" : "Climate",
+    "Wikidata_ID" : "Q7937"
+  }, {
+    "entity_in_the_text" : "Migratory beekeeper",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "Migratory beekeeper",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "Young people",
+    "wikipedia_title" : "Demographics of youth",
+    "originalKey" : "Young people",
+    "original_value" : "Demographics of youth",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Supply chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Supply chain",
+    "Wikidata_ID" : "Q1824206"
+  }, {
+    "entity_in_the_text" : "Rainforest Alliance",
+    "wikipedia_title" : "Rainforest Alliance",
+    "originalKey" : "Rainforest Alliance",
+    "original_value" : "Rainforest Alliance",
+    "Wikidata_ID" : "Q2034373"
+  }, {
+    "entity_in_the_text" : "Organic",
+    "wikipedia_title" : "Organic farming",
+    "originalKey" : "Organic",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Turkey",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "Turkey",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "Switzerland",
+    "wikipedia_title" : "Switzerland",
+    "originalKey" : "Switzerland",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "entity_in_the_text" : "UK",
+    "wikipedia_title" : "United Kingdom",
+    "originalKey" : "UK",
+    "original_value" : "United Kingdom",
+    "Wikidata_ID" : "Q145"
+  }, {
+    "entity_in_the_text" : "Austria",
+    "wikipedia_title" : "Austria",
+    "originalKey" : "Austria",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  }, {
+    "entity_in_the_text" : "Czech Republic",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czech Republic",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "France",
+    "wikipedia_title" : "France",
+    "originalKey" : "France",
+    "original_value" : "France",
+    "Wikidata_ID" : "Q142"
+  }, {
+    "entity_in_the_text" : "Greece",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "Greece",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "Hungary",
+    "wikipedia_title" : "Hungary",
+    "originalKey" : "Hungary",
+    "original_value" : "Hungary",
+    "Wikidata_ID" : "Q28"
+  }, {
+    "entity_in_the_text" : "Italy",
+    "wikipedia_title" : "Italy",
+    "originalKey" : "Italy",
+    "original_value" : "Italy",
+    "Wikidata_ID" : "Q38"
+  }, {
+    "entity_in_the_text" : "North Macedonia",
+    "wikipedia_title" : "North Macedonia",
+    "originalKey" : "North Macedonia",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  }, {
+    "entity_in_the_text" : "Romania",
+    "wikipedia_title" : "Romania",
+    "originalKey" : "Romania",
+    "original_value" : "Romania",
+    "Wikidata_ID" : "Q218"
+  }, {
+    "entity_in_the_text" : "Serbia",
+    "wikipedia_title" : "Serbia",
+    "originalKey" : "Serbia",
+    "original_value" : "Serbia",
+    "Wikidata_ID" : "Q403"
+  }, {
+    "entity_in_the_text" : "Slovakia",
+    "wikipedia_title" : "Slovakia",
+    "originalKey" : "Slovakia",
+    "original_value" : "Slovakia",
+    "Wikidata_ID" : "Q214"
+  }, {
+    "entity_in_the_text" : "Spain",
+    "wikipedia_title" : "Spain",
+    "originalKey" : "Spain",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  } ]
+} ]

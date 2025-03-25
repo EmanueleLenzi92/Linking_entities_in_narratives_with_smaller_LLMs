@@ -1,0 +1,313 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "MOVING",
+    "wikipedia_title" : "MOVING (Value Chain)",
+    "originalKey" : "MOVING",
+    "original_value" : "MOVING (Value Chain)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "NMK",
+    "wikipedia_title" : "NMK",
+    "originalKey" : "NMK",
+    "original_value" : "NMK",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC 16 NMK",
+    "wikipedia_title" : "VC 16 NMK",
+    "originalKey" : "VC 16 NMK",
+    "original_value" : "VC 16 NMK",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kozuvcanka",
+    "wikipedia_title" : "Kozuvcanka",
+    "originalKey" : "Kozuvcanka",
+    "original_value" : "Kozuvcanka",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Pelisterka",
+    "wikipedia_title" : "Pelisterka",
+    "originalKey" : "Pelisterka",
+    "original_value" : "Pelisterka",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Maya",
+    "wikipedia_title" : "Maya (company)",
+    "originalKey" : "Maya",
+    "original_value" : "Maya (company)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Mountain Meleshevija",
+    "wikipedia_title" : "Maleshevija",
+    "originalKey" : "Mountain Meleshevija",
+    "original_value" : "Maleshevija",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Maleshevski mountains",
+    "wikipedia_title" : "Maleshevski Mountains",
+    "originalKey" : "Maleshevski mountains",
+    "original_value" : "Maleshevski Mountains",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "area",
+    "wikipedia_title" : "Area",
+    "originalKey" : "area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "minimum altimetry",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "minimum altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "entity_in_the_text" : "maximum altimetry",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "maximum altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "entity_in_the_text" : "total population",
+    "wikipedia_title" : "Population",
+    "originalKey" : "total population",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "population density",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "population change rate",
+    "wikipedia_title" : "Demographic trends",
+    "originalKey" : "population change rate",
+    "original_value" : "Demographic trends",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional population density",
+    "wikipedia_title" : "Regional population density",
+    "originalKey" : "regional population density",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional population change rate",
+    "wikipedia_title" : "Demographic trends",
+    "originalKey" : "regional population change rate",
+    "original_value" : "Demographic trends",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "average per capita income",
+    "wikipedia_title" : "Average per capita income",
+    "originalKey" : "average per capita income",
+    "original_value" : "Average per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "total Gross Value Added",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "entity_in_the_text" : "primary sector share",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector share",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector share",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector share",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "Gross Value Added",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "total BPs/year",
+    "wikipedia_title" : "Tourist accommodation",
+    "originalKey" : "total BPs/year",
+    "original_value" : "Tourist accommodation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU (Local Administrative Unit)",
+    "wikipedia_title" : "Local administrative division",
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Local administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural land use",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural land use",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Vardar planning region",
+    "wikipedia_title" : "Vardar Planning Region",
+    "originalKey" : "Vardar planning region",
+    "original_value" : "Vardar Planning Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "commercial water",
+    "wikipedia_title" : "Commercial Water",
+    "originalKey" : "commercial water",
+    "original_value" : "Commercial Water",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "water resources",
+    "wikipedia_title" : "Water Resources",
+    "originalKey" : "water resources",
+    "original_value" : "Water Resources",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Tikvesh",
+    "wikipedia_title" : "Tikvesh Reservoir",
+    "originalKey" : "Tikvesh",
+    "original_value" : "Tikvesh Reservoir",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Lices",
+    "wikipedia_title" : "Lices Reservoir",
+    "originalKey" : "Lices",
+    "original_value" : "Lices Reservoir",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Mladost",
+    "wikipedia_title" : "Mladost Reservoir",
+    "originalKey" : "Mladost",
+    "original_value" : "Mladost Reservoir",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kozuvcanka",
+    "wikipedia_title" : "Kozuvcanka",
+    "originalKey" : "Kozuvcanka",
+    "original_value" : "Kozuvcanka",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "mineral water",
+    "wikipedia_title" : "Mineral Water",
+    "originalKey" : "mineral water",
+    "original_value" : "Mineral Water",
+    "Wikidata_ID" : "Q178921"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Kozuvcanka",
+    "wikipedia_title" : "Kozuvcanka",
+    "originalKey" : "Kozuvcanka",
+    "original_value" : "Kozuvcanka",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Maleshevski mountain",
+    "wikipedia_title" : "Maleshevski mountain",
+    "originalKey" : "Maleshevski mountain",
+    "original_value" : "Maleshevski mountain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Vardarski region",
+    "wikipedia_title" : "Vardarski region",
+    "originalKey" : "Vardarski region",
+    "original_value" : "Vardarski region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "technology on production and distribution",
+    "wikipedia_title" : "Technology",
+    "originalKey" : "technology on production and distribution",
+    "original_value" : "Technology",
+    "Wikidata_ID" : "Q11016"
+  }, {
+    "entity_in_the_text" : "New processes and New marketing strategies",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "New processes and New marketing strategies",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "Forestry and Natural land",
+    "wikipedia_title" : "Land use systems",
+    "originalKey" : "Forestry and Natural land",
+    "original_value" : "Land use systems",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural, social and cultural",
+    "wikipedia_title" : "Local assets",
+    "originalKey" : "Natural, social and cultural",
+    "original_value" : "Local assets",
+    "Wikidata_ID" : ""
+  } ]
+} ]

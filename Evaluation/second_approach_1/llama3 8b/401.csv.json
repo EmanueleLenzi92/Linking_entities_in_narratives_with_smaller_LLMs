@@ -1,0 +1,109 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SWITZERLAND",
+    "wikipedia_title" : "Switzerland",
+    "originalKey" : "SWITZERLAND",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "entity_in_the_text" : "Pro Montagna",
+    "wikipedia_title" : "Pro Montagna",
+    "originalKey" : "Pro Montagna",
+    "original_value" : "Pro Montagna",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Valley_chain",
+    "originalKey" : "VC",
+    "original_value" : "Valley_chain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province (administrative division)",
+    "originalKey" : "Province",
+    "original_value" : "Province (administrative division)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative region",
+    "originalKey" : "Region",
+    "original_value" : "Administrative region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province (administrative division)",
+    "originalKey" : "Province",
+    "original_value" : "Province (administrative division)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative region",
+    "originalKey" : "Region",
+    "original_value" : "Administrative region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "traditional VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "traditional VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "bees",
+    "wikipedia_title" : "Honey bee",
+    "originalKey" : "bees",
+    "original_value" : "Honey bee",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Value_chain",
+    "originalKey" : "VC",
+    "original_value" : "Value_chain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Beehives",
+    "wikipedia_title" : "Beehive",
+    "originalKey" : "Beehives",
+    "original_value" : "Beehive",
+    "Wikidata_ID" : "Q165107"
+  } ]
+} ]

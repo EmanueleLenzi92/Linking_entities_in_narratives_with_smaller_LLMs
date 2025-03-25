@@ -1,0 +1,263 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "GREECE",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "GREECE",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "Aloe vera",
+    "wikipedia_title" : "Aloe vera",
+    "originalKey" : "Aloe vera",
+    "original_value" : "Aloe vera",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Minoan Land",
+    "wikipedia_title" : "Minoan Land",
+    "originalKey" : "Minoan Land",
+    "original_value" : "Minoan Land",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cretan Diet Festival",
+    "wikipedia_title" : "Cretan Diet Festival",
+    "originalKey" : "Cretan Diet Festival",
+    "original_value" : "Cretan Diet Festival",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Pancretan Network of Organic Farmers of Aloe Vera",
+    "wikipedia_title" : "Pancretan Association of Cooperatives of Crete",
+    "originalKey" : "Pancretan Network of Organic Farmers of Aloe Vera",
+    "original_value" : "Pancretan Association of Cooperatives of Crete",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Dikti Mountains",
+    "wikipedia_title" : "Dikti Mountains",
+    "originalKey" : "Dikti Mountains",
+    "original_value" : "Dikti Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VIANNOS",
+    "wikipedia_title" : "Viannos",
+    "originalKey" : "VIANNOS",
+    "original_value" : "Viannos",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Pinus brutia",
+    "wikipedia_title" : "Pinus brutia",
+    "originalKey" : "Pinus brutia",
+    "original_value" : "Pinus brutia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Quercus coccifera",
+    "wikipedia_title" : "Quercus coccifera",
+    "originalKey" : "Quercus coccifera",
+    "original_value" : "Quercus coccifera",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cupressus sempervirens",
+    "wikipedia_title" : "Cupressus sempervirens",
+    "originalKey" : "Cupressus sempervirens",
+    "original_value" : "Cupressus sempervirens",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Quercus ilex",
+    "wikipedia_title" : "Quercus ilex",
+    "originalKey" : "Quercus ilex",
+    "original_value" : "Quercus ilex",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Acer sempervirens",
+    "wikipedia_title" : "Acer sempervirens",
+    "originalKey" : "Acer sempervirens",
+    "original_value" : "Acer sempervirens",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List_of_provinces_of_Spain",
+    "originalKey" : "[Province]",
+    "original_value" : "List_of_provinces_of_Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Autonomous_communities_of_Spain",
+    "originalKey" : "[Region]",
+    "original_value" : "Autonomous_communities_of_Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Human settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Human settlement",
+    "Wikidata_ID" : "Q486972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List_of_provinces_of_[Country]",
+    "originalKey" : "[Province]",
+    "original_value" : "List_of_provinces_of_[Country]",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Regions_of_[Country]",
+    "originalKey" : "[Region]",
+    "original_value" : "Regions_of_[Country]",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Aloe vera",
+    "wikipedia_title" : "Aloe vera",
+    "originalKey" : "Aloe vera",
+    "original_value" : "Aloe vera",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Dikti mountain landscape",
+    "wikipedia_title" : "Dikteon Cave",
+    "originalKey" : "Dikti mountain landscape",
+    "original_value" : "Dikteon Cave",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "Greece",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "Greece",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "Viannos",
+    "wikipedia_title" : "Viannos",
+    "originalKey" : "Viannos",
+    "original_value" : "Viannos",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Minoan Land",
+    "wikipedia_title" : "Minoan civilization",
+    "originalKey" : "Minoan Land",
+    "original_value" : "Minoan civilization",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Dikti Mountain",
+    "wikipedia_title" : "Dikti Mountains",
+    "originalKey" : "Dikti Mountain",
+    "original_value" : "Dikti Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Aloe Vera",
+    "wikipedia_title" : "Aloe vera",
+    "originalKey" : "Aloe Vera",
+    "original_value" : "Aloe vera",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Dikti",
+    "wikipedia_title" : "Mount Dikti",
+    "originalKey" : "Dikti",
+    "original_value" : "Mount Dikti",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Viannos",
+    "wikipedia_title" : "Viannos",
+    "originalKey" : "Viannos",
+    "original_value" : "Viannos",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Aloe Vera",
+    "wikipedia_title" : "Aloe vera",
+    "originalKey" : "Aloe Vera",
+    "original_value" : "Aloe vera",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Minoan Land",
+    "wikipedia_title" : "Minoan_Land",
+    "originalKey" : "Minoan Land",
+    "original_value" : "Minoan_Land",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Dikti region",
+    "wikipedia_title" : "Dikti_Mountains",
+    "originalKey" : "Dikti region",
+    "original_value" : "Dikti_Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Aloe Vera plants",
+    "wikipedia_title" : "Aloe_vera",
+    "originalKey" : "Aloe Vera plants",
+    "original_value" : "Aloe_vera",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Aloe Vera",
+    "wikipedia_title" : "Aloe vera",
+    "originalKey" : "Aloe Vera",
+    "original_value" : "Aloe vera",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "Andalusia, Spain",
+    "wikipedia_title" : "Andalusia",
+    "originalKey" : "Andalusia, Spain",
+    "original_value" : "Andalusia",
+    "Wikidata_ID" : "Q5783"
+  } ]
+} ]

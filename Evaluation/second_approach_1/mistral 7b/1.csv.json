@@ -1,0 +1,533 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "MOVING reference member state",
+    "wikipedia_title" : "Austria",
+    "originalKey" : "MOVING reference member state",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  }, {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "ALMO",
+    "wikipedia_title" : "Almo Steirisches Almochsenfleisch",
+    "originalKey" : "ALMO",
+    "original_value" : "Almo Steirisches Almochsenfleisch",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Association Steirische Bergland Marktgemeinschaft",
+    "wikipedia_title" : "Marktgemeinschaft",
+    "originalKey" : "Association Steirische Bergland Marktgemeinschaft",
+    "original_value" : "Marktgemeinschaft",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Austrian Program for Environmentally Sound Agriculture (ÖPUL)",
+    "wikipedia_title" : "ÖPUL",
+    "originalKey" : "Austrian Program for Environmentally Sound Agriculture (ÖPUL)",
+    "original_value" : "ÖPUL",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Genussregion Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Genussregion Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Urlaub am Bauernhof",
+    "wikipedia_title" : "Urlaub am Bauernhof",
+    "originalKey" : "Urlaub am Bauernhof",
+    "original_value" : "Urlaub am Bauernhof",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "RR 11",
+    "wikipedia_title" : "Austrian Alps",
+    "originalKey" : "RR 11",
+    "original_value" : "Austrian Alps",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Weiz (No: 617)",
+    "wikipedia_title" : "Weiz",
+    "originalKey" : "Weiz (No: 617)",
+    "original_value" : "Weiz",
+    "Wikidata_ID" : "Q875641"
+  }, {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "Almenland",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "area",
+    "wikipedia_title" : "Area",
+    "originalKey" : "area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population",
+    "wikipedia_title" : "Population",
+    "originalKey" : "population",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "altimetry",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "entity_in_the_text" : "population change rate",
+    "wikipedia_title" : "Population growth rate",
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional population density",
+    "wikipedia_title" : "Regional population density",
+    "originalKey" : "regional population density",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "average per capita income",
+    "wikipedia_title" : "Average per capita income",
+    "originalKey" : "average per capita income",
+    "original_value" : "Average per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total Gross Value Added",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "total Gross Value Added",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "entity_in_the_text" : "primary sector share",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector share",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector share",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector share",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector share",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector share",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "Gross Value Added",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "total BPs/year",
+    "wikipedia_title" : "Tourist accommodation",
+    "originalKey" : "total BPs/year",
+    "original_value" : "Tourist accommodation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU (Local Administrative Unit)",
+    "wikipedia_title" : "Local administrative division",
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Local administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional share",
+    "wikipedia_title" : "Regional economy",
+    "originalKey" : "regional share",
+    "original_value" : "Regional economy",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural land use",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural land use",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "nearest settlement with population over 100000 (km)",
+    "wikipedia_title" : "Populated place",
+    "originalKey" : "nearest settlement with population over 100000 (km)",
+    "original_value" : "Populated place",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "ALMO",
+    "wikipedia_title" : "ALMO (organization)",
+    "originalKey" : "ALMO",
+    "original_value" : "ALMO (organization)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LEADER-region Almenland and Energieregion Weiz-Gleisdorf",
+    "wikipedia_title" : "LEADER (European Regional Development Fund program)#Almenland and Energieregion Weiz-Gleisdorf",
+    "originalKey" : "LEADER-region Almenland and Energieregion Weiz-Gleisdorf",
+    "original_value" : "LEADER (European Regional Development Fund program)#Almenland and Energieregion Weiz-Gleisdorf",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "traditional pasture farming",
+    "wikipedia_title" : "Pastoralism",
+    "originalKey" : "traditional pasture farming",
+    "original_value" : "Pastoralism",
+    "Wikidata_ID" : "Q9056738"
+  }, {
+    "entity_in_the_text" : "Austrian animal welfare NGO",
+    "wikipedia_title" : "Animal welfare in Austria",
+    "originalKey" : "Austrian animal welfare NGO",
+    "original_value" : "Animal welfare in Austria",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "veterinaries",
+    "wikipedia_title" : "Veterinary medicine",
+    "originalKey" : "veterinaries",
+    "original_value" : "Veterinary medicine",
+    "Wikidata_ID" : "Q170201"
+  }, {
+    "entity_in_the_text" : "butchers",
+    "wikipedia_title" : "Butcher",
+    "originalKey" : "butchers",
+    "original_value" : "Butcher",
+    "Wikidata_ID" : "Q329737"
+  }, {
+    "entity_in_the_text" : "retailers",
+    "wikipedia_title" : "Retail",
+    "originalKey" : "retailers",
+    "original_value" : "Retail",
+    "Wikidata_ID" : "Q126793"
+  }, {
+    "entity_in_the_text" : "tourism",
+    "wikipedia_title" : "Tourism",
+    "originalKey" : "tourism",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "entity_in_the_text" : "regional development agency",
+    "wikipedia_title" : "Regional development",
+    "originalKey" : "regional development agency",
+    "original_value" : "Regional development",
+    "Wikidata_ID" : "Q482379"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "own regional slaughter house",
+    "wikipedia_title" : "Regional meat processing",
+    "originalKey" : "own regional slaughter house",
+    "original_value" : "Regional meat processing",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "cooperation with sheep farmers, free range pig farmers, local butcher",
+    "wikipedia_title" : "Cooperative farming",
+    "originalKey" : "cooperation with sheep farmers, free range pig farmers, local butcher",
+    "original_value" : "Cooperative farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "ALMO serving as lead product",
+    "wikipedia_title" : "ALMO (company)",
+    "originalKey" : "ALMO serving as lead product",
+    "original_value" : "ALMO (company)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "considerable contribution to the preservation of the landscape",
+    "wikipedia_title" : "Landscape conservation",
+    "originalKey" : "considerable contribution to the preservation of the landscape",
+    "original_value" : "Landscape conservation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "hiking tourism in the region",
+    "wikipedia_title" : "Hiking",
+    "originalKey" : "hiking tourism in the region",
+    "original_value" : "Hiking",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "pasture farming has a tradition over centuries",
+    "wikipedia_title" : "Pasture farming",
+    "originalKey" : "pasture farming has a tradition over centuries",
+    "original_value" : "Pasture farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "being part of the regional identity",
+    "wikipedia_title" : "Regional identity",
+    "originalKey" : "being part of the regional identity",
+    "original_value" : "Regional identity",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "climate",
+    "wikipedia_title" : "Climate",
+    "originalKey" : "climate",
+    "original_value" : "Climate",
+    "Wikidata_ID" : "Q7937"
+  }, {
+    "entity_in_the_text" : "extrem weather conditions",
+    "wikipedia_title" : "Extreme weather",
+    "originalKey" : "extrem weather conditions",
+    "original_value" : "Extreme weather",
+    "Wikidata_ID" : "Q1277161"
+  }, {
+    "entity_in_the_text" : "drought",
+    "wikipedia_title" : "Drought",
+    "originalKey" : "drought",
+    "original_value" : "Drought",
+    "Wikidata_ID" : "Q43059"
+  }, {
+    "entity_in_the_text" : "heavy rain",
+    "wikipedia_title" : "Heavy rain",
+    "originalKey" : "heavy rain",
+    "original_value" : "Heavy rain",
+    "Wikidata_ID" : "Q647855"
+  }, {
+    "entity_in_the_text" : "pasture based meat production",
+    "wikipedia_title" : "Pasture-based meat production",
+    "originalKey" : "pasture based meat production",
+    "original_value" : "Pasture-based meat production",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "vegetation",
+    "wikipedia_title" : "Vegetation",
+    "originalKey" : "vegetation",
+    "original_value" : "Vegetation",
+    "Wikidata_ID" : "Q187997"
+  }, {
+    "entity_in_the_text" : "cultivation of feed for the winter time",
+    "wikipedia_title" : "Winter crop cultivation",
+    "originalKey" : "cultivation of feed for the winter time",
+    "original_value" : "Winter crop cultivation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "alpine pasture areas",
+    "wikipedia_title" : "Alpine pastures",
+    "originalKey" : "alpine pasture areas",
+    "original_value" : "Alpine pastures",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "adjusting the pasture intensity",
+    "wikipedia_title" : "Pasture management",
+    "originalKey" : "adjusting the pasture intensity",
+    "original_value" : "Pasture management",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "improving the quality of the forage plant growth",
+    "wikipedia_title" : "Forage crop improvement",
+    "originalKey" : "improving the quality of the forage plant growth",
+    "original_value" : "Forage crop improvement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "ALMO producers",
+    "wikipedia_title" : "ALMO (Agricultural Land Management Organizations)",
+    "originalKey" : "ALMO producers",
+    "original_value" : "ALMO (Agricultural Land Management Organizations)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "small scale, women led farms",
+    "wikipedia_title" : "Small-scale agriculture",
+    "originalKey" : "small scale, women led farms",
+    "original_value" : "Small-scale agriculture",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "economically very vulnerable",
+    "wikipedia_title" : "Economic vulnerability",
+    "originalKey" : "economically very vulnerable",
+    "original_value" : "Economic vulnerability",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "stable price arrangements",
+    "wikipedia_title" : "Price stability",
+    "originalKey" : "stable price arrangements",
+    "original_value" : "Price stability",
+    "Wikidata_ID" : "Q351258"
+  }, {
+    "entity_in_the_text" : "income security",
+    "wikipedia_title" : "Income security",
+    "originalKey" : "income security",
+    "original_value" : "Income security",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Current and Predicted",
+    "wikipedia_title" : "Current events",
+    "originalKey" : "Current and Predicted",
+    "original_value" : "Current events",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Traditional and Innovative",
+    "wikipedia_title" : "Innovation in agriculture",
+    "originalKey" : "Traditional and Innovative",
+    "original_value" : "Innovation in agriculture",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Endogenous and Exogenous",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "Endogenous and Exogenous",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "social relations",
+    "wikipedia_title" : "Social network analysis",
+    "originalKey" : "social relations",
+    "original_value" : "Social network analysis",
+    "Wikidata_ID" : "Q7551269"
+  }, {
+    "entity_in_the_text" : "actors within the VC",
+    "wikipedia_title" : "Value chain governance",
+    "originalKey" : "actors within the VC",
+    "original_value" : "Value chain governance",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LEADER for different projects",
+    "wikipedia_title" : "LEADER (European Regional Development Fund)",
+    "originalKey" : "LEADER for different projects",
+    "original_value" : "LEADER (European Regional Development Fund)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "cross-sectoral exchange of ideas and insights into various fields of broader regional development concept",
+    "wikipedia_title" : "Regional development",
+    "originalKey" : "cross-sectoral exchange of ideas and insights into various fields of broader regional development concept",
+    "original_value" : "Regional development",
+    "Wikidata_ID" : "Q482379"
+  }, {
+    "entity_in_the_text" : "different actors bringing in different knowledge and different expertise",
+    "wikipedia_title" : "Innovation management",
+    "originalKey" : "different actors bringing in different knowledge and different expertise",
+    "original_value" : "Innovation management",
+    "Wikidata_ID" : "Q794803"
+  }, {
+    "entity_in_the_text" : "specific feeding practices (in order to achieve a very high meat quality)",
+    "wikipedia_title" : "Livestock farming",
+    "originalKey" : "specific feeding practices (in order to achieve a very high meat quality)",
+    "original_value" : "Livestock farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "consultant (innovation based practice and academic knowledge)",
+    "wikipedia_title" : "Innovation management",
+    "originalKey" : "consultant (innovation based practice and academic knowledge)",
+    "original_value" : "Innovation management",
+    "Wikidata_ID" : "Q794803"
+  }, {
+    "entity_in_the_text" : "building of stables",
+    "wikipedia_title" : "Animal husbandry",
+    "originalKey" : "building of stables",
+    "original_value" : "Animal husbandry",
+    "Wikidata_ID" : "Q80962"
+  }, {
+    "entity_in_the_text" : "System Haberl",
+    "wikipedia_title" : "Haberl system",
+    "originalKey" : "System Haberl",
+    "original_value" : "Haberl system",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New processes and New marketing strategies",
+    "wikipedia_title" : "Innovation management",
+    "originalKey" : "New processes and New marketing strategies",
+    "original_value" : "Innovation management",
+    "Wikidata_ID" : "Q794803"
+  }, {
+    "entity_in_the_text" : "pasture farming",
+    "wikipedia_title" : "Pasture-based agriculture",
+    "originalKey" : "pasture farming",
+    "original_value" : "Pasture-based agriculture",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural, social and cultural",
+    "wikipedia_title" : "Regional development",
+    "originalKey" : "Natural, social and cultural",
+    "original_value" : "Regional development",
+    "Wikidata_ID" : "Q482379"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "ALMO producing farmers",
+    "wikipedia_title" : "Austrian Landwirtschaftliche Marketingorganisation",
+    "originalKey" : "ALMO producing farmers",
+    "original_value" : "Austrian Landwirtschaftliche Marketingorganisation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Lower Austria (NUTS-II AT 12)",
+    "wikipedia_title" : "Lower Austria",
+    "originalKey" : "Lower Austria (NUTS-II AT 12)",
+    "original_value" : "Lower Austria",
+    "Wikidata_ID" : "Q42497"
+  }, {
+    "entity_in_the_text" : "Carinthia (NUTS-II AT 21)",
+    "wikipedia_title" : "Carinthia",
+    "originalKey" : "Carinthia (NUTS-II AT 21)",
+    "original_value" : "Carinthia",
+    "Wikidata_ID" : "Q37985"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Vereinigte Cattlemen",
+    "originalKey" : "VC",
+    "original_value" : "Vereinigte Cattlemen",
+    "Wikidata_ID" : ""
+  } ]
+} ]
