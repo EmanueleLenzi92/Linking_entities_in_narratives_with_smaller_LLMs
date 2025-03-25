@@ -1,0 +1,357 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "AUSTRIA",
+                "wikipedia_title": "Austria",
+                "originalKey": "AUSTRIA",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            },
+            {
+                "entity_in_the_text": "Austria",
+                "wikipedia_title": "Austria",
+                "originalKey": "Austria",
+                "original_value": "Austria",
+                "Wikidata_ID": "Q40"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The size of the area",
+                "wikipedia_title": "Area measurement",
+                "originalKey": "The size of the area",
+                "original_value": "Area measurement",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "1098 km2",
+                "wikipedia_title": "Size (area) - Wikipedia page for Area measurements in square kilometers or acres.",
+                "originalKey": "1098 km2",
+                "original_value": "Size (area) - Wikipedia page for Area measurements in square kilometers or acres.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The minimum altimetry of the LAU",
+                "wikipedia_title": "Altitude range within Local Administrative Units",
+                "originalKey": "The minimum altimetry of the LAU",
+                "original_value": "Altitude range within Local Administrative Units",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "464 meters",
+                "wikipedia_title": "Local Administrative Unit (LAU) with specific altimetry - Wikipedia page for Altitudes of administrative divisions.",
+                "originalKey": "464 meters",
+                "original_value": "Local Administrative Unit (LAU) with specific altimetry - Wikipedia page for Altitudes of administrative divisions.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The maximum altimetry of the LAU",
+                "wikipedia_title": "Maximum elevation within Local Administrative Units",
+                "originalKey": "The maximum altimetry of the LAU",
+                "original_value": "Maximum elevation within Local Administrative Units",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "1720 meters",
+                "wikipedia_title": "Local Administrative Unit (LAU) with specific altimetry - Wikipedia page for Altitudes of administrative divisions.",
+                "originalKey": "1720 meters",
+                "original_value": "Local Administrative Unit (LAU) with specific altimetry - Wikipedia page for Altitudes of administrative divisions.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The total population in the LAU",
+                "wikipedia_title": "Population count within Local Administrative Units",
+                "originalKey": "The total population in the LAU",
+                "original_value": "Population count within Local Administrative Units",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "90.654 thousand people",
+                "wikipedia_title": "Local Administrative Unit (LAU) with specific population - Wikipedia page for Population of administrative divisions.",
+                "originalKey": "90.654 thousand people",
+                "original_value": "Local Administrative Unit (LAU) with specific population - Wikipedia page for Population of administrative divisions.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The population density in the LAU",
+                "wikipedia_title": "Population Density within Local Administrative Units",
+                "originalKey": "The population density in the LAU",
+                "original_value": "Population Density within Local Administrative Units",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "82.56 Inhabitants/km²",
+                "wikipedia_title": "Local Administrative Unit (LAU) with specific population density - Wikipedia page for Population densities of administrative divisions.",
+                "originalKey": "82.56 Inhabitants/km²",
+                "original_value": "Local Administrative Unit (LAU) with specific population density - Wikipedia page for Population densities of administrative divisions.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The population change rate in the LAU over 10 years",
+                "wikipedia_title": "Population growth or decline within Local Administrative Units",
+                "originalKey": "The population change rate in the LAU over 10 years",
+                "original_value": "Population growth or decline within Local Administrative Units",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "3.68%",
+                "wikipedia_title": "Local Administrative Unit (LAU) with specific population change rate - Wikipedia page for Population changes of administrative divisions.",
+                "originalKey": "3.68%",
+                "original_value": "Local Administrative Unit (LAU) with specific population change rate - Wikipedia page for Population changes of administrative divisions.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The overall regional population density",
+                "wikipedia_title": "Population Density at the Regional Level",
+                "originalKey": "The overall regional population density",
+                "original_value": "Population Density at the Regional Level",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "76.28 Inhabitants/km²",
+                "wikipedia_title": "Regional Population Densities - Wikipedia page for population densities of regions.",
+                "originalKey": "76.28 Inhabitants/km²",
+                "original_value": "Regional Population Densities - Wikipedia page for population densities of regions.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The regional population change rate over 10 years",
+                "wikipedia_title": "Population growth or decline at the Regional Level",
+                "originalKey": "The regional population change rate over 10 years",
+                "original_value": "Population growth or decline at the Regional Level",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The average per capita income (EUR/year) Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The average per capita income (EUR/year) Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The primary sector share of total GVA/year Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The secondary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The per capita income (EUR/year) Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The per capita income (EUR/year) Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The primary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The secondary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total number of bed places in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics for the specified location",
+                "originalKey": "total number of bed places in tourist accommodations/year",
+                "original_value": "Tourism industry statistics for the specified location",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "4310 BPs per year",
+                "wikipedia_title": "Numeric data about tourist accommodations in this LAU (Local Administrative Unit)",
+                "originalKey": "4310 BPs per year",
+                "original_value": "Numeric data about tourist accommodations in this LAU (Local Administrative Unit)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "regional share of total bed places/year",
+                "wikipedia_title": "Statistics on the distribution of BPs within a region",
+                "originalKey": "regional share of total bed places/year",
+                "original_value": "Statistics on the distribution of BPs within a region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "2.77% regional share",
+                "wikipedia_title": "Percentage calculation for tourist accommodations' contribution to total bed places in this LAU (Local Administrative Unit)",
+                "originalKey": "2.77% regional share",
+                "original_value": "Percentage calculation for tourist accommodations' contribution to total bed places in this LAU (Local Administrative Unit)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "4555 agricultural holdings",
+                "wikipedia_title": "Agriculture statistics of the specified location",
+                "originalKey": "4555 agricultural holdings",
+                "original_value": "Agriculture statistics of the specified location",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Administrative division information for this region, possibly from Wikipedia's Local Government section or equivalent source.",
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Administrative division information for this region, possibly from Wikipedia's Local Government section or equivalent source.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "settlement with population over 100000 (km) at a distance of 30 km",
+                "wikipedia_title": "Population density and distribution information for nearby settlements",
+                "originalKey": "settlement with population over 100000 (km) at a distance of 30 km",
+                "original_value": "Population density and distribution information for nearby settlements",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "protected areas present in the region",
+                "wikipedia_title": "Conservation area or protected land status of this location, possibly from Wikipedia's Environmental Conservation section.",
+                "originalKey": "protected areas present in the region",
+                "original_value": "Conservation area or protected land status of this location, possibly from Wikipedia's Environmental Conservation section.",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The primary sector",
+                "wikipedia_title": "Primary economic activity",
+                "originalKey": "The primary sector",
+                "original_value": "Primary economic activity",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "originalKey": "total employment/year Province",
+                "original_value": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "5.55% share for total employment/year Region",
+                "wikipedia_title": "Regional economic statistics",
+                "originalKey": "5.55% share for total employment/year Region",
+                "original_value": "Regional economic statistics",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "26.47% secondary sector share of total employment/year Region",
+                "wikipedia_title": "Secondary industry in the specified region (if referring to a specific country)",
+                "originalKey": "26.47% secondary sector share of total employment/year Region",
+                "original_value": "Secondary industry in the specified region (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "67.99% tertiary sector share of total employment/year Region",
+                "wikipedia_title": "Tertiary economic activity or services in the specified region (if referring to a specific country)",
+                "originalKey": "67.99% tertiary sector share of total employment/year Region",
+                "original_value": "Tertiary economic activity or services in the specified region (if referring to a specific country)",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC",
+                "wikipedia_title": "Value Chain",
+                "originalKey": "VC",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "entity_in_the_text": "'Arzberger Ursteirer'",
+                "wikipedia_title": "Arzberger Ursteirer Cheese",
+                "originalKey": "'Arzberger Ursteirer'",
+                "original_value": "Arzberger Ursteirer Cheese",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "international cheese competitions",
+                "wikipedia_title": "Cheesemaking Competition",
+                "originalKey": "international cheese competitions",
+                "original_value": "Cheesemaking Competition",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "natural assets",
+                "wikipedia_title": "Pasture Farming and Natural Resources in Agriculture",
+                "originalKey": "natural assets",
+                "original_value": "Pasture Farming and Natural Resources in Agriculture",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Cheese",
+                "wikipedia_title": "Cheesemaking",
+                "originalKey": "Cheese",
+                "original_value": "Cheesemaking",
+                "Wikidata_ID": "Q1281188"
+            },
+            {
+                "entity_in01: Cheese, particularly in the context of its production and maturing process. The Wikipedia page for this topic is titled 'Cheesemaking'.\n        \n2. Hay Milk: This term refers to milk from cows that have been fed on hay (grass). While not a specific entity with an individual dedicated title due to it being more of a method or type, you can find related information under the Wikipedia page": "ay",
+                "Mine": "This refers to an old mine that has been repurposed for maturing some type of product (inferred here as the mentioned 'cheese'). The exact title can vary based on specific mines but a general topic could refer to",
+                "Mining": "r more specifically",
+                "Austria": {
+                    "entity_in_the_text": "Former silver mine",
+                    "wikipedia_title": "Silver Mines of Europe | Wikipedia (if referring broadly)"
+                },
+                "entity_in_the_text": "Austrian Alps mines history and mining sites in Austria",
+                "wikipedia_title": "Mining History of the Austrian Empire",
+                "originalKey": "Austrian Alps mines history and mining sites in Austria",
+                "original_value": "Mining History of the Austrian Empire",
+                "Wikidata_ID": ""
+            }
+        ]
+    }
+]

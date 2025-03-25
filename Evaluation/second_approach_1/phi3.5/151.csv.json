@@ -1,0 +1,429 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ITALY UNIMOL",
+                "wikipedia_title": "UNIMOLIA",
+                "originalKey": "ITALY UNIMOL",
+                "original_value": "UNIMOLIA",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "UNIPI",
+                "wikipedia_title": "UniPi S.p.a.",
+                "originalKey": "UNIPI",
+                "original_value": "UniPi S.p.a.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Savigni",
+                "wikipedia_title": "Giovanni Savigni",
+                "originalKey": "Savigni",
+                "original_value": "Giovanni Savigni",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "butcher's shop",
+                "wikipedia_title": "Butchery (shop)",
+                "originalKey": "butcher's shop",
+                "original_value": "Butchery (shop)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "farm",
+                "wikipedia_title": "Farms",
+                "originalKey": "farm",
+                "original_value": "Farms",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "cured meat factory",
+                "wikipedia_title": "Curing (food)",
+                "originalKey": "cured meat factory",
+                "original_value": "Curing (food)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "VC 18 IT",
+                "wikipedia_title": "Value Chain",
+                "originalKey": "VC 18 IT",
+                "original_value": "Value Chain",
+                "Wikidata_ID": "Q646107"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Northern Apennines",
+                "wikipedia_title": "Apennine Mountains",
+                "originalKey": "Northern Apennines",
+                "original_value": "Apennine Mountains",
+                "Wikidata_ID": "Q1285"
+            },
+            {
+                "entity_in_the_text": "Tuscan Emilian Apennines",
+                "wikipedia_title": "Appenino Tosco Emiliano",
+                "originalKey": "Tuscan Emilian Apennines",
+                "original_value": "Appenino Tosco Emiliano",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Sambuca Pistoiese",
+                "wikipedia_title": "Sambuca di Novafeltria",
+                "originalKey": "Sambuca Pistoiese",
+                "original_value": "Sambuca di Novafeltria",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Pistoia province",
+                "wikipedia_title": "Provincia di Pistoia",
+                "originalKey": "Pistoia province",
+                "original_value": "Provincia di Pistoia",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Tuscany",
+                "wikipedia_title": "Toscana",
+                "originalKey": "Tuscany",
+                "original_value": "Toscana",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "77.25",
+                "wikipedia_title": "Area of LAU",
+                "originalKey": "77.25",
+                "original_value": "Area of LAU",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "372",
+                "wikipedia_title": "Minimum altimetry of the Local Administrative Unit (LAU)",
+                "originalKey": "372",
+                "original_value": "Minimum altimetry of the Local Administrative Unit (LAU)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "1318",
+                "wikipedia_title": "Maximum altimetry of the LAU",
+                "originalKey": "1318",
+                "original_value": "Maximum altimetry of the LAU",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "1.514",
+                "wikipedia_title": "Total population in thousand within the LAU",
+                "originalKey": "1.514",
+                "original_value": "Total population in thousand within the LAU",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "19.59",
+                "wikipedia_title": "Population density (Inhabitants/km2) in the LAU",
+                "originalKey": "19.59",
+                "original_value": "Population density (Inhabitants/km2) in the LAU",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "-14.81%",
+                "wikipedia_title": "LAU population change rate over the last 10 years (%)",
+                "originalKey": "-14.81%",
+                "original_value": "LAU population change rate over the last 10 years (%)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "160.64",
+                "wikipedia_title": "Overall regional population density (Inhabitants/km2)",
+                "originalKey": "160.64",
+                "original_value": "Overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "0.48%",
+                "wikipedia_title": "Regional population change rate over the last 10 years (%)",
+                "originalKey": "0.48%",
+                "original_value": "Regional population change rate over the last 10 years (%)",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The average per capita income (EUR/year) Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The average per capita income (EUR/year) Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The primary sector share of total GVA/year Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The secondary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The per capita income (EUR/year) Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The per capita income (EUR/year) Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The primary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The secondary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total number of bed places in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics",
+                "originalKey": "total number of bed places in tourist accommodations/year",
+                "original_value": "Tourism industry statistics",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The primary sector",
+                "wikipedia_title": "Primary economic activities",
+                "originalKey": "The primary sector",
+                "original_value": "Primary economic activities",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Economy of the province, which may refer to specific provinces like Quebec or Ontario in Canada depending on context.",
+                "originalKey": "total employment/year Province",
+                "original_value": "Economy of the province, which may refer to specific provinces like Quebec or Ontario in Canada depending on context.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "4.28% share for primary sector",
+                "wikipedia_title": "Percentage distribution of employment by economic sectors within the specified province",
+                "originalKey": "4.28% share for primary sector",
+                "original_value": "Percentage distribution of employment by economic sectors within the specified province",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The secondary sector",
+                "wikipedia_title": "Secondary industries, which include manufacturing and construction.",
+                "originalKey": "The secondary sector",
+                "original_value": "Secondary industries, which include manufacturing and construction.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "25.63% share for the secondary sector in Province",
+                "wikipedia_title": "Percentage distribution of employment by economic sectors within the specified province",
+                "originalKey": "25.63% share for the secondary sector in Province",
+                "original_value": "Percentage distribution of employment by economic sectors within the specified province",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The tertiary sector",
+                "wikipedia_title": "Tertiary industries, which include services like retail and healthcare.",
+                "originalKey": "The tertiary sector",
+                "original_value": "Tertiary industries, which include services like retail and healthcare.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "70.09% share for the tertiary sector in Province",
+                "wikipedia_title": "Percentage distribution of employment by economic sectors within the specified province",
+                "originalKey": "70.09% share for the tertiary sector in Province",
+                "original_value": "Percentage distribution of employment by economic sectors within the specified province",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total employment/year Region",
+                "wikipedia_title": "Economic structure and labor force composition in a specific region, which may refer to regions like Quebec or Ontario.",
+                "originalKey": "The primary sector share of total employment/year Region",
+                "original_value": "Economic structure and labor force composition in a specific region, which may refer to regions like Quebec or Ontario.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "3.03% for primary sector share of total employment/year Region",
+                "wikipedia_title": "Percentage distribution of employment by economic sectors within the specified region",
+                "originalKey": "3.03% for primary sector share of total employment/year Region",
+                "original_value": "Percentage distribution of employment by economic sectors within the specified region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "25.57% for secondary sector share in a specific region",
+                "wikipedia_title": "Percentage distribution of employment by economic sectors within the specified region",
+                "originalKey": "25.57% for secondary sector share in a specific region",
+                "original_value": "Percentage distribution of employment by economic sectors within the specified region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "71.22% for tertiary sector share in Region",
+                "wikipedia_title": "Percentage distribution of employment by economic sectors within a specific region",
+                "originalKey": "71.22% for tertiary sector share in Region",
+                "original_value": "Percentage distribution of employment by economic sectors within a specific region",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Bollo IT 9-3467/L",
+                "wikipedia_title": "Bollino (certificazione)",
+                "originalKey": "Bollo IT 9-3467/L",
+                "original_value": "Bollino (certificazione)",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Savigni family",
+                "wikipedia_title": "Giuseppe Savigni (1903–1987), Italian farmer and politician",
+                "originalKey": "Savigni family",
+                "original_value": "Giuseppe Savigni (1903–1987), Italian farmer and politician",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Porretta",
+                "wikipedia_title": "Porretta Terme, a town in Italy known for its thermal baths.",
+                "originalKey": "Porretta",
+                "original_value": "Porretta Terme, a town in Italy known for its thermal baths.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Suviana Lake",
+                "wikipedia_title": "Lake Suviana (also called Lago di Porretta), an Italian lake near the border with Switzerland",
+                "originalKey": "Suviana Lake",
+                "original_value": "Lake Suviana (also called Lago di Porretta), an Italian lake near the border with Switzerland",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "wild state animals",
+                "wikipedia_title": "Wildlife, referring to species living in their natural habitats without human intervention.",
+                "originalKey": "wild state animals",
+                "original_value": "Wildlife, referring to species living in their natural habitats without human intervention.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "quality of meat",
+                "wikipedia_title": "Meat quality assessment and grading",
+                "originalKey": "quality of meat",
+                "original_value": "Meat quality assessment and grading",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "high quality supply",
+                "wikipedia_title": "Supply Chain Management",
+                "originalKey": "high quality supply",
+                "original_value": "Supply Chain Management",
+                "Wikidata_ID": "Q492886"
+            },
+            {
+                "entity_in_the0: The main challenge is to maintain a high-quality local animal product, with an increasing international market demand. Overall the type of challenge faced by this VC (Venture Capital) firm can be classified as Predicted or Foreseeable due to growing global trends in sustainability and ethical sourcing.": "ikipedia_title",
+                "Predictive Analytics": "This title is chosen because predicting market demands often involves using analytics",
+                "entity_in_the_text": "Innovative",
+                "wikipedia_title": "Entrepreneurship",
+                "originalKey": "Innovative",
+                "original_value": "Entrepreneurship",
+                "Wikidata_ID": "Q3908516"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Business Model",
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Business Model",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Endogenous innovation",
+                "wikipedia_title": "Innovation Driven by Internal Factors within an Organization or Economy",
+                "originalKey": "Endogenous innovation",
+                "original_value": "Innovation Driven by Internal Factors within an Organization or Economy",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "organic farm",
+                "wikipedia_title": "Organic Farming",
+                "originalKey": "organic farm",
+                "original_value": "Organic Farming",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "certification not just as a sort of brand but as the possibility to enter in new and qualified market",
+                "wikipedia_title": "Product Certification for Organic Products",
+                "originalKey": "certification not just as a sort of brand but as the possibility to enter in new and qualified market",
+                "original_value": "Product Certification for Organic Products",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing Strategy",
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing Strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "entity_in_the_text": "Forestry land use systems",
+                "wikipedia_title": "Land Use in Forestry Management and Silviculture",
+                "originalKey": "Forestry land use systems",
+                "original_value": "Land Use in Forestry Management and Silviculture",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Natural local assets",
+                "wikipedia_title": "Local Natural Resources or Ecosystem Services",
+                "originalKey": "Natural local assets",
+                "original_value": "Local Natural Resources or Ecosystem Services",
+                "Wikidata_ID": ""
+            }
+        ]
+    }
+]

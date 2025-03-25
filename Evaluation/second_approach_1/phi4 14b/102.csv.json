@@ -1,0 +1,329 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "GREECE",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "GREECE",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "VC 11 GR",
+    "wikipedia_title" : null,
+    "originalKey" : "VC 11 GR",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "apiculture",
+    "wikipedia_title" : "Apiculture",
+    "originalKey" : "apiculture",
+    "original_value" : "Apiculture",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region of Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Region of Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "EU Geographical Indications (GIs)",
+    "wikipedia_title" : "Protected designation of origin",
+    "originalKey" : "EU Geographical Indications (GIs)",
+    "original_value" : "Protected designation of origin",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Pefkothymaromelo",
+    "wikipedia_title" : null,
+    "originalKey" : "Pefkothymaromelo",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "White Mountains",
+    "wikipedia_title" : "White Mountains (Crete)",
+    "originalKey" : "White Mountains",
+    "original_value" : "White Mountains (Crete)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "KISSAMOS",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "KISSAMOS",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "entity_in_the_text" : "LAU (Local Administrative Unit)",
+    "wikipedia_title" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "altimetry",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region (geography)",
+    "originalKey" : "[Region]",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List of provinces and territories of Canada by unemployment rate",
+    "originalKey" : "[Province]",
+    "original_value" : "List of provinces and territories of Canada by unemployment rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "NUTS statistical regions of Belgium",
+    "originalKey" : "[Region]",
+    "original_value" : "NUTS statistical regions of Belgium",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Kissamos mountains",
+    "wikipedia_title" : "Mount Kissos",
+    "originalKey" : "Kissamos mountains",
+    "original_value" : "Mount Kissos",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "PDO",
+    "wikipedia_title" : "Protected designation of origin",
+    "originalKey" : "PDO",
+    "original_value" : "Protected designation of origin",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Topolia/Kissamos",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "Topolia/Kissamos",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "entity_in_the_text" : "Cretan way of life",
+    "wikipedia_title" : "Cretan culture",
+    "originalKey" : "Cretan way of life",
+    "original_value" : "Cretan culture",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Minoan Civilization 1600 BC",
+    "wikipedia_title" : "Minoan civilization",
+    "originalKey" : "Minoan Civilization 1600 BC",
+    "original_value" : "Minoan civilization",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "climate change",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "entity_in_the_text" : "bees",
+    "wikipedia_title" : "Honey bee",
+    "originalKey" : "bees",
+    "original_value" : "Honey bee",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "honey production",
+    "wikipedia_title" : "Honey production",
+    "originalKey" : "honey production",
+    "original_value" : "Honey production",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "pesticides",
+    "wikipedia_title" : "Pesticide",
+    "originalKey" : "pesticides",
+    "original_value" : "Pesticide",
+    "Wikidata_ID" : "Q131656"
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agriculture",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "entity_in_the_text" : "Pefkothymaromelo",
+    "wikipedia_title" : "Pefkothymiromelo",
+    "originalKey" : "Pefkothymaromelo",
+    "original_value" : "Pefkothymiromelo",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Endogenous",
+    "wikipedia_title" : "Endogenous growth theory",
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous growth theory",
+    "Wikidata_ID" : "Q576355"
+  }, {
+    "entity_in_the_text" : "apiculture",
+    "wikipedia_title" : "Apiculture",
+    "originalKey" : "apiculture",
+    "original_value" : "Apiculture",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "pefkothymaromelo",
+    "wikipedia_title" : null,
+    "originalKey" : "pefkothymaromelo",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "PDO characterization",
+    "wikipedia_title" : "Protected designation of origin",
+    "originalKey" : "PDO characterization",
+    "original_value" : "Protected designation of origin",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kissamos area",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "Kissamos area",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : null,
+    "originalKey" : "New products",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : null,
+    "originalKey" : "New marketing strategies",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New governance systems",
+    "wikipedia_title" : null,
+    "originalKey" : "New governance systems",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : null,
+    "originalKey" : "Natural land",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural assets",
+    "wikipedia_title" : null,
+    "originalKey" : "Natural assets",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "social assets",
+    "wikipedia_title" : null,
+    "originalKey" : "social assets",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "cultural assets",
+    "wikipedia_title" : null,
+    "originalKey" : "cultural assets",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Greece",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "Greece",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "EU katalog (eAmbrosia)",
+    "wikipedia_title" : "Protected designation of origin",
+    "originalKey" : "EU katalog (eAmbrosia)",
+    "original_value" : "Protected designation of origin",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Peyfothymaromelo",
+    "wikipedia_title" : "Thyme honey",
+    "originalKey" : "Peyfothymaromelo",
+    "original_value" : "Thyme honey",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cretan honey",
+    "wikipedia_title" : "Honey production in Greece",
+    "originalKey" : "Cretan honey",
+    "original_value" : "Honey production in Greece",
+    "Wikidata_ID" : ""
+  } ]
+} ]

@@ -1,0 +1,309 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "ITALY",
+    "wikipedia_title" : "Italy",
+    "originalKey" : "ITALY",
+    "original_value" : "Italy",
+    "Wikidata_ID" : "Q38"
+  }, {
+    "entity_in_the_text" : "UNIMOL",
+    "wikipedia_title" : "University of Molise",
+    "originalKey" : "UNIMOL",
+    "original_value" : "University of Molise",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "UNIPI",
+    "wikipedia_title" : "University of Pisa",
+    "originalKey" : "UNIPI",
+    "original_value" : "University of Pisa",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC 18 IT",
+    "wikipedia_title" : null,
+    "originalKey" : "VC 18 IT",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Savigni",
+    "wikipedia_title" : null,
+    "originalKey" : "Savigni",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Northern Apennines",
+    "wikipedia_title" : "Apennine Mountains",
+    "originalKey" : "Northern Apennines",
+    "original_value" : "Apennine Mountains",
+    "Wikidata_ID" : "Q1285"
+  }, {
+    "entity_in_the_text" : "Tuscan Emilian Apennines",
+    "wikipedia_title" : "Apennine Mountains",
+    "originalKey" : "Tuscan Emilian Apennines",
+    "original_value" : "Apennine Mountains",
+    "Wikidata_ID" : "Q1285"
+  }, {
+    "entity_in_the_text" : "Sambuca Pistoiese",
+    "wikipedia_title" : "Sambuca Pistoiese",
+    "originalKey" : "Sambuca Pistoiese",
+    "original_value" : "Sambuca Pistoiese",
+    "Wikidata_ID" : "Q102725"
+  }, {
+    "entity_in_the_text" : "Pistoia province",
+    "wikipedia_title" : "Province of Pistoia",
+    "originalKey" : "Pistoia province",
+    "original_value" : "Province of Pistoia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Tuscany",
+    "wikipedia_title" : "Tuscany",
+    "originalKey" : "Tuscany",
+    "original_value" : "Tuscany",
+    "Wikidata_ID" : "Q1273"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "entity_in_the_text" : "LAU (Local Administrative Unit)",
+    "wikipedia_title" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "altimetry",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List of provinces and territories of Canada by unemployment rate",
+    "originalKey" : "[Province]",
+    "original_value" : "List of provinces and territories of Canada by unemployment rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "NUTS statistical regions of Belgium",
+    "originalKey" : "[Region]",
+    "original_value" : "NUTS statistical regions of Belgium",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Savigni familly",
+    "wikipedia_title" : "N/A",
+    "originalKey" : "Savigni familly",
+    "original_value" : "N/A",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Bollo IT 9-3467/L IT R152E CE ANAS",
+    "wikipedia_title" : "N/A",
+    "originalKey" : "Bollo IT 9-3467/L IT R152E CE ANAS",
+    "original_value" : "N/A",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "National Association Pig Farmers",
+    "wikipedia_title" : "Associazione Nazionale Allevatori Suini",
+    "originalKey" : "National Association Pig Farmers",
+    "original_value" : "Associazione Nazionale Allevatori Suini",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Japan Export (Ministry of Health)",
+    "wikipedia_title" : "N/A",
+    "originalKey" : "Japan Export (Ministry of Health)",
+    "original_value" : "N/A",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BioAgriCert",
+    "wikipedia_title" : "Bioagricert",
+    "originalKey" : "BioAgriCert",
+    "original_value" : "Bioagricert",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "INeQ (Quality North-East Institute / Body PDO Control Cinta Senese)",
+    "wikipedia_title" : "Istituto Nazionale di Economia Agraria",
+    "originalKey" : "INeQ (Quality North-East Institute / Body PDO Control Cinta Senese)",
+    "original_value" : "Istituto Nazionale di Economia Agraria",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "TUV",
+    "wikipedia_title" : "Technischer Überwachungsverein",
+    "originalKey" : "TUV",
+    "original_value" : "Technischer Überwachungsverein",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "ISO 9001/08",
+    "wikipedia_title" : "ISO 9001",
+    "originalKey" : "ISO 9001/08",
+    "original_value" : "ISO 9001",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Consorzio Tutela of Cinta Senese",
+    "wikipedia_title" : "Cinta senese",
+    "originalKey" : "Consorzio Tutela of Cinta Senese",
+    "original_value" : "Cinta senese",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Quality Consortium Consorzio Tutela Finocchiona PGI",
+    "wikipedia_title" : "Finocchiona",
+    "originalKey" : "Quality Consortium Consorzio Tutela Finocchiona PGI",
+    "original_value" : "Finocchiona",
+    "Wikidata_ID" : "Q3745769"
+  }, {
+    "entity_in_the_text" : "PGI",
+    "wikipedia_title" : "Protected Geographical Indication",
+    "originalKey" : "PGI",
+    "original_value" : "Protected Geographical Indication",
+    "Wikidata_ID" : "Q3104453"
+  }, {
+    "entity_in_the_text" : "Vitellone Bianco dell'Appennino Centrale PGI",
+    "wikipedia_title" : "Vitellone bianco dell'Appennino centrale",
+    "originalKey" : "Vitellone Bianco dell'Appennino Centrale PGI",
+    "original_value" : "Vitellone bianco dell'Appennino centrale",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Chianina beef",
+    "wikipedia_title" : "Chianina cattle",
+    "originalKey" : "Chianina beef",
+    "original_value" : "Chianina cattle",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "3A-PTA Umbria Agri-food Technology Park",
+    "wikipedia_title" : "N/A",
+    "originalKey" : "3A-PTA Umbria Agri-food Technology Park",
+    "original_value" : "N/A",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Savigni family",
+    "wikipedia_title" : "Savigni (company)",
+    "originalKey" : "Savigni family",
+    "original_value" : "Savigni (company)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Porretta",
+    "wikipedia_title" : "Porretta Terme",
+    "originalKey" : "Porretta",
+    "original_value" : "Porretta Terme",
+    "Wikidata_ID" : "Q94983"
+  }, {
+    "entity_in_the_text" : "Suviana Lake",
+    "wikipedia_title" : "Lago di Suviana",
+    "originalKey" : "Suviana Lake",
+    "original_value" : "Lago di Suviana",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "high quality supply",
+    "wikipedia_title" : "Supply chain management",
+    "originalKey" : "high quality supply",
+    "original_value" : "Supply chain management",
+    "Wikidata_ID" : "Q492886"
+  }, {
+    "entity_in_the_text" : "local animal",
+    "wikipedia_title" : "Local food movement",
+    "originalKey" : "local animal",
+    "original_value" : "Local food movement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "international market demand",
+    "wikipedia_title" : "International trade",
+    "originalKey" : "international market demand",
+    "original_value" : "International trade",
+    "Wikidata_ID" : "Q178803"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Endogenous",
+    "wikipedia_title" : "Endogenous growth theory",
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous growth theory",
+    "Wikidata_ID" : "Q576355"
+  }, {
+    "entity_in_the_text" : "organic farm",
+    "wikipedia_title" : "Organic farming",
+    "originalKey" : "organic farm",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "certification",
+    "wikipedia_title" : "Certification (business)",
+    "originalKey" : "certification",
+    "original_value" : "Certification (business)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Nature",
+    "originalKey" : "Natural",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  } ]
+} ]

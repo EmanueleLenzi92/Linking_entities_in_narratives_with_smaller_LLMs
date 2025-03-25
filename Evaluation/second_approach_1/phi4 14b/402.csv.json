@@ -1,0 +1,193 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SWITZERLAND",
+    "wikipedia_title" : "Switzerland",
+    "originalKey" : "SWITZERLAND",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "entity_in_the_text" : "Alpine tourism",
+    "wikipedia_title" : "Tourism in Switzerland",
+    "originalKey" : "Alpine tourism",
+    "original_value" : "Tourism in Switzerland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Alps",
+    "wikipedia_title" : "Alps",
+    "originalKey" : "Alps",
+    "original_value" : "Alps",
+    "Wikidata_ID" : "Q1286"
+  } ]
+}, {
+  "entities" : [ ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "entity_in_the_text" : "LAU (Local Administrative Unit)",
+    "wikipedia_title" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region (geography)",
+    "originalKey" : "[Region]",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List of provinces and territories of Canada",
+    "originalKey" : "[Province]",
+    "original_value" : "List of provinces and territories of Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Regions of Canada",
+    "originalKey" : "[Region]",
+    "original_value" : "Regions of Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC-systems",
+    "wikipedia_title" : "Valley glacier",
+    "originalKey" : "VC-systems",
+    "original_value" : "Valley glacier",
+    "Wikidata_ID" : "Q11762356"
+  }, {
+    "entity_in_the_text" : "alps",
+    "wikipedia_title" : "Alps",
+    "originalKey" : "alps",
+    "original_value" : "Alps",
+    "Wikidata_ID" : "Q1286"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "tourism",
+    "wikipedia_title" : "Tourism",
+    "originalKey" : "tourism",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "entity_in_the_text" : "climate change",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Endogenous",
+    "wikipedia_title" : "Endogeneity",
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogeneity",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Exogenous",
+    "wikipedia_title" : "Exogenous variable",
+    "originalKey" : "Exogenous",
+    "original_value" : "Exogenous variable",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "touristic attractions",
+    "wikipedia_title" : "Tourism",
+    "originalKey" : "touristic attractions",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "entity_in_the_text" : "skiing",
+    "wikipedia_title" : "Skiing",
+    "originalKey" : "skiing",
+    "original_value" : "Skiing",
+    "Wikidata_ID" : "Q130949"
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : "Product innovation",
+    "originalKey" : "New products",
+    "original_value" : "Product innovation",
+    "Wikidata_ID" : "Q7247768"
+  }, {
+    "entity_in_the_text" : "New processes",
+    "wikipedia_title" : "Process innovation",
+    "originalKey" : "New processes",
+    "original_value" : "Process innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "New governance systems",
+    "wikipedia_title" : "Governance",
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance",
+    "Wikidata_ID" : "Q1553864"
+  }, {
+    "entity_in_the_text" : "Landscape",
+    "wikipedia_title" : "Landscape",
+    "originalKey" : "Landscape",
+    "original_value" : "Landscape",
+    "Wikidata_ID" : "Q107425"
+  }, {
+    "entity_in_the_text" : "Natural assets",
+    "wikipedia_title" : "Natural capital",
+    "originalKey" : "Natural assets",
+    "original_value" : "Natural capital",
+    "Wikidata_ID" : "Q1540268"
+  }, {
+    "entity_in_the_text" : "social assets",
+    "wikipedia_title" : "Social capital",
+    "originalKey" : "social assets",
+    "original_value" : "Social capital",
+    "Wikidata_ID" : "Q214693"
+  }, {
+    "entity_in_the_text" : "cultural assets",
+    "wikipedia_title" : "Cultural heritage",
+    "originalKey" : "cultural assets",
+    "original_value" : "Cultural heritage",
+    "Wikidata_ID" : "Q210272"
+  } ]
+} ]

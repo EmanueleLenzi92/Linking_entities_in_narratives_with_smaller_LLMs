@@ -1,0 +1,299 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SCOTLAND HUTTON",
+    "wikipedia_title" : "Hutton, Scotland",
+    "originalKey" : "SCOTLAND HUTTON",
+    "original_value" : "Hutton, Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC 02 UK",
+    "wikipedia_title" : null,
+    "originalKey" : "VC 02 UK",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Caerphilly cheese",
+    "wikipedia_title" : "Caerphilly cheese",
+    "originalKey" : "Caerphilly cheese",
+    "original_value" : "Caerphilly cheese",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "European Protected Geographical Indication (PGI)",
+    "wikipedia_title" : "Protected designation of origin",
+    "originalKey" : "European Protected Geographical Indication (PGI)",
+    "original_value" : "Protected designation of origin",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "West Wales",
+    "wikipedia_title" : "West Wales",
+    "originalKey" : "West Wales",
+    "original_value" : "West Wales",
+    "Wikidata_ID" : "Q3094812"
+  }, {
+    "entity_in_the_text" : "NUTS 2",
+    "wikipedia_title" : "Nomenclature of Territorial Units for Statistics",
+    "originalKey" : "NUTS 2",
+    "original_value" : "Nomenclature of Territorial Units for Statistics",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Caerphilly",
+    "wikipedia_title" : "Caerphilly County Borough",
+    "originalKey" : "Caerphilly",
+    "original_value" : "Caerphilly County Borough",
+    "Wikidata_ID" : "Q748065"
+  }, {
+    "entity_in_the_text" : "Wales",
+    "wikipedia_title" : "Wales",
+    "originalKey" : "Wales",
+    "original_value" : "Wales",
+    "Wikidata_ID" : "Q25"
+  }, {
+    "entity_in_the_text" : "Cardiff",
+    "wikipedia_title" : "Cardiff",
+    "originalKey" : "Cardiff",
+    "original_value" : "Cardiff",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Newport",
+    "wikipedia_title" : "Newport, Wales",
+    "originalKey" : "Newport",
+    "original_value" : "Newport, Wales",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "entity_in_the_text" : "LAU (Local Administrative Unit)",
+    "wikipedia_title" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "altimetry",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List of provinces and territories of Canada",
+    "originalKey" : "[Province]",
+    "original_value" : "List of provinces and territories of Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Regions of Canada",
+    "originalKey" : "[Region]",
+    "original_value" : "Regions of Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Caerphilly cheese",
+    "wikipedia_title" : "Caerphilly cheese",
+    "originalKey" : "Caerphilly cheese",
+    "original_value" : "Caerphilly cheese",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Caerphilly",
+    "wikipedia_title" : "Caerphilly",
+    "originalKey" : "Caerphilly",
+    "original_value" : "Caerphilly",
+    "Wikidata_ID" : "Q909119"
+  }, {
+    "entity_in_the_text" : "Somerset",
+    "wikipedia_title" : "Somerset",
+    "originalKey" : "Somerset",
+    "original_value" : "Somerset",
+    "Wikidata_ID" : "Q23157"
+  }, {
+    "entity_in_the_text" : "Wiltshire",
+    "wikipedia_title" : "Wiltshire",
+    "originalKey" : "Wiltshire",
+    "original_value" : "Wiltshire",
+    "Wikidata_ID" : "Q23183"
+  }, {
+    "entity_in_the_text" : "Castle Dairies",
+    "wikipedia_title" : "Castle Dairies",
+    "originalKey" : "Castle Dairies",
+    "original_value" : "Castle Dairies",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "The Big Cheese",
+    "wikipedia_title" : "Big Cheese (festival)",
+    "originalKey" : "The Big Cheese",
+    "original_value" : "Big Cheese (festival)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "International Cheese Awards",
+    "wikipedia_title" : "International Cheese Awards",
+    "originalKey" : "International Cheese Awards",
+    "original_value" : "International Cheese Awards",
+    "Wikidata_ID" : "Q6049165"
+  }, {
+    "entity_in_the_text" : "Gorwydd",
+    "wikipedia_title" : "Gorwydd Caerphilly",
+    "originalKey" : "Gorwydd",
+    "original_value" : "Gorwydd Caerphilly",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "PGI",
+    "wikipedia_title" : "Protected geographical indication",
+    "originalKey" : "PGI",
+    "original_value" : "Protected geographical indication",
+    "Wikidata_ID" : "Q3104453"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Caerphilly cheese",
+    "wikipedia_title" : "Caerphilly cheese",
+    "originalKey" : "Caerphilly cheese",
+    "original_value" : "Caerphilly cheese",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "dairy cattle",
+    "wikipedia_title" : "Dairy cattle",
+    "originalKey" : "dairy cattle",
+    "original_value" : "Dairy cattle",
+    "Wikidata_ID" : "Q2915"
+  }, {
+    "entity_in_the_text" : "Big Cheese festival",
+    "wikipedia_title" : "Big Cheese Festival",
+    "originalKey" : "Big Cheese festival",
+    "original_value" : "Big Cheese Festival",
+    "Wikidata_ID" : "Q96373526"
+  }, {
+    "entity_in_the_text" : "Caerphilly",
+    "wikipedia_title" : "Caerphilly",
+    "originalKey" : "Caerphilly",
+    "original_value" : "Caerphilly",
+    "Wikidata_ID" : "Q909119"
+  }, {
+    "entity_in_the_text" : "coal miners",
+    "wikipedia_title" : "Coal miner",
+    "originalKey" : "coal miners",
+    "original_value" : "Coal miner",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "PGI status",
+    "wikipedia_title" : "Protected geographical indication",
+    "originalKey" : "PGI status",
+    "original_value" : "Protected geographical indication",
+    "Wikidata_ID" : "Q3104453"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "COVID",
+    "wikipedia_title" : "COVID-19 pandemic",
+    "originalKey" : "COVID",
+    "original_value" : "COVID-19 pandemic",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Caerphilly",
+    "wikipedia_title" : "Caerphilly cheese",
+    "originalKey" : "Caerphilly",
+    "original_value" : "Caerphilly cheese",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cerphilly",
+    "wikipedia_title" : "Caerphilly cheese",
+    "originalKey" : "Cerphilly",
+    "original_value" : "Caerphilly cheese",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Caerphilly cheese",
+    "wikipedia_title" : "Caerphilly cheese",
+    "originalKey" : "Caerphilly cheese",
+    "original_value" : "Caerphilly cheese",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Caerphilly",
+    "wikipedia_title" : "Caerphilly",
+    "originalKey" : "Caerphilly",
+    "original_value" : "Caerphilly",
+    "Wikidata_ID" : "Q909119"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Caerphilly cheese",
+    "wikipedia_title" : "Caerphilly",
+    "originalKey" : "Caerphilly cheese",
+    "original_value" : "Caerphilly",
+    "Wikidata_ID" : "Q909119"
+  }, {
+    "entity_in_the_text" : "Somerset",
+    "wikipedia_title" : "Somerset",
+    "originalKey" : "Somerset",
+    "original_value" : "Somerset",
+    "Wikidata_ID" : "Q23157"
+  }, {
+    "entity_in_the_text" : "South Somerset LAU1",
+    "wikipedia_title" : "Local administrative units of England",
+    "originalKey" : "South Somerset LAU1",
+    "original_value" : "Local administrative units of England",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Wiltshire",
+    "wikipedia_title" : "Wiltshire",
+    "originalKey" : "Wiltshire",
+    "original_value" : "Wiltshire",
+    "Wikidata_ID" : "Q23183"
+  }, {
+    "entity_in_the_text" : "LAU1",
+    "wikipedia_title" : "Nomenclature of Territorial Units for Statistics#Local administrative units (LAUs)",
+    "originalKey" : "LAU1",
+    "original_value" : "Nomenclature of Territorial Units for Statistics#Local administrative units (LAUs)",
+    "Wikidata_ID" : ""
+  } ]
+} ]

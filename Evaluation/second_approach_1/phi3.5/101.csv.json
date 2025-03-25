@@ -1,0 +1,491 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece",
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "entity_in_the_text": "MOVING Card ID of this VC is VC 10 GR",
+                "wikipedia_title": "VC 10 G (Value Chain)",
+                "originalKey": "MOVING Card ID of this VC is VC 10 GR",
+                "original_value": "VC 10 G (Value Chain)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "chestnut trees",
+                "wikipedia_title": "Castanea sativa\" or \"Chestnut tree",
+                "originalKey": "chestnut trees",
+                "original_value": "Castanea sativa\" or \"Chestnut tree",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "farmers",
+                "wikipedia_title": "Farmer",
+                "originalKey": "farmers",
+                "original_value": "Farmer",
+                "Wikidata_ID": "Q131512"
+            },
+            {
+                "entity_in_the_text": "local government",
+                "wikipedia_title": "Local Government",
+                "originalKey": "local government",
+                "original_value": "Local Government",
+                "Wikidata_ID": "Q6501447"
+            },
+            {
+                "entity_in_the_text": "local catering and tourism",
+                "wikipedia_title": "Local Catering & Tourism Industry",
+                "originalKey": "local catering and tourism",
+                "original_value": "Local Catering & Tourism Industry",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "small firms of standardization, packaging, promotion and marketing.",
+                "wikipedia_title": "Small Businesses in Packaging, Standardization, Promotion and Marketing",
+                "originalKey": "small firms of standardization, packaging, promotion and marketing.",
+                "original_value": "Small Businesses in Packaging, Standardization, Promotion and Marketing",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "White Mountains",
+                "wikipedia_title": "Mountains of Crete",
+                "originalKey": "White Mountains",
+                "original_value": "Mountains of Crete",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "334.2",
+                "wikipedia_title": "Area of LAU",
+                "originalKey": "334.2",
+                "original_value": "Area of LAU",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "0",
+                "wikipedia_title": "Minimum altimetry of the Local Administrative Unit (LAU)",
+                "originalKey": "0",
+                "original_value": "Minimum altimetry of the Local Administrative Unit (LAU)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "1000",
+                "wikipedia_title": "Maximum altimetry of the LAU",
+                "originalKey": "1000",
+                "original_value": "Maximum altimetry of the LAU",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "0.02%",
+                "wikipedia_title": "LAU population change rate in the last 10 years",
+                "originalKey": "0.02%",
+                "original_value": "LAU population change rate in the last 10 years",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "76.5",
+                "wikipedia_title": "Overall regional population density (Inhabitants/km2)",
+                "originalKey": "76.5",
+                "original_value": "Overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "0.02%",
+                "wikipedia_title": "Regional population change rate in the last 10 years",
+                "originalKey": "0.02%",
+                "original_value": "Regional population change rate in the last 10 years",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The average per capita income (EUR/year) Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The average per capita income (EUR/year) Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The primary sector share of total GVA/year Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The secondary sector share of total GVA/year Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The tertiary sector share of total GVA/year Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The tertiary sector share of total GVA/year Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The average per capita income (EUR/year) Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The average per capita income (EUR/year) Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The primary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The secondary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The tertiary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The tertiary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total number of bed places in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics",
+                "originalKey": "total number of bed places in tourist accommodations/year",
+                "original_value": "Tourism industry statistics",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in01.json\n    {": "ntities",
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Administrative division of a country or region",
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Administrative division of a country or region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in01.json\n    {": "ntities",
+                "entity_in_the_text": "total number of bed places (BPs) in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics",
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "original_value": "Tourism industry statistics",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity01.json\n    {": "ntities",
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Administrative division of a country or region",
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Administrative division of a country or region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity01.json\n    {": "ntities",
+                "entity_in_the_text": "total number of bed places (BPs) in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics",
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "original_value": "Tourism industry statistics",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The primary sector",
+                "wikipedia_title": "Primary economic activity",
+                "originalKey": "The primary sector",
+                "original_value": "Primary economic activity",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "originalKey": "total employment/year Province",
+                "original_value": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "14.78% share",
+                "wikipedia_title": "Labor force distribution across economic sectors",
+                "originalKey": "14.78% share",
+                "original_value": "Labor force distribution across economic sectors",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The secondary sector",
+                "wikipedia_title": "Secondary industry or manufacturing in the context of your query (if referring to a specific country)",
+                "originalKey": "The secondary sector",
+                "original_value": "Secondary industry or manufacturing in the context of your query (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "11.46% share",
+                "wikipedia_title": "Labor force distribution across economic sectors",
+                "originalKey": "11.46% share",
+                "original_value": "Labor force distribution across economic sectors",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The tertiary sector",
+                "wikipedia_title": "Tertiary industry or services in the context of your query (if referring to a specific country)",
+                "originalKey": "The tertiary sector",
+                "original_value": "Tertiary industry or services in the context of your query (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "73.76% share",
+                "wikipedia_title": "Labor force distribution across economic sectors",
+                "originalKey": "73.76% share",
+                "original_value": "Labor force distribution across economic sectors",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total employment/year Region",
+                "wikipedia_title": "Primary industry or agriculture in the context of your query (if referring to a specific country)",
+                "originalKey": "The primary sector share of total employment/year Region",
+                "original_value": "Primary industry or agriculture in the context of your query (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "16.20% share",
+                "wikipedia_title": "Labor force distribution across economic sectors",
+                "originalKey": "16.20% share",
+                "original_value": "Labor force distribution across economic sectors",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total employment/year Region",
+                "wikipedia_title": "Secondary industry or manufacturing in the context of your query (if referring to a specific country)",
+                "originalKey": "The secondary sector share of total employment/year Region",
+                "original_value": "Secondary industry or manufacturing in the context of your query (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "11.84% share",
+                "wikipedia_title": "Labor force distribution across economic sectors",
+                "originalKey": "11.84% share",
+                "original_value": "Labor force distribution across economic sectors",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The tertiary sector share of total employment/year Region",
+                "wikipedia_title": "Tertiary industry or services in the context of your query (if referring to a specific country)",
+                "originalKey": "The tertiary sector share of total employment/year Region",
+                "original_value": "Tertiary industry or services in the context of your query (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "71.97% share",
+                "wikipedia_title": "Labor force distribution across economic sectors",
+                "originalKey": "71.97% share",
+                "original_value": "Labor force distribution across economic sectors",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Chestnut trees",
+                "wikipedia_title": "Castanea",
+                "originalKey": "Chestnut trees",
+                "original_value": "Castanea",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "western mountain areas of Crete, from 500m to 800m",
+                "wikipedia_title": "Crete",
+                "originalKey": "western mountain areas of Crete, from 500m to 800m",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "entity_in_the_text": "Chania chestnut trees",
+                "wikipedia_title": "Castanea sativa subsp. caucasi var. castanetica 'Cretensis'",
+                "originalKey": "Chania chestnut trees",
+                "original_value": "Castanea sativa subsp. caucasi var. castanetica 'Cretensis'",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "local farmers, cooperatives and private firms",
+                "wikipedia_title": "Cooperative",
+                "originalKey": "local farmers, cooperatives and private firms",
+                "original_value": "Cooperative",
+                "Wikidata_ID": "Q4539"
+            },
+            {
+                "entity_in_the_text": "olive oil monoculture",
+                "wikipedia_title": "Olive cultivation in Greece",
+                "originalKey": "olive oil monoculture",
+                "original_value": "Olive cultivation in Greece",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "mountainous areas of Crete and sustainable activity",
+                "wikipedia_title": "Sustainability on the island of Crete, specifically related to agriculture or forestry practices.",
+                "originalKey": "mountainous areas of Crete and sustainable activity",
+                "original_value": "Sustainability on the island of Crete, specifically related to agriculture or forestry practices.",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "forested / semi forests",
+                "wikipedia_title": "Forest",
+                "originalKey": "forested / semi forests",
+                "original_value": "Forest",
+                "Wikidata_ID": "Q4421"
+            },
+            {
+                "entity_in_the_text": "grasslands of Western White Mountains",
+                "wikipedia_title": "Western Alps",
+                "originalKey": "grasslands of Western White Mountains",
+                "original_value": "Western Alps",
+                "Wikidata_ID": "Q74259"
+            },
+            {
+                "entity_in_the_text": "agro-tourism",
+                "wikipedia_title": "Agriturismo",
+                "originalKey": "agro-tourism",
+                "original_value": "Agriturismo",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "chestnut activities",
+                "wikipedia_title": "Castanea sativa (European chestnut)",
+                "originalKey": "chestnut activities",
+                "original_value": "Castanea sativa (European chestnut)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "cultivation and preservation of the chestnut forests in the area.",
+                "wikipedia_title": "Chestnut cultivation",
+                "originalKey": "cultivation and preservation of the chestnut forests in the area.",
+                "original_value": "Chestnut cultivation",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "annual 3-days Chestnut festival",
+                "wikipedia_title": "Festa della Castagna (Italian chestnut)",
+                "originalKey": "annual 3-days Chestnut festival",
+                "original_value": "Festa della Castagna (Italian chestnut)",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "chestnut trees",
+                "wikipedia_title": "Castanea sativa",
+                "originalKey": "chestnut trees",
+                "original_value": "Castanea sativa",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "economic crisis",
+                "wikipedia_title": "Economic Crisis (Greece)",
+                "originalKey": "economic crisis",
+                "original_value": "Economic Crisis (Greece)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "olive oil trees",
+                "wikipedia_title": "Olea europaea",
+                "originalKey": "olive oil trees",
+                "original_value": "Olea europaea",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Castanea sativa cultivation /exploitation",
+                "wikipedia_title": "Chestnut farming in Greece",
+                "originalKey": "Castanea sativa cultivation /exploitation",
+                "original_value": "Chestnut farming in Greece",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Greek and international market",
+                "wikipedia_title": "International trade of agricultural products - Greek economy impact on markets",
+                "originalKey": "Greek and international market",
+                "original_value": "International trade of agricultural products - Greek economy impact on markets",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Economic Crisis (Greece)",
+                "wikipedia_title": "Economic Crisis (Greece)",
+                "originalKey": "Economic Crisis (Greece)",
+                "original_value": "Economic Crisis (Greece)",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Business model",
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Business model",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "chestnut trees",
+                "wikipedia_title": "Castanea sativa",
+                "originalKey": "chestnut trees",
+                "original_value": "Castanea sativa",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "EL531, EL525, EL612, EL644",
+                "wikipedia_title": "List of Greek VCs",
+                "originalKey": "EL531, EL525, EL612, EL644",
+                "original_value": "List of Greek VCs",
+                "Wikidata_ID": ""
+            }
+        ]
+    }
+]

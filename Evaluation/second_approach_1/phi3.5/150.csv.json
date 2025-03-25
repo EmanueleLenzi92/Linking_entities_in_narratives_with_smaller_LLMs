@@ -1,0 +1,423 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ITALY UNIMOL",
+                "wikipedia_title": "Unione Italiana Molitori",
+                "originalKey": "ITALY UNIMOL",
+                "original_value": "Unione Italiana Molitori",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "UNIPI",
+                "wikipedia_title": "Unione Italiana Produttori Industriali di Pesche (Apricots)",
+                "originalKey": "UNIPI",
+                "original_value": "Unione Italiana Produttori Industriali di Pesche (Apricots)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "VC 17 IT",
+                "wikipedia_title": "Value Chain VC 17 Italy",
+                "originalKey": "VC 17 IT",
+                "original_value": "Value Chain VC 17 Italy",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "farmers and the municipality of Amatrice",
+                "wikipedia_title": "Amatrice, Municipality in Lazio Region (Italy)",
+                "originalKey": "farmers and the municipality of Amatrice",
+                "original_value": "Amatrice, Municipality in Lazio Region (Italy)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "'Honey of Amatrice'",
+                "wikipedia_title": "'Miele di Amatrice'",
+                "originalKey": "'Honey of Amatrice'",
+                "original_value": "'Miele di Amatrice'",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Central Apennines Lazio region",
+                "wikipedia_title": "Apennine Mountains (Italy)",
+                "originalKey": "Central Apennines Lazio region",
+                "original_value": "Apennine Mountains (Italy)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Lazio region",
+                "wikipedia_title": "Lazio",
+                "originalKey": "Lazio region",
+                "original_value": "Lazio",
+                "Wikidata_ID": "Q1282"
+            },
+            {
+                "entity_in_the_text": "Rieti province",
+                "wikipedia_title": "Province of Rieti",
+                "originalKey": "Rieti province",
+                "original_value": "Province of Rieti",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Abruzzo region",
+                "wikipedia_title": "Abruzzo",
+                "originalKey": "Abruzzo region",
+                "original_value": "Abruzzo",
+                "Wikidata_ID": "Q1284"
+            },
+            {
+                "entity_in_the_text": "Amatrice municipality",
+                "wikipedia_title": "Amatrice",
+                "originalKey": "Amatrice municipality",
+                "original_value": "Amatrice",
+                "Wikidata_ID": "Q223427"
+            },
+            {
+                "entity_in_the_text": "Montana del Velino community",
+                "wikipedia_title": "Montana del Velino Community",
+                "originalKey": "Montana del Velino community",
+                "original_value": "Montana del Velino Community",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Club of Borghi più belli d Italia",
+                "wikipedia_title": "The Most Beautiful Villages in Italy",
+                "originalKey": "Club of Borghi più belli d Italia",
+                "original_value": "The Most Beautiful Villages in Italy",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "spaghetti amatriciana",
+                "wikipedia_title": "Spaghetti Amatriciana",
+                "originalKey": "spaghetti amatriciana",
+                "original_value": "Spaghetti Amatriciana",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The size of the area",
+                "wikipedia_title": "Area",
+                "originalKey": "The size of the area",
+                "original_value": "Area",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the01. The population change rate in the last 10 years (%) has been -5.38%.\n    }\n]\n}\n\nNote: There seems to be a discrepancy between the provided text and the extracted information for the population change rate over the past decade, which is mentioned as": 10.93,
+                " in your initial request but": 5.38,
+                " here based on the given input. The correct value according to the original text should be used:\n\n```json\n{": "ntities",
+                "entity_in_the_text": "The population change rate of the LAU in the last 10 years (%)",
+                "wikipedia_title": "Population growth or decline",
+                "originalKey": "The population change rate of the LAU in the last 10 years (%)",
+                "original_value": "Population growth or decline",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "-10.93%",
+                "wikipedia_title": "Population change rate of LAU in the last 10 years (%) - Specific case example, if available on Wikipedia.",
+                "originalKey": "-10.93%",
+                "original_value": "Population change rate of LAU in the last 10 years (%) - Specific case example, if available on Wikipedia.",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The average per capita income (EUR/year) Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The average per capita income (EUR/year) Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The primary sector share of total GVA/year Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The secondary sector share of total GVA/year Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The tertiary sector share of total GVA/year Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The tertiary sector share of total GVA/year Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The per capita income (EUR/year) Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The per capita income (EUR/year) Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The primary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The secondary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The tertiary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The tertiary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total number of bed places in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics for the specified location",
+                "originalKey": "total number of bed places in tourist accommodations/year",
+                "original_value": "Tourism industry statistics for the specified location",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "regional share of total BPs/year is 0.00%",
+                "wikipedia_title": "Statistics on regional contribution to tourist accommodations in LAU area",
+                "originalKey": "regional share of total BPs/year is 0.00%",
+                "original_value": "Statistics on regional contribution to tourist accommodations in LAU area",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "181 agricultural holdings in the LAU",
+                "wikipedia_title": "Agriculture statistics for specified Local Administrative Unit (LAU)",
+                "originalKey": "181 agricultural holdings in the LAU",
+                "original_value": "Agriculture statistics for specified Local Administrative Unit (LAU)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "settlement with population over 100,000 km away is 85km",
+                "wikipedia_title": "Population density and distance to nearest large settlement statistics for specified location",
+                "originalKey": "settlement with population over 100,000 km away is 85km",
+                "original_value": "Population density and distance to nearest large settlement statistics for specified location",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "protected areas present in the region",
+                "wikipedia_title": "Protected area information of the specific LAU or nearby regions",
+                "originalKey": "protected areas present in the region",
+                "original_value": "Protected area information of the specific LAU or nearby regions",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The primary sector",
+                "wikipedia_title": "Primary economic activity",
+                "originalKey": "The primary sector",
+                "original_value": "Primary economic activity",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "originalKey": "total employment/year Province",
+                "original_value": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "5.70% share for primary sector employment/year Province",
+                "wikipedia_title": "Economic structure and labor force distribution in [Province]",
+                "originalKey": "5.70% share for primary sector employment/year Province",
+                "original_value": "Economic structure and labor force distribution in [Province]",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The secondary sector",
+                "wikipedia_title": "Secondary economic activity",
+                "originalKey": "The secondary sector",
+                "original_value": "Secondary economic activity",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "originalKey": "total employment/year Province",
+                "original_value": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "16.14% share for secondary sector employment/year Province",
+                "wikipedia_title": "Economic structure and labor force distribution in [Province]",
+                "originalKey": "16.14% share for secondary sector employment/year Province",
+                "original_value": "Economic structure and labor force distribution in [Province]",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The tertiary sector",
+                "wikipedia_title": "Tertiary economic activity",
+                "originalKey": "The tertiary sector",
+                "original_value": "Tertiary economic activity",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "originalKey": "total employment/year Province",
+                "original_value": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "78.16% share for tertiary sector employment/year Province",
+                "wikipedia_title": "Economic structure and labor force distribution in [Province]",
+                "originalKey": "78.16% share for tertiary sector employment/year Province",
+                "original_value": "Economic structure and labor force distribution in [Province]",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total employment/year Region",
+                "wikipedia_title": "Primary economic activity",
+                "originalKey": "The primary sector share of total employment/year Region",
+                "original_value": "Primary economic activity",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "1.99% share for primary sector employment/year in region",
+                "wikipedia_title": "[Region] Economic structure and labor force distribution (if referring to a specific country or equivalent entity)",
+                "originalKey": "1.99% share for primary sector employment/year in region",
+                "original_value": "[Region] Economic structure and labor force distribution (if referring to a specific country or equivalent entity)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total employment/year Region",
+                "wikipedia_title": "Secondary economic activity",
+                "originalKey": "The secondary sector share of total employment/year Region",
+                "original_value": "Secondary economic activity",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "12.60% share for secondary sector employment/year in region",
+                "wikipedia_title": "[Region] Economic structure and labor force distribution (if referring to a specific country or equivalent entity)",
+                "originalKey": "12.60% share for secondary sector employment/year in region",
+                "original_value": "[Region] Economic structure and labor force distribution (if referring to a specific country or equivalent entity)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The tertiary sector share of total employment/year Region",
+                "wikipedia_title": "Tertiary economic activity",
+                "originalKey": "The tertiary sector share of total employment/year Region",
+                "original_value": "Tertiary economic activity",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "85.41% share for tertiary sector employment/year in region",
+                "wikipedia_title": "[Region] Economic structure and labor force distribution (if referring to a specific country or equivalent entity)",
+                "originalKey": "85.41% share for tertiary sector employment/year in region",
+                "original_value": "[Region] Economic structure and labor force distribution (if referring to a specific country or equivalent entity)",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Amatrice",
+                "wikipedia_title": "Amatrice",
+                "originalKey": "Amatrice",
+                "original_value": "Amatrice",
+                "Wikidata_ID": "Q223427"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Amatrice",
+                "wikipedia_title": "Amatrice",
+                "originalKey": "Amatrice",
+                "original_value": "Amatrice",
+                "Wikidata_ID": "Q223427"
+            },
+            {
+                "entity_in_the_text": "organic honey production in Amatrice area",
+                "wikipedia_title": "Organic farming#Italy|Organic agriculture in Italy",
+                "originalKey": "organic honey production in Amatrice area",
+                "original_value": "Organic farming#Italy|Organic agriculture in Italy",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "ecological constraints of the nature park",
+                "wikipedia_title": "Nature parks and reserves (Abruzzo)|Ecological conservation efforts in Abruzzo Nature Parks",
+                "originalKey": "ecological constraints of the nature park",
+                "original_value": "Nature parks and reserves (Abruzzo)|Ecological conservation efforts in Abruzzo Nature Parks",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "climate change",
+                "wikipedia_title": "Effects of climate change",
+                "originalKey": "climate change",
+                "original_value": "Effects of climate change",
+                "Wikidata_ID": "Q1430548"
+            },
+            {
+                "entity_in_the_text": "honey production",
+                "wikipedia_title": "Honey bee pollination and honey extraction process",
+                "originalKey": "honey production",
+                "original_value": "Honey bee pollination and honey extraction process",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Municipality of Amatrice",
+                "wikipedia_title": "Amatrice (town)",
+                "originalKey": "Municipality of Amatrice",
+                "original_value": "Amatrice (town)",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Miele di Amatrice label",
+                "wikipedia_title": "Miele di Amatrice",
+                "originalKey": "Miele di Amatrice label",
+                "original_value": "Miele di Amatrice",
+                "Wikidata_ID": ""
+            }
+        ]
+    }
+]

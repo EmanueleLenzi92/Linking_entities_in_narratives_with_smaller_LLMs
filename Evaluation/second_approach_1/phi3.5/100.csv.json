@@ -1,0 +1,559 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece",
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "entity_in_the_text": "MOVING Card ID of this VC is VC 09 GR.",
+                "wikipedia_title": "Value Chain (Economics)",
+                "originalKey": "MOVING Card ID of this VC is VC 09 GR.",
+                "original_value": "Value Chain (Economics)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Aloe vera",
+                "wikipedia_title": "Aloe",
+                "originalKey": "Aloe vera",
+                "original_value": "Aloe",
+                "Wikidata_ID": "Q127134"
+            },
+            {
+                "entity_in_the_text": "Cretan Diet Festival",
+                "wikipedia_title": "Cretan diet festival",
+                "originalKey": "Cretan Diet Festival",
+                "original_value": "Cretan diet festival",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Pancretan Network of Organic Farmers of Aloe Vera",
+                "wikipedia_title": "Organic farming in Greece and Pancreteon (organization)",
+                "originalKey": "Pancretan Network of Organic Farmers of Aloe Vera",
+                "original_value": "Organic farming in Greece and Pancreteon (organization)",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Dikti Mountains",
+                "wikipedia_title": "Dikteion",
+                "originalKey": "Dikti Mountains",
+                "original_value": "Dikteion",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "VIANNOS",
+                "wikipedia_title": "Viannos (mountain range)",
+                "originalKey": "VIANNOS",
+                "original_value": "Viannos (mountain range)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Pinus brutia",
+                "wikipedia_title": "Aleppo Pine",
+                "originalKey": "Pinus brutia",
+                "original_value": "Aleppo Pine",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Quercus coccifera",
+                "wikipedia_title": "Kermes Oak",
+                "originalKey": "Quercus coccifera",
+                "original_value": "Kermes Oak",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Cupressus sempervirens",
+                "wikipedia_title": "Mugo Pine",
+                "originalKey": "Cupressus sempervirens",
+                "original_value": "Mugo Pine",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Quercus ilex",
+                "wikipedia_title": "Holm Oak",
+                "originalKey": "Quercus ilex",
+                "original_value": "Holm Oak",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Acer sempervirens",
+                "wikipedia_title": "Crete Maple",
+                "originalKey": "Acer sempervirens",
+                "original_value": "Crete Maple",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Dikti/Dicte valleys and plateaus",
+                "wikipedia_title": "Valleys of Dikta (mountain range)",
+                "originalKey": "Dikti/Dicte valleys and plateaus",
+                "original_value": "Valleys of Dikta (mountain range)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "aloe vera",
+                "wikipedia_title": "Aloe Vera",
+                "originalKey": "aloe vera",
+                "original_value": "Aloe Vera",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The size of the area",
+                "wikipedia_title": "Area",
+                "originalKey": "The size of the area",
+                "original_value": "Area",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "221.5 km2",
+                "wikipedia_title": "Size (area)",
+                "originalKey": "221.5 km2",
+                "original_value": "Size (area)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The minimum altimetry of the LAU",
+                "wikipedia_title": "Altitude",
+                "originalKey": "The minimum altimetry of the LAU",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "entity_in_the_text": "0",
+                "wikipedia_title": "Minimum Altitude (LAU)",
+                "originalKey": "0",
+                "original_value": "Minimum Altitude (LAU)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The maximum altimetry of the LAU",
+                "wikipedia_title": "Maximum Altitude (LAU)",
+                "originalKey": "The maximum altimetry of the LAU",
+                "original_value": "Maximum Altitude (LAU)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "1147",
+                "wikipedia_title": "Maximum Altitude (LAU)",
+                "originalKey": "1147",
+                "original_value": "Maximum Altitude (LAU)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The total population of the LAU",
+                "wikipedia_title": "Population",
+                "originalKey": "The total population of the LAU",
+                "original_value": "Population",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "315.162 thousand people",
+                "wikipedia_title": "Total Population (LAU)",
+                "originalKey": "315.162 thousand people",
+                "original_value": "Total Population (LAU)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The population density in the LAU",
+                "wikipedia_title": "Population Density",
+                "originalKey": "The population density in the LAU",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "entity_in_the_text": "119.40 Inhabitants/km2",
+                "wikipedia_title": "Density (LAU)",
+                "originalKey": "119.40 Inhabitants/km2",
+                "original_value": "Density (LAU)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The population change rate of the LAU in the last 10 years",
+                "wikipedia_title": "Population Growth Rate",
+                "originalKey": "The population change rate of the LAU in the last 10 years",
+                "original_value": "Population Growth Rate",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "0.02%",
+                "wikipedia_title": "Growth Rate (LAU, past decade)",
+                "originalKey": "0.02%",
+                "original_value": "Growth Rate (LAU, past decade)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The overall regional population density",
+                "wikipedia_title": "Population Density",
+                "originalKey": "The overall regional population density",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "entity_in_the_text": "76.5 Inhabitants/km2",
+                "wikipedia_title": "Density (region)",
+                "originalKey": "76.5 Inhabitants/km2",
+                "original_value": "Density (region)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The regional population change rate in the last 10 years",
+                "wikipedia_title": "Population Growth Rate",
+                "originalKey": "The regional population change rate in the last 10 years",
+                "original_value": "Population Growth Rate",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "0.01%",
+                "wikipedia_title": "Growth Rate (region, past decade)",
+                "originalKey": "0.01%",
+                "original_value": "Growth Rate (region, past decade)",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The average per capita income (EUR/year) Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The average per capita income (EUR/year) Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The primary sector share of total GVA/year Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The secondary sector share of total GVA/year Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The tertiary sector share of total GVA/year Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The tertiary sector share of total GVA/year Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The per capita income (EUR/year) Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The per capita income (EUR/year) Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The primary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The secondary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The tertiary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The tertiary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total number of bed places in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics",
+                "originalKey": "total number of bed places in tourist accommodations/year",
+                "original_value": "Tourism industry statistics",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "41162 agricultural holdings",
+                "wikipedia_title": "Agriculture by country: United States",
+                "originalKey": "41162 agricultural holdings",
+                "original_value": "Agriculture by country: United States",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "nearest settlement with population over 100,000 (km)",
+                "wikipedia_title": "List of urban areas in the Los Angeles metropolitan area",
+                "additional_context": "(distance information)",
+                "originalKey": "nearest settlement with population over 100,000 (km)",
+                "original_value": "List of urban areas in the Los Angeles metropolitan area",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "protected areas present",
+                "wikipedia_title": "Protected areas by country: United States",
+                "originalKey": "protected areas present",
+                "original_value": "Protected areas by country: United States",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The primary sector",
+                "wikipedia_title": "Primary economic activity",
+                "originalKey": "The primary sector",
+                "original_value": "Primary economic activity",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "originalKey": "total employment/year Province",
+                "original_value": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "15.23% share for primary sector employment/year Province",
+                "wikipedia_title": "Primary economic activity percentage in [Province]",
+                "originalKey": "15.23% share for primary sector employment/year Province",
+                "original_value": "Primary economic activity percentage in [Province]",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The secondary sector",
+                "wikipedia_title": "Secondary economic activity",
+                "originalKey": "The secondary sector",
+                "original_value": "Secondary economic activity",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "originalKey": "total employment/year Province",
+                "original_value": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "12.38% share for secondary sector employment/year Province",
+                "wikipedia_title": "Secondary economic activity percentage in [Province]",
+                "originalKey": "12.38% share for secondary sector employment/year Province",
+                "original_value": "Secondary economic activity percentage in [Province]",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The tertiary sector",
+                "wikipedia_title": "Tertiary economic activity",
+                "originalKey": "The tertiary sector",
+                "original_value": "Tertiary economic activity",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "originalKey": "total employment/year Province",
+                "original_value": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "72.39% share for tertiary sector employment/year Province",
+                "wikipedia_title": "Tertiary economic activity percentage in [Province]",
+                "originalKey": "72.39% share for tertiary sector employment/year Province",
+                "original_value": "Tertiary economic activity percentage in [Province]",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total employment/year Region",
+                "wikipedia_title": "Primary economic activity percentage by region or equivalent entity based on the context of your query (if referring to a specific country)",
+                "originalKey": "The primary sector share of total employment/year Region",
+                "original_value": "Primary economic activity percentage by region or equivalent entity based on the context of your query (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "16.20% share for primary sector employment/year Region",
+                "wikipedia_title": "[Region] Primary economic activity percentage",
+                "originalKey": "16.20% share for primary sector employment/year Region",
+                "original_value": "[Region] Primary economic activity percentage",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total employment/year Region",
+                "wikipedia_title": "[Region] Secondary economic activity percentage",
+                "originalKey": "The secondary sector share of total employment/year Region",
+                "original_value": "[Region] Secondary economic activity percentage",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "11.84% share for secondary sector employment/year Region",
+                "wikipedia_title": "[Region] Secondary economic activity percentage",
+                "originalKey": "11.84% share for secondary sector employment/year Region",
+                "original_value": "[Region] Secondary economic activity percentage",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Aloe vera",
+                "wikipedia_title": "Aloe",
+                "originalKey": "Aloe vera",
+                "original_value": "Aloe",
+                "Wikidata_ID": "Q127134"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Dikti Mountain landscape",
+                "wikipedia_title": "Mount Dikte",
+                "originalKey": "Dikti Mountain landscape",
+                "original_value": "Mount Dikte",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "olives",
+                "wikipedia_title": "Olive cultivation and production in Greece",
+                "originalKey": "olives",
+                "original_value": "Olive cultivation and production in Greece",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Aloe Vera",
+                "wikipedia_title": "Aloe vera (plant)",
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe vera (plant)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "food/cosmetic industries processing facilities",
+                "wikipedia_title": "Food and cosmetics industry",
+                "originalKey": "food/cosmetic industries processing facilities",
+                "original_value": "Food and cosmetics industry",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "risk of extinction of rare plants",
+                "wikipedia_title": "Endemic species",
+                "originalKey": "risk of extinction of rare plants",
+                "original_value": "Endemic species",
+                "Wikidata_ID": "Q113828342"
+            },
+            {
+                "entity_in_the0: The text mentions 'Dikti area and Viannos', which are geographical locations. However, without specific entities to extract (like a landmark or notable place), it's not possible to provide corresponding Wikipedia titles directly from the given information alone. Here is an example assuming these areas might refer to known places:\n\n```json\n{": "ntities",
+                "entity_in_the_text": "Dikti area",
+                "wikipedia_title": "[Assuming Dikta mountain range] Mountain Range",
+                "originalKey": "Dikti area",
+                "original_value": "[Assuming Dikta mountain range] Mountain Range",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Viannos",
+                "wikipedia_title": "[Assuming Vianni village or region in Greece]",
+                "originalKey": "Viannos",
+                "original_value": "[Assuming Vianni village or region in Greece]",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Minoan Land",
+                "wikipedia_title": "Minoan (organic farming cooperative)",
+                "originalKey": "Minoan Land",
+                "original_value": "Minoan (organic farming cooperative)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Aloe Vera plants",
+                "wikipedia_title": "aloe",
+                "originalKey": "Aloe Vera plants",
+                "original_value": "aloe",
+                "Wikidata_ID": "Q127134"
+            },
+            {
+                "entity_in_the_text": "natural fertilizers as a byproduct",
+                "wikipedia_title": "Composting in organic farming",
+                "originalKey": "natural fertilizers as a byproduct",
+                "original_value": "Composting in organic farming",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "juice for specific medical conditions and diets",
+                "wikipedia_title": "Medical uses of aloe",
+                "originalKey": "juice for specific medical conditions and diets",
+                "original_value": "Medical uses of aloe",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Aloe Vera",
+                "wikipedia_title": "Aloe",
+                "originalKey": "Aloe Vera",
+                "original_value": "Aloe",
+                "Wikidata_ID": "Q127134"
+            },
+            {
+                "entity_in_the_text": "Andalusia, Spain",
+                "wikipedia_title": "Andalusia",
+                "originalKey": "Andalusia, Spain",
+                "original_value": "Andalusia",
+                "Wikidata_ID": "Q5783"
+            },
+            {
+                "entity_in_the_text": "European consumers",
+                "wikipedia_title": "Consumer in Europe",
+                "originalKey": "European consumers",
+                "original_value": "Consumer in Europe",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "nutritional supplements and health products",
+                "wikipedia_title": "Nutritional Supplementation, Health Products",
+                "originalKey": "nutritional supplements and health products",
+                "original_value": "Nutritional Supplementation, Health Products",
+                "Wikidata_ID": ""
+            }
+        ]
+    }
+]

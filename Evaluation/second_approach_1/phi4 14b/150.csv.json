@@ -1,0 +1,309 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "ITALY",
+    "wikipedia_title" : "Italy",
+    "originalKey" : "ITALY",
+    "original_value" : "Italy",
+    "Wikidata_ID" : "Q38"
+  }, {
+    "entity_in_the_text" : "UNIMOL",
+    "wikipedia_title" : "University of Molise",
+    "originalKey" : "UNIMOL",
+    "original_value" : "University of Molise",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "UNIPI",
+    "wikipedia_title" : "University of Pisa",
+    "originalKey" : "UNIPI",
+    "original_value" : "University of Pisa",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC 17 IT",
+    "wikipedia_title" : null,
+    "originalKey" : "VC 17 IT",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "SESs",
+    "wikipedia_title" : "Social-Ecological System",
+    "originalKey" : "SESs",
+    "original_value" : "Social-Ecological System",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "farmers",
+    "wikipedia_title" : "Farmer",
+    "originalKey" : "farmers",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  }, {
+    "entity_in_the_text" : "municipality of Amatrice",
+    "wikipedia_title" : "Amatrice",
+    "originalKey" : "municipality of Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  }, {
+    "entity_in_the_text" : "Honey of Amatrice (Miele di Amatrice)",
+    "wikipedia_title" : null,
+    "originalKey" : "Honey of Amatrice (Miele di Amatrice)",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Central Apennines",
+    "wikipedia_title" : "Apennine Mountains",
+    "originalKey" : "Central Apennines",
+    "original_value" : "Apennine Mountains",
+    "Wikidata_ID" : "Q1285"
+  }, {
+    "entity_in_the_text" : "Lazio region",
+    "wikipedia_title" : "Lazio",
+    "originalKey" : "Lazio region",
+    "original_value" : "Lazio",
+    "Wikidata_ID" : "Q1282"
+  }, {
+    "entity_in_the_text" : "Amatrice",
+    "wikipedia_title" : "Amatrice",
+    "originalKey" : "Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  }, {
+    "entity_in_the_text" : "province of Rieti",
+    "wikipedia_title" : "Province of Rieti",
+    "originalKey" : "province of Rieti",
+    "original_value" : "Province of Rieti",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Rieti",
+    "wikipedia_title" : "Rieti",
+    "originalKey" : "Rieti",
+    "original_value" : "Rieti",
+    "Wikidata_ID" : "Q13396"
+  }, {
+    "entity_in_the_text" : "Abruzzo region",
+    "wikipedia_title" : "Abruzzo",
+    "originalKey" : "Abruzzo region",
+    "original_value" : "Abruzzo",
+    "Wikidata_ID" : "Q1284"
+  }, {
+    "entity_in_the_text" : "National park of Gran Sasso e Monti della Laga",
+    "wikipedia_title" : "Gran Sasso and Monti della Laga National Park",
+    "originalKey" : "National park of Gran Sasso e Monti della Laga",
+    "original_value" : "Gran Sasso and Monti della Laga National Park",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Montana del Velino community",
+    "wikipedia_title" : "Montagna del Velino",
+    "originalKey" : "Montana del Velino community",
+    "original_value" : "Montagna del Velino",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Club of Borghi più belli d'Italia",
+    "wikipedia_title" : "Borghi più belli d'Italia",
+    "originalKey" : "Club of Borghi più belli d'Italia",
+    "original_value" : "Borghi più belli d'Italia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "spaghetti amatriciana",
+    "wikipedia_title" : "Amatriciana",
+    "originalKey" : "spaghetti amatriciana",
+    "original_value" : "Amatriciana",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "entity_in_the_text" : "LAU (Local Administrative Unit)",
+    "wikipedia_title" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "altimetry",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region (geography)",
+    "originalKey" : "Region",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List of provinces and territories of Canada by unemployment rate",
+    "originalKey" : "[Province]",
+    "original_value" : "List of provinces and territories of Canada by unemployment rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "NUTS statistical regions of Belgium",
+    "originalKey" : "[Region]",
+    "original_value" : "NUTS statistical regions of Belgium",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "beekeeping farm",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "beekeeping farm",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "honey certificate of origin",
+    "wikipedia_title" : "Protected designation of origin",
+    "originalKey" : "honey certificate of origin",
+    "original_value" : "Protected designation of origin",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Municipality of Amatrice",
+    "wikipedia_title" : "Amatrice",
+    "originalKey" : "Municipality of Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  }, {
+    "entity_in_the_text" : "Adoption of honey of Amatrice (Mielene di Amatric) certificate",
+    "wikipedia_title" : null,
+    "originalKey" : "Adoption of honey of Amatrice (Mielene di Amatric) certificate",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Amatrice",
+    "wikipedia_title" : "Amatrice",
+    "originalKey" : "Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  }, {
+    "entity_in_the_text" : "organic honey",
+    "wikipedia_title" : "Organic_honey",
+    "originalKey" : "organic honey",
+    "original_value" : "Organic_honey",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "climate change",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "entity_in_the_text" : "honey production",
+    "wikipedia_title" : "Honey production",
+    "originalKey" : "honey production",
+    "original_value" : "Honey production",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "bees",
+    "wikipedia_title" : "Apis mellifera",
+    "originalKey" : "bees",
+    "original_value" : "Apis mellifera",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Municipality of Amatrice",
+    "wikipedia_title" : "Amatrice",
+    "originalKey" : "Municipality of Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Supply chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Supply chain",
+    "Wikidata_ID" : "Q1824206"
+  }, {
+    "entity_in_the_text" : "Miele di Amatrice label",
+    "wikipedia_title" : "Amatriciana",
+    "originalKey" : "Miele di Amatrice label",
+    "original_value" : "Amatriciana",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "municipality of Amatrice",
+    "wikipedia_title" : "Amatrice",
+    "originalKey" : "municipality of Amatrice",
+    "original_value" : "Amatrice",
+    "Wikidata_ID" : "Q223427"
+  }, {
+    "entity_in_the_text" : "local mountain farms",
+    "wikipedia_title" : "Mountain farming",
+    "originalKey" : "local mountain farms",
+    "original_value" : "Mountain farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "honey",
+    "wikipedia_title" : "Honey",
+    "originalKey" : "honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "entity_in_the_text" : "wine and food productions",
+    "wikipedia_title" : "Food industry",
+    "originalKey" : "wine and food productions",
+    "original_value" : "Food industry",
+    "Wikidata_ID" : "Q540912"
+  }, {
+    "entity_in_the_text" : "land use systems",
+    "wikipedia_title" : "Land use",
+    "originalKey" : "land use systems",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "entity_in_the_text" : "Cropland",
+    "wikipedia_title" : "Arable land",
+    "originalKey" : "Cropland",
+    "original_value" : "Arable land",
+    "Wikidata_ID" : "Q843920"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Natural environment",
+    "originalKey" : "Natural land",
+    "original_value" : "Natural environment",
+    "Wikidata_ID" : "Q43619"
+  }, {
+    "entity_in_the_text" : "Natural and cultural assets",
+    "wikipedia_title" : "Cultural heritage",
+    "originalKey" : "Natural and cultural assets",
+    "original_value" : "Cultural heritage",
+    "Wikidata_ID" : "Q210272"
+  } ]
+} ]

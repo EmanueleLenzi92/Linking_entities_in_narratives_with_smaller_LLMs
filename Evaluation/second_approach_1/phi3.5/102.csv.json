@@ -1,0 +1,533 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "GREECE",
+                "wikipedia_title": "Greece",
+                "originalKey": "GREECE",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "entity_in_the_text": "Local beekeepers produce pefkothymaromelo with the traditional way of apicature.",
+                "wikipedia_title": "Pefkothymaromelo (honey)",
+                "originalKey": "Local beekeepers produce pefkothymaromelo with the traditional way of apicature.",
+                "original_value": "Pefkothymaromelo (honey)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Region of Crete",
+                "wikipedia_title": "Crete",
+                "originalKey": "Region of Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "entity_in_the_text": "Special regional labelling system for the quality systems of EU Geographical Indications (GIs)",
+                "wikipedia_title": "Geographical indication in Greece",
+                "originalKey": "Special regional labelling system for the quality systems of EU Geographical Indications (GIs)",
+                "original_value": "Geographical indication in Greece",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "honey factories",
+                "wikipedia_title": "Honey production facilities",
+                "originalKey": "honey factories",
+                "original_value": "Honey production facilities",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "White Mountains",
+                "wikipedia_title": "Mountains of White",
+                "originalKey": "White Mountains",
+                "original_value": "Mountains of White",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "KISSAMOS",
+                "wikipedia_title": "Kissamos (town)",
+                "originalKey": "KISSAMOS",
+                "original_value": "Kissamos (town)",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "334.2",
+                "wikipedia_title": "Area of LAU",
+                "originalKey": "334.2",
+                "original_value": "Area of LAU",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "0",
+                "wikipedia_title": "Minimum altimetry of the Local Administrative Unit (LAU)",
+                "originalKey": "0",
+                "original_value": "Minimum altimetry of the Local Administrative Unit (LAU)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "1000",
+                "wikipedia_title": "Maximum altimetry of the LAU",
+                "originalKey": "1000",
+                "original_value": "Maximum altimetry of the LAU",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "159.893",
+                "wikipedia_title": "Total population in thousand within the LAU",
+                "originalKey": "159.893",
+                "original_value": "Total population in thousand within the LAU",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "67.50",
+                "wikipedia_title": "Population density (Inhabitants/km2) in the LAU",
+                "originalKey": "67.50",
+                "original_value": "Population density (Inhabitants/km2) in the LAU",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "0.02%",
+                "wikipedia_title": "LAU population change rate over the last 10 years",
+                "originalKey": "0.02%",
+                "original_value": "LAU population change rate over the last 10 years",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "76.5",
+                "wikipedia_title": "Overall regional population density (Inhabitants/km2)",
+                "originalKey": "76.5",
+                "original_value": "Overall regional population density (Inhabitants/km2)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "0.02%",
+                "wikipedia_title": "Regional population change rate over the last 10 years",
+                "originalKey": "0.02%",
+                "original_value": "Regional population change rate over the last 10 years",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The average per capita income (EUR/year) Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The average per capita income (EUR/year) Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The primary sector share of total GVA/year Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The secondary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The per capita income (EUR/year) Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The per capita income (EUR/year) Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The primary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The secondary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total number of bed places in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics",
+                "originalKey": "total number of bed places in tourist accommodations/year",
+                "original_value": "Tourism industry statistics",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in01.json\n    {": "ntities",
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Administrative division of a country or region",
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Administrative division of a country or region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in01.json\n    {": "ntities",
+                "entity_in_the_text": "total number of bed places (BPs) in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics",
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "original_value": "Tourism industry statistics",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity01.json\n    {": "ntities",
+                "entity_in_the_text": "LAU (Local Administrative Unit)",
+                "wikipedia_title": "Administrative division of a country or region",
+                "originalKey": "LAU (Local Administrative Unit)",
+                "original_value": "Administrative division of a country or region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity01.json\n    {": "ntities",
+                "entity_in_the_text": "total number of bed places (BPs) in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics",
+                "originalKey": "total number of bed places (BPs) in tourist accommodations/year",
+                "original_value": "Tourism industry statistics",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The primary sector",
+                "wikipedia_title": "Primary economic activity",
+                "originalKey": "The primary sector",
+                "original_value": "Primary economic activity",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Employment by province in Canada or equivalent entity based on the context of your text, e.g., 'Economy of Quebec' if referring to a Canadian region",
+                "originalKey": "total employment/year Province",
+                "original_value": "Employment by province in Canada or equivalent entity based on the context of your text, e.g., 'Economy of Quebec' if referring to a Canadian region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "14.78%",
+                "wikipedia_title": "Employment by sector percentage in Province or equivalent entity based on the context, e.g., 'Economic structure of Quebec'",
+                "originalKey": "14.78%",
+                "original_value": "Employment by sector percentage in Province or equivalent entity based on the context, e.g., 'Economic structure of Quebec'",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The secondary sector",
+                "wikipedia_title": "Secondary economic activity",
+                "originalKey": "The secondary sector",
+                "original_value": "Secondary economic activity",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Employment by province in Canada or equivalent entity based on the context of your text, e.g., 'Economy of Quebec'",
+                "originalKey": "total employment/year Province",
+                "original_value": "Employment by province in Canada or equivalent entity based on the context of your text, e.g., 'Economy of Quebec'",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "11.46%",
+                "wikipedia_title": "Employment by sector percentage in Province or equivalent entity based on the context, e.g., 'Economic structure of Quebec'",
+                "originalKey": "11.46%",
+                "original_value": "Employment by sector percentage in Province or equivalent entity based on the context, e.g., 'Economic structure of Quebec'",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The tertiary sector",
+                "wikipedia_title": "Tertiary economic activity",
+                "originalKey": "The tertiary sector",
+                "original_value": "Tertiary economic activity",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Employment by province in Canada or equivalent entity based on the context of your text, e.g., 'Economy of Quebec'",
+                "originalKey": "total employment/year Province",
+                "original_value": "Employment by province in Canada or equivalent entity based on the context of your text, e.g., 'Economy of Quebec'",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "73.76%",
+                "wikipedia_title": "Employment by sector percentage in Province or equivalent entity based on the context, e.g., 'Economic structure of Quebec'",
+                "originalKey": "73.76%",
+                "original_value": "Employment by sector percentage in Province or equivalent entity based on the context, e.g., 'Economic structure of Quebec'",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total employment/year Region",
+                "wikipedia_title": "Primary economic activity by region in Canada or equivalent entity based on the context, e.g., 'Economy of Alberta'",
+                "originalKey": "The primary sector share of total employment/year Region",
+                "original_value": "Primary economic activity by region in Canada or equivalent entity based on the context, e.g., 'Economy of Alberta'",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "16.20%",
+                "wikipedia_title": "Employment by sector percentage for primary activity Region",
+                "originalKey": "16.20%",
+                "original_value": "Employment by sector percentage for primary activity Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total employment/year Region",
+                "wikipedia_title": "Secondary economic activity by region in Canada or equivalent entity based on the context, e.g., 'Economy of Alberta'",
+                "originalKey": "The secondary sector share of total employment/year Region",
+                "original_value": "Secondary economic activity by region in Canada or equivalent entity based on the context, e.g., 'Economy of Alberta'",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "11.84%",
+                "wikipedia_title": "Employment by sector percentage for secondary activity Region",
+                "originalKey": "11.84%",
+                "original_value": "Employment by sector percentage for secondary activity Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The tertiary sector share of total employment/year Region",
+                "wikipedia_title": "Tertiary economic activity by region in Canada or equivalent entity based on the context, e.g., 'Economy of Alberta'",
+                "originalKey": "The tertiary sector share of total employment/year Region",
+                "original_value": "Tertiary economic activity by region in Canada or equivalent entity based on the context, e.g., 'Economy of Alberta'",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "71.97%",
+                "wikipedia_title": "Employment by sector percentage for tertiary activity Region",
+                "originalKey": "71.97%",
+                "original_value": "Employment by sector percentage for tertiary activity Region",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Apicature",
+                "wikipedia_title": "Beekeeping",
+                "originalKey": "Apicature",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "beekeeping",
+                "wikipedia_title": "Beekeeping",
+                "originalKey": "beekeeping",
+                "original_value": "Beekeeping",
+                "Wikidata_ID": "Q176353"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Crete",
+                "wikipedia_title": "Crete",
+                "originalKey": "Crete",
+                "original_value": "Crete",
+                "Wikidata_ID": "Q34374"
+            },
+            {
+                "entity_in_the_text": "climate change",
+                "wikipedia_title": "Climate Change",
+                "originalKey": "climate change",
+                "original_value": "Climate Change",
+                "Wikidata_ID": "Q125928"
+            },
+            {
+                "entity_in_the_text": "severe weather conditions",
+                "wikipedia_title": "Extreme Weather Events",
+                "originalKey": "severe weather conditions",
+                "original_value": "Extreme Weather Events",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "bees behavior",
+                "wikipedia_title": "Bee Behavior and Colony Health",
+                "originalKey": "bees behavior",
+                "original_value": "Bee Behavior and Colony Health",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "honey production reduction",
+                "wikipedia_title": "Honey Production Decline",
+                "originalKey": "honey production reduction",
+                "original_value": "Honey Production Decline",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "pesticides use increase",
+                "wikipedia_title": "Pesticide Use in Agriculture",
+                "originalKey": "pesticides use increase",
+                "original_value": "Pesticide Use in Agriculture",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "intensive agricultural holdings",
+                "wikipedia_title": "Intensive Farming and Agribusinesses",
+                "originalKey": "intensive agricultural holdings",
+                "original_value": "Intensive Farming and Agribusinesses",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Pefkothymaromelo",
+                "wikipedia_title": "Not Found. Please provide more context or a specific name.",
+                "originalKey": "Pefkothymaromelo",
+                "original_value": "Not Found. Please provide more context or a specific name.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "adulteration with inferior types of honey",
+                "wikipedia_title": "Adulterated Honey",
+                "originalKey": "adulteration with inferior types of honey",
+                "original_value": "Adulterated Honey",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "imported in extremely low prices",
+                "wikipedia_title": "Import Prices and Trade Practices",
+                "originalKey": "imported in extremely low prices",
+                "original_value": "Import Prices and Trade Practices",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Current challenge faced by this VC (VC)",
+                "wikipedia_title": "Not Specified. Please provide the name or context of the venture capital entity.",
+                "originalKey": "Current challenge faced by this VC (VC)",
+                "original_value": "Not Specified. Please provide the name or context of the venture capital entity.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Predicted challenges",
+                "wikipedia_title": "Future Predictions in Agriculture and Environment",
+                "originalKey": "Predicted challenges",
+                "original_value": "Future Predictions in Agriculture and Environment",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Traditional VC classification",
+                "wikipedia_title": "Not Specified. Please provide the name or context of the venture capital entity.",
+                "originalKey": "Traditional VC classification",
+                "original_value": "Not Specified. Please provide the name or context of the venture capital entity.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Innovative approach in this case",
+                "wikipedia_title": "Entrepreneurial Innovation and Sustainability",
+                "originalKey": "Innovative approach in this case",
+                "original_value": "Entrepreneurial Innovation and Sustainability",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "VC (Value Chain)",
+                "wikipedia_title": "Value chain",
+                "originalKey": "VC (Value Chain)",
+                "original_value": "Value chain",
+                "Wikidata_ID": "Q646107"
+            },
+            {
+                "entity_in_the_text": "pefkothymaromelo",
+                "wikipedia_title": "Pefkothymarome, a type of honey protected by PDO characterization in Greece.",
+                "originalKey": "pefkothymaromelo",
+                "original_value": "Pefkothymarome, a type of honey protected by PDO characterization in Greece.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "New products",
+                "wikipedia_title": "Product innovation",
+                "originalKey": "New products",
+                "original_value": "Product innovation",
+                "Wikidata_ID": "Q7247768"
+            },
+            {
+                "entity_in_the_text": "New marketing strategies",
+                "wikipedia_title": "Marketing strategy",
+                "originalKey": "New marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            },
+            {
+                "entity_in_the_text": "New governance systems",
+                "wikipedia_title": "Governance system, possibly related to 'Good Governance'",
+                "originalKey": "New governance systems",
+                "original_value": "Governance system, possibly related to 'Good Governance'",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Forestry and Natural land use systems",
+                "wikipedia_title": "Land Use",
+                "originalKey": "Forestry and Natural land use systems",
+                "original_value": "Land Use",
+                "Wikidata_ID": "Q1165944"
+            },
+            {
+                "entity_in_the_text": "Natural, social and cultural local assets",
+                "wikipedia_title": "Local Assets (Economics)",
+                "originalKey": "Natural, social and cultural local assets",
+                "original_value": "Local Assets (Economics)",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Greece",
+                "wikipedia_title": "Greece",
+                "originalKey": "Greece",
+                "original_value": "Greece",
+                "Wikidata_ID": "Q41"
+            },
+            {
+                "entity_in_the_text": "EU katalog (eAmbrosia)",
+                "wikipedia_title": "European Beekeeping Practices - European Apiculture Models and Innovations Network (EBPMIN)",
+                "originalKey": "EU katalog (eAmbrosia)",
+                "original_value": "European Beekeeping Practices - European Apiculture Models and Innovations Network (EBPMIN)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Peyfothymaromelo",
+                "wikipedia_title": "Phegophthalma",
+                "originalKey": "Peyfothymaromelo",
+                "original_value": "Phegophthalma",
+                "Wikidata_ID": ""
+            }
+        ]
+    }
+]

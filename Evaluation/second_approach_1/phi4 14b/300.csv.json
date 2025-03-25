@@ -1,0 +1,227 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SKANDINAVIAN UCO",
+    "wikipedia_title" : "Scandinavia",
+    "originalKey" : "SKANDINAVIAN UCO",
+    "original_value" : "Scandinavia",
+    "Wikidata_ID" : "Q21195"
+  }, {
+    "entity_in_the_text" : "Barley",
+    "wikipedia_title" : "Barley",
+    "originalKey" : "Barley",
+    "original_value" : "Barley",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Roros",
+    "wikipedia_title" : "Røros",
+    "originalKey" : "Roros",
+    "original_value" : "Røros",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Scandinavean Mountains",
+    "wikipedia_title" : "Scandes",
+    "originalKey" : "Scandinavean Mountains",
+    "original_value" : "Scandes",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Tynset",
+    "wikipedia_title" : "Tynset",
+    "originalKey" : "Tynset",
+    "original_value" : "Tynset",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Østerdalen",
+    "wikipedia_title" : "Østerdalen",
+    "originalKey" : "Østerdalen",
+    "original_value" : "Østerdalen",
+    "Wikidata_ID" : "Q308349"
+  }, {
+    "entity_in_the_text" : "Norway",
+    "wikipedia_title" : "Norway",
+    "originalKey" : "Norway",
+    "original_value" : "Norway",
+    "Wikidata_ID" : "Q20"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "entity_in_the_text" : "LAU (Local Administrative Unit)",
+    "wikipedia_title" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "altimetry",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List of provinces and territories of Canada by unemployment rate",
+    "originalKey" : "[Province]",
+    "original_value" : "List of provinces and territories of Canada by unemployment rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "NUTS statistical regions of Belgium",
+    "originalKey" : "[Region]",
+    "original_value" : "NUTS statistical regions of Belgium",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Ancient crop",
+    "wikipedia_title" : "Ancient grains",
+    "originalKey" : "Ancient crop",
+    "original_value" : "Ancient grains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "extreme climate conditions",
+    "wikipedia_title" : "Extreme weather",
+    "originalKey" : "extreme climate conditions",
+    "original_value" : "Extreme weather",
+    "Wikidata_ID" : "Q1277161"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Norway",
+    "wikipedia_title" : "Norway",
+    "originalKey" : "Norway",
+    "original_value" : "Norway",
+    "Wikidata_ID" : "Q20"
+  }, {
+    "entity_in_the_text" : "500masl",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "500masl",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "entity_in_the_text" : "Rorosmat",
+    "wikipedia_title" : "Røros (brand)",
+    "originalKey" : "Rorosmat",
+    "original_value" : "Røros (brand)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "fertilizers",
+    "wikipedia_title" : "Fertilizer",
+    "originalKey" : "fertilizers",
+    "original_value" : "Fertilizer",
+    "Wikidata_ID" : "Q83323"
+  }, {
+    "entity_in_the_text" : "pesticides",
+    "wikipedia_title" : "Pesticide",
+    "originalKey" : "pesticides",
+    "original_value" : "Pesticide",
+    "Wikidata_ID" : "Q131656"
+  }, {
+    "entity_in_the_text" : "barley",
+    "wikipedia_title" : "Barley",
+    "originalKey" : "barley",
+    "original_value" : "Barley",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "wheat",
+    "wikipedia_title" : "Wheat",
+    "originalKey" : "wheat",
+    "original_value" : "Wheat",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Climate Change",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "Climate Change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Exogenous",
+    "wikipedia_title" : "Endogenous and exogenous growth theory",
+    "originalKey" : "Exogenous",
+    "original_value" : "Endogenous and exogenous growth theory",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Rorosmat brand",
+    "wikipedia_title" : "Brand (marketing)",
+    "originalKey" : "Rorosmat brand",
+    "original_value" : "Brand (marketing)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "e-commerce",
+    "wikipedia_title" : "E-commerce",
+    "originalKey" : "e-commerce",
+    "original_value" : "E-commerce",
+    "Wikidata_ID" : "Q484847"
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Cropland",
+    "wikipedia_title" : "Cropland",
+    "originalKey" : "Cropland",
+    "original_value" : "Cropland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural, social and cultural assets",
+    "wikipedia_title" : "Social capital (disambiguation)",
+    "originalKey" : "Natural, social and cultural assets",
+    "original_value" : "Social capital (disambiguation)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ ]
+} ]

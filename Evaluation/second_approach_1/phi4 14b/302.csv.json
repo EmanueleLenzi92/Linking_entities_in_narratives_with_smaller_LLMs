@@ -1,0 +1,317 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SKANDINAVIAN UCO",
+    "wikipedia_title" : "Scandinavian countries",
+    "originalKey" : "SKANDINAVIAN UCO",
+    "original_value" : "Scandinavian countries",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC 09 SCA",
+    "wikipedia_title" : null,
+    "originalKey" : "VC 09 SCA",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Undredal Stølsysteri SA",
+    "wikipedia_title" : null,
+    "originalKey" : "Undredal Stølsysteri SA",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Slowfood Foundation for Biodiversity",
+    "wikipedia_title" : "Slow Food",
+    "originalKey" : "Slowfood Foundation for Biodiversity",
+    "original_value" : "Slow Food",
+    "Wikidata_ID" : "Q335823"
+  }, {
+    "entity_in_the_text" : "Norwegian Presidium for the Brimost cheese",
+    "wikipedia_title" : "Brimost",
+    "originalKey" : "Norwegian Presidium for the Brimost cheese",
+    "original_value" : "Brimost",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Undredal Brown Cheese Presidium",
+    "wikipedia_title" : null,
+    "originalKey" : "Undredal Brown Cheese Presidium",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "SES",
+    "wikipedia_title" : "Social-ecological system",
+    "originalKey" : "SES",
+    "original_value" : "Social-ecological system",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Scandinavean Mountains - Scandes",
+    "wikipedia_title" : "Scandes",
+    "originalKey" : "Scandinavean Mountains - Scandes",
+    "original_value" : "Scandes",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Aurland",
+    "wikipedia_title" : "Aurland",
+    "originalKey" : "Aurland",
+    "original_value" : "Aurland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Aurland Fiord",
+    "wikipedia_title" : "Aurlandsfjorden",
+    "originalKey" : "Aurland Fiord",
+    "original_value" : "Aurlandsfjorden",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Nærøyfjorden",
+    "wikipedia_title" : "Nærøyfjorden",
+    "originalKey" : "Nærøyfjorden",
+    "original_value" : "Nærøyfjorden",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Sognefjorden",
+    "wikipedia_title" : "Sognefjord",
+    "originalKey" : "Sognefjorden",
+    "original_value" : "Sognefjord",
+    "Wikidata_ID" : "Q208495"
+  }, {
+    "entity_in_the_text" : "The West Norwegian Fjords of Geirangefjord and Nærøyfjord UNESCO World Heritage Site",
+    "wikipedia_title" : "West Norwegian Fjords",
+    "originalKey" : "The West Norwegian Fjords of Geirangefjord and Nærøyfjord UNESCO World Heritage Site",
+    "original_value" : "West Norwegian Fjords",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "entity_in_the_text" : "LAU (Local Administrative Unit)",
+    "wikipedia_title" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "altimetry",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List of provinces and territories of Canada by unemployment rate",
+    "originalKey" : "[Province]",
+    "original_value" : "List of provinces and territories of Canada by unemployment rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "NUTS statistical regions of Belgium",
+    "originalKey" : "[Region]",
+    "original_value" : "NUTS statistical regions of Belgium",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "high quality product",
+    "wikipedia_title" : "Product Quality",
+    "originalKey" : "high quality product",
+    "original_value" : "Product Quality",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "reputation nationwide",
+    "wikipedia_title" : "Reputation",
+    "originalKey" : "reputation nationwide",
+    "original_value" : "Reputation",
+    "Wikidata_ID" : "Q877546"
+  }, {
+    "entity_in_the_text" : "natural ecosystem",
+    "wikipedia_title" : "Ecosystem",
+    "originalKey" : "natural ecosystem",
+    "original_value" : "Ecosystem",
+    "Wikidata_ID" : "Q37813"
+  }, {
+    "entity_in_the_text" : "cheese",
+    "wikipedia_title" : "Cheese",
+    "originalKey" : "cheese",
+    "original_value" : "Cheese",
+    "Wikidata_ID" : "Q10943"
+  }, {
+    "entity_in_the_text" : "cultural heritage",
+    "wikipedia_title" : "Cultural Heritage",
+    "originalKey" : "cultural heritage",
+    "original_value" : "Cultural Heritage",
+    "Wikidata_ID" : "Q210272"
+  }, {
+    "entity_in_the_text" : "identity",
+    "wikipedia_title" : "Identity (social science)",
+    "originalKey" : "identity",
+    "original_value" : "Identity (social science)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "website",
+    "wikipedia_title" : "Website",
+    "originalKey" : "website",
+    "original_value" : "Website",
+    "Wikidata_ID" : "Q35127"
+  }, {
+    "entity_in_the_text" : "online store",
+    "wikipedia_title" : "E-commerce",
+    "originalKey" : "online store",
+    "original_value" : "E-commerce",
+    "Wikidata_ID" : "Q484847"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Undfredal",
+    "wikipedia_title" : "Undredal",
+    "originalKey" : "Undfredal",
+    "original_value" : "Undredal",
+    "Wikidata_ID" : "Q1006480"
+  }, {
+    "entity_in_the_text" : "Aureland",
+    "wikipedia_title" : "Aurland",
+    "originalKey" : "Aureland",
+    "original_value" : "Aurland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Norsk Gardsost",
+    "wikipedia_title" : "Norwegian Dairy Association",
+    "originalKey" : "Norsk Gardsost",
+    "original_value" : "Norwegian Dairy Association",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Slowfood Presidium",
+    "wikipedia_title" : "Presidia (Slow Food)",
+    "originalKey" : "Slowfood Presidium",
+    "original_value" : "Presidia (Slow Food)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "industrial dairies",
+    "wikipedia_title" : "Dairy farming",
+    "originalKey" : "industrial dairies",
+    "original_value" : "Dairy farming",
+    "Wikidata_ID" : "Q14096331"
+  }, {
+    "entity_in_the_text" : "traditional cheeses",
+    "wikipedia_title" : "Cheese",
+    "originalKey" : "traditional cheeses",
+    "original_value" : "Cheese",
+    "Wikidata_ID" : "Q10943"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Exogenous",
+    "wikipedia_title" : "Endogenous and exogenous growth theory",
+    "originalKey" : "Exogenous",
+    "original_value" : "Endogenous and exogenous growth theory",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "website",
+    "wikipedia_title" : "Website",
+    "originalKey" : "website",
+    "original_value" : "Website",
+    "Wikidata_ID" : "Q35127"
+  }, {
+    "entity_in_the_text" : "e-commerce marketing",
+    "wikipedia_title" : "E-commerce",
+    "originalKey" : "e-commerce marketing",
+    "original_value" : "E-commerce",
+    "Wikidata_ID" : "Q484847"
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Grassland",
+    "wikipedia_title" : "Grassland",
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Land use",
+    "originalKey" : "Natural land",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "entity_in_the_text" : "Natural, social and cultural assets",
+    "wikipedia_title" : "Social capital",
+    "originalKey" : "Natural, social and cultural assets",
+    "original_value" : "Social capital",
+    "Wikidata_ID" : "Q214693"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Sweden",
+    "wikipedia_title" : "Sweden",
+    "originalKey" : "Sweden",
+    "original_value" : "Sweden",
+    "Wikidata_ID" : "Q34"
+  }, {
+    "entity_in_the_text" : "Jämtland",
+    "wikipedia_title" : "Jämtland",
+    "originalKey" : "Jämtland",
+    "original_value" : "Jämtland",
+    "Wikidata_ID" : "Q211661"
+  }, {
+    "entity_in_the_text" : "Goat Cheese",
+    "wikipedia_title" : "Cheese#Types_of_cheeses_by_milk_type",
+    "originalKey" : "Goat Cheese",
+    "original_value" : "Cheese#Types_of_cheeses_by_milk_type",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Presidium of the Slowfood Foundation for Biodiversity",
+    "wikipedia_title" : "Slow Food",
+    "originalKey" : "Presidium of the Slowfood Foundation for Biodiversity",
+    "original_value" : "Slow Food",
+    "Wikidata_ID" : "Q335823"
+  } ]
+} ]

@@ -1,0 +1,239 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "CZECH REPUBLIC",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "CZECH REPUBLIC",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "EU PGI label",
+    "wikipedia_title" : "Protected geographical indication",
+    "originalKey" : "EU PGI label",
+    "original_value" : "Protected geographical indication",
+    "Wikidata_ID" : "Q3104453"
+  }, {
+    "entity_in_the_text" : "Ostrava",
+    "wikipedia_title" : "Ostrava",
+    "originalKey" : "Ostrava",
+    "original_value" : "Ostrava",
+    "Wikidata_ID" : "Q8385"
+  }, {
+    "entity_in_the_text" : "Vallachian region",
+    "wikipedia_title" : "Valašsko",
+    "originalKey" : "Vallachian region",
+    "original_value" : "Valašsko",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Beskydy mountains",
+    "wikipedia_title" : "Beskids",
+    "originalKey" : "Beskydy mountains",
+    "original_value" : "Beskids",
+    "Wikidata_ID" : "Q215573"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Javorníky/Beskydy",
+    "wikipedia_title" : "Beskids",
+    "originalKey" : "Javorníky/Beskydy",
+    "original_value" : "Beskids",
+    "Wikidata_ID" : "Q215573"
+  }, {
+    "entity_in_the_text" : "Western Carpathian mountains",
+    "wikipedia_title" : "Carpathian Mountains",
+    "originalKey" : "Western Carpathian mountains",
+    "original_value" : "Carpathian Mountains",
+    "Wikidata_ID" : "Q1288"
+  }, {
+    "entity_in_the_text" : "Vsetín",
+    "wikipedia_title" : "Vsetín District",
+    "originalKey" : "Vsetín",
+    "original_value" : "Vsetín District",
+    "Wikidata_ID" : "Q852541"
+  }, {
+    "entity_in_the_text" : "Czech Republic",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czech Republic",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "entity_in_the_text" : "LAU (Local Administrative Unit)",
+    "wikipedia_title" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "altimetry",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "altimetry",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region",
+    "originalKey" : "[Region]",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List of provinces and territories of Canada by unemployment rate",
+    "originalKey" : "[Province]",
+    "original_value" : "List of provinces and territories of Canada by unemployment rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "NUTS statistical regions of Belgium",
+    "originalKey" : "[Region]",
+    "original_value" : "NUTS statistical regions of Belgium",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "EU Protected Geographical Indication (PGI) label",
+    "wikipedia_title" : "Protected designation of origin",
+    "originalKey" : "EU Protected Geographical Indication (PGI) label",
+    "original_value" : "Protected designation of origin",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Valašský region",
+    "wikipedia_title" : "Valašsko",
+    "originalKey" : "Valašský region",
+    "original_value" : "Valašsko",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Beskydy mountains",
+    "wikipedia_title" : "Beskids",
+    "originalKey" : "Beskydy mountains",
+    "original_value" : "Beskids",
+    "Wikidata_ID" : "Q215573"
+  }, {
+    "entity_in_the_text" : "Vallachians - valašský",
+    "wikipedia_title" : "Walash people",
+    "originalKey" : "Vallachians - valašský",
+    "original_value" : "Walash people",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Czechia",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czechia",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Vallachian region",
+    "wikipedia_title" : "Wallachia",
+    "originalKey" : "Vallachian region",
+    "original_value" : "Wallachia",
+    "Wikidata_ID" : "Q171393"
+  }, {
+    "entity_in_the_text" : "mountains",
+    "wikipedia_title" : "Carpathian Mountains",
+    "originalKey" : "mountains",
+    "original_value" : "Carpathian Mountains",
+    "Wikidata_ID" : "Q1288"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Vallachian",
+    "wikipedia_title" : "Wallachia",
+    "originalKey" : "Vallachian",
+    "original_value" : "Wallachia",
+    "Wikidata_ID" : "Q171393"
+  }, {
+    "entity_in_the_text" : "Beskydy mountains",
+    "wikipedia_title" : "Beskids",
+    "originalKey" : "Beskydy mountains",
+    "original_value" : "Beskids",
+    "Wikidata_ID" : "Q215573"
+  }, {
+    "entity_in_the_text" : "Czechia",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czechia",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Endogenous innovation",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "Endogenous innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "frgále",
+    "wikipedia_title" : "Frgálă",
+    "originalKey" : "frgále",
+    "original_value" : "Frgálă",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Vallachian region",
+    "wikipedia_title" : "Muntenia",
+    "originalKey" : "Vallachian region",
+    "original_value" : "Muntenia",
+    "Wikidata_ID" : "Q207388"
+  }, {
+    "entity_in_the_text" : "pblum brandy",
+    "wikipedia_title" : "Pálinka",
+    "originalKey" : "pblum brandy",
+    "original_value" : "Pálinka",
+    "Wikidata_ID" : "Q782901"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "frgál",
+    "wikipedia_title" : "Frgál",
+    "originalKey" : "frgál",
+    "original_value" : "Frgál",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Czechia",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czechia",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  } ]
+} ]

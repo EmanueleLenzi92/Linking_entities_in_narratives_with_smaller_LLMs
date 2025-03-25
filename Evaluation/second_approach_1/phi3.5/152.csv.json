@@ -1,0 +1,394 @@
+[
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "ITALY UNIMOL",
+                "wikipedia_title": "Unione Italiana Moliolifici",
+                "originalKey": "ITALY UNIMOL",
+                "original_value": "Unione Italiana Moliolifici",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Northern Apennines",
+                "wikipedia_title": "Apennines",
+                "originalKey": "Northern Apennines",
+                "original_value": "Apennines",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Tuscan Emilian Apennines",
+                "wikipedia_title": "Appenines of Tuscany and Umbria",
+                "originalKey": "Tuscan Emilian Apennines",
+                "original_value": "Appenines of Tuscany and Umbria",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Anghiari",
+                "wikipedia_title": "Anghiari, Italy",
+                "originalKey": "Anghiari",
+                "original_value": "Anghiari, Italy",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Arezzo Province",
+                "wikipedia_title": "Province of Arezzo",
+                "originalKey": "Arezzo Province",
+                "original_value": "Province of Arezzo",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Tuscany Region",
+                "wikipedia_title": "Tuscany",
+                "originalKey": "Tuscany Region",
+                "original_value": "Tuscany",
+                "Wikidata_ID": "Q1273"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The size of the area",
+                "wikipedia_title": "Area",
+                "originalKey": "The size of the area",
+                "original_value": "Area",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "130.92 km2",
+                "wikipedia_title": "Size (area)",
+                "originalKey": "130.92 km2",
+                "original_value": "Size (area)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The minimum altimetry of the LAU",
+                "wikipedia_title": "Altitude",
+                "originalKey": "The minimum altimetry of the LAU",
+                "original_value": "Altitude",
+                "Wikidata_ID": "Q190200"
+            },
+            {
+                "entity_in_the_text": "298",
+                "wikipedia_title": "Minimum Altitude (LAU)",
+                "originalKey": "298",
+                "original_value": "Minimum Altitude (LAU)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The maximum altimetry of the LAU",
+                "wikipedia_title": "Maximum Altitude (LAU)",
+                "originalKey": "The maximum altimetry of the LAU",
+                "original_value": "Maximum Altitude (LAU)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "1379",
+                "wikipedia_title": "Maximum Altitude (LAU)",
+                "originalKey": "1379",
+                "original_value": "Maximum Altitude (LAU)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The total population of the LAU",
+                "wikipedia_title": "Population",
+                "originalKey": "The total population of the LAU",
+                "original_value": "Population",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "5.484 thousand",
+                "wikipedia_title": "Total Population (LAU)",
+                "originalKey": "5.484 thousand",
+                "original_value": "Total Population (LAU)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The population density in the LAU",
+                "wikipedia_title": "Population Density",
+                "originalKey": "The population density in the LAU",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "entity_in_the_text": "41.88 Inhabitants/km2",
+                "wikipedia_title": "Density (LAU)",
+                "originalKey": "41.88 Inhabitants/km2",
+                "original_value": "Density (LAU)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The population change rate of the LAU in the last 10 years",
+                "wikipedia_title": "Population Growth Rate",
+                "originalKey": "The population change rate of the LAU in the last 10 years",
+                "original_value": "Population Growth Rate",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "-6.09%",
+                "wikipedia_title": "Decline (LAU Population Change)",
+                "originalKey": "-6.09%",
+                "original_value": "Decline (LAU Population Change)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The overall regional population density",
+                "wikipedia_title": "Population Density",
+                "originalKey": "The overall regional population density",
+                "original_value": "Population Density",
+                "Wikidata_ID": "Q22856"
+            },
+            {
+                "entity_in_the_text": "160.64 Inhabitants/km2",
+                "wikipedia_title": "Density (Region)",
+                "originalKey": "160.64 Inhabitants/km2",
+                "original_value": "Density (Region)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The regional population change rate in the last 10 years",
+                "wikipedia_title": "Population Growth Rate",
+                "originalKey": "The regional population change rate in the last 10 years",
+                "original_value": "Population Growth Rate",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "0.48%",
+                "wikipedia_title": "Growth (Region)",
+                "originalKey": "0.48%",
+                "original_value": "Growth (Region)",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The average per capita income (EUR/year) Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The average per capita income (EUR/year) Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Province",
+                "wikipedia_title": "Province",
+                "originalKey": "The primary sector share of total GVA/year Province",
+                "original_value": "Province",
+                "Wikidata_ID": "Q34876"
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The secondary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The per capita income (EUR/year) Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The per capita income (EUR/year) Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The total Gross Value Added (GVA) (EUR million/year) Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The primary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The primary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The secondary sector share of total GVA/year Region",
+                "wikipedia_title": "Region",
+                "originalKey": "The secondary sector share of total GVA/year Region",
+                "original_value": "Region",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "total number of bed places in tourist accommodations/year",
+                "wikipedia_title": "Tourism industry statistics",
+                "originalKey": "total number of bed places in tourist accommodations/year",
+                "original_value": "Tourism industry statistics",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "The primary sector",
+                "wikipedia_title": "Primary economic activity",
+                "originalKey": "The primary sector",
+                "original_value": "Primary economic activity",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "total employment/year Province",
+                "wikipedia_title": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "originalKey": "total employment/year Province",
+                "original_value": "Employment by province in Canada or equivalent entity based on the context of your query (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "3.03% share for Region's primary sector employment",
+                "wikipedia_title": "Primary economic activity percentage in specified region",
+                "originalKey": "3.03% share for Region's primary sector employment",
+                "original_value": "Primary economic activity percentage in specified region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The secondary sector",
+                "wikipedia_title": "Secondary industry or manufacturing based on the context of your query (if referring to a specific country)",
+                "originalKey": "The secondary sector",
+                "original_value": "Secondary industry or manufacturing based on the context of your query (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "25.57% share for Region's secondary sector employment",
+                "wikipedia_title": "Percentage of industrial/manufacturing jobs in specified region",
+                "originalKey": "25.57% share for Region's secondary sector employment",
+                "original_value": "Percentage of industrial/manufacturing jobs in specified region",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "The tertiary sector",
+                "wikipedia_title": "Tertiary industry or services based on the context of your query (if referring to a specific country)",
+                "originalKey": "The tertiary sector",
+                "original_value": "Tertiary industry or services based on the context of your query (if referring to a specific country)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "71.22% share for Region's tertiary sector employment",
+                "wikipedia_title": "Percentage of service jobs in specified region",
+                "originalKey": "71.22% share for Region's tertiary sector employment",
+                "original_value": "Percentage of service jobs in specified region",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Organic farm",
+                "wikipedia_title": "Organic farming",
+                "originalKey": "Organic farm",
+                "original_value": "Organic farming",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "'Mountain Product' (Reg.(UE) n.1151/2012 and Reg.(UE) n.665/2014)",
+                "wikipedia_title": "EU regulations on organic farming",
+                "originalKey": "'Mountain Product' (Reg.(UE) n.1151/2012 and Reg.(UE) n.665/2014)",
+                "original_value": "EU regulations on organic farming",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Pontepietra",
+                "wikipedia_title": "Pontepietra, Italy",
+                "originalKey": "Pontepietra",
+                "original_value": "Pontepietra, Italy",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "'herbal teas and herb salt preserve the flavors and properties that nature has given them'",
+                "wikipedia_title": "Herbs used in Italian cuisine",
+                "originalKey": "'herbal teas and herb salt preserve the flavors and properties that nature has given them'",
+                "original_value": "Herbs used in Italian cuisine",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Apennines",
+                "wikipedia_title": "Apennines, Italy",
+                "originalKey": "Apennines",
+                "original_value": "Apennines, Italy",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "'uncontaminated nature' and 'respecting the values of quality, genuineness and sustainability'",
+                "wikipedia_title": "Sustainable agriculture in Europe",
+                "originalKey": "'uncontaminated nature' and 'respecting the values of quality, genuineness and sustainability'",
+                "original_value": "Sustainable agriculture in Europe",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "Steinbruck",
+                "wikipedia_title": "Johann Heinrich Christoph Steinbrück (1752–1836), German botanist and pharmacologist known for his work on medicinal plants.",
+                "originalKey": "Steinbruck",
+                "original_value": "Johann Heinrich Christoph Steinbrück (1752–1836), German botanist and pharmacologist known for his work on medicinal plants.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "Apennines",
+                "wikipedia_title": "The Apennine Mountains, or simply the Apennates (Italian: Appennino), are a mountain range in Italy where various wild herbs can be found.",
+                "originalKey": "Apennines",
+                "original_value": "The Apennine Mountains, or simply the Apennates (Italian: Appennino), are a mountain range in Italy where various wild herbs can be found.",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "medicinal and aromatic herbs",
+                "wikipedia_title": "Medicinal plants, also known as therapeutic or healing plants are those that have been used for medicinal purposes. Aromatic refers to the fragrant properties of certain plant species.",
+                "originalKey": "medicinal and aromatic herbs",
+                "original_value": "Medicinal plants, also known as therapeutic or healing plants are those that have been used for medicinal purposes. Aromatic refers to the fragrant properties of certain plant species.",
+                "Wikidata_ID": ""
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "entity_in_the_text": "hills",
+                "wikipedia_title": "Hill (disambiguation)",
+                "Note": "Steinbrück",
+                "hill": "s a common term and specific titles would require additional information for accurate linking.",
+                "originalKey": "hills",
+                "original_value": "Hill (disambiguation)",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "medicinal and aromatic herbs",
+                "wikipedia_title": "Herbal medicine",
+                "originalKey": "medicinal and aromatic herbs",
+                "original_value": "Herbal medicine",
+                "Wikidata_ID": ""
+            },
+            {
+                "entity_in_the_text": "VC (venture capital)",
+                "wikipedia_title": "Venture Capital",
+                "additional_info": {},
+                "originalKey": "VC (venture capital)",
+                "original_value": "Venture Capital",
+                "Wikidata_ID": "Q219409"
+            }
+        ]
+    },
+    {
+        "entities": []
+    }
+]

@@ -1,0 +1,187 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SWITZERLAND",
+    "wikipedia_title" : "Switzerland",
+    "originalKey" : "SWITZERLAND",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "entity_in_the_text" : "'Engadiner'",
+    "wikipedia_title" : "Engadine (sheep)",
+    "originalKey" : "'Engadiner'",
+    "original_value" : "Engadine (sheep)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "'Spiegelschaf'",
+    "wikipedia_title" : "Schwarznasenschaf",
+    "originalKey" : "'Spiegelschaf'",
+    "original_value" : "Schwarznasenschaf",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "'Nera Verzasca'",
+    "wikipedia_title" : "Nera Verzasca (sheep)",
+    "originalKey" : "'Nera Verzasca'",
+    "original_value" : "Nera Verzasca (sheep)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "'Capra Grigia'",
+    "wikipedia_title" : "Grigio Alpina",
+    "originalKey" : "'Capra Grigia'",
+    "original_value" : "Grigio Alpina",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "'Black Alpine Pig'",
+    "wikipedia_title" : "Alpine pig",
+    "originalKey" : "'Black Alpine Pig'",
+    "original_value" : "Alpine pig",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "entity_in_the_text" : "LAU (Local Administrative Unit)",
+    "wikipedia_title" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "originalKey" : "LAU (Local Administrative Unit)",
+    "original_value" : "Nomenclature of Territorial Units for Statistics#Local administrative units",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "Province",
+    "originalKey" : "[Province]",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Region (geography)",
+    "originalKey" : "[Region]",
+    "original_value" : "Region (geography)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Administrative division",
+    "originalKey" : "Region",
+    "original_value" : "Administrative division",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "[Province]",
+    "wikipedia_title" : "List of provinces and territories of Canada",
+    "originalKey" : "[Province]",
+    "original_value" : "List of provinces and territories of Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "[Region]",
+    "wikipedia_title" : "Regions of Canada",
+    "originalKey" : "[Region]",
+    "original_value" : "Regions of Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "old traditional breeds",
+    "wikipedia_title" : "Traditional livestock breeds",
+    "originalKey" : "old traditional breeds",
+    "original_value" : "Traditional livestock breeds",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "local situation",
+    "wikipedia_title" : "Local adaptation (biology)",
+    "originalKey" : "local situation",
+    "original_value" : "Local adaptation (biology)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "farmer led initiative",
+    "wikipedia_title" : "Farmer-led research",
+    "originalKey" : "farmer led initiative",
+    "original_value" : "Farmer-led research",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "trend of localness being trendy",
+    "wikipedia_title" : "Locavore",
+    "originalKey" : "trend of localness being trendy",
+    "original_value" : "Locavore",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "veganism",
+    "wikipedia_title" : "Veganism",
+    "originalKey" : "veganism",
+    "original_value" : "Veganism",
+    "Wikidata_ID" : "Q181138"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC (Value Chain)",
+    "wikipedia_title" : "Supply chain",
+    "originalKey" : "VC (Value Chain)",
+    "original_value" : "Supply chain",
+    "Wikidata_ID" : "Q1824206"
+  }, {
+    "entity_in_the_text" : "Endogenous",
+    "wikipedia_title" : "Endogenous growth theory",
+    "originalKey" : "Endogenous",
+    "original_value" : "Endogenous growth theory",
+    "Wikidata_ID" : "Q576355"
+  }, {
+    "entity_in_the_text" : "transnational organisation",
+    "wikipedia_title" : "Transnational corporation",
+    "originalKey" : "transnational organisation",
+    "original_value" : "Transnational corporation",
+    "Wikidata_ID" : "Q3537745"
+  }, {
+    "entity_in_the_text" : "farmers",
+    "wikipedia_title" : "Farmer",
+    "originalKey" : "farmers",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  }, {
+    "entity_in_the_text" : "old animal breeds",
+    "wikipedia_title" : "Heirloom breed",
+    "originalKey" : "old animal breeds",
+    "original_value" : "Heirloom breed",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Grassland",
+    "wikipedia_title" : "Grassland",
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  }, {
+    "entity_in_the_text" : "Natural and cultural assets",
+    "wikipedia_title" : "Cultural heritage",
+    "originalKey" : "Natural and cultural assets",
+    "original_value" : "Cultural heritage",
+    "Wikidata_ID" : "Q210272"
+  } ]
+} ]
