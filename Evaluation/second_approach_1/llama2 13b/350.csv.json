@@ -1,0 +1,335 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SPAIN ADEGUA",
+    "wikipedia_title" : "Spain",
+    "originalKey" : "SPAIN ADEGUA",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  }, {
+    "entity_in_the_text" : "VC 33 ES",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC 33 ES",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Sierras Cazorla, Segura and Las Villas",
+    "wikipedia_title" : "Cazorla, Segura and Las Villas",
+    "originalKey" : "Sierras Cazorla, Segura and Las Villas",
+    "original_value" : "Cazorla, Segura and Las Villas",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Sierra de Castril",
+    "wikipedia_title" : "Castril",
+    "originalKey" : "Sierra de Castril",
+    "original_value" : "Castril",
+    "Wikidata_ID" : "Q555913"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Betic System",
+    "wikipedia_title" : "Betic Cordillera",
+    "originalKey" : "Betic System",
+    "original_value" : "Betic Cordillera",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Castril",
+    "wikipedia_title" : "Castril, Granada",
+    "originalKey" : "Castril",
+    "original_value" : "Castril, Granada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "transhumance",
+    "wikipedia_title" : "Transhumance",
+    "originalKey" : "transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "entity_in_the_text" : "extensive livestock farming",
+    "wikipedia_title" : "Extensive livestock farming",
+    "originalKey" : "extensive livestock farming",
+    "original_value" : "Extensive livestock farming",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "The size of the area",
+    "wikipedia_title" : "Area",
+    "originalKey" : "The size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometer",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "thousand",
+    "wikipedia_title" : "Thousand",
+    "originalKey" : "thousand",
+    "original_value" : "Thousand",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Inhabitants/km2",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "Inhabitants/km2",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "10 years",
+    "wikipedia_title" : "Decade",
+    "originalKey" : "10 years",
+    "original_value" : "Decade",
+    "Wikidata_ID" : "Q39911"
+  }, {
+    "entity_in_the_text" : "%",
+    "wikipedia_title" : "Percentage",
+    "originalKey" : "%",
+    "original_value" : "Percentage",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous communities of Spain",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous communities of Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed Places",
+    "originalKey" : "BPs",
+    "original_value" : "Bed Places",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural Holdings",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural Holdings",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected Areas",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected Areas",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces and territories of Canada",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces and territories of Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "List of regions of Canada",
+    "originalKey" : "Region",
+    "original_value" : "List of regions of Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "transhumance",
+    "wikipedia_title" : "Transhumance",
+    "originalKey" : "transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "entity_in_the_text" : "UNESCO",
+    "wikipedia_title" : "UNESCO",
+    "originalKey" : "UNESCO",
+    "original_value" : "UNESCO",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Mediterranean",
+    "wikipedia_title" : "Mediterranean",
+    "originalKey" : "Mediterranean",
+    "original_value" : "Mediterranean",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Alps",
+    "wikipedia_title" : "Alps",
+    "originalKey" : "Alps",
+    "original_value" : "Alps",
+    "Wikidata_ID" : "Q1286"
+  }, {
+    "entity_in_the_text" : "Spain",
+    "wikipedia_title" : "Spain",
+    "originalKey" : "Spain",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "sheeps",
+    "wikipedia_title" : "Sheep",
+    "originalKey" : "sheeps",
+    "original_value" : "Sheep",
+    "Wikidata_ID" : "Q7368"
+  }, {
+    "entity_in_the_text" : "goats",
+    "wikipedia_title" : "Goat",
+    "originalKey" : "goats",
+    "original_value" : "Goat",
+    "Wikidata_ID" : "Q2934"
+  }, {
+    "entity_in_the_text" : "cows",
+    "wikipedia_title" : "Cattle",
+    "originalKey" : "cows",
+    "original_value" : "Cattle",
+    "Wikidata_ID" : "Q830"
+  }, {
+    "entity_in_the_text" : "Sierras de Cazorla, Segura and Las Villas",
+    "wikipedia_title" : "Natural Park of the Sierras de Cazorla, Segura and Las Villas",
+    "originalKey" : "Sierras de Cazorla, Segura and Las Villas",
+    "original_value" : "Natural Park of the Sierras de Cazorla, Segura and Las Villas",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Jaén",
+    "wikipedia_title" : "Province of Jaén",
+    "originalKey" : "Jaén",
+    "original_value" : "Province of Jaén",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Castril",
+    "wikipedia_title" : "Castril",
+    "originalKey" : "Castril",
+    "original_value" : "Castril",
+    "Wikidata_ID" : "Q555913"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "transhumance",
+    "wikipedia_title" : "Transhumance",
+    "originalKey" : "transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "entity_in_the_text" : "shepherds",
+    "wikipedia_title" : "Shepherd",
+    "originalKey" : "shepherds",
+    "original_value" : "Shepherd",
+    "Wikidata_ID" : "Q81710"
+  }, {
+    "entity_in_the_text" : "livestock",
+    "wikipedia_title" : "Livestock",
+    "originalKey" : "livestock",
+    "original_value" : "Livestock",
+    "Wikidata_ID" : "Q103459"
+  }, {
+    "entity_in_the_text" : "farming",
+    "wikipedia_title" : "Farming",
+    "originalKey" : "farming",
+    "original_value" : "Farming",
+    "Wikidata_ID" : "Q24886094"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Transhumance",
+    "wikipedia_title" : "Transhumance",
+    "originalKey" : "Transhumance",
+    "original_value" : "Transhumance",
+    "Wikidata_ID" : "Q4657754"
+  }, {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Endogenous and Exogenous",
+    "wikipedia_title" : "Endogenous and exogenous",
+    "originalKey" : "Endogenous and Exogenous",
+    "original_value" : "Endogenous and exogenous",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Grassland",
+    "wikipedia_title" : "Grassland",
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  }, {
+    "entity_in_the_text" : "Natural, social and cultural",
+    "wikipedia_title" : "Natural, social and cultural",
+    "originalKey" : "Natural, social and cultural",
+    "original_value" : "Natural, social and cultural",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Soria",
+    "wikipedia_title" : "Province of Soria",
+    "originalKey" : "Soria",
+    "original_value" : "Province of Soria",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cuenca",
+    "wikipedia_title" : "Province of Cuenca",
+    "originalKey" : "Cuenca",
+    "original_value" : "Province of Cuenca",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "La Rioja",
+    "wikipedia_title" : "La Rioja (region)",
+    "originalKey" : "La Rioja",
+    "original_value" : "La Rioja (region)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Jaén",
+    "wikipedia_title" : "Province of Jaén",
+    "originalKey" : "Jaén",
+    "original_value" : "Province of Jaén",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Granada",
+    "wikipedia_title" : "Province of Granada",
+    "originalKey" : "Granada",
+    "original_value" : "Province of Granada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Sierra Morena",
+    "wikipedia_title" : "Sierra Morena",
+    "originalKey" : "Sierra Morena",
+    "original_value" : "Sierra Morena",
+    "Wikidata_ID" : "Q686362"
+  }, {
+    "entity_in_the_text" : "Sierra Nevada",
+    "wikipedia_title" : "Sierra Nevada (Spain)",
+    "originalKey" : "Sierra Nevada",
+    "original_value" : "Sierra Nevada (Spain)",
+    "Wikidata_ID" : ""
+  } ]
+} ]

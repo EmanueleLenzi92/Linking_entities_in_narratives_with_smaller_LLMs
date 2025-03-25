@@ -1,0 +1,467 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "MOVING reference member state",
+    "wikipedia_title" : "Moving (business)",
+    "originalKey" : "MOVING reference member state",
+    "original_value" : "Moving (business)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "SCOTLAND HUTTON",
+    "wikipedia_title" : "Scotland",
+    "originalKey" : "SCOTLAND HUTTON",
+    "original_value" : "Scotland",
+    "Wikidata_ID" : "Q22"
+  }, {
+    "entity_in_the_text" : "VC 04 UK",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC 04 UK",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "deer hunting (stalking)",
+    "wikipedia_title" : "Deer stalking",
+    "originalKey" : "deer hunting (stalking)",
+    "original_value" : "Deer stalking",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Highlands and Islands of Scotland",
+    "wikipedia_title" : "Highlands and Islands of Scotland",
+    "originalKey" : "Highlands and Islands of Scotland",
+    "original_value" : "Highlands and Islands of Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "wild land",
+    "wikipedia_title" : "Wildland",
+    "originalKey" : "wild land",
+    "original_value" : "Wildland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "mountain hares",
+    "wikipedia_title" : "Mountain hare",
+    "originalKey" : "mountain hares",
+    "original_value" : "Mountain hare",
+    "Wikidata_ID" : "Q180035"
+  }, {
+    "entity_in_the_text" : "heather/gorse",
+    "wikipedia_title" : "Heather",
+    "originalKey" : "heather/gorse",
+    "original_value" : "Heather",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "stalking season",
+    "wikipedia_title" : "Stag hunting",
+    "originalKey" : "stalking season",
+    "original_value" : "Stag hunting",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Blair Atholl Estates",
+    "wikipedia_title" : "Atholl Estate",
+    "originalKey" : "Blair Atholl Estates",
+    "original_value" : "Atholl Estate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Glen Lyon",
+    "wikipedia_title" : "Loch Lyon",
+    "originalKey" : "Glen Lyon",
+    "original_value" : "Loch Lyon",
+    "Wikidata_ID" : "Q3257705"
+  }, {
+    "entity_in_the_text" : "venison meat",
+    "wikipedia_title" : "Venison",
+    "originalKey" : "venison meat",
+    "original_value" : "Venison",
+    "Wikidata_ID" : "Q2296872"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Highlands",
+    "wikipedia_title" : "Highlands (Scotland)",
+    "originalKey" : "Highlands",
+    "original_value" : "Highlands (Scotland)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Islands",
+    "wikipedia_title" : "Orkney Islands",
+    "originalKey" : "Islands",
+    "original_value" : "Orkney Islands",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Perth and Kinross",
+    "wikipedia_title" : "Perth and Kinross",
+    "originalKey" : "Perth and Kinross",
+    "original_value" : "Perth and Kinross",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Tay",
+    "wikipedia_title" : "Tay (river)",
+    "originalKey" : "Tay",
+    "original_value" : "Tay (river)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Earn",
+    "wikipedia_title" : "Earn (river)",
+    "originalKey" : "Earn",
+    "original_value" : "Earn (river)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "size of the area",
+    "wikipedia_title" : "Area",
+    "originalKey" : "size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population",
+    "wikipedia_title" : "Population",
+    "originalKey" : "population",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density",
+    "wikipedia_title" : "Density",
+    "originalKey" : "population density",
+    "original_value" : "Density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population change rate",
+    "wikipedia_title" : "Population growth",
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth",
+    "Wikidata_ID" : "Q386191"
+  }, {
+    "entity_in_the_text" : "regional population density",
+    "wikipedia_title" : "Regional density",
+    "originalKey" : "regional population density",
+    "original_value" : "Regional density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional population change rate",
+    "wikipedia_title" : "Regional population growth",
+    "originalKey" : "regional population change rate",
+    "original_value" : "Regional population growth",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province (geographical)",
+    "originalKey" : "Province",
+    "original_value" : "Province (geographical)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region (geographical)",
+    "originalKey" : "Region",
+    "original_value" : "Region (geographical)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added (GVA)",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Total number of bed places",
+    "wikipedia_title" : "Tourist accommodations",
+    "originalKey" : "Total number of bed places",
+    "original_value" : "Tourist accommodations",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Regional share",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Regional share",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Agricultural holdings",
+    "wikipedia_title" : "Farm",
+    "originalKey" : "Agricultural holdings",
+    "original_value" : "Farm",
+    "Wikidata_ID" : "Q131596"
+  }, {
+    "entity_in_the_text" : "Nearest settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "Nearest settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "Protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Sporting game",
+    "wikipedia_title" : "Sport hunting",
+    "originalKey" : "Sporting game",
+    "original_value" : "Sport hunting",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Deer stalking",
+    "wikipedia_title" : "Deer stalking",
+    "originalKey" : "Deer stalking",
+    "original_value" : "Deer stalking",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Vension meat",
+    "wikipedia_title" : "Venison",
+    "originalKey" : "Vension meat",
+    "original_value" : "Venison",
+    "Wikidata_ID" : "Q2296872"
+  }, {
+    "entity_in_the_text" : "Scottish Quality Wild Vensions",
+    "wikipedia_title" : "Scottish Quality Wild Venisons",
+    "originalKey" : "Scottish Quality Wild Vensions",
+    "original_value" : "Scottish Quality Wild Venisons",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Habitat quality",
+    "wikipedia_title" : "Habitat quality",
+    "originalKey" : "Habitat quality",
+    "original_value" : "Habitat quality",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Blair Atholl",
+    "wikipedia_title" : "Blair Castle",
+    "originalKey" : "Blair Atholl",
+    "original_value" : "Blair Castle",
+    "Wikidata_ID" : "Q532627"
+  }, {
+    "entity_in_the_text" : "Glen Lyon",
+    "wikipedia_title" : "Loch Lyon",
+    "originalKey" : "Glen Lyon",
+    "original_value" : "Loch Lyon",
+    "Wikidata_ID" : "Q3257705"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "natural assets",
+    "wikipedia_title" : "Natural assets",
+    "originalKey" : "natural assets",
+    "original_value" : "Natural assets",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "wild (but managed) land",
+    "wikipedia_title" : "Wildland",
+    "originalKey" : "wild (but managed) land",
+    "original_value" : "Wildland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "hospitable environment",
+    "wikipedia_title" : "Habitat (ecology)",
+    "originalKey" : "hospitable environment",
+    "original_value" : "Habitat (ecology)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "scenery",
+    "wikipedia_title" : "Scenery",
+    "originalKey" : "scenery",
+    "original_value" : "Scenery",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "stalking visitors",
+    "wikipedia_title" : "Tourism",
+    "originalKey" : "stalking visitors",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "entity_in_the_text" : "local communities",
+    "wikipedia_title" : "Local community",
+    "originalKey" : "local communities",
+    "original_value" : "Local community",
+    "Wikidata_ID" : "Q490933"
+  }, {
+    "entity_in_the_text" : "hikers",
+    "wikipedia_title" : "Hiking",
+    "originalKey" : "hikers",
+    "original_value" : "Hiking",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "wildlife conservation organizations",
+    "wikipedia_title" : "Wildlife conservation",
+    "originalKey" : "wildlife conservation organizations",
+    "original_value" : "Wildlife conservation",
+    "Wikidata_ID" : "Q766328"
+  }, {
+    "entity_in_the_text" : "traditional and local knowledge",
+    "wikipedia_title" : "Traditional knowledge",
+    "originalKey" : "traditional and local knowledge",
+    "original_value" : "Traditional knowledge",
+    "Wikidata_ID" : "Q1428168"
+  }, {
+    "entity_in_the_text" : "stalking practices",
+    "wikipedia_title" : "Hunting",
+    "originalKey" : "stalking practices",
+    "original_value" : "Hunting",
+    "Wikidata_ID" : "Q36963"
+  }, {
+    "entity_in_the_text" : "ponies",
+    "wikipedia_title" : "Pony",
+    "originalKey" : "ponies",
+    "original_value" : "Pony",
+    "Wikidata_ID" : "Q188828"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "potential conflicts over land management practices",
+    "wikipedia_title" : "Land management conflict",
+    "originalKey" : "potential conflicts over land management practices",
+    "original_value" : "Land management conflict",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "culling of mountain hares and burning of gorse",
+    "wikipedia_title" : "Mountain hare culling",
+    "originalKey" : "culling of mountain hares and burning of gorse",
+    "original_value" : "Mountain hare culling",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "conflicts between organisations promoting the culling of deer and those visiting for stalking purposes",
+    "wikipedia_title" : "Deer culling controversy",
+    "originalKey" : "conflicts between organisations promoting the culling of deer and those visiting for stalking purposes",
+    "original_value" : "Deer culling controversy",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population numbers of other birds (i.e., raptors) being scared off/ accidentally killed",
+    "wikipedia_title" : "Bird population management",
+    "originalKey" : "population numbers of other birds (i.e., raptors) being scared off/ accidentally killed",
+    "original_value" : "Bird population management",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "difficulties in sale of venison eat abroad due to brexit",
+    "wikipedia_title" : "Brexit and food trade",
+    "originalKey" : "difficulties in sale of venison eat abroad due to brexit",
+    "original_value" : "Brexit and food trade",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "risk of overgrazing of landscape",
+    "wikipedia_title" : "Overgrazing",
+    "originalKey" : "risk of overgrazing of landscape",
+    "original_value" : "Overgrazing",
+    "Wikidata_ID" : "Q334487"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "New governance systems",
+    "wikipedia_title" : "New governance",
+    "originalKey" : "New governance systems",
+    "original_value" : "New governance",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Natural land",
+    "originalKey" : "Natural land",
+    "original_value" : "Natural land",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Social",
+    "wikipedia_title" : "Social",
+    "originalKey" : "Social",
+    "original_value" : "Social",
+    "Wikidata_ID" : "Q345367"
+  }, {
+    "entity_in_the_text" : "Cultural",
+    "wikipedia_title" : "Cultural",
+    "originalKey" : "Cultural",
+    "original_value" : "Cultural",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Deer stalking",
+    "wikipedia_title" : "Deer stalking",
+    "originalKey" : "Deer stalking",
+    "original_value" : "Deer stalking",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Highland and Islands NUT3 region of Scotland",
+    "wikipedia_title" : "Highland (Scotland)",
+    "originalKey" : "Highland and Islands NUT3 region of Scotland",
+    "original_value" : "Highland (Scotland)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Aberdeenshire",
+    "wikipedia_title" : "Aberdeenshire",
+    "originalKey" : "Aberdeenshire",
+    "original_value" : "Aberdeenshire",
+    "Wikidata_ID" : "Q189912"
+  }, {
+    "entity_in_the_text" : "Badendoch",
+    "wikipedia_title" : "Badendoch",
+    "originalKey" : "Badendoch",
+    "original_value" : "Badendoch",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Strathsphey LAU1 area",
+    "wikipedia_title" : "Strathspey",
+    "originalKey" : "Strathsphey LAU1 area",
+    "original_value" : "Strathspey",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "North east England",
+    "wikipedia_title" : "North East England",
+    "originalKey" : "North east England",
+    "original_value" : "North East England",
+    "Wikidata_ID" : "Q47983"
+  }, {
+    "entity_in_the_text" : "North West England",
+    "wikipedia_title" : "North West England",
+    "originalKey" : "North West England",
+    "original_value" : "North West England",
+    "Wikidata_ID" : "Q47967"
+  } ]
+} ]

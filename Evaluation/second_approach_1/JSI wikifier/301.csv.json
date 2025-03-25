@@ -1,0 +1,234 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "Pultost",
+                "original_value": "Pultost",
+                "Wikidata_ID": "Q1776589"
+            },
+            {
+                "originalKey": "sour milk",
+                "original_value": "Soured milk",
+                "Wikidata_ID": "Q253333"
+            },
+            {
+                "originalKey": "milk",
+                "original_value": "Milk",
+                "Wikidata_ID": "Q8495"
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "rennet",
+                "original_value": "Rennet",
+                "Wikidata_ID": "Q326900"
+            },
+            {
+                "originalKey": "fermented",
+                "original_value": "Fermentation",
+                "Wikidata_ID": "Q41760"
+            },
+            {
+                "originalKey": "salt",
+                "original_value": "Salt",
+                "Wikidata_ID": "Q11254"
+            },
+            {
+                "originalKey": "caraway",
+                "original_value": "Caraway",
+                "Wikidata_ID": "Q26811"
+            },
+            {
+                "originalKey": "seeds",
+                "original_value": "Potato",
+                "Wikidata_ID": "Q10998"
+            },
+            {
+                "originalKey": "cream",
+                "original_value": "Cream",
+                "Wikidata_ID": "Q13228"
+            },
+            {
+                "originalKey": "sour cream",
+                "original_value": "Sour cream",
+                "Wikidata_ID": "Q840171"
+            },
+            {
+                "originalKey": "butter",
+                "original_value": "Butter",
+                "Wikidata_ID": "Q34172"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Scandes",
+                "original_value": "Scandinavian Mountains",
+                "Wikidata_ID": "Q186547"
+            },
+            {
+                "originalKey": "Lesja",
+                "original_value": "Lesja",
+                "Wikidata_ID": "Q488405"
+            },
+            {
+                "originalKey": "Lesjaskogsvatnet",
+                "original_value": "Lesjaskogsvatnet",
+                "Wikidata_ID": "Q1820743"
+            },
+            {
+                "originalKey": "lake",
+                "original_value": "Lake",
+                "Wikidata_ID": "Q23397"
+            },
+            {
+                "originalKey": "Rauma",
+                "original_value": "Rauma (river)",
+                "Wikidata_ID": "Q494838"
+            },
+            {
+                "originalKey": "Gudbrandsdalslågen",
+                "original_value": "Gudbrandsdalslågen",
+                "Wikidata_ID": "Q927499"
+            },
+            {
+                "originalKey": "treeline",
+                "original_value": "Tree line",
+                "Wikidata_ID": "Q207762"
+            },
+            {
+                "originalKey": "Norwegian",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            },
+            {
+                "originalKey": "trout",
+                "original_value": "Trout",
+                "Wikidata_ID": "Q2258881"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "determinant",
+                "original_value": "Determinant",
+                "Wikidata_ID": "Q178546"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Pultost",
+                "original_value": "Pultost",
+                "Wikidata_ID": "Q1776589"
+            },
+            {
+                "originalKey": "Innlandet",
+                "original_value": "Innlandet",
+                "Wikidata_ID": "Q56404886"
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "dairies",
+                "original_value": "Dairy",
+                "Wikidata_ID": "Q637776"
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "land use",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    }
+]

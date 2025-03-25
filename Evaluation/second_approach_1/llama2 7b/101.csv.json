@@ -1,0 +1,437 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "MOVING",
+    "wikipedia_title" : "Moving (business)",
+    "originalKey" : "MOVING",
+    "original_value" : "Moving (business)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "GR",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "GR",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "chestnut trees",
+    "wikipedia_title" : "Chestnut",
+    "originalKey" : "chestnut trees",
+    "original_value" : "Chestnut",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "farmer",
+    "wikipedia_title" : "Farmer",
+    "originalKey" : "farmer",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  }, {
+    "entity_in_the_text" : "local government",
+    "wikipedia_title" : "Local government",
+    "originalKey" : "local government",
+    "original_value" : "Local government",
+    "Wikidata_ID" : "Q6501447"
+  }, {
+    "entity_in_the_text" : "academic institution",
+    "wikipedia_title" : "Academic institution",
+    "originalKey" : "academic institution",
+    "original_value" : "Academic institution",
+    "Wikidata_ID" : "Q4671277"
+  }, {
+    "entity_in_the_text" : "local catering",
+    "wikipedia_title" : "Local cuisine",
+    "originalKey" : "local catering",
+    "original_value" : "Local cuisine",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tourism",
+    "wikipedia_title" : "Tourism",
+    "originalKey" : "tourism",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "entity_in_the_text" : "small firm",
+    "wikipedia_title" : "Small business",
+    "originalKey" : "small firm",
+    "original_value" : "Small business",
+    "Wikidata_ID" : "Q1109680"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "White Mountains",
+    "wikipedia_title" : "White Mountains (Crete)",
+    "originalKey" : "White Mountains",
+    "original_value" : "White Mountains (Crete)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "KISSAMOS",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "KISSAMOS",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "entity_in_the_text" : "Elos (LAU2 Code: 74050201)",
+    "wikipedia_title" : "Elos",
+    "originalKey" : "Elos (LAU2 Code: 74050201)",
+    "original_value" : "Elos",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Chania international airport",
+    "wikipedia_title" : "Chania International Airport",
+    "originalKey" : "Chania international airport",
+    "original_value" : "Chania International Airport",
+    "Wikidata_ID" : "Q1232348"
+  }, {
+    "entity_in_the_text" : "Souda bay international harbor",
+    "wikipedia_title" : "Souda Bay",
+    "originalKey" : "Souda bay international harbor",
+    "original_value" : "Souda Bay",
+    "Wikidata_ID" : "Q2633779"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "size of the area",
+    "wikipedia_title" : "Area",
+    "originalKey" : "size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population",
+    "wikipedia_title" : "Population",
+    "originalKey" : "population",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density",
+    "wikipedia_title" : "Density",
+    "originalKey" : "population density",
+    "original_value" : "Density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population change rate",
+    "wikipedia_title" : "Population growth",
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth",
+    "Wikidata_ID" : "Q386191"
+  }, {
+    "entity_in_the_text" : "regional population density",
+    "wikipedia_title" : "Regional density",
+    "originalKey" : "regional population density",
+    "original_value" : "Regional density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional population change rate",
+    "wikipedia_title" : "Regional population growth",
+    "originalKey" : "regional population change rate",
+    "original_value" : "Regional population growth",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province (geographical)",
+    "originalKey" : "Province",
+    "original_value" : "Province (geographical)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region (geographical)",
+    "originalKey" : "Region",
+    "original_value" : "Region (geographical)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added (GVA)",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tourist accommodations",
+    "wikipedia_title" : "Tourist accommodation",
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourist accommodation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Chestnut trees",
+    "wikipedia_title" : "Castanea sativa",
+    "originalKey" : "Chestnut trees",
+    "original_value" : "Castanea sativa",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "Chania",
+    "wikipedia_title" : "Chania",
+    "originalKey" : "Chania",
+    "original_value" : "Chania",
+    "Wikidata_ID" : "Q182299"
+  }, {
+    "entity_in_the_text" : "local farmers",
+    "wikipedia_title" : "Farmers",
+    "originalKey" : "local farmers",
+    "original_value" : "Farmers",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "cooperatives",
+    "wikipedia_title" : "Cooperative",
+    "originalKey" : "cooperatives",
+    "original_value" : "Cooperative",
+    "Wikidata_ID" : "Q4539"
+  }, {
+    "entity_in_the_text" : "private local firms",
+    "wikipedia_title" : "Private company",
+    "originalKey" : "private local firms",
+    "original_value" : "Private company",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Italian market",
+    "wikipedia_title" : "Italy",
+    "originalKey" : "Italian market",
+    "original_value" : "Italy",
+    "Wikidata_ID" : "Q38"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Western White Mountains",
+    "wikipedia_title" : "Western White Mountains (New Hampshire)",
+    "originalKey" : "Western White Mountains",
+    "original_value" : "Western White Mountains (New Hampshire)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "chestnut activities",
+    "wikipedia_title" : "Chestnut",
+    "originalKey" : "chestnut activities",
+    "original_value" : "Chestnut",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "cultural associations",
+    "wikipedia_title" : "Cultural association",
+    "originalKey" : "cultural associations",
+    "original_value" : "Cultural association",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "chestnut trees",
+    "wikipedia_title" : "Chestnut",
+    "originalKey" : "chestnut trees",
+    "original_value" : "Chestnut",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "farmers",
+    "wikipedia_title" : "Farmer",
+    "originalKey" : "farmers",
+    "original_value" : "Farmer",
+    "Wikidata_ID" : "Q131512"
+  }, {
+    "entity_in_the_text" : "infections",
+    "wikipedia_title" : "Infection",
+    "originalKey" : "infections",
+    "original_value" : "Infection",
+    "Wikidata_ID" : "Q166231"
+  }, {
+    "entity_in_the_text" : "production",
+    "wikipedia_title" : "Production (economics)",
+    "originalKey" : "production",
+    "original_value" : "Production (economics)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "climate change",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "entity_in_the_text" : "olive oil trees",
+    "wikipedia_title" : "Olive tree",
+    "originalKey" : "olive oil trees",
+    "original_value" : "Olive tree",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "predicted",
+    "wikipedia_title" : "Prediction",
+    "originalKey" : "predicted",
+    "original_value" : "Prediction",
+    "Wikidata_ID" : "Q748250"
+  }, {
+    "entity_in_the_text" : "traditional",
+    "wikipedia_title" : "Tradition",
+    "originalKey" : "traditional",
+    "original_value" : "Tradition",
+    "Wikidata_ID" : "Q82821"
+  }, {
+    "entity_in_the_text" : "innovative",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "innovative",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Region of Crete",
+    "wikipedia_title" : "Regions of Greece",
+    "originalKey" : "Region of Crete",
+    "original_value" : "Regions of Greece",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "academic institutions",
+    "wikipedia_title" : "Universities and research institutions in Greece",
+    "originalKey" : "academic institutions",
+    "original_value" : "Universities and research institutions in Greece",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : "New product development",
+    "originalKey" : "New products",
+    "original_value" : "New product development",
+    "Wikidata_ID" : "Q1395034"
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Grassland",
+    "wikipedia_title" : "Grassland",
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Nature",
+    "originalKey" : "Natural",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  }, {
+    "entity_in_the_text" : "social",
+    "wikipedia_title" : "Society",
+    "originalKey" : "social",
+    "original_value" : "Society",
+    "Wikidata_ID" : "Q8425"
+  }, {
+    "entity_in_the_text" : "cultural",
+    "wikipedia_title" : "Culture",
+    "originalKey" : "cultural",
+    "original_value" : "Culture",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "chestnut trees",
+    "wikipedia_title" : "Chestnut",
+    "originalKey" : "chestnut trees",
+    "original_value" : "Chestnut",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "Greece",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "Greece",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  } ]
+} ]

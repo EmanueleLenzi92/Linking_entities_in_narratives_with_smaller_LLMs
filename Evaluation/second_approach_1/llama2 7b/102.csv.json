@@ -1,0 +1,377 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "MOVING",
+    "wikipedia_title" : "Moving (business)",
+    "originalKey" : "MOVING",
+    "original_value" : "Moving (business)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "GREECE",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "GREECE",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "Local beekeepers",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "Local beekeepers",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "pefkothymaromelo",
+    "wikipedia_title" : "Pefkothymaromelo",
+    "originalKey" : "pefkothymaromelo",
+    "original_value" : "Pefkothymaromelo",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region of Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Region of Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "EU Geographical Indications (GIs)",
+    "wikipedia_title" : "Geographical indication",
+    "originalKey" : "EU Geographical Indications (GIs)",
+    "original_value" : "Geographical indication",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "White Mountains",
+    "wikipedia_title" : "White Mountains (Crete)",
+    "originalKey" : "White Mountains",
+    "original_value" : "White Mountains (Crete)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "KISSAMOS",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "KISSAMOS",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "entity_in_the_text" : "Stenoendemic",
+    "wikipedia_title" : "Steneotype",
+    "originalKey" : "Stenoendemic",
+    "original_value" : "Steneotype",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "size of the area",
+    "wikipedia_title" : "Area",
+    "originalKey" : "size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population",
+    "wikipedia_title" : "Population",
+    "originalKey" : "population",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density",
+    "wikipedia_title" : "Density",
+    "originalKey" : "population density",
+    "original_value" : "Density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population change rate",
+    "wikipedia_title" : "Population growth",
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth",
+    "Wikidata_ID" : "Q386191"
+  }, {
+    "entity_in_the_text" : "regional population density",
+    "wikipedia_title" : "Regional density",
+    "originalKey" : "regional population density",
+    "original_value" : "Regional density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional population change rate",
+    "wikipedia_title" : "Regional population growth",
+    "originalKey" : "regional population change rate",
+    "original_value" : "Regional population growth",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province (geographical)",
+    "originalKey" : "Province",
+    "original_value" : "Province (geographical)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region (geographical)",
+    "originalKey" : "Region",
+    "original_value" : "Region (geographical)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income",
+    "wikipedia_title" : "Per capita income",
+    "originalKey" : "per capita income",
+    "original_value" : "Per capita income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gross Value Added (GVA)",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "Gross Value Added (GVA)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tourist accommodations",
+    "wikipedia_title" : "Tourist accommodation",
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourist accommodation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population over 100000",
+    "wikipedia_title" : "Populated place",
+    "originalKey" : "population over 100000",
+    "original_value" : "Populated place",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Apicature",
+    "wikipedia_title" : "Apiculture",
+    "originalKey" : "Apicature",
+    "original_value" : "Apiculture",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "PDO",
+    "wikipedia_title" : "Protected Designation of Origin",
+    "originalKey" : "PDO",
+    "original_value" : "Protected Designation of Origin",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Pefkothimaromelo",
+    "wikipedia_title" : "Pefkothymaromelo",
+    "originalKey" : "Pefkothimaromelo",
+    "original_value" : "Pefkothymaromelo",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kissamos mountains",
+    "wikipedia_title" : "Mountains of Kissamos",
+    "originalKey" : "Kissamos mountains",
+    "original_value" : "Mountains of Kissamos",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "beekeeping",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "beekeeping",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "Minoan Civilization",
+    "wikipedia_title" : "Minoan civilization",
+    "originalKey" : "Minoan Civilization",
+    "original_value" : "Minoan civilization",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "pine tree juices",
+    "wikipedia_title" : "Pine honey",
+    "originalKey" : "pine tree juices",
+    "original_value" : "Pine honey",
+    "Wikidata_ID" : "Q7195419"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "bees",
+    "wikipedia_title" : "Bee",
+    "originalKey" : "bees",
+    "original_value" : "Bee",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "pesticides",
+    "wikipedia_title" : "Pesticide",
+    "originalKey" : "pesticides",
+    "original_value" : "Pesticide",
+    "Wikidata_ID" : "Q131656"
+  }, {
+    "entity_in_the_text" : "honey",
+    "wikipedia_title" : "Honey",
+    "originalKey" : "honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "entity_in_the_text" : "adulteration",
+    "wikipedia_title" : "Adulteration",
+    "originalKey" : "adulteration",
+    "original_value" : "Adulteration",
+    "Wikidata_ID" : "Q2515654"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Pefkothymaromelo",
+    "wikipedia_title" : "Pefkothymaromelo",
+    "originalKey" : "Pefkothymaromelo",
+    "original_value" : "Pefkothymaromelo",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kissamos area",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "Kissamos area",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Natural land",
+    "originalKey" : "Natural land",
+    "original_value" : "Natural land",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : "New product",
+    "originalKey" : "New products",
+    "original_value" : "New product",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "New governance systems",
+    "wikipedia_title" : "Governance",
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance",
+    "Wikidata_ID" : "Q1553864"
+  }, {
+    "entity_in_the_text" : "Social",
+    "wikipedia_title" : "Society",
+    "originalKey" : "Social",
+    "original_value" : "Society",
+    "Wikidata_ID" : "Q8425"
+  }, {
+    "entity_in_the_text" : "Cultural",
+    "wikipedia_title" : "Culture",
+    "originalKey" : "Cultural",
+    "original_value" : "Culture",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "EU katalog",
+    "wikipedia_title" : "European Union",
+    "originalKey" : "EU katalog",
+    "original_value" : "European Union",
+    "Wikidata_ID" : "Q458"
+  }, {
+    "entity_in_the_text" : "eAmbrosia",
+    "wikipedia_title" : "Honey",
+    "originalKey" : "eAmbrosia",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "entity_in_the_text" : "Peyfothymaromelo",
+    "wikipedia_title" : "Cretan honey",
+    "originalKey" : "Peyfothymaromelo",
+    "original_value" : "Cretan honey",
+    "Wikidata_ID" : ""
+  } ]
+} ]

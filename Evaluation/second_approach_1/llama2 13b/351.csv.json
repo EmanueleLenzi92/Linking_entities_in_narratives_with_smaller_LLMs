@@ -1,0 +1,359 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SPAIN ADEGUA",
+    "wikipedia_title" : "Spain",
+    "originalKey" : "SPAIN ADEGUA",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  }, {
+    "entity_in_the_text" : "VC 34 ES",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC 34 ES",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "elderly people",
+    "wikipedia_title" : "Elderly",
+    "originalKey" : "elderly people",
+    "original_value" : "Elderly",
+    "Wikidata_ID" : "Q21162439"
+  }, {
+    "entity_in_the_text" : "local and immigrant women",
+    "wikipedia_title" : "Women",
+    "originalKey" : "local and immigrant women",
+    "original_value" : "Women",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "municipality",
+    "wikipedia_title" : "Municipality",
+    "originalKey" : "municipality",
+    "original_value" : "Municipality",
+    "Wikidata_ID" : "Q15284"
+  }, {
+    "entity_in_the_text" : "health, care or family aspects",
+    "wikipedia_title" : "Healthcare",
+    "originalKey" : "health, care or family aspects",
+    "original_value" : "Healthcare",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Betic System",
+    "wikipedia_title" : "Betic Cordillera",
+    "originalKey" : "Betic System",
+    "original_value" : "Betic Cordillera",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Carcabuey",
+    "wikipedia_title" : "Carcabuey, Sierra de Grazalema",
+    "originalKey" : "Carcabuey",
+    "original_value" : "Carcabuey, Sierra de Grazalema",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Sierra Subbética",
+    "wikipedia_title" : "Subbética Mountains",
+    "originalKey" : "Sierra Subbética",
+    "original_value" : "Subbética Mountains",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "The size of the area",
+    "wikipedia_title" : "Area",
+    "originalKey" : "The size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometer",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "thousand",
+    "wikipedia_title" : "Thousand",
+    "originalKey" : "thousand",
+    "original_value" : "Thousand",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Inhabitants/km2",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "Inhabitants/km2",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "10 years",
+    "wikipedia_title" : "Decade",
+    "originalKey" : "10 years",
+    "original_value" : "Decade",
+    "Wikidata_ID" : "Q39911"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous communities of Spain",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous communities of Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed Places",
+    "originalKey" : "BPs",
+    "original_value" : "Bed Places",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural Holdings",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural Holdings",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected Areas",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected Areas",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces and territories of Canada",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces and territories of Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "List of regions of Canada",
+    "originalKey" : "Region",
+    "original_value" : "List of regions of Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "care of the elderly",
+    "wikipedia_title" : "Elderly care",
+    "originalKey" : "care of the elderly",
+    "original_value" : "Elderly care",
+    "Wikidata_ID" : "Q437458"
+  }, {
+    "entity_in_the_text" : "private care company",
+    "wikipedia_title" : "Home care",
+    "originalKey" : "private care company",
+    "original_value" : "Home care",
+    "Wikidata_ID" : "Q1642542"
+  }, {
+    "entity_in_the_text" : "local women",
+    "wikipedia_title" : "Women in the workforce",
+    "originalKey" : "local women",
+    "original_value" : "Women in the workforce",
+    "Wikidata_ID" : "Q8031587"
+  }, {
+    "entity_in_the_text" : "experience in the informal sector",
+    "wikipedia_title" : "Informal economy",
+    "originalKey" : "experience in the informal sector",
+    "original_value" : "Informal economy",
+    "Wikidata_ID" : "Q944235"
+  }, {
+    "entity_in_the_text" : "non-monetised and informal economy",
+    "wikipedia_title" : "Informal sector",
+    "originalKey" : "non-monetised and informal economy",
+    "original_value" : "Informal sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "female population under 65",
+    "wikipedia_title" : "Demographics of aging",
+    "originalKey" : "female population under 65",
+    "original_value" : "Demographics of aging",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "immigrant female population",
+    "wikipedia_title" : "Immigration",
+    "originalKey" : "immigrant female population",
+    "original_value" : "Immigration",
+    "Wikidata_ID" : "Q131288"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Municipal residence for the elderly",
+    "wikipedia_title" : "Residential care",
+    "originalKey" : "Municipal residence for the elderly",
+    "original_value" : "Residential care",
+    "Wikidata_ID" : "Q17078133"
+  }, {
+    "entity_in_the_text" : "managed by private company (PROMI)",
+    "wikipedia_title" : "Private equity",
+    "originalKey" : "managed by private company (PROMI)",
+    "original_value" : "Private equity",
+    "Wikidata_ID" : "Q476115"
+  }, {
+    "entity_in_the_text" : "Active participation centre",
+    "wikipedia_title" : "Community center",
+    "originalKey" : "Active participation centre",
+    "original_value" : "Community center",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Dependency assistance company hired by municipality",
+    "wikipedia_title" : "Outsourcing",
+    "originalKey" : "Dependency assistance company hired by municipality",
+    "original_value" : "Outsourcing",
+    "Wikidata_ID" : "Q61515"
+  }, {
+    "entity_in_the_text" : "Emergency carers, a service managed by the Provincial Council",
+    "wikipedia_title" : "Emergency medical services",
+    "originalKey" : "Emergency carers, a service managed by the Provincial Council",
+    "original_value" : "Emergency medical services",
+    "Wikidata_ID" : "Q860447"
+  }, {
+    "entity_in_the_text" : "Assistance in the framework of the informal economy",
+    "wikipedia_title" : "Informal sector",
+    "originalKey" : "Assistance in the framework of the informal economy",
+    "original_value" : "Informal sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Organised civil society groups (there are 40 associations)",
+    "wikipedia_title" : "Non-governmental organization",
+    "originalKey" : "Organised civil society groups (there are 40 associations)",
+    "original_value" : "Non-governmental organization",
+    "Wikidata_ID" : "Q79913"
+  }, {
+    "entity_in_the_text" : "Neighbourhood mutual aid",
+    "wikipedia_title" : "Mutual aid",
+    "originalKey" : "Neighbourhood mutual aid",
+    "original_value" : "Mutual aid",
+    "Wikidata_ID" : "Q766238"
+  }, {
+    "entity_in_the_text" : "Older people themselves",
+    "wikipedia_title" : "Elderly",
+    "originalKey" : "Older people themselves",
+    "original_value" : "Elderly",
+    "Wikidata_ID" : "Q21162439"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Ageing population",
+    "wikipedia_title" : "Demographic crisis",
+    "originalKey" : "Ageing population",
+    "original_value" : "Demographic crisis",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "negative replacement rate",
+    "wikipedia_title" : "Total fertility rate",
+    "originalKey" : "negative replacement rate",
+    "original_value" : "Total fertility rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "depopulation and exodus of young population",
+    "wikipedia_title" : "Youth migration",
+    "originalKey" : "depopulation and exodus of young population",
+    "original_value" : "Youth migration",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "public resources do not cover all needs",
+    "wikipedia_title" : "Public finance",
+    "originalKey" : "public resources do not cover all needs",
+    "original_value" : "Public finance",
+    "Wikidata_ID" : "Q274490"
+  }, {
+    "entity_in_the_text" : "informal economy",
+    "wikipedia_title" : "Informal sector",
+    "originalKey" : "informal economy",
+    "original_value" : "Informal sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "professionalisation process under development but not consolidated",
+    "wikipedia_title" : "Professionalization",
+    "originalKey" : "professionalisation process under development but not consolidated",
+    "original_value" : "Professionalization",
+    "Wikidata_ID" : "Q355523"
+  }, {
+    "entity_in_the_text" : "precarisation of female work",
+    "wikipedia_title" : "Gender inequality in the workplace",
+    "originalKey" : "precarisation of female work",
+    "original_value" : "Gender inequality in the workplace",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "disappearance of local and social cultures of small Sierra communities",
+    "wikipedia_title" : "Cultural heritage",
+    "originalKey" : "disappearance of local and social cultures of small Sierra communities",
+    "original_value" : "Cultural heritage",
+    "Wikidata_ID" : "Q210272"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "innovation",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "governance systems",
+    "wikipedia_title" : "Governance",
+    "originalKey" : "governance systems",
+    "original_value" : "Governance",
+    "Wikidata_ID" : "Q1553864"
+  }, {
+    "entity_in_the_text" : "land use systems",
+    "wikipedia_title" : "Land use",
+    "originalKey" : "land use systems",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "entity_in_the_text" : "local assets",
+    "wikipedia_title" : "Local assets",
+    "originalKey" : "local assets",
+    "original_value" : "Local assets",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Sierra",
+    "wikipedia_title" : "Sierra Nevada (Spain)",
+    "originalKey" : "Sierra",
+    "original_value" : "Sierra Nevada (Spain)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Subbética",
+    "wikipedia_title" : "Subbética",
+    "originalKey" : "Subbética",
+    "original_value" : "Subbética",
+    "Wikidata_ID" : ""
+  } ]
+} ]

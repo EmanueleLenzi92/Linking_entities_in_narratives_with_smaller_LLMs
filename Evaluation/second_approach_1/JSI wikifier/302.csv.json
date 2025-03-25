@@ -1,0 +1,234 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "goats",
+                "original_value": "Goat",
+                "Wikidata_ID": "Q2934"
+            },
+            {
+                "originalKey": "Undredal",
+                "original_value": "Undredal",
+                "Wikidata_ID": "Q1006480"
+            },
+            {
+                "originalKey": "Norwegian",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            },
+            {
+                "originalKey": "maintenance",
+                "original_value": "Road",
+                "Wikidata_ID": "Q34442"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "Aurland",
+                "original_value": "Aurland",
+                "Wikidata_ID": "Q486700"
+            },
+            {
+                "originalKey": "Fiord",
+                "original_value": "Fjord",
+                "Wikidata_ID": "Q45776"
+            },
+            {
+                "originalKey": "Nærøyfjorden",
+                "original_value": "Nærøyfjord",
+                "Wikidata_ID": "Q212205"
+            },
+            {
+                "originalKey": "Sognefjorden",
+                "original_value": "Sognefjord",
+                "Wikidata_ID": "Q208495"
+            },
+            {
+                "originalKey": "Norwegian",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            },
+            {
+                "originalKey": "UNESCO",
+                "original_value": "World Heritage Site",
+                "Wikidata_ID": "Q9259"
+            },
+            {
+                "originalKey": "coat of arms",
+                "original_value": "Coat of arms",
+                "Wikidata_ID": "Q14659"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "per capita",
+                "original_value": "Per capita income",
+                "Wikidata_ID": "Q45918"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "natural ecosystem",
+                "original_value": "Ecosystem",
+                "Wikidata_ID": "Q37813"
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "cultural",
+                "original_value": "Cultural heritage",
+                "Wikidata_ID": "Q210272"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "pastures",
+                "original_value": "Pasture",
+                "Wikidata_ID": "Q30121"
+            },
+            {
+                "originalKey": "goats",
+                "original_value": "Goat",
+                "Wikidata_ID": "Q2934"
+            },
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "urban",
+                "original_value": "Urbanization",
+                "Wikidata_ID": "Q161078"
+            },
+            {
+                "originalKey": "dairy",
+                "original_value": "Dairy",
+                "Wikidata_ID": "Q637776"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "Norway",
+                "original_value": "Norway",
+                "Wikidata_ID": "Q20"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "dairies",
+                "original_value": "Dairy",
+                "Wikidata_ID": "Q637776"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "website",
+                "original_value": "E-commerce",
+                "Wikidata_ID": "Q484847"
+            },
+            {
+                "originalKey": "marketing",
+                "original_value": "Marketing",
+                "Wikidata_ID": "Q39809"
+            },
+            {
+                "originalKey": "marketing strategies",
+                "original_value": "Marketing strategy",
+                "Wikidata_ID": "Q1363963"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "cheese",
+                "original_value": "Cheese",
+                "Wikidata_ID": "Q10943"
+            },
+            {
+                "originalKey": "Sweden",
+                "original_value": "Sweden",
+                "Wikidata_ID": "Q34"
+            },
+            {
+                "originalKey": "Jämtland",
+                "original_value": "Jämtland",
+                "Wikidata_ID": "Q211661"
+            }
+        ]
+    }
+]

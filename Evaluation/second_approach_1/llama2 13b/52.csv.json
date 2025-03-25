@@ -1,0 +1,407 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "CZECH REPUBLIC",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "CZECH REPUBLIC",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "VC 11 CZ",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC 11 CZ",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "mountain region",
+    "wikipedia_title" : "Mountain",
+    "originalKey" : "mountain region",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  }, {
+    "entity_in_the_text" : "eshops",
+    "wikipedia_title" : "E-commerce",
+    "originalKey" : "eshops",
+    "original_value" : "E-commerce",
+    "Wikidata_ID" : "Q484847"
+  }, {
+    "entity_in_the_text" : "farmers markets",
+    "wikipedia_title" : "Farmer's market",
+    "originalKey" : "farmers markets",
+    "original_value" : "Farmer's market",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "farmers shops",
+    "wikipedia_title" : "Farm shop",
+    "originalKey" : "farmers shops",
+    "original_value" : "Farm shop",
+    "Wikidata_ID" : "Q1371823"
+  }, {
+    "entity_in_the_text" : "tourism",
+    "wikipedia_title" : "Tourism",
+    "originalKey" : "tourism",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Sumava",
+    "wikipedia_title" : "Šumava",
+    "originalKey" : "Sumava",
+    "original_value" : "Šumava",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cesky les",
+    "wikipedia_title" : "Český les",
+    "originalKey" : "Cesky les",
+    "original_value" : "Český les",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU 1 Klatovy",
+    "wikipedia_title" : "Klatovy District",
+    "originalKey" : "LAU 1 Klatovy",
+    "original_value" : "Klatovy District",
+    "Wikidata_ID" : "Q838341"
+  }, {
+    "entity_in_the_text" : "Germany",
+    "wikipedia_title" : "Germany",
+    "originalKey" : "Germany",
+    "original_value" : "Germany",
+    "Wikidata_ID" : "Q183"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "entity_in_the_text" : "thousand",
+    "wikipedia_title" : "thousand",
+    "originalKey" : "thousand",
+    "original_value" : "thousand",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "inhabitants/km2",
+    "wikipedia_title" : "population density",
+    "originalKey" : "inhabitants/km2",
+    "original_value" : "population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "last 10 years",
+    "wikipedia_title" : "decade",
+    "originalKey" : "last 10 years",
+    "original_value" : "decade",
+    "Wikidata_ID" : "Q39911"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous communities of Spain",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous communities of Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed places",
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "total employment",
+    "wikipedia_title" : "Employment",
+    "originalKey" : "total employment",
+    "original_value" : "Employment",
+    "Wikidata_ID" : "Q656365"
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Bee products",
+    "wikipedia_title" : "Honey",
+    "originalKey" : "Bee products",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "entity_in_the_text" : "mountain regions",
+    "wikipedia_title" : "Mountain",
+    "originalKey" : "mountain regions",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  }, {
+    "entity_in_the_text" : "beekeeping",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "beekeeping",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "quality of bee products",
+    "wikipedia_title" : "Honey quality",
+    "originalKey" : "quality of bee products",
+    "original_value" : "Honey quality",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "credence goods",
+    "wikipedia_title" : "Credence goods",
+    "originalKey" : "credence goods",
+    "original_value" : "Credence goods",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "symbolic value",
+    "wikipedia_title" : "Symbolic value",
+    "originalKey" : "symbolic value",
+    "original_value" : "Symbolic value",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Sumava Mountains",
+    "wikipedia_title" : "Šumava",
+    "originalKey" : "Sumava Mountains",
+    "original_value" : "Šumava",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "beekeepers",
+    "wikipedia_title" : "beekeeping",
+    "originalKey" : "beekeepers",
+    "original_value" : "beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "local ecosystems",
+    "wikipedia_title" : "ecosystem",
+    "originalKey" : "local ecosystems",
+    "original_value" : "ecosystem",
+    "Wikidata_ID" : "Q37813"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "beekeepers",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "beekeepers",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "honey",
+    "wikipedia_title" : "Honey",
+    "originalKey" : "honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "entity_in_the_text" : "mountain region",
+    "wikipedia_title" : "Mountain",
+    "originalKey" : "mountain region",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  }, {
+    "entity_in_the_text" : "intensive methods of production",
+    "wikipedia_title" : "Intensive farming",
+    "originalKey" : "intensive methods of production",
+    "original_value" : "Intensive farming",
+    "Wikidata_ID" : "Q1148482"
+  }, {
+    "entity_in_the_text" : "import honey from abroad",
+    "wikipedia_title" : "International trade",
+    "originalKey" : "import honey from abroad",
+    "original_value" : "International trade",
+    "Wikidata_ID" : "Q178803"
+  }, {
+    "entity_in_the_text" : "low price",
+    "wikipedia_title" : "Price",
+    "originalKey" : "low price",
+    "original_value" : "Price",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "small-scale beekeepers",
+    "wikipedia_title" : "Small-scale farming",
+    "originalKey" : "small-scale beekeepers",
+    "original_value" : "Small-scale farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "quality",
+    "wikipedia_title" : "Quality",
+    "originalKey" : "quality",
+    "original_value" : "Quality",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "global climate change",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "global climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "entity_in_the_text" : "increasing pollutions",
+    "wikipedia_title" : "Pollution",
+    "originalKey" : "increasing pollutions",
+    "original_value" : "Pollution",
+    "Wikidata_ID" : "Q58734"
+  }, {
+    "entity_in_the_text" : "bee colonies",
+    "wikipedia_title" : "Bee colony",
+    "originalKey" : "bee colonies",
+    "original_value" : "Bee colony",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "risk in their business",
+    "wikipedia_title" : "Risk",
+    "originalKey" : "risk in their business",
+    "original_value" : "Risk",
+    "Wikidata_ID" : "Q104493"
+  }, {
+    "entity_in_the_text" : "organic standards in beekeeping",
+    "wikipedia_title" : "Organic farming",
+    "originalKey" : "organic standards in beekeeping",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Czech Republic",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czech Republic",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "different professional and interest groups",
+    "wikipedia_title" : "Professional association",
+    "originalKey" : "different professional and interest groups",
+    "original_value" : "Professional association",
+    "Wikidata_ID" : "Q829080"
+  }, {
+    "entity_in_the_text" : "regulation and standards in the sector",
+    "wikipedia_title" : "Regulation",
+    "originalKey" : "regulation and standards in the sector",
+    "original_value" : "Regulation",
+    "Wikidata_ID" : "Q428148"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "beekeepers",
+    "wikipedia_title" : "Beekeeper",
+    "originalKey" : "beekeepers",
+    "original_value" : "Beekeeper",
+    "Wikidata_ID" : "Q852389"
+  }, {
+    "entity_in_the_text" : "varroa disease",
+    "wikipedia_title" : "Varroa mite",
+    "originalKey" : "varroa disease",
+    "original_value" : "Varroa mite",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "chemical inputs",
+    "wikipedia_title" : "Pesticide",
+    "originalKey" : "chemical inputs",
+    "original_value" : "Pesticide",
+    "Wikidata_ID" : "Q131656"
+  }, {
+    "entity_in_the_text" : "natural processes",
+    "wikipedia_title" : "Natural process",
+    "originalKey" : "natural processes",
+    "original_value" : "Natural process",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "bee colonies",
+    "wikipedia_title" : "Bee colony",
+    "originalKey" : "bee colonies",
+    "original_value" : "Bee colony",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Natural landscape",
+    "originalKey" : "Natural land",
+    "original_value" : "Natural landscape",
+    "Wikidata_ID" : "Q1286517"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "beekeeping",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "beekeeping",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "Czech Republic",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czech Republic",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  } ]
+} ]

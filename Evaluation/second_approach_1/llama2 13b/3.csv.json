@@ -1,0 +1,497 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "AUSTRIA",
+    "wikipedia_title" : "Austria",
+    "originalKey" : "AUSTRIA",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  }, {
+    "entity_in_the_text" : "VC 03 AT",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC 03 AT",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "organic",
+    "wikipedia_title" : "Organic certification",
+    "originalKey" : "organic",
+    "original_value" : "Organic certification",
+    "Wikidata_ID" : "Q11680670"
+  }, {
+    "entity_in_the_text" : "small shops",
+    "wikipedia_title" : "Retail",
+    "originalKey" : "small shops",
+    "original_value" : "Retail",
+    "Wikidata_ID" : "Q126793"
+  }, {
+    "entity_in_the_text" : "joint shop",
+    "wikipedia_title" : "Retail",
+    "originalKey" : "joint shop",
+    "original_value" : "Retail",
+    "Wikidata_ID" : "Q126793"
+  }, {
+    "entity_in_the_text" : "online",
+    "wikipedia_title" : "E-commerce",
+    "originalKey" : "online",
+    "original_value" : "E-commerce",
+    "Wikidata_ID" : "Q484847"
+  }, {
+    "entity_in_the_text" : "hotels",
+    "wikipedia_title" : "Hospitality",
+    "originalKey" : "hotels",
+    "original_value" : "Hospitality",
+    "Wikidata_ID" : "Q815825"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "RR 11",
+    "wikipedia_title" : "Rieserferner Group",
+    "originalKey" : "RR 11",
+    "original_value" : "Rieserferner Group",
+    "Wikidata_ID" : "Q456137"
+  }, {
+    "entity_in_the_text" : "Weiz",
+    "wikipedia_title" : "Weiz, Styria",
+    "originalKey" : "Weiz",
+    "original_value" : "Weiz, Styria",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Styrian alpine pasture region",
+    "originalKey" : "Almenland",
+    "original_value" : "Styrian alpine pasture region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "limestone",
+    "wikipedia_title" : "Limestone",
+    "originalKey" : "limestone",
+    "original_value" : "Limestone",
+    "Wikidata_ID" : "Q23757"
+  }, {
+    "entity_in_the_text" : "phyllite",
+    "wikipedia_title" : "Phyllite",
+    "originalKey" : "phyllite",
+    "original_value" : "Phyllite",
+    "Wikidata_ID" : "Q731880"
+  }, {
+    "entity_in_the_text" : "slate",
+    "wikipedia_title" : "Slate",
+    "originalKey" : "slate",
+    "original_value" : "Slate",
+    "Wikidata_ID" : "Q207079"
+  }, {
+    "entity_in_the_text" : "greywacke",
+    "wikipedia_title" : "Greywaffle",
+    "originalKey" : "greywacke",
+    "original_value" : "Greywaffle",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "entity_in_the_text" : "thousand",
+    "wikipedia_title" : "thousand",
+    "originalKey" : "thousand",
+    "original_value" : "thousand",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "inhabitants/km2",
+    "wikipedia_title" : "population density",
+    "originalKey" : "inhabitants/km2",
+    "original_value" : "population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "last 10 years",
+    "wikipedia_title" : "decade",
+    "originalKey" : "last 10 years",
+    "original_value" : "decade",
+    "Wikidata_ID" : "Q39911"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous community",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous community",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Regional",
+    "originalKey" : "Region",
+    "original_value" : "Regional",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed places",
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holdings",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holdings",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected areas",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected areas",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "total employment",
+    "wikipedia_title" : "Employment",
+    "originalKey" : "total employment",
+    "original_value" : "Employment",
+    "Wikidata_ID" : "Q656365"
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Almenland Nature Park",
+    "wikipedia_title" : "Almenland Nature Park",
+    "originalKey" : "Almenland Nature Park",
+    "original_value" : "Almenland Nature Park",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "herb farmers",
+    "wikipedia_title" : "Herb farming",
+    "originalKey" : "herb farmers",
+    "original_value" : "Herb farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "association",
+    "wikipedia_title" : "Association",
+    "originalKey" : "association",
+    "original_value" : "Association",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "small-scale organic cultivation",
+    "wikipedia_title" : "Organic farming",
+    "originalKey" : "small-scale organic cultivation",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "wild nature",
+    "wikipedia_title" : "Wildlife",
+    "originalKey" : "wild nature",
+    "original_value" : "Wildlife",
+    "Wikidata_ID" : "Q241741"
+  }, {
+    "entity_in_the_text" : "hand-harvested",
+    "wikipedia_title" : "Harvesting",
+    "originalKey" : "hand-harvested",
+    "original_value" : "Harvesting",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "different herbs",
+    "wikipedia_title" : "Herbs",
+    "originalKey" : "different herbs",
+    "original_value" : "Herbs",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "food and drinks",
+    "wikipedia_title" : "Food and drink",
+    "originalKey" : "food and drinks",
+    "original_value" : "Food and drink",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "cosmetic and wellness products",
+    "wikipedia_title" : "Cosmetics",
+    "originalKey" : "cosmetic and wellness products",
+    "original_value" : "Cosmetics",
+    "Wikidata_ID" : "Q131207"
+  }, {
+    "entity_in_the_text" : "regional development",
+    "wikipedia_title" : "Regional development",
+    "originalKey" : "regional development",
+    "original_value" : "Regional development",
+    "Wikidata_ID" : "Q482379"
+  }, {
+    "entity_in_the_text" : "local gastronomy and hotels",
+    "wikipedia_title" : "Gastronomy",
+    "originalKey" : "local gastronomy and hotels",
+    "original_value" : "Gastronomy",
+    "Wikidata_ID" : "Q171141"
+  }, {
+    "entity_in_the_text" : "educational/touristic programmes",
+    "wikipedia_title" : "Education",
+    "originalKey" : "educational/touristic programmes",
+    "original_value" : "Education",
+    "Wikidata_ID" : "Q8434"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Genussregion",
+    "originalKey" : "Almenland",
+    "original_value" : "Genussregion",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "AgrarMarkt Austria",
+    "wikipedia_title" : "Agrarmarkt Austria",
+    "originalKey" : "AgrarMarkt Austria",
+    "original_value" : "Agrarmarkt Austria",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "nature park",
+    "wikipedia_title" : "Nature park",
+    "originalKey" : "nature park",
+    "original_value" : "Nature park",
+    "Wikidata_ID" : "Q728904"
+  }, {
+    "entity_in_the_text" : "herbs",
+    "wikipedia_title" : "Herbs",
+    "originalKey" : "herbs",
+    "original_value" : "Herbs",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "permanent grasslands",
+    "wikipedia_title" : "Permanent grasslands",
+    "originalKey" : "permanent grasslands",
+    "original_value" : "Permanent grasslands",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "climate change",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "entity_in_the_text" : "natural vegetation",
+    "wikipedia_title" : "Natural vegetation",
+    "originalKey" : "natural vegetation",
+    "original_value" : "Natural vegetation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "herbs",
+    "wikipedia_title" : "Herbs",
+    "originalKey" : "herbs",
+    "original_value" : "Herbs",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "irrigation",
+    "wikipedia_title" : "Irrigation",
+    "originalKey" : "irrigation",
+    "original_value" : "Irrigation",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "innovation",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "products",
+    "wikipedia_title" : "Products",
+    "originalKey" : "products",
+    "original_value" : "Products",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "herbs",
+    "wikipedia_title" : "Herbs",
+    "originalKey" : "herbs",
+    "original_value" : "Herbs",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tea",
+    "wikipedia_title" : "Tea",
+    "originalKey" : "tea",
+    "original_value" : "Tea",
+    "Wikidata_ID" : "Q6097"
+  }, {
+    "entity_in_the_text" : "herbal salt",
+    "wikipedia_title" : "Herbal salt",
+    "originalKey" : "herbal salt",
+    "original_value" : "Herbal salt",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "pure herbs",
+    "wikipedia_title" : "Pure herbs",
+    "originalKey" : "pure herbs",
+    "original_value" : "Pure herbs",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "spice mixes",
+    "wikipedia_title" : "Spice mixes",
+    "originalKey" : "spice mixes",
+    "original_value" : "Spice mixes",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "liquor",
+    "wikipedia_title" : "Liquor",
+    "originalKey" : "liquor",
+    "original_value" : "Liquor",
+    "Wikidata_ID" : "Q56139"
+  }, {
+    "entity_in_the_text" : "syrups",
+    "wikipedia_title" : "Syrups",
+    "originalKey" : "syrups",
+    "original_value" : "Syrups",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "sweets",
+    "wikipedia_title" : "Sweets",
+    "originalKey" : "sweets",
+    "original_value" : "Sweets",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "birch sugar",
+    "wikipedia_title" : "Birch sugar",
+    "originalKey" : "birch sugar",
+    "original_value" : "Birch sugar",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "soaps",
+    "wikipedia_title" : "Soaps",
+    "originalKey" : "soaps",
+    "original_value" : "Soaps",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "creams",
+    "wikipedia_title" : "Creams",
+    "originalKey" : "creams",
+    "original_value" : "Creams",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "incense materials",
+    "wikipedia_title" : "Incense materials",
+    "originalKey" : "incense materials",
+    "original_value" : "Incense materials",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : "New products",
+    "originalKey" : "New products",
+    "original_value" : "New products",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New processes",
+    "wikipedia_title" : "New processes",
+    "originalKey" : "New processes",
+    "original_value" : "New processes",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "New marketing strategies",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "New marketing strategies",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "land use systems",
+    "wikipedia_title" : "Land use systems",
+    "originalKey" : "land use systems",
+    "original_value" : "Land use systems",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Natural land",
+    "originalKey" : "Natural land",
+    "original_value" : "Natural land",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "local assets",
+    "wikipedia_title" : "Local assets",
+    "originalKey" : "local assets",
+    "original_value" : "Local assets",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural assets",
+    "wikipedia_title" : "Natural assets",
+    "originalKey" : "Natural assets",
+    "original_value" : "Natural assets",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "cultural assets",
+    "wikipedia_title" : "Cultural assets",
+    "originalKey" : "cultural assets",
+    "original_value" : "Cultural assets",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Austrian mountainous regions",
+    "wikipedia_title" : "Austrian Alps",
+    "originalKey" : "Austrian mountainous regions",
+    "original_value" : "Austrian Alps",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "herbs",
+    "wikipedia_title" : "Herbs",
+    "originalKey" : "herbs",
+    "original_value" : "Herbs",
+    "Wikidata_ID" : ""
+  } ]
+} ]

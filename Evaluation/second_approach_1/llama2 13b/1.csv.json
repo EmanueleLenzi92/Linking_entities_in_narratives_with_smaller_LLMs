@@ -1,0 +1,329 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "ALMO",
+    "wikipedia_title" : "Almo Steirisches Almochsenfleisch",
+    "originalKey" : "ALMO",
+    "original_value" : "Almo Steirisches Almochsenfleisch",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Austria",
+    "wikipedia_title" : "Austria",
+    "originalKey" : "Austria",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  }, {
+    "entity_in_the_text" : "ÖPUL",
+    "wikipedia_title" : "ÖPUL",
+    "originalKey" : "ÖPUL",
+    "original_value" : "ÖPUL",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Genussregion Almenland",
+    "wikipedia_title" : "Genussregion Almenland",
+    "originalKey" : "Genussregion Almenland",
+    "original_value" : "Genussregion Almenland",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "RR 11",
+    "wikipedia_title" : "Austrian Alps",
+    "originalKey" : "RR 11",
+    "original_value" : "Austrian Alps",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Weiz",
+    "wikipedia_title" : "Weiz",
+    "originalKey" : "Weiz",
+    "original_value" : "Weiz",
+    "Wikidata_ID" : "Q875641"
+  }, {
+    "entity_in_the_text" : "Almenland",
+    "wikipedia_title" : "Styrian alpine pasture region",
+    "originalKey" : "Almenland",
+    "original_value" : "Styrian alpine pasture region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "square kilometer",
+    "originalKey" : "km2",
+    "original_value" : "square kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "thousand",
+    "wikipedia_title" : "thousand",
+    "originalKey" : "thousand",
+    "original_value" : "thousand",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "inhabitants/km2",
+    "wikipedia_title" : "population density",
+    "originalKey" : "inhabitants/km2",
+    "original_value" : "population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "last 10 years",
+    "wikipedia_title" : "decade",
+    "originalKey" : "last 10 years",
+    "original_value" : "decade",
+    "Wikidata_ID" : "Q39911"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous community",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous community",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Regional",
+    "originalKey" : "Region",
+    "original_value" : "Regional",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed places",
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holdings",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holdings",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected areas",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected areas",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "total employment",
+    "wikipedia_title" : "Employment",
+    "originalKey" : "total employment",
+    "original_value" : "Employment",
+    "Wikidata_ID" : "Q656365"
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "ALMO",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "ALMO",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LEADER-region",
+    "wikipedia_title" : "Leader (European Union agriculture and rural development policy)",
+    "originalKey" : "LEADER-region",
+    "original_value" : "Leader (European Union agriculture and rural development policy)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Energieregion Weiz-Gleisdorf",
+    "wikipedia_title" : "Weiz-Gleisdorf",
+    "originalKey" : "Energieregion Weiz-Gleisdorf",
+    "original_value" : "Weiz-Gleisdorf",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Austrian animal welfare NGO",
+    "wikipedia_title" : "Animal welfare",
+    "originalKey" : "Austrian animal welfare NGO",
+    "original_value" : "Animal welfare",
+    "Wikidata_ID" : "Q459426"
+  }, {
+    "entity_in_the_text" : "veterinaries",
+    "wikipedia_title" : "Veterinary",
+    "originalKey" : "veterinaries",
+    "original_value" : "Veterinary",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "butchers",
+    "wikipedia_title" : "Butcher",
+    "originalKey" : "butchers",
+    "original_value" : "Butcher",
+    "Wikidata_ID" : "Q329737"
+  }, {
+    "entity_in_the_text" : "retailers",
+    "wikipedia_title" : "Retail",
+    "originalKey" : "retailers",
+    "original_value" : "Retail",
+    "Wikidata_ID" : "Q126793"
+  }, {
+    "entity_in_the_text" : "tourism",
+    "wikipedia_title" : "Tourism",
+    "originalKey" : "tourism",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "entity_in_the_text" : "regional development agency",
+    "wikipedia_title" : "Regional development",
+    "originalKey" : "regional development agency",
+    "original_value" : "Regional development",
+    "Wikidata_ID" : "Q482379"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "own regional slaughter house",
+    "wikipedia_title" : "Regional meat processing",
+    "originalKey" : "own regional slaughter house",
+    "original_value" : "Regional meat processing",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "sheep farmers",
+    "wikipedia_title" : "Sheep farming",
+    "originalKey" : "sheep farmers",
+    "original_value" : "Sheep farming",
+    "Wikidata_ID" : "Q1790941"
+  }, {
+    "entity_in_the_text" : "free range pig farmers",
+    "wikipedia_title" : "Pig farming",
+    "originalKey" : "free range pig farmers",
+    "original_value" : "Pig farming",
+    "Wikidata_ID" : "Q478672"
+  }, {
+    "entity_in_the_text" : "local butcher",
+    "wikipedia_title" : "Butcher",
+    "originalKey" : "local butcher",
+    "original_value" : "Butcher",
+    "Wikidata_ID" : "Q329737"
+  }, {
+    "entity_in_the_text" : "ALMO",
+    "wikipedia_title" : "Assured Label of Origin",
+    "originalKey" : "ALMO",
+    "original_value" : "Assured Label of Origin",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional development",
+    "wikipedia_title" : "Regional development",
+    "originalKey" : "regional development",
+    "original_value" : "Regional development",
+    "Wikidata_ID" : "Q482379"
+  }, {
+    "entity_in_the_text" : "hiking tourism",
+    "wikipedia_title" : "Hiking",
+    "originalKey" : "hiking tourism",
+    "original_value" : "Hiking",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "pasture farming",
+    "wikipedia_title" : "Pasture-based farming",
+    "originalKey" : "pasture farming",
+    "original_value" : "Pasture-based farming",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "climate",
+    "wikipedia_title" : "Climate",
+    "originalKey" : "climate",
+    "original_value" : "Climate",
+    "Wikidata_ID" : "Q7937"
+  }, {
+    "entity_in_the_text" : "extreme weather conditions",
+    "wikipedia_title" : "Extreme weather",
+    "originalKey" : "extreme weather conditions",
+    "original_value" : "Extreme weather",
+    "Wikidata_ID" : "Q1277161"
+  }, {
+    "entity_in_the_text" : "feedbase",
+    "wikipedia_title" : "Animal feed",
+    "originalKey" : "feedbase",
+    "original_value" : "Animal feed",
+    "Wikidata_ID" : "Q2836947"
+  }, {
+    "entity_in_the_text" : "pasture",
+    "wikipedia_title" : "Pasture",
+    "originalKey" : "pasture",
+    "original_value" : "Pasture",
+    "Wikidata_ID" : "Q30121"
+  }, {
+    "entity_in_the_text" : "ALMO producers",
+    "wikipedia_title" : " Agricultural Livestock and Meat Office",
+    "originalKey" : "ALMO producers",
+    "original_value" : " Agricultural Livestock and Meat Office",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "women led farms",
+    "wikipedia_title" : "Women in agriculture",
+    "originalKey" : "women led farms",
+    "original_value" : "Women in agriculture",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "ALMO",
+    "wikipedia_title" : "Almenland",
+    "originalKey" : "ALMO",
+    "original_value" : "Almenland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LEADER",
+    "wikipedia_title" : "Leader (European Union)",
+    "originalKey" : "LEADER",
+    "original_value" : "Leader (European Union)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "System Haberl",
+    "wikipedia_title" : "Haberland",
+    "originalKey" : "System Haberl",
+    "original_value" : "Haberland",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Lower Austria",
+    "wikipedia_title" : "Lower Austria",
+    "originalKey" : "Lower Austria",
+    "original_value" : "Lower Austria",
+    "Wikidata_ID" : "Q42497"
+  }, {
+    "entity_in_the_text" : "Carinthia",
+    "wikipedia_title" : "Carinthia",
+    "originalKey" : "Carinthia",
+    "original_value" : "Carinthia",
+    "Wikidata_ID" : "Q37985"
+  } ]
+} ]

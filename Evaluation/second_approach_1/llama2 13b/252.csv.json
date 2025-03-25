@@ -1,0 +1,329 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SCOTLAND HUTTON",
+    "wikipedia_title" : "Scotland",
+    "originalKey" : "SCOTLAND HUTTON",
+    "original_value" : "Scotland",
+    "Wikidata_ID" : "Q22"
+  }, {
+    "entity_in_the_text" : "Highlands and Islands of Scotland",
+    "wikipedia_title" : "Highlands and Islands",
+    "originalKey" : "Highlands and Islands of Scotland",
+    "original_value" : "Highlands and Islands",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Perth and Kinross",
+    "wikipedia_title" : "Perth and Kinross",
+    "originalKey" : "Perth and Kinross",
+    "original_value" : "Perth and Kinross",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Blair Atholl Estates",
+    "wikipedia_title" : "Blair Atholl",
+    "originalKey" : "Blair Atholl Estates",
+    "original_value" : "Blair Atholl",
+    "Wikidata_ID" : "Q881156"
+  }, {
+    "entity_in_the_text" : "Glen Lyon",
+    "wikipedia_title" : "Glen Lyon",
+    "originalKey" : "Glen Lyon",
+    "original_value" : "Glen Lyon",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "NUT3 region",
+    "wikipedia_title" : "NUTS 3",
+    "originalKey" : "NUT3 region",
+    "original_value" : "NUTS 3",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Highlands and Islands",
+    "wikipedia_title" : "Highlands and Islands",
+    "originalKey" : "Highlands and Islands",
+    "original_value" : "Highlands and Islands",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Eastern Scotland",
+    "wikipedia_title" : "Eastern Scotland",
+    "originalKey" : "Eastern Scotland",
+    "original_value" : "Eastern Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Perth and Kinross",
+    "wikipedia_title" : "Perth and Kinross",
+    "originalKey" : "Perth and Kinross",
+    "original_value" : "Perth and Kinross",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "The size of the area (km2)",
+    "wikipedia_title" : "Area",
+    "originalKey" : "The size of the area (km2)",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Local Administrative Unit",
+    "wikipedia_title" : "LAU",
+    "originalKey" : "Local Administrative Unit",
+    "original_value" : "LAU",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density (Inhabitants/km2)",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "population density (Inhabitants/km2)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "regional population density (Inhabitants/km2)",
+    "wikipedia_title" : "Regional population density",
+    "originalKey" : "regional population density (Inhabitants/km2)",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population change rate (%)",
+    "wikipedia_title" : "Population change rate",
+    "originalKey" : "population change rate (%)",
+    "original_value" : "Population change rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous communities of Spain",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous communities of Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Regional",
+    "originalKey" : "Region",
+    "original_value" : "Regional",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed places",
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holdings",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holdings",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected areas",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected areas",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "total employment",
+    "wikipedia_title" : "Employment",
+    "originalKey" : "total employment",
+    "original_value" : "Employment",
+    "Wikidata_ID" : "Q656365"
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "deer stalking",
+    "wikipedia_title" : "Deer stalking",
+    "originalKey" : "deer stalking",
+    "original_value" : "Deer stalking",
+    "Wikidata_ID" : "Q16249440"
+  }, {
+    "entity_in_the_text" : "Scottish Quality Wild Venison",
+    "wikipedia_title" : "Scottish Quality Wild Venison",
+    "originalKey" : "Scottish Quality Wild Venison",
+    "original_value" : "Scottish Quality Wild Venison",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Atholl estate",
+    "wikipedia_title" : "Atholl Estates",
+    "originalKey" : "Atholl estate",
+    "original_value" : "Atholl Estates",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Blair Atholl",
+    "wikipedia_title" : "Blair Atholl",
+    "originalKey" : "Blair Atholl",
+    "original_value" : "Blair Atholl",
+    "Wikidata_ID" : "Q881156"
+  }, {
+    "entity_in_the_text" : "Glen Lyon estate",
+    "wikipedia_title" : "Glen Lyon Estate",
+    "originalKey" : "Glen Lyon estate",
+    "original_value" : "Glen Lyon Estate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "deer",
+    "wikipedia_title" : "Red deer",
+    "originalKey" : "deer",
+    "original_value" : "Red deer",
+    "Wikidata_ID" : "Q79794"
+  }, {
+    "entity_in_the_text" : "grouse",
+    "wikipedia_title" : "Grouse",
+    "originalKey" : "grouse",
+    "original_value" : "Grouse",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "local communities",
+    "wikipedia_title" : "Community",
+    "originalKey" : "local communities",
+    "original_value" : "Community",
+    "Wikidata_ID" : "Q177634"
+  }, {
+    "entity_in_the_text" : "hikers",
+    "wikipedia_title" : "Hiking",
+    "originalKey" : "hikers",
+    "original_value" : "Hiking",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "wildlife conservation organisations",
+    "wikipedia_title" : "Wildlife conservation",
+    "originalKey" : "wildlife conservation organisations",
+    "original_value" : "Wildlife conservation",
+    "Wikidata_ID" : "Q766328"
+  }, {
+    "entity_in_the_text" : "ponies",
+    "wikipedia_title" : "Pony",
+    "originalKey" : "ponies",
+    "original_value" : "Pony",
+    "Wikidata_ID" : "Q188828"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "sheep",
+    "wikipedia_title" : "Sheep",
+    "originalKey" : "sheep",
+    "original_value" : "Sheep",
+    "Wikidata_ID" : "Q7368"
+  }, {
+    "entity_in_the_text" : "mountain hares",
+    "wikipedia_title" : "Mountain hare",
+    "originalKey" : "mountain hares",
+    "original_value" : "Mountain hare",
+    "Wikidata_ID" : "Q180035"
+  }, {
+    "entity_in_the_text" : "gorse",
+    "wikipedia_title" : "Gorse",
+    "originalKey" : "gorse",
+    "original_value" : "Gorse",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "raptors",
+    "wikipedia_title" : "Raptor",
+    "originalKey" : "raptors",
+    "original_value" : "Raptor",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "venison",
+    "wikipedia_title" : "Venison",
+    "originalKey" : "venison",
+    "original_value" : "Venison",
+    "Wikidata_ID" : "Q2296872"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "drones",
+    "wikipedia_title" : "Unmanned aerial vehicle",
+    "originalKey" : "drones",
+    "original_value" : "Unmanned aerial vehicle",
+    "Wikidata_ID" : "Q484000"
+  }, {
+    "entity_in_the_text" : "camera traps",
+    "wikipedia_title" : "Camera trap",
+    "originalKey" : "camera traps",
+    "original_value" : "Camera trap",
+    "Wikidata_ID" : "Q1723004"
+  }, {
+    "entity_in_the_text" : "GPS collars",
+    "wikipedia_title" : "Global Positioning System",
+    "originalKey" : "GPS collars",
+    "original_value" : "Global Positioning System",
+    "Wikidata_ID" : "Q18822"
+  }, {
+    "entity_in_the_text" : "thermal imaging",
+    "wikipedia_title" : "Thermal imaging",
+    "originalKey" : "thermal imaging",
+    "original_value" : "Thermal imaging",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Aberdeenshire",
+    "wikipedia_title" : "Aberdeenshire",
+    "originalKey" : "Aberdeenshire",
+    "original_value" : "Aberdeenshire",
+    "Wikidata_ID" : "Q189912"
+  }, {
+    "entity_in_the_text" : "Badendoch",
+    "wikipedia_title" : "Badendoch",
+    "originalKey" : "Badendoch",
+    "original_value" : "Badendoch",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Strathsphey",
+    "wikipedia_title" : "Strathsphey",
+    "originalKey" : "Strathsphey",
+    "original_value" : "Strathsphey",
+    "Wikidata_ID" : ""
+  } ]
+} ]

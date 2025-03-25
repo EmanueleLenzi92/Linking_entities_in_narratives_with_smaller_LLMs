@@ -1,0 +1,413 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "GREECE",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "GREECE",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "Aloe vera",
+    "wikipedia_title" : "Aloe vera",
+    "originalKey" : "Aloe vera",
+    "original_value" : "Aloe vera",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cretan Diet Festival",
+    "wikipedia_title" : "Cretan Diet Festival",
+    "originalKey" : "Cretan Diet Festival",
+    "original_value" : "Cretan Diet Festival",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Pancretan Network of Organic Farmers of Aloe Vera",
+    "wikipedia_title" : "Pancretan Network of Organic Farmers of Aloe Vera",
+    "originalKey" : "Pancretan Network of Organic Farmers of Aloe Vera",
+    "original_value" : "Pancretan Network of Organic Farmers of Aloe Vera",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Dikti Mountains",
+    "wikipedia_title" : "Dikti Mountains",
+    "originalKey" : "Dikti Mountains",
+    "original_value" : "Dikti Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Viannos",
+    "wikipedia_title" : "Viannos",
+    "originalKey" : "Viannos",
+    "original_value" : "Viannos",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Pinus brutia",
+    "wikipedia_title" : "Pinus brutia",
+    "originalKey" : "Pinus brutia",
+    "original_value" : "Pinus brutia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Quercus coccifera",
+    "wikipedia_title" : "Quercus coccifera",
+    "originalKey" : "Quercus coccifera",
+    "original_value" : "Quercus coccifera",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cupressus sempervirens",
+    "wikipedia_title" : "Cupressus sempervirens",
+    "originalKey" : "Cupressus sempervirens",
+    "original_value" : "Cupressus sempervirens",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Quercus ilex",
+    "wikipedia_title" : "Quercus ilex",
+    "originalKey" : "Quercus ilex",
+    "original_value" : "Quercus ilex",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Acer sempervirens",
+    "wikipedia_title" : "Acer sempervirens",
+    "originalKey" : "Acer sempervirens",
+    "original_value" : "Acer sempervirens",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "entity_in_the_text" : "thousand",
+    "wikipedia_title" : "thousand",
+    "originalKey" : "thousand",
+    "original_value" : "thousand",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "inhabitants/km2",
+    "wikipedia_title" : "population density",
+    "originalKey" : "inhabitants/km2",
+    "original_value" : "population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "last 10 years",
+    "wikipedia_title" : "decade",
+    "originalKey" : "last 10 years",
+    "original_value" : "decade",
+    "Wikidata_ID" : "Q39911"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous communities of Spain",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous communities of Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed places",
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "total employment",
+    "wikipedia_title" : "Employment",
+    "originalKey" : "total employment",
+    "original_value" : "Employment",
+    "Wikidata_ID" : "Q656365"
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Aloe vera",
+    "wikipedia_title" : "Aloe vera",
+    "originalKey" : "Aloe vera",
+    "original_value" : "Aloe vera",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Dikti mountain landscape",
+    "wikipedia_title" : "Dikti Mountains",
+    "originalKey" : "Dikti mountain landscape",
+    "original_value" : "Dikti Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "Greece",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "Greece",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "Viannos",
+    "wikipedia_title" : "Viannos",
+    "originalKey" : "Viannos",
+    "original_value" : "Viannos",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Minoan Land",
+    "wikipedia_title" : "Minoan Civilization",
+    "originalKey" : "Minoan Land",
+    "original_value" : "Minoan Civilization",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Aloe Vera",
+    "wikipedia_title" : "Aloe vera",
+    "originalKey" : "Aloe Vera",
+    "original_value" : "Aloe vera",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Dikti Mountain",
+    "wikipedia_title" : "Dikti Mountains",
+    "originalKey" : "Dikti Mountain",
+    "original_value" : "Dikti Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "food/cosmetic industries",
+    "wikipedia_title" : "Cosmetics",
+    "originalKey" : "food/cosmetic industries",
+    "original_value" : "Cosmetics",
+    "Wikidata_ID" : "Q131207"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Dikti",
+    "wikipedia_title" : "Dikti Mountains",
+    "originalKey" : "Dikti",
+    "original_value" : "Dikti Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Viannos",
+    "wikipedia_title" : "Viannos",
+    "originalKey" : "Viannos",
+    "original_value" : "Viannos",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Aloe Vera",
+    "wikipedia_title" : "Aloe vera",
+    "originalKey" : "Aloe Vera",
+    "original_value" : "Aloe vera",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Aloe Vera",
+    "wikipedia_title" : "Aloe vera",
+    "originalKey" : "Aloe Vera",
+    "original_value" : "Aloe vera",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Dikti region",
+    "wikipedia_title" : "Dikti",
+    "originalKey" : "Dikti region",
+    "original_value" : "Dikti",
+    "Wikidata_ID" : "Q1225372"
+  }, {
+    "entity_in_the_text" : "Minoan Land",
+    "wikipedia_title" : "Minoan Land",
+    "originalKey" : "Minoan Land",
+    "original_value" : "Minoan Land",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "organic farming",
+    "wikipedia_title" : "Organic farming",
+    "originalKey" : "organic farming",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "contract farming",
+    "wikipedia_title" : "Contract farming",
+    "originalKey" : "contract farming",
+    "original_value" : "Contract farming",
+    "Wikidata_ID" : "Q5165669"
+  }, {
+    "entity_in_the_text" : "green economy",
+    "wikipedia_title" : "Green economy",
+    "originalKey" : "green economy",
+    "original_value" : "Green economy",
+    "Wikidata_ID" : "Q598188"
+  }, {
+    "entity_in_the_text" : "raw material",
+    "wikipedia_title" : "Raw material",
+    "originalKey" : "raw material",
+    "original_value" : "Raw material",
+    "Wikidata_ID" : "Q192355"
+  }, {
+    "entity_in_the_text" : "juices",
+    "wikipedia_title" : "Juice",
+    "originalKey" : "juices",
+    "original_value" : "Juice",
+    "Wikidata_ID" : "Q8492"
+  }, {
+    "entity_in_the_text" : "foods",
+    "wikipedia_title" : "Food",
+    "originalKey" : "foods",
+    "original_value" : "Food",
+    "Wikidata_ID" : "Q2095"
+  }, {
+    "entity_in_the_text" : "gels",
+    "wikipedia_title" : "Gel",
+    "originalKey" : "gels",
+    "original_value" : "Gel",
+    "Wikidata_ID" : "Q185744"
+  }, {
+    "entity_in_the_text" : "cosmetics",
+    "wikipedia_title" : "Cosmetics",
+    "originalKey" : "cosmetics",
+    "original_value" : "Cosmetics",
+    "Wikidata_ID" : "Q131207"
+  }, {
+    "entity_in_the_text" : "natural fertilizers",
+    "wikipedia_title" : "Natural fertilizer",
+    "originalKey" : "natural fertilizers",
+    "original_value" : "Natural fertilizer",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "medical conditions",
+    "wikipedia_title" : "Medical condition",
+    "originalKey" : "medical conditions",
+    "original_value" : "Medical condition",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "diet",
+    "wikipedia_title" : "Diet",
+    "originalKey" : "diet",
+    "original_value" : "Diet",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : "New product",
+    "originalKey" : "New products",
+    "original_value" : "New product",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New processes",
+    "wikipedia_title" : "New process",
+    "originalKey" : "New processes",
+    "original_value" : "New process",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "New marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "New marketing strategy",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Cropland",
+    "wikipedia_title" : "Cropland",
+    "originalKey" : "Cropland",
+    "original_value" : "Cropland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Natural land",
+    "originalKey" : "Natural land",
+    "original_value" : "Natural land",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Aloe Vera",
+    "wikipedia_title" : "Aloe vera",
+    "originalKey" : "Aloe Vera",
+    "original_value" : "Aloe vera",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Andalusia",
+    "wikipedia_title" : "Andalusia",
+    "originalKey" : "Andalusia",
+    "original_value" : "Andalusia",
+    "Wikidata_ID" : "Q5783"
+  }, {
+    "entity_in_the_text" : "Spain",
+    "wikipedia_title" : "Spain",
+    "originalKey" : "Spain",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  }, {
+    "entity_in_the_text" : "European consumers",
+    "wikipedia_title" : "Consumers in Europe",
+    "originalKey" : "European consumers",
+    "original_value" : "Consumers in Europe",
+    "Wikidata_ID" : ""
+  } ]
+} ]

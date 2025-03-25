@@ -1,0 +1,125 @@
+[
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "alps",
+                "original_value": "Alps",
+                "Wikidata_ID": "Q1286"
+            },
+            {
+                "originalKey": "produced",
+                "original_value": "Manufacturing",
+                "Wikidata_ID": "Q187939"
+            },
+            {
+                "originalKey": "farm",
+                "original_value": "Farm",
+                "Wikidata_ID": "Q131596"
+            },
+            {
+                "originalKey": "shops",
+                "original_value": "Retail",
+                "Wikidata_ID": "Q126793"
+            },
+            {
+                "originalKey": "online shops",
+                "original_value": "Online shopping",
+                "Wikidata_ID": "Q212930"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "income",
+                "original_value": "Gross domestic product",
+                "Wikidata_ID": "Q12638"
+            },
+            {
+                "originalKey": "Gross Value Added",
+                "original_value": "Gross value added",
+                "Wikidata_ID": "Q994873"
+            },
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "secondary",
+                "original_value": "Secondary sector of the economy",
+                "Wikidata_ID": "Q55639"
+            },
+            {
+                "originalKey": "tertiary sector",
+                "original_value": "Tertiary sector of the economy",
+                "Wikidata_ID": "Q55638"
+            }
+        ]
+    },
+    {
+        "entities": []
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "bees",
+                "original_value": "Bee",
+                "Wikidata_ID": "Q7391"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            }
+        ]
+    },
+    {
+        "entities": [
+            {
+                "originalKey": "innovation",
+                "original_value": "Innovation",
+                "Wikidata_ID": "Q174165"
+            },
+            {
+                "originalKey": "VC",
+                "original_value": "Victoria Cross",
+                "Wikidata_ID": "Q219578"
+            },
+            {
+                "originalKey": "land use",
+                "original_value": "Land use",
+                "Wikidata_ID": "Q1165944"
+            }
+        ]
+    }
+]

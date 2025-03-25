@@ -1,0 +1,295 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "MOVING",
+    "wikipedia_title" : "Moving (business)",
+    "originalKey" : "MOVING",
+    "original_value" : "Moving (business)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Alps",
+    "wikipedia_title" : "Alps",
+    "originalKey" : "Alps",
+    "original_value" : "Alps",
+    "Wikidata_ID" : "Q1286"
+  }, {
+    "entity_in_the_text" : "Switzerland",
+    "wikipedia_title" : "Switzerland",
+    "originalKey" : "Switzerland",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "entity_in_the_text" : "tourism industry",
+    "wikipedia_title" : "Tourism in Switzerland",
+    "originalKey" : "tourism industry",
+    "original_value" : "Tourism in Switzerland",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "reference mountain chain",
+    "wikipedia_title" : "Mountain range",
+    "originalKey" : "reference mountain chain",
+    "original_value" : "Mountain range",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "reference mountain landscape",
+    "wikipedia_title" : "Mountain landscape",
+    "originalKey" : "reference mountain landscape",
+    "original_value" : "Mountain landscape",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "size of the area",
+    "wikipedia_title" : "Area",
+    "originalKey" : "size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "altimetry of the LAU",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "altimetry of the LAU",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "entity_in_the_text" : "population of the LAU",
+    "wikipedia_title" : "Population",
+    "originalKey" : "population of the LAU",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density of the LAU",
+    "wikipedia_title" : "Density",
+    "originalKey" : "population density of the LAU",
+    "original_value" : "Density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population change rate of the LAU in the last 10 years",
+    "wikipedia_title" : "Population growth",
+    "originalKey" : "population change rate of the LAU in the last 10 years",
+    "original_value" : "Population growth",
+    "Wikidata_ID" : "Q386191"
+  }, {
+    "entity_in_the_text" : "overall regional population density",
+    "wikipedia_title" : "Regional population density",
+    "originalKey" : "overall regional population density",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional population change rate in the last 10 years",
+    "wikipedia_title" : "Regional population growth",
+    "originalKey" : "regional population change rate in the last 10 years",
+    "original_value" : "Regional population growth",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "average per capita income (EUR/year)",
+    "wikipedia_title" : "Average income",
+    "originalKey" : "average per capita income (EUR/year)",
+    "original_value" : "Average income",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Gross Value Added (GVA) (EUR million/year)",
+    "wikipedia_title" : "Gross value added",
+    "originalKey" : "Gross Value Added (GVA) (EUR million/year)",
+    "original_value" : "Gross value added",
+    "Wikidata_ID" : "Q994873"
+  }, {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Agriculture",
+    "originalKey" : "primary sector",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Manufacturing",
+    "originalKey" : "secondary sector",
+    "original_value" : "Manufacturing",
+    "Wikidata_ID" : "Q187939"
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "per capita income (EUR/year)",
+    "wikipedia_title" : "Personal income",
+    "originalKey" : "per capita income (EUR/year)",
+    "original_value" : "Personal income",
+    "Wikidata_ID" : "Q7170591"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Regional unit",
+    "originalKey" : "Region",
+    "original_value" : "Regional unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Farm",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Farm",
+    "Wikidata_ID" : "Q131596"
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Village",
+    "originalKey" : "settlement",
+    "original_value" : "Village",
+    "Wikidata_ID" : "Q532"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC-systems",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC-systems",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "Alps",
+    "wikipedia_title" : "Alps",
+    "originalKey" : "Alps",
+    "original_value" : "Alps",
+    "Wikidata_ID" : "Q1286"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "tourism",
+    "wikipedia_title" : "Tourism",
+    "originalKey" : "tourism",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "entity_in_the_text" : "climate change",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "entity_in_the_text" : "mountains",
+    "wikipedia_title" : "Mountain",
+    "originalKey" : "mountains",
+    "original_value" : "Mountain",
+    "Wikidata_ID" : "Q8502"
+  }, {
+    "entity_in_the_text" : "young people",
+    "wikipedia_title" : "Young people",
+    "originalKey" : "young people",
+    "original_value" : "Young people",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "revenue",
+    "wikipedia_title" : "Revenue",
+    "originalKey" : "revenue",
+    "original_value" : "Revenue",
+    "Wikidata_ID" : "Q850210"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "touristic attractions",
+    "wikipedia_title" : "Tourist attraction",
+    "originalKey" : "touristic attractions",
+    "original_value" : "Tourist attraction",
+    "Wikidata_ID" : "Q570116"
+  }, {
+    "entity_in_the_text" : "skiing",
+    "wikipedia_title" : "Skiing",
+    "originalKey" : "skiing",
+    "original_value" : "Skiing",
+    "Wikidata_ID" : "Q130949"
+  }, {
+    "entity_in_the_text" : "traditional",
+    "wikipedia_title" : "Tradition",
+    "originalKey" : "traditional",
+    "original_value" : "Tradition",
+    "Wikidata_ID" : "Q82821"
+  }, {
+    "entity_in_the_text" : "innovative",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "innovative",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "mixed",
+    "wikipedia_title" : "Mixed (business model)",
+    "originalKey" : "mixed",
+    "original_value" : "Mixed (business model)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : "New product",
+    "originalKey" : "New products",
+    "original_value" : "New product",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New processes",
+    "wikipedia_title" : "New process",
+    "originalKey" : "New processes",
+    "original_value" : "New process",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "New governance systems",
+    "wikipedia_title" : "Governance",
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance",
+    "Wikidata_ID" : "Q1553864"
+  } ]
+} ]

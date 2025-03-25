@@ -1,0 +1,323 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "GREECE",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "GREECE",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "pefkothymaromelo",
+    "wikipedia_title" : "Pefkothymaromelo",
+    "originalKey" : "pefkothymaromelo",
+    "original_value" : "Pefkothymaromelo",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "Region of Crete",
+    "wikipedia_title" : "Region of Crete",
+    "originalKey" : "Region of Crete",
+    "original_value" : "Region of Crete",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "White Mountains",
+    "wikipedia_title" : "White Mountains (Crete)",
+    "originalKey" : "White Mountains",
+    "original_value" : "White Mountains (Crete)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "KISSAMOS",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "KISSAMOS",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "The size of the area",
+    "wikipedia_title" : "Area",
+    "originalKey" : "The size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometer",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "thousand",
+    "wikipedia_title" : "Thousand",
+    "originalKey" : "thousand",
+    "original_value" : "Thousand",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Inhabitants/km2",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "Inhabitants/km2",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "0.02%",
+    "wikipedia_title" : "Percentage",
+    "originalKey" : "0.02%",
+    "original_value" : "Percentage",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous community",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous community",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed places",
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces and territories of Canada",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces and territories of Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "List of regions of Canada",
+    "originalKey" : "Region",
+    "original_value" : "List of regions of Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Apicature",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "Apicature",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "PDO",
+    "wikipedia_title" : "Protected designation of origin",
+    "originalKey" : "PDO",
+    "original_value" : "Protected designation of origin",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Pefkothimaromelo",
+    "wikipedia_title" : "Cretan honey",
+    "originalKey" : "Pefkothimaromelo",
+    "original_value" : "Cretan honey",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "thyme honey",
+    "wikipedia_title" : "Thyme",
+    "originalKey" : "thyme honey",
+    "original_value" : "Thyme",
+    "Wikidata_ID" : "Q3215980"
+  }, {
+    "entity_in_the_text" : "Cretan plants",
+    "wikipedia_title" : "Flora of Crete",
+    "originalKey" : "Cretan plants",
+    "original_value" : "Flora of Crete",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "individual beekeepers",
+    "wikipedia_title" : "Beekeeper",
+    "originalKey" : "individual beekeepers",
+    "original_value" : "Beekeeper",
+    "Wikidata_ID" : "Q852389"
+  }, {
+    "entity_in_the_text" : "small companies",
+    "wikipedia_title" : "Small business",
+    "originalKey" : "small companies",
+    "original_value" : "Small business",
+    "Wikidata_ID" : "Q1109680"
+  }, {
+    "entity_in_the_text" : "tourist sector",
+    "wikipedia_title" : "Tourism",
+    "originalKey" : "tourist sector",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Topolia",
+    "wikipedia_title" : "Topolia",
+    "originalKey" : "Topolia",
+    "original_value" : "Topolia",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kissamos",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "Kissamos",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "entity_in_the_text" : "Minoan Civilization",
+    "wikipedia_title" : "Minoan civilization",
+    "originalKey" : "Minoan Civilization",
+    "original_value" : "Minoan civilization",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "climate change",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "entity_in_the_text" : "heat waves",
+    "wikipedia_title" : "Heat wave",
+    "originalKey" : "heat waves",
+    "original_value" : "Heat wave",
+    "Wikidata_ID" : "Q215864"
+  }, {
+    "entity_in_the_text" : "pesticides",
+    "wikipedia_title" : "Pesticide",
+    "originalKey" : "pesticides",
+    "original_value" : "Pesticide",
+    "Wikidata_ID" : "Q131656"
+  }, {
+    "entity_in_the_text" : "honey",
+    "wikipedia_title" : "Honey",
+    "originalKey" : "honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "entity_in_the_text" : "Pefkothymaromelo",
+    "wikipedia_title" : "Pefkothymaromelo",
+    "originalKey" : "Pefkothymaromelo",
+    "original_value" : "Pefkothymaromelo",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "pefkothymaromelo",
+    "wikipedia_title" : "PDO",
+    "originalKey" : "pefkothymaromelo",
+    "original_value" : "PDO",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kissamos",
+    "wikipedia_title" : "Kissamos",
+    "originalKey" : "Kissamos",
+    "original_value" : "Kissamos",
+    "Wikidata_ID" : "Q1021629"
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Natural land",
+    "originalKey" : "Natural land",
+    "original_value" : "Natural land",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : "New product development",
+    "originalKey" : "New products",
+    "original_value" : "New product development",
+    "Wikidata_ID" : "Q1395034"
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "New governance systems",
+    "wikipedia_title" : "Governance",
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance",
+    "Wikidata_ID" : "Q1553864"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Peyfothymaromelo",
+    "wikipedia_title" : "Peyfothymaromelo",
+    "originalKey" : "Peyfothymaromelo",
+    "original_value" : "Peyfothymaromelo",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Crete",
+    "wikipedia_title" : "Crete",
+    "originalKey" : "Crete",
+    "original_value" : "Crete",
+    "Wikidata_ID" : "Q34374"
+  }, {
+    "entity_in_the_text" : "EU katalog (eAmbrosia)",
+    "wikipedia_title" : "European Union catalogue of protected designations of origin and geographical indications",
+    "originalKey" : "EU katalog (eAmbrosia)",
+    "original_value" : "European Union catalogue of protected designations of origin and geographical indications",
+    "Wikidata_ID" : ""
+  } ]
+} ]

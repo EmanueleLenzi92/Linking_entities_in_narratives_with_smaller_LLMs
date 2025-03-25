@@ -1,0 +1,265 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "Switzerland",
+    "wikipedia_title" : "Switzerland",
+    "originalKey" : "Switzerland",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "entity_in_the_text" : "Engadiner",
+    "wikipedia_title" : "Engadine (sheep)",
+    "originalKey" : "Engadiner",
+    "original_value" : "Engadine (sheep)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Spiegelschaf",
+    "wikipedia_title" : "Spiegelschafe",
+    "originalKey" : "Spiegelschaf",
+    "original_value" : "Spiegelschafe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Nera Verzasca",
+    "wikipedia_title" : "Verzasca (goat)",
+    "originalKey" : "Nera Verzasca",
+    "original_value" : "Verzasca (goat)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Capra Grigia",
+    "wikipedia_title" : "Grigia (goat)",
+    "originalKey" : "Capra Grigia",
+    "original_value" : "Grigia (goat)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Black Alpine Pig",
+    "wikipedia_title" : "Black Alpine pig",
+    "originalKey" : "Black Alpine Pig",
+    "original_value" : "Black Alpine pig",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "mountain chain",
+    "wikipedia_title" : "List of mountain ranges",
+    "originalKey" : "mountain chain",
+    "original_value" : "List of mountain ranges",
+    "Wikidata_ID" : "Q1156053"
+  }, {
+    "entity_in_the_text" : "mountain landscape",
+    "wikipedia_title" : "Mountain landscape",
+    "originalKey" : "mountain landscape",
+    "original_value" : "Mountain landscape",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "The size of the area",
+    "wikipedia_title" : "Area",
+    "originalKey" : "The size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometer",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "minimum altimetry",
+    "wikipedia_title" : "Minimum altitude",
+    "originalKey" : "minimum altimetry",
+    "original_value" : "Minimum altitude",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "maximum altimetry",
+    "wikipedia_title" : "Maximum altitude",
+    "originalKey" : "maximum altimetry",
+    "original_value" : "Maximum altitude",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total population",
+    "wikipedia_title" : "Population",
+    "originalKey" : "total population",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density",
+    "wikipedia_title" : "Density",
+    "originalKey" : "population density",
+    "original_value" : "Density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "inhabitants/km2",
+    "wikipedia_title" : "Inhabitants per square kilometer",
+    "originalKey" : "inhabitants/km2",
+    "original_value" : "Inhabitants per square kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population change rate",
+    "wikipedia_title" : "Population growth rate",
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "last 10 years",
+    "wikipedia_title" : "Decade",
+    "originalKey" : "last 10 years",
+    "original_value" : "Decade",
+    "Wikidata_ID" : "Q39911"
+  }, {
+    "entity_in_the_text" : "overall regional population density",
+    "wikipedia_title" : "Regional population density",
+    "originalKey" : "overall regional population density",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional population change rate",
+    "wikipedia_title" : "Regional population growth rate",
+    "originalKey" : "regional population change rate",
+    "original_value" : "Regional population growth rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous communities of Spain",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous communities of Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed places",
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Regional",
+    "originalKey" : "Region",
+    "original_value" : "Regional",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holdings",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holdings",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km",
+    "wikipedia_title" : "Kilometre",
+    "originalKey" : "km",
+    "original_value" : "Kilometre",
+    "Wikidata_ID" : "Q828224"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces and territories of Canada",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces and territories of Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "List of regions of Canada",
+    "originalKey" : "Region",
+    "original_value" : "List of regions of Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "old traditional breeds",
+    "wikipedia_title" : "Heritage breed",
+    "originalKey" : "old traditional breeds",
+    "original_value" : "Heritage breed",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "local situation",
+    "wikipedia_title" : "Local food",
+    "originalKey" : "local situation",
+    "original_value" : "Local food",
+    "Wikidata_ID" : "Q2674120"
+  }, {
+    "entity_in_the_text" : "farmer led initiative",
+    "wikipedia_title" : "Community-supported agriculture",
+    "originalKey" : "farmer led initiative",
+    "original_value" : "Community-supported agriculture",
+    "Wikidata_ID" : "Q427249"
+  }, {
+    "entity_in_the_text" : "looking back to what used to work",
+    "wikipedia_title" : "Agroecology",
+    "originalKey" : "looking back to what used to work",
+    "original_value" : "Agroecology",
+    "Wikidata_ID" : "Q396338"
+  }, {
+    "entity_in_the_text" : "introducing it again",
+    "wikipedia_title" : "Agricultural innovation",
+    "originalKey" : "introducing it again",
+    "original_value" : "Agricultural innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "benefitting off the trend of localness being trendy",
+    "wikipedia_title" : "Local food movement",
+    "originalKey" : "benefitting off the trend of localness being trendy",
+    "original_value" : "Local food movement",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "veganism",
+    "wikipedia_title" : "Veganism",
+    "originalKey" : "veganism",
+    "original_value" : "Veganism",
+    "Wikidata_ID" : "Q181138"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "this VC",
+    "wikipedia_title" : "Value Chain",
+    "originalKey" : "this VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "old animal breeds",
+    "wikipedia_title" : "endangered species",
+    "originalKey" : "old animal breeds",
+    "original_value" : "endangered species",
+    "Wikidata_ID" : "Q11394"
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing",
+    "Wikidata_ID" : "Q39809"
+  }, {
+    "entity_in_the_text" : "Grassland",
+    "wikipedia_title" : "Land use",
+    "originalKey" : "Grassland",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "entity_in_the_text" : "Natural and cultural",
+    "wikipedia_title" : "Local assets",
+    "originalKey" : "Natural and cultural",
+    "original_value" : "Local assets",
+    "Wikidata_ID" : ""
+  } ]
+} ]

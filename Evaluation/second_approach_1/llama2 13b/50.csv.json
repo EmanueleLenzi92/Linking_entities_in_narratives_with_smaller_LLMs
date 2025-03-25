@@ -1,0 +1,257 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "CZECH REPUBLIC",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "CZECH REPUBLIC",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "Ostrava",
+    "wikipedia_title" : "Ostrava",
+    "originalKey" : "Ostrava",
+    "original_value" : "Ostrava",
+    "Wikidata_ID" : "Q8385"
+  }, {
+    "entity_in_the_text" : "Vallachian region",
+    "wikipedia_title" : "Valachian Region",
+    "originalKey" : "Vallachian region",
+    "original_value" : "Valachian Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Beskydy mountains",
+    "wikipedia_title" : "Beskydy Mountains",
+    "originalKey" : "Beskydy mountains",
+    "original_value" : "Beskydy Mountains",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Javorníky/Beskydy",
+    "wikipedia_title" : "Western Carpathian",
+    "originalKey" : "Javorníky/Beskydy",
+    "original_value" : "Western Carpathian",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Vsetín",
+    "wikipedia_title" : "LAU 1 Vsetín",
+    "originalKey" : "Vsetín",
+    "original_value" : "LAU 1 Vsetín",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Czech Republic",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czech Republic",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "Europe",
+    "wikipedia_title" : "Europe",
+    "originalKey" : "Europe",
+    "original_value" : "Europe",
+    "Wikidata_ID" : "Q46"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "entity_in_the_text" : "thousand",
+    "wikipedia_title" : "thousand",
+    "originalKey" : "thousand",
+    "original_value" : "thousand",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "inhabitants/km2",
+    "wikipedia_title" : "population density",
+    "originalKey" : "inhabitants/km2",
+    "original_value" : "population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "last 10 years",
+    "wikipedia_title" : "decade",
+    "originalKey" : "last 10 years",
+    "original_value" : "decade",
+    "Wikidata_ID" : "Q39911"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous communities of Spain",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous communities of Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed places",
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Valašský",
+    "wikipedia_title" : "Vallachians",
+    "originalKey" : "Valašský",
+    "original_value" : "Vallachians",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Beskydy",
+    "wikipedia_title" : "Beskydy Mountains",
+    "originalKey" : "Beskydy",
+    "original_value" : "Beskydy Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Czechia",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czechia",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Vallachian region",
+    "wikipedia_title" : "Wallachia",
+    "originalKey" : "Vallachian region",
+    "original_value" : "Wallachia",
+    "Wikidata_ID" : "Q171393"
+  }, {
+    "entity_in_the_text" : "dowe",
+    "wikipedia_title" : "Două",
+    "originalKey" : "dowe",
+    "original_value" : "Două",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Vallachian",
+    "wikipedia_title" : "Beskydy Mountains",
+    "originalKey" : "Vallachian",
+    "original_value" : "Beskydy Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "frgále",
+    "wikipedia_title" : "Fake products",
+    "originalKey" : "frgále",
+    "original_value" : "Fake products",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Czechia",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czechia",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "frgále",
+    "wikipedia_title" : "Spoiled cake",
+    "originalKey" : "frgále",
+    "original_value" : "Spoiled cake",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Vallachian",
+    "wikipedia_title" : "Vallachian dialect",
+    "originalKey" : "Vallachian",
+    "original_value" : "Vallachian dialect",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "pblum brandy",
+    "wikipedia_title" : "Pblum brandy",
+    "originalKey" : "pblum brandy",
+    "original_value" : "Pblum brandy",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Czechia",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czechia",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Václav Čtvrtlik",
+    "originalKey" : "VC",
+    "original_value" : "Václav Čtvrtlik",
+    "Wikidata_ID" : ""
+  } ]
+} ]

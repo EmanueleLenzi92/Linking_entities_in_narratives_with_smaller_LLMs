@@ -1,0 +1,461 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SPAIN ADEGUA",
+    "wikipedia_title" : "Spain",
+    "originalKey" : "SPAIN ADEGUA",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  }, {
+    "entity_in_the_text" : "VC 35 ES",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC 35 ES",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "ATADES Gardeniers Special Employment Center",
+    "wikipedia_title" : "AtadeS",
+    "originalKey" : "ATADES Gardeniers Special Employment Center",
+    "original_value" : "AtadeS",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Torres de Berrellén melon",
+    "wikipedia_title" : "Torres de Berrellén",
+    "originalKey" : "Torres de Berrellén melon",
+    "original_value" : "Torres de Berrellén",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "local varieties",
+    "wikipedia_title" : "Local variety",
+    "originalKey" : "local varieties",
+    "original_value" : "Local variety",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "borage flower",
+    "wikipedia_title" : "Borage",
+    "originalKey" : "borage flower",
+    "original_value" : "Borage",
+    "Wikidata_ID" : "Q147075"
+  }, {
+    "entity_in_the_text" : "Rural Development Program",
+    "wikipedia_title" : "Rural development",
+    "originalKey" : "Rural Development Program",
+    "original_value" : "Rural development",
+    "Wikidata_ID" : "Q3045473"
+  }, {
+    "entity_in_the_text" : "European Agricultural Fund for Rural Development (EAFRD)",
+    "wikipedia_title" : "European Agricultural Fund for Rural Development",
+    "originalKey" : "European Agricultural Fund for Rural Development (EAFRD)",
+    "original_value" : "European Agricultural Fund for Rural Development",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Pyrenees",
+    "wikipedia_title" : "Pyrenees",
+    "originalKey" : "Pyrenees",
+    "original_value" : "Pyrenees",
+    "Wikidata_ID" : "Q12431"
+  }, {
+    "entity_in_the_text" : "Jaca",
+    "wikipedia_title" : "Jaca",
+    "originalKey" : "Jaca",
+    "original_value" : "Jaca",
+    "Wikidata_ID" : "Q49581"
+  }, {
+    "entity_in_the_text" : "Ascara",
+    "wikipedia_title" : "Ascara",
+    "originalKey" : "Ascara",
+    "original_value" : "Ascara",
+    "Wikidata_ID" : "Q8206262"
+  }, {
+    "entity_in_the_text" : "Canal de Berdún",
+    "wikipedia_title" : "Canal de Berdún",
+    "originalKey" : "Canal de Berdún",
+    "original_value" : "Canal de Berdún",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Huesca",
+    "wikipedia_title" : "Huesca",
+    "originalKey" : "Huesca",
+    "original_value" : "Huesca",
+    "Wikidata_ID" : "Q11967"
+  }, {
+    "entity_in_the_text" : "Zaragoza",
+    "wikipedia_title" : "Zaragoza",
+    "originalKey" : "Zaragoza",
+    "original_value" : "Zaragoza",
+    "Wikidata_ID" : "Q10305"
+  }, {
+    "entity_in_the_text" : "boliche",
+    "wikipedia_title" : null,
+    "originalKey" : "boliche",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "chickpeas",
+    "wikipedia_title" : null,
+    "originalKey" : "chickpeas",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "lentils",
+    "wikipedia_title" : null,
+    "originalKey" : "lentils",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "honey",
+    "wikipedia_title" : null,
+    "originalKey" : "honey",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "melon",
+    "wikipedia_title" : null,
+    "originalKey" : "melon",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Torres de Berrellén",
+    "wikipedia_title" : null,
+    "originalKey" : "Torres de Berrellén",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Alagón",
+    "wikipedia_title" : null,
+    "originalKey" : "Alagón",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Montañana",
+    "wikipedia_title" : null,
+    "originalKey" : "Montañana",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Gardeniers farm",
+    "wikipedia_title" : null,
+    "originalKey" : "Gardeniers farm",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Sigpac",
+    "wikipedia_title" : null,
+    "originalKey" : "Sigpac",
+    "original_value" : "null",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "The size of the area",
+    "wikipedia_title" : "Area",
+    "originalKey" : "The size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometer",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "thousand",
+    "wikipedia_title" : "Thousand",
+    "originalKey" : "thousand",
+    "original_value" : "Thousand",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Inhabitants/km2",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "Inhabitants/km2",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "last 10 years",
+    "wikipedia_title" : "Decade",
+    "originalKey" : "last 10 years",
+    "original_value" : "Decade",
+    "Wikidata_ID" : "Q39911"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous community",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous community",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed Places",
+    "originalKey" : "BPs",
+    "original_value" : "Bed Places",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural Holdings",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural Holdings",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected Areas",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected Areas",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces and territories of Canada",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces and territories of Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "List of regions of Canada",
+    "originalKey" : "Region",
+    "original_value" : "List of regions of Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Cielos de Ascara",
+    "wikipedia_title" : "Cielos de Ascara",
+    "originalKey" : "Cielos de Ascara",
+    "original_value" : "Cielos de Ascara",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Aragonese Pyrenees",
+    "wikipedia_title" : "Aragonese Pyrenees",
+    "originalKey" : "Aragonese Pyrenees",
+    "original_value" : "Aragonese Pyrenees",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "organic food production",
+    "wikipedia_title" : "Organic farming",
+    "originalKey" : "organic food production",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "mountain and valley areas",
+    "wikipedia_title" : "Mountain and valley",
+    "originalKey" : "mountain and valley areas",
+    "original_value" : "Mountain and valley",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "public-private collaboration",
+    "wikipedia_title" : "Public-private partnership",
+    "originalKey" : "public-private collaboration",
+    "original_value" : "Public-private partnership",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "endogenous innovation project",
+    "wikipedia_title" : "Endogenous innovation",
+    "originalKey" : "endogenous innovation project",
+    "original_value" : "Endogenous innovation",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : []
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "sustainability",
+    "wikipedia_title" : "Sustainability",
+    "originalKey" : "sustainability",
+    "original_value" : "Sustainability",
+    "Wikidata_ID" : "Q219416"
+  }, {
+    "entity_in_the_text" : "triple economic, social, and ecological aspects",
+    "wikipedia_title" : "Triple Bottom Line",
+    "originalKey" : "triple economic, social, and ecological aspects",
+    "original_value" : "Triple Bottom Line",
+    "Wikidata_ID" : "Q1252862"
+  }, {
+    "entity_in_the_text" : "institutional and private actors",
+    "wikipedia_title" : "Public-private partnership",
+    "originalKey" : "institutional and private actors",
+    "original_value" : "Public-private partnership",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "effective interconnection between the different activities promoted by the project",
+    "wikipedia_title" : "Project management",
+    "originalKey" : "effective interconnection between the different activities promoted by the project",
+    "original_value" : "Project management",
+    "Wikidata_ID" : "Q179012"
+  }, {
+    "entity_in_the_text" : "rural development policies",
+    "wikipedia_title" : "Rural development",
+    "originalKey" : "rural development policies",
+    "original_value" : "Rural development",
+    "Wikidata_ID" : "Q3045473"
+  }, {
+    "entity_in_the_text" : "connection with urban consumption environments",
+    "wikipedia_title" : "Urbanization",
+    "originalKey" : "connection with urban consumption environments",
+    "original_value" : "Urbanization",
+    "Wikidata_ID" : "Q161078"
+  }, {
+    "entity_in_the_text" : "Current",
+    "wikipedia_title" : "Current",
+    "originalKey" : "Current",
+    "original_value" : "Current",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Innovative",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "Innovative",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "innovation",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "rural and mountain areas",
+    "wikipedia_title" : "Rural area",
+    "originalKey" : "rural and mountain areas",
+    "original_value" : "Rural area",
+    "Wikidata_ID" : "Q175185"
+  }, {
+    "entity_in_the_text" : "traditional varieties",
+    "wikipedia_title" : "Crop variety",
+    "originalKey" : "traditional varieties",
+    "original_value" : "Crop variety",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "organic production and consumption",
+    "wikipedia_title" : "Organic farming",
+    "originalKey" : "organic production and consumption",
+    "original_value" : "Organic farming",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "connect rural and urban areas",
+    "wikipedia_title" : "Rural-urban migration",
+    "originalKey" : "connect rural and urban areas",
+    "original_value" : "Rural-urban migration",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "generate employment",
+    "wikipedia_title" : "Employment",
+    "originalKey" : "generate employment",
+    "original_value" : "Employment",
+    "Wikidata_ID" : "Q656365"
+  }, {
+    "entity_in_the_text" : "foster social integration",
+    "wikipedia_title" : "Social integration",
+    "originalKey" : "foster social integration",
+    "original_value" : "Social integration",
+    "Wikidata_ID" : "Q370735"
+  }, {
+    "entity_in_the_text" : "stimulate forms of public-private cooperation",
+    "wikipedia_title" : "Public-private partnership",
+    "originalKey" : "stimulate forms of public-private cooperation",
+    "original_value" : "Public-private partnership",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "land use systems",
+    "wikipedia_title" : "Land use",
+    "originalKey" : "land use systems",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "entity_in_the_text" : "cropland",
+    "wikipedia_title" : "Agricultural land",
+    "originalKey" : "cropland",
+    "original_value" : "Agricultural land",
+    "Wikidata_ID" : "Q3395383"
+  }, {
+    "entity_in_the_text" : "local assets",
+    "wikipedia_title" : "Local economy",
+    "originalKey" : "local assets",
+    "original_value" : "Local economy",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "San Juan de la Peña",
+    "wikipedia_title" : "San Juan de la Peña",
+    "originalKey" : "San Juan de la Peña",
+    "original_value" : "San Juan de la Peña",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Monte Oroel",
+    "wikipedia_title" : "Monte Oroel",
+    "originalKey" : "Monte Oroel",
+    "original_value" : "Monte Oroel",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Western Valleys",
+    "wikipedia_title" : "Western Valleys",
+    "originalKey" : "Western Valleys",
+    "original_value" : "Western Valleys",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Torres de Berrellén",
+    "wikipedia_title" : "Torres de Berrellén",
+    "originalKey" : "Torres de Berrellén",
+    "original_value" : "Torres de Berrellén",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "CITA",
+    "wikipedia_title" : "Centro de Investigación y Tecnología Agroalimentaria de Aragón",
+    "originalKey" : "CITA",
+    "original_value" : "Centro de Investigación y Tecnología Agroalimentaria de Aragón",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "ATADES",
+    "wikipedia_title" : "Special Employment Center Gardeniers of ATADES",
+    "originalKey" : "ATADES",
+    "original_value" : "Special Employment Center Gardeniers of ATADES",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Mercazaragoza",
+    "wikipedia_title" : "Mercazaragoza",
+    "originalKey" : "Mercazaragoza",
+    "original_value" : "Mercazaragoza",
+    "Wikidata_ID" : ""
+  } ]
+} ]

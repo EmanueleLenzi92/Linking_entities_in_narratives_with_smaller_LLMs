@@ -1,0 +1,319 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "NMK",
+    "wikipedia_title" : "North Macedonia",
+    "originalKey" : "NMK",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  }, {
+    "entity_in_the_text" : "VC 16 NMK",
+    "wikipedia_title" : "Value Chain",
+    "originalKey" : "VC 16 NMK",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Kozuvcanka",
+    "wikipedia_title" : "Kozuvcanka",
+    "originalKey" : "Kozuvcanka",
+    "original_value" : "Kozuvcanka",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Pelisterka",
+    "wikipedia_title" : "Pelisterka",
+    "originalKey" : "Pelisterka",
+    "original_value" : "Pelisterka",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Maya",
+    "wikipedia_title" : "Maya (company)",
+    "originalKey" : "Maya",
+    "original_value" : "Maya (company)",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Mountain Meleshevija",
+    "wikipedia_title" : "Maleshevo Mountains",
+    "originalKey" : "Mountain Meleshevija",
+    "original_value" : "Maleshevo Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Bregalnica",
+    "wikipedia_title" : "Bregalnica River",
+    "originalKey" : "Bregalnica",
+    "original_value" : "Bregalnica River",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Strumica",
+    "wikipedia_title" : "Strumica River",
+    "originalKey" : "Strumica",
+    "original_value" : "Strumica River",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "The size of the area",
+    "wikipedia_title" : "Area",
+    "originalKey" : "The size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometer",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "thousand",
+    "wikipedia_title" : "Thousand",
+    "originalKey" : "thousand",
+    "original_value" : "Thousand",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Inhabitants/km2",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "Inhabitants/km2",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "3.00%",
+    "wikipedia_title" : "Percentage",
+    "originalKey" : "3.00%",
+    "original_value" : "Percentage",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "83.4",
+    "wikipedia_title" : "Regional population density",
+    "originalKey" : "83.4",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "1.20%",
+    "wikipedia_title" : "Percentage",
+    "originalKey" : "1.20%",
+    "original_value" : "Percentage",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous communities of Spain",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous communities of Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed places",
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holdings",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holdings",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Vardar planning region",
+    "wikipedia_title" : "Southeastern Europe",
+    "originalKey" : "Vardar planning region",
+    "original_value" : "Southeastern Europe",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Crni Drim",
+    "wikipedia_title" : "Crni Drim River",
+    "originalKey" : "Crni Drim",
+    "original_value" : "Crni Drim River",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Bregalnica",
+    "wikipedia_title" : "Bregalnica River",
+    "originalKey" : "Bregalnica",
+    "original_value" : "Bregalnica River",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Topolka",
+    "wikipedia_title" : "Topolka River",
+    "originalKey" : "Topolka",
+    "original_value" : "Topolka River",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Otovica",
+    "wikipedia_title" : "Otovica River",
+    "originalKey" : "Otovica",
+    "original_value" : "Otovica River",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kozuvcanka",
+    "wikipedia_title" : "Kozuvcanka",
+    "originalKey" : "Kozuvcanka",
+    "original_value" : "Kozuvcanka",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Kozuvcanka",
+    "wikipedia_title" : "Kozuvcanka",
+    "originalKey" : "Kozuvcanka",
+    "original_value" : "Kozuvcanka",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Maleshevski mountain",
+    "wikipedia_title" : "Maleshevski Mountain",
+    "originalKey" : "Maleshevski mountain",
+    "original_value" : "Maleshevski Mountain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Vardarski region",
+    "wikipedia_title" : "Vardar Region",
+    "originalKey" : "Vardarski region",
+    "original_value" : "Vardar Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "technology",
+    "wikipedia_title" : "Technology",
+    "originalKey" : "technology",
+    "original_value" : "Technology",
+    "Wikidata_ID" : "Q11016"
+  }, {
+    "entity_in_the_text" : "production",
+    "wikipedia_title" : "Production",
+    "originalKey" : "production",
+    "original_value" : "Production",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "distribution",
+    "wikipedia_title" : "Distribution",
+    "originalKey" : "distribution",
+    "original_value" : "Distribution",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "innovation",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "New processes",
+    "wikipedia_title" : "Business process",
+    "originalKey" : "New processes",
+    "original_value" : "Business process",
+    "Wikidata_ID" : "Q851587"
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "land use systems",
+    "wikipedia_title" : "Land use",
+    "originalKey" : "land use systems",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Nature reserve",
+    "originalKey" : "Natural land",
+    "original_value" : "Nature reserve",
+    "Wikidata_ID" : "Q179049"
+  }, {
+    "entity_in_the_text" : "local assets",
+    "wikipedia_title" : "Local asset",
+    "originalKey" : "local assets",
+    "original_value" : "Local asset",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Nature",
+    "originalKey" : "Natural",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  }, {
+    "entity_in_the_text" : "social",
+    "wikipedia_title" : "Society",
+    "originalKey" : "social",
+    "original_value" : "Society",
+    "Wikidata_ID" : "Q8425"
+  }, {
+    "entity_in_the_text" : "cultural",
+    "wikipedia_title" : "Culture",
+    "originalKey" : "cultural",
+    "original_value" : "Culture",
+    "Wikidata_ID" : ""
+  } ]
+} ]

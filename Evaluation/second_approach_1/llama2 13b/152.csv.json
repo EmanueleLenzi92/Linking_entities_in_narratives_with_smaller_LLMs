@@ -1,0 +1,267 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "ITALY UNIMOL",
+    "wikipedia_title" : "Università degli Studi di Milano",
+    "originalKey" : "ITALY UNIMOL",
+    "original_value" : "Università degli Studi di Milano",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "UNIPI",
+    "wikipedia_title" : "Università Politecnica delle Marche",
+    "originalKey" : "UNIPI",
+    "original_value" : "Università Politecnica delle Marche",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC 21 IT",
+    "wikipedia_title" : "Value Chain",
+    "originalKey" : "VC 21 IT",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "infusion herbs",
+    "wikipedia_title" : "Herbal tea",
+    "originalKey" : "infusion herbs",
+    "original_value" : "Herbal tea",
+    "Wikidata_ID" : "Q379932"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Northern Apennines",
+    "wikipedia_title" : "Apennine Mountains",
+    "originalKey" : "Northern Apennines",
+    "original_value" : "Apennine Mountains",
+    "Wikidata_ID" : "Q1285"
+  }, {
+    "entity_in_the_text" : "Tuscan Emilian Apennines",
+    "wikipedia_title" : "Tuscan-Emilian Apennines",
+    "originalKey" : "Tuscan Emilian Apennines",
+    "original_value" : "Tuscan-Emilian Apennines",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Anghiari",
+    "wikipedia_title" : "Anghiari, Italy",
+    "originalKey" : "Anghiari",
+    "original_value" : "Anghiari, Italy",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "The size of the area",
+    "wikipedia_title" : "Area",
+    "originalKey" : "The size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometer",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "thousand",
+    "wikipedia_title" : "Thousand",
+    "originalKey" : "thousand",
+    "original_value" : "Thousand",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Inhabitants/km2",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "Inhabitants/km2",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "6.09%",
+    "wikipedia_title" : "Percentage",
+    "originalKey" : "6.09%",
+    "original_value" : "Percentage",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "10 years",
+    "wikipedia_title" : "Decade",
+    "originalKey" : "10 years",
+    "original_value" : "Decade",
+    "Wikidata_ID" : "Q39911"
+  }, {
+    "entity_in_the_text" : "48%",
+    "wikipedia_title" : "Percentage",
+    "originalKey" : "48%",
+    "original_value" : "Percentage",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous communities of Spain",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous communities of Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed Places",
+    "originalKey" : "BPs",
+    "original_value" : "Bed Places",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural Holdings",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural Holdings",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected Areas",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected Areas",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Mountain Product",
+    "wikipedia_title" : "Protected designation of origin",
+    "originalKey" : "Mountain Product",
+    "original_value" : "Protected designation of origin",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Pontepietra",
+    "wikipedia_title" : "Organic farm",
+    "originalKey" : "Pontepietra",
+    "original_value" : "Organic farm",
+    "Wikidata_ID" : "Q28710264"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Steinbruck",
+    "wikipedia_title" : "Steinbruck",
+    "originalKey" : "Steinbruck",
+    "original_value" : "Steinbruck",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Apennines",
+    "wikipedia_title" : "Apennines",
+    "originalKey" : "Apennines",
+    "original_value" : "Apennines",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Steinbruck",
+    "wikipedia_title" : "Steinbruck",
+    "originalKey" : "Steinbruck",
+    "original_value" : "Steinbruck",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Apennines",
+    "wikipedia_title" : "Apennines",
+    "originalKey" : "Apennines",
+    "original_value" : "Apennines",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Nature",
+    "wikipedia_title" : "Nature",
+    "originalKey" : "Nature",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  }, {
+    "entity_in_the_text" : "sostenibility",
+    "wikipedia_title" : "Sustainability",
+    "originalKey" : "sostenibility",
+    "original_value" : "Sustainability",
+    "Wikidata_ID" : "Q219416"
+  }, {
+    "entity_in_the_text" : "quality",
+    "wikipedia_title" : "Quality",
+    "originalKey" : "quality",
+    "original_value" : "Quality",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : "New product development",
+    "originalKey" : "New products",
+    "original_value" : "New product development",
+    "Wikidata_ID" : "Q1395034"
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing strategy",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing strategy",
+    "Wikidata_ID" : "Q1363963"
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Land use",
+    "originalKey" : "Natural land",
+    "original_value" : "Land use",
+    "Wikidata_ID" : "Q1165944"
+  }, {
+    "entity_in_the_text" : "aromatic herbs",
+    "wikipedia_title" : "Aromatic plant",
+    "originalKey" : "aromatic herbs",
+    "original_value" : "Aromatic plant",
+    "Wikidata_ID" : ""
+  } ]
+} ]

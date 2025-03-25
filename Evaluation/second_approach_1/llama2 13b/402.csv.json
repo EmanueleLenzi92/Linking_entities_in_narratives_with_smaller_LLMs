@@ -1,0 +1,277 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "Switzerland",
+    "wikipedia_title" : "Switzerland",
+    "originalKey" : "Switzerland",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "entity_in_the_text" : "Alpine tourism",
+    "wikipedia_title" : "Tourism in the Alps",
+    "originalKey" : "Alpine tourism",
+    "original_value" : "Tourism in the Alps",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "hotels",
+    "wikipedia_title" : "Hotel",
+    "originalKey" : "hotels",
+    "original_value" : "Hotel",
+    "Wikidata_ID" : "Q27686"
+  }, {
+    "entity_in_the_text" : "restaurants",
+    "wikipedia_title" : "Restaurant",
+    "originalKey" : "restaurants",
+    "original_value" : "Restaurant",
+    "Wikidata_ID" : "Q11707"
+  }, {
+    "entity_in_the_text" : "ski lifts",
+    "wikipedia_title" : "Ski lift",
+    "originalKey" : "ski lifts",
+    "original_value" : "Ski lift",
+    "Wikidata_ID" : "Q891302"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Reference mountain chain",
+    "wikipedia_title" : "Unspecified",
+    "originalKey" : "Reference mountain chain",
+    "original_value" : "Unspecified",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Reference mountain landscape",
+    "wikipedia_title" : "Unspecified",
+    "originalKey" : "Reference mountain landscape",
+    "original_value" : "Unspecified",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "The size of the area",
+    "wikipedia_title" : "Area",
+    "originalKey" : "The size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometer",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "minimum altimetry",
+    "wikipedia_title" : "Minimum altitude",
+    "originalKey" : "minimum altimetry",
+    "original_value" : "Minimum altitude",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "maximum altimetry",
+    "wikipedia_title" : "Maximum altitude",
+    "originalKey" : "maximum altimetry",
+    "original_value" : "Maximum altitude",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total population",
+    "wikipedia_title" : "Population",
+    "originalKey" : "total population",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density",
+    "wikipedia_title" : "Density",
+    "originalKey" : "population density",
+    "original_value" : "Density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "inhabitants/km2",
+    "wikipedia_title" : "Inhabitants per square kilometer",
+    "originalKey" : "inhabitants/km2",
+    "original_value" : "Inhabitants per square kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population change rate",
+    "wikipedia_title" : "Population growth rate",
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "last 10 years",
+    "wikipedia_title" : "Decade",
+    "originalKey" : "last 10 years",
+    "original_value" : "Decade",
+    "Wikidata_ID" : "Q39911"
+  }, {
+    "entity_in_the_text" : "overall regional population density",
+    "wikipedia_title" : "Regional population density",
+    "originalKey" : "overall regional population density",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional population change rate",
+    "wikipedia_title" : "Regional population growth rate",
+    "originalKey" : "regional population change rate",
+    "original_value" : "Regional population growth rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous communities of Spain",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous communities of Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed places",
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Regional",
+    "originalKey" : "Region",
+    "original_value" : "Regional",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holdings",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holdings",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km",
+    "wikipedia_title" : "Kilometre",
+    "originalKey" : "km",
+    "original_value" : "Kilometre",
+    "Wikidata_ID" : "Q828224"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces and territories of Canada",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces and territories of Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "List of regions of Canada",
+    "originalKey" : "Region",
+    "original_value" : "List of regions of Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "one of the biggest and most famous VC-systems in the alps",
+    "wikipedia_title" : "Swiss Alps",
+    "originalKey" : "one of the biggest and most famous VC-systems in the alps",
+    "original_value" : "Swiss Alps",
+    "Wikidata_ID" : "Q25220"
+  }, {
+    "entity_in_the_text" : "varied",
+    "wikipedia_title" : "Varied",
+    "originalKey" : "varied",
+    "original_value" : "Varied",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "high impact on region",
+    "wikipedia_title" : "Economic impact of the Swiss Alps",
+    "originalKey" : "high impact on region",
+    "original_value" : "Economic impact of the Swiss Alps",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "tourism",
+    "wikipedia_title" : "Tourism",
+    "originalKey" : "tourism",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "entity_in_the_text" : "climate change",
+    "wikipedia_title" : "Climate change",
+    "originalKey" : "climate change",
+    "original_value" : "Climate change",
+    "Wikidata_ID" : "Q125928"
+  }, {
+    "entity_in_the_text" : "young people",
+    "wikipedia_title" : "Young people",
+    "originalKey" : "young people",
+    "original_value" : "Young people",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "mountains",
+    "wikipedia_title" : "Mountains",
+    "originalKey" : "mountains",
+    "original_value" : "Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "revenue",
+    "wikipedia_title" : "Revenue",
+    "originalKey" : "revenue",
+    "original_value" : "Revenue",
+    "Wikidata_ID" : "Q850210"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "this VC",
+    "wikipedia_title" : "Value Chain",
+    "originalKey" : "this VC",
+    "original_value" : "Value Chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "innovation",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "innovation",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : "New Product Development",
+    "originalKey" : "New products",
+    "original_value" : "New Product Development",
+    "Wikidata_ID" : "Q1395034"
+  }, {
+    "entity_in_the_text" : "New processes",
+    "wikipedia_title" : "Business Process Improvement",
+    "originalKey" : "New processes",
+    "original_value" : "Business Process Improvement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing Innovation",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing Innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New governance systems",
+    "wikipedia_title" : "Governance Innovation",
+    "originalKey" : "New governance systems",
+    "original_value" : "Governance Innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Landscape in general",
+    "wikipedia_title" : "Landscape",
+    "originalKey" : "Landscape in general",
+    "original_value" : "Landscape",
+    "Wikidata_ID" : "Q107425"
+  }, {
+    "entity_in_the_text" : "Natural, social and cultural",
+    "wikipedia_title" : "Natural, Social, and Cultural Assets",
+    "originalKey" : "Natural, social and cultural",
+    "original_value" : "Natural, Social, and Cultural Assets",
+    "Wikidata_ID" : ""
+  } ]
+} ]

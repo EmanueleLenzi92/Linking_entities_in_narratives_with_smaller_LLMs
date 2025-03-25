@@ -1,0 +1,211 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "Honey",
+    "wikipedia_title" : "Honey",
+    "originalKey" : "Honey",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "entity_in_the_text" : "alps",
+    "wikipedia_title" : "Alps",
+    "originalKey" : "alps",
+    "original_value" : "Alps",
+    "Wikidata_ID" : "Q1286"
+  }, {
+    "entity_in_the_text" : "Pro Montagna",
+    "wikipedia_title" : "Pro Montagna",
+    "originalKey" : "Pro Montagna",
+    "original_value" : "Pro Montagna",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "mountain chain",
+    "wikipedia_title" : "List of mountain ranges",
+    "originalKey" : "mountain chain",
+    "original_value" : "List of mountain ranges",
+    "Wikidata_ID" : "Q1156053"
+  }, {
+    "entity_in_the_text" : "mountain landscape",
+    "wikipedia_title" : "Mountain landscape",
+    "originalKey" : "mountain landscape",
+    "original_value" : "Mountain landscape",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "The size of the area",
+    "wikipedia_title" : "Area",
+    "originalKey" : "The size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "Square kilometer",
+    "originalKey" : "km2",
+    "original_value" : "Square kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "minimum altimetry",
+    "wikipedia_title" : "Minimum altitude",
+    "originalKey" : "minimum altimetry",
+    "original_value" : "Minimum altitude",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "maximum altimetry",
+    "wikipedia_title" : "Maximum altitude",
+    "originalKey" : "maximum altimetry",
+    "original_value" : "Maximum altitude",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "total population",
+    "wikipedia_title" : "Population",
+    "originalKey" : "total population",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density",
+    "wikipedia_title" : "Density",
+    "originalKey" : "population density",
+    "original_value" : "Density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "inhabitants/km2",
+    "wikipedia_title" : "Inhabitants per square kilometer",
+    "originalKey" : "inhabitants/km2",
+    "original_value" : "Inhabitants per square kilometer",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population change rate",
+    "wikipedia_title" : "Population growth rate",
+    "originalKey" : "population change rate",
+    "original_value" : "Population growth rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "last 10 years",
+    "wikipedia_title" : "Decade",
+    "originalKey" : "last 10 years",
+    "original_value" : "Decade",
+    "Wikidata_ID" : "Q39911"
+  }, {
+    "entity_in_the_text" : "overall regional population density",
+    "wikipedia_title" : "Regional population density",
+    "originalKey" : "overall regional population density",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional population change rate",
+    "wikipedia_title" : "Regional population growth rate",
+    "originalKey" : "regional population change rate",
+    "original_value" : "Regional population growth rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous communities of Spain",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous communities of Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed places",
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Regional",
+    "originalKey" : "Region",
+    "original_value" : "Regional",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holdings",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holdings",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km",
+    "wikipedia_title" : "Kilometer",
+    "originalKey" : "km",
+    "original_value" : "Kilometer",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces and territories of Canada",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces and territories of Canada",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "List of regions of Canada",
+    "originalKey" : "Region",
+    "original_value" : "List of regions of Canada",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "traditional VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "traditional VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  }, {
+    "entity_in_the_text" : "well sought after",
+    "wikipedia_title" : "Demand",
+    "originalKey" : "well sought after",
+    "original_value" : "Demand",
+    "Wikidata_ID" : "Q4402708"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "bees",
+    "wikipedia_title" : "Bees",
+    "originalKey" : "bees",
+    "original_value" : "Bees",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "challenge",
+    "wikipedia_title" : "Challenge",
+    "originalKey" : "challenge",
+    "original_value" : "Challenge",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Venture capital",
+    "originalKey" : "VC",
+    "original_value" : "Venture capital",
+    "Wikidata_ID" : "Q219409"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Beehives",
+    "wikipedia_title" : "Beehive",
+    "originalKey" : "Beehives",
+    "original_value" : "Beehive",
+    "Wikidata_ID" : "Q165107"
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Nature",
+    "originalKey" : "Natural",
+    "original_value" : "Nature",
+    "Wikidata_ID" : "Q7860"
+  } ]
+} ]

@@ -1,0 +1,377 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "TURKEY",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "TURKEY",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "MOVING",
+    "wikipedia_title" : "Moving (business)",
+    "originalKey" : "MOVING",
+    "original_value" : "Moving (business)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "VC",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "VC",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Pinus pinea L.",
+    "wikipedia_title" : "Pine nut",
+    "originalKey" : "Pinus pinea L.",
+    "original_value" : "Pine nut",
+    "Wikidata_ID" : "Q212933"
+  }, {
+    "entity_in_the_text" : "Çetin",
+    "wikipedia_title" : "Mustafa Çetin",
+    "originalKey" : "Çetin",
+    "original_value" : "Mustafa Çetin",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Öztürk",
+    "wikipedia_title" : "Necdet Öztürk",
+    "originalKey" : "Öztürk",
+    "original_value" : "Necdet Öztürk",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Küçükerdem",
+    "wikipedia_title" : "Fikret Küçükerdem",
+    "originalKey" : "Küçükerdem",
+    "original_value" : "Fikret Küçükerdem",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Bergama",
+    "wikipedia_title" : "Bergama (mountain chain)",
+    "originalKey" : "Bergama",
+    "original_value" : "Bergama (mountain chain)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kozak",
+    "wikipedia_title" : "Kozak (mountain)",
+    "originalKey" : "Kozak",
+    "original_value" : "Kozak (mountain)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Madra Mountains",
+    "wikipedia_title" : "Madra Mountains",
+    "originalKey" : "Madra Mountains",
+    "original_value" : "Madra Mountains",
+    "Wikidata_ID" : "Q4833452"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "The size of the area",
+    "wikipedia_title" : "Area",
+    "originalKey" : "The size of the area",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "1544",
+    "wikipedia_title" : "Kilometre squared",
+    "originalKey" : "1544",
+    "original_value" : "Kilometre squared",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "0",
+    "wikipedia_title" : "Altitude",
+    "originalKey" : "0",
+    "original_value" : "Altitude",
+    "Wikidata_ID" : "Q190200"
+  }, {
+    "entity_in_the_text" : "1344",
+    "wikipedia_title" : "Metre",
+    "originalKey" : "1344",
+    "original_value" : "Metre",
+    "Wikidata_ID" : "Q11573"
+  }, {
+    "entity_in_the_text" : "104.944",
+    "wikipedia_title" : "Population",
+    "originalKey" : "104.944",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "67.96891192",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "67.96891192",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "3.74%",
+    "wikipedia_title" : "Population change rate",
+    "originalKey" : "3.74%",
+    "original_value" : "Population change rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "10.83%",
+    "wikipedia_title" : "Regional population change rate",
+    "originalKey" : "10.83%",
+    "original_value" : "Regional population change rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province (geographical)",
+    "originalKey" : "Province",
+    "original_value" : "Province (geographical)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region (geographical)",
+    "originalKey" : "Region",
+    "original_value" : "Region (geographical)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tourist accommodations",
+    "wikipedia_title" : "Tourist accommodation",
+    "originalKey" : "tourist accommodations",
+    "original_value" : "Tourist accommodation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Peanut pine (Pinus pinea L.)",
+    "wikipedia_title" : "Peanut pine",
+    "originalKey" : "Peanut pine (Pinus pinea L.)",
+    "original_value" : "Peanut pine",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Bergama-Kozak plateau",
+    "wikipedia_title" : "Bergama-Kozak plateau",
+    "originalKey" : "Bergama-Kozak plateau",
+    "original_value" : "Bergama-Kozak plateau",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Madra Mountains",
+    "wikipedia_title" : "Madra Mountains",
+    "originalKey" : "Madra Mountains",
+    "original_value" : "Madra Mountains",
+    "Wikidata_ID" : "Q4833452"
+  }, {
+    "entity_in_the_text" : "Kozak",
+    "wikipedia_title" : "Kozak",
+    "originalKey" : "Kozak",
+    "original_value" : "Kozak",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Ministry of Forestry",
+    "wikipedia_title" : "Ministry of Forestry (Turkey)",
+    "originalKey" : "Ministry of Forestry",
+    "original_value" : "Ministry of Forestry (Turkey)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "local administration",
+    "wikipedia_title" : "Local government in Turkey",
+    "originalKey" : "local administration",
+    "original_value" : "Local government in Turkey",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "mountain farming",
+    "wikipedia_title" : "Mountain agriculture",
+    "originalKey" : "mountain farming",
+    "original_value" : "Mountain agriculture",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "higher region",
+    "wikipedia_title" : "Highland agriculture",
+    "originalKey" : "higher region",
+    "original_value" : "Highland agriculture",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Kozak",
+    "wikipedia_title" : "Kozak (Turkey)",
+    "originalKey" : "Kozak",
+    "original_value" : "Kozak (Turkey)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Bergama",
+    "wikipedia_title" : "Bergama",
+    "originalKey" : "Bergama",
+    "original_value" : "Bergama",
+    "Wikidata_ID" : "Q737822"
+  }, {
+    "entity_in_the_text" : "Turkish Patent and Trademark Office",
+    "wikipedia_title" : "Turkish Patent and Trademark Office",
+    "originalKey" : "Turkish Patent and Trademark Office",
+    "original_value" : "Turkish Patent and Trademark Office",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "pine seedlings",
+    "wikipedia_title" : "Pine (plant)",
+    "originalKey" : "pine seedlings",
+    "original_value" : "Pine (plant)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Kozak plateau",
+    "wikipedia_title" : "Kozak Plateau",
+    "originalKey" : "Kozak plateau",
+    "original_value" : "Kozak Plateau",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "pests and diseases",
+    "wikipedia_title" : "Pest management",
+    "originalKey" : "pests and diseases",
+    "original_value" : "Pest management",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "qualified personnel",
+    "wikipedia_title" : "Human resources",
+    "originalKey" : "qualified personnel",
+    "original_value" : "Human resources",
+    "Wikidata_ID" : "Q5467169"
+  }, {
+    "entity_in_the_text" : "education",
+    "wikipedia_title" : "Education",
+    "originalKey" : "education",
+    "original_value" : "Education",
+    "Wikidata_ID" : "Q8434"
+  }, {
+    "entity_in_the_text" : "inadequate advertisement and marketing",
+    "wikipedia_title" : "Marketing",
+    "originalKey" : "inadequate advertisement and marketing",
+    "original_value" : "Marketing",
+    "Wikidata_ID" : "Q39809"
+  }, {
+    "entity_in_the_text" : "cooperative",
+    "wikipedia_title" : "Cooperative",
+    "originalKey" : "cooperative",
+    "original_value" : "Cooperative",
+    "Wikidata_ID" : "Q4539"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "Cropland",
+    "wikipedia_title" : "Agricultural land",
+    "originalKey" : "Cropland",
+    "original_value" : "Agricultural land",
+    "Wikidata_ID" : "Q3395383"
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "Natural assets",
+    "wikipedia_title" : "Natural resources",
+    "originalKey" : "Natural assets",
+    "original_value" : "Natural resources",
+    "Wikidata_ID" : "Q6980594"
+  }, {
+    "entity_in_the_text" : "Cultural assets",
+    "wikipedia_title" : "Cultural heritage",
+    "originalKey" : "Cultural assets",
+    "original_value" : "Cultural heritage",
+    "Wikidata_ID" : "Q210272"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "MRL",
+    "wikipedia_title" : "Material Requirements List",
+    "originalKey" : "MRL",
+    "original_value" : "Material Requirements List",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "pine nuts",
+    "wikipedia_title" : "Pine nut",
+    "originalKey" : "pine nuts",
+    "original_value" : "Pine nut",
+    "Wikidata_ID" : "Q212933"
+  } ]
+} ]

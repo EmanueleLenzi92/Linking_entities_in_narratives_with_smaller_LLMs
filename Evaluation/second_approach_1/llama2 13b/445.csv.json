@@ -1,0 +1,413 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "TURKEY",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "TURKEY",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "Mugla",
+    "wikipedia_title" : "Muğla",
+    "originalKey" : "Mugla",
+    "original_value" : "Muğla",
+    "Wikidata_ID" : "Q216912"
+  }, {
+    "entity_in_the_text" : "beekeeping",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "beekeeping",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Menteşe Mountains",
+    "wikipedia_title" : "Menteşe Mountains",
+    "originalKey" : "Menteşe Mountains",
+    "original_value" : "Menteşe Mountains",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Ula",
+    "wikipedia_title" : "Ula",
+    "originalKey" : "Ula",
+    "original_value" : "Ula",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Muğla province",
+    "wikipedia_title" : "Muğla Province",
+    "originalKey" : "Muğla province",
+    "original_value" : "Muğla Province",
+    "Wikidata_ID" : "Q123934"
+  }, {
+    "entity_in_the_text" : "Turkey",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "Turkey",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "The size of the area (km2)",
+    "wikipedia_title" : "Area",
+    "originalKey" : "The size of the area (km2)",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Local Administrative Unit",
+    "wikipedia_title" : "LAU",
+    "originalKey" : "Local Administrative Unit",
+    "original_value" : "LAU",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population (in thousand)",
+    "wikipedia_title" : "Population",
+    "originalKey" : "population (in thousand)",
+    "original_value" : "Population",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density (Inhabitants/km2)",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "population density (Inhabitants/km2)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "population change rate of the LAU in the last 10 years (%)",
+    "wikipedia_title" : "Population change rate",
+    "originalKey" : "population change rate of the LAU in the last 10 years (%)",
+    "original_value" : "Population change rate",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "overall regional population density (Inhabitants/km2)",
+    "wikipedia_title" : "Regional population density",
+    "originalKey" : "overall regional population density (Inhabitants/km2)",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "regional population change rate in the last 10 years (%)",
+    "wikipedia_title" : "Regional population change rate",
+    "originalKey" : "regional population change rate in the last 10 years (%)",
+    "original_value" : "Regional population change rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous communities of Spain",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous communities of Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Regional",
+    "originalKey" : "Region",
+    "original_value" : "Regional",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed places",
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holdings",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holdings",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected areas",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected areas",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Turkey",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "Turkey",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "pine honey",
+    "wikipedia_title" : "Pine honey",
+    "originalKey" : "pine honey",
+    "original_value" : "Pine honey",
+    "Wikidata_ID" : "Q7195419"
+  }, {
+    "entity_in_the_text" : "Geographical Indication",
+    "wikipedia_title" : "Geographical indication",
+    "originalKey" : "Geographical Indication",
+    "original_value" : "Geographical indication",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Turkish Patent and Trademark Office",
+    "wikipedia_title" : "Turkish Patent and Trademark Office",
+    "originalKey" : "Turkish Patent and Trademark Office",
+    "original_value" : "Turkish Patent and Trademark Office",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agriculture",
+    "wikipedia_title" : "Agriculture",
+    "originalKey" : "agriculture",
+    "original_value" : "Agriculture",
+    "Wikidata_ID" : "Q11451"
+  }, {
+    "entity_in_the_text" : "tourism",
+    "wikipedia_title" : "Tourism",
+    "originalKey" : "tourism",
+    "original_value" : "Tourism",
+    "Wikidata_ID" : "Q49389"
+  }, {
+    "entity_in_the_text" : "beekeeping",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "beekeeping",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "organic honey production",
+    "wikipedia_title" : "Organic honey production",
+    "originalKey" : "organic honey production",
+    "original_value" : "Organic honey production",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Turkey",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "Turkey",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "Muğla Province",
+    "wikipedia_title" : "Muğla Province",
+    "originalKey" : "Muğla Province",
+    "original_value" : "Muğla Province",
+    "Wikidata_ID" : "Q123934"
+  }, {
+    "entity_in_the_text" : "forests",
+    "wikipedia_title" : "Forest",
+    "originalKey" : "forests",
+    "original_value" : "Forest",
+    "Wikidata_ID" : "Q4421"
+  }, {
+    "entity_in_the_text" : "pine honey production areas",
+    "wikipedia_title" : "Pine honey",
+    "originalKey" : "pine honey production areas",
+    "original_value" : "Pine honey",
+    "Wikidata_ID" : "Q7195419"
+  }, {
+    "entity_in_the_text" : "forest villages",
+    "wikipedia_title" : "Village",
+    "originalKey" : "forest villages",
+    "original_value" : "Village",
+    "Wikidata_ID" : "Q532"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Honey yield",
+    "wikipedia_title" : "Honey",
+    "originalKey" : "Honey yield",
+    "original_value" : "Honey",
+    "Wikidata_ID" : "Q10987"
+  }, {
+    "entity_in_the_text" : "accommodation",
+    "wikipedia_title" : "Accommodation",
+    "originalKey" : "accommodation",
+    "original_value" : "Accommodation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "young people",
+    "wikipedia_title" : "Young people",
+    "originalKey" : "young people",
+    "original_value" : "Young people",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "beekeeping",
+    "wikipedia_title" : "Beekeeping",
+    "originalKey" : "beekeeping",
+    "original_value" : "Beekeeping",
+    "Wikidata_ID" : "Q176353"
+  }, {
+    "entity_in_the_text" : "Current and Predicted",
+    "wikipedia_title" : "Current and predicted",
+    "originalKey" : "Current and Predicted",
+    "original_value" : "Current and predicted",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Innovative",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "Innovative",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Rainforest Alliance",
+    "wikipedia_title" : "Rainforest Alliance",
+    "originalKey" : "Rainforest Alliance",
+    "original_value" : "Rainforest Alliance",
+    "Wikidata_ID" : "Q2034373"
+  }, {
+    "entity_in_the_text" : "Organic",
+    "wikipedia_title" : "Organic certification",
+    "originalKey" : "Organic",
+    "original_value" : "Organic certification",
+    "Wikidata_ID" : "Q11680670"
+  }, {
+    "entity_in_the_text" : "Forestry",
+    "wikipedia_title" : "Forestry",
+    "originalKey" : "Forestry",
+    "original_value" : "Forestry",
+    "Wikidata_ID" : "Q38112"
+  }, {
+    "entity_in_the_text" : "Natural",
+    "wikipedia_title" : "Natural environment",
+    "originalKey" : "Natural",
+    "original_value" : "Natural environment",
+    "Wikidata_ID" : "Q43619"
+  }, {
+    "entity_in_the_text" : "cultural",
+    "wikipedia_title" : "Cultural heritage",
+    "originalKey" : "cultural",
+    "original_value" : "Cultural heritage",
+    "Wikidata_ID" : "Q210272"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Turkey",
+    "wikipedia_title" : "Turkey",
+    "originalKey" : "Turkey",
+    "original_value" : "Turkey",
+    "Wikidata_ID" : "Q43"
+  }, {
+    "entity_in_the_text" : "Switzerland",
+    "wikipedia_title" : "Switzerland",
+    "originalKey" : "Switzerland",
+    "original_value" : "Switzerland",
+    "Wikidata_ID" : "Q39"
+  }, {
+    "entity_in_the_text" : "UK",
+    "wikipedia_title" : "United Kingdom",
+    "originalKey" : "UK",
+    "original_value" : "United Kingdom",
+    "Wikidata_ID" : "Q145"
+  }, {
+    "entity_in_the_text" : "Austria",
+    "wikipedia_title" : "Austria",
+    "originalKey" : "Austria",
+    "original_value" : "Austria",
+    "Wikidata_ID" : "Q40"
+  }, {
+    "entity_in_the_text" : "Czech Republic",
+    "wikipedia_title" : "Czech Republic",
+    "originalKey" : "Czech Republic",
+    "original_value" : "Czech Republic",
+    "Wikidata_ID" : "Q213"
+  }, {
+    "entity_in_the_text" : "France",
+    "wikipedia_title" : "France",
+    "originalKey" : "France",
+    "original_value" : "France",
+    "Wikidata_ID" : "Q142"
+  }, {
+    "entity_in_the_text" : "Greece",
+    "wikipedia_title" : "Greece",
+    "originalKey" : "Greece",
+    "original_value" : "Greece",
+    "Wikidata_ID" : "Q41"
+  }, {
+    "entity_in_the_text" : "Hungary",
+    "wikipedia_title" : "Hungary",
+    "originalKey" : "Hungary",
+    "original_value" : "Hungary",
+    "Wikidata_ID" : "Q28"
+  }, {
+    "entity_in_the_text" : "Italy",
+    "wikipedia_title" : "Italy",
+    "originalKey" : "Italy",
+    "original_value" : "Italy",
+    "Wikidata_ID" : "Q38"
+  }, {
+    "entity_in_the_text" : "North Macedonia",
+    "wikipedia_title" : "North Macedonia",
+    "originalKey" : "North Macedonia",
+    "original_value" : "North Macedonia",
+    "Wikidata_ID" : "Q221"
+  }, {
+    "entity_in_the_text" : "Romania",
+    "wikipedia_title" : "Romania",
+    "originalKey" : "Romania",
+    "original_value" : "Romania",
+    "Wikidata_ID" : "Q218"
+  }, {
+    "entity_in_the_text" : "Serbia",
+    "wikipedia_title" : "Serbia",
+    "originalKey" : "Serbia",
+    "original_value" : "Serbia",
+    "Wikidata_ID" : "Q403"
+  }, {
+    "entity_in_the_text" : "Slovakia",
+    "wikipedia_title" : "Slovakia",
+    "originalKey" : "Slovakia",
+    "original_value" : "Slovakia",
+    "Wikidata_ID" : "Q214"
+  }, {
+    "entity_in_the_text" : "Spain",
+    "wikipedia_title" : "Spain",
+    "originalKey" : "Spain",
+    "original_value" : "Spain",
+    "Wikidata_ID" : "Q29"
+  } ]
+} ]

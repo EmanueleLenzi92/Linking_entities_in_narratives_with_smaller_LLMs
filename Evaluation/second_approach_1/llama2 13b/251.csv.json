@@ -1,0 +1,347 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SCOTLAND HUTTON",
+    "wikipedia_title" : "Scotland",
+    "originalKey" : "SCOTLAND HUTTON",
+    "original_value" : "Scotland",
+    "Wikidata_ID" : "Q22"
+  }, {
+    "entity_in_the_text" : "UK",
+    "wikipedia_title" : "United Kingdom",
+    "originalKey" : "UK",
+    "original_value" : "United Kingdom",
+    "Wikidata_ID" : "Q145"
+  }, {
+    "entity_in_the_text" : "heather moorland",
+    "wikipedia_title" : "Heather",
+    "originalKey" : "heather moorland",
+    "original_value" : "Heather",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Perth and Kinross",
+    "wikipedia_title" : "Perth and Kinross",
+    "originalKey" : "Perth and Kinross",
+    "original_value" : "Perth and Kinross",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "heather honey",
+    "wikipedia_title" : "Heather honey",
+    "originalKey" : "heather honey",
+    "original_value" : "Heather honey",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "beeswax",
+    "wikipedia_title" : "Beeswax",
+    "originalKey" : "beeswax",
+    "original_value" : "Beeswax",
+    "Wikidata_ID" : "Q143739"
+  }, {
+    "entity_in_the_text" : "cosmetics",
+    "wikipedia_title" : "Cosmetics",
+    "originalKey" : "cosmetics",
+    "original_value" : "Cosmetics",
+    "Wikidata_ID" : "Q131207"
+  }, {
+    "entity_in_the_text" : "Scottish heather honey",
+    "wikipedia_title" : "Scottish heather honey",
+    "originalKey" : "Scottish heather honey",
+    "original_value" : "Scottish heather honey",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "British Standards Institution Kitemark for Food Assurance",
+    "wikipedia_title" : "British Standards Institution Kitemark for Food Assurance",
+    "originalKey" : "British Standards Institution Kitemark for Food Assurance",
+    "original_value" : "British Standards Institution Kitemark for Food Assurance",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Highlands and Islands (RR9)",
+    "wikipedia_title" : "Highlands and Islands",
+    "originalKey" : "Highlands and Islands (RR9)",
+    "original_value" : "Highlands and Islands",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Eastern Scotland (NUTS2)",
+    "wikipedia_title" : "Eastern Scotland",
+    "originalKey" : "Eastern Scotland (NUTS2)",
+    "original_value" : "Eastern Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Perth and Kinross",
+    "wikipedia_title" : "Perth and Kinross",
+    "originalKey" : "Perth and Kinross",
+    "original_value" : "Perth and Kinross",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "The size of the area (km2)",
+    "wikipedia_title" : "Area",
+    "originalKey" : "The size of the area (km2)",
+    "original_value" : "Area",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Local Administrative Unit",
+    "wikipedia_title" : "LAU",
+    "originalKey" : "Local Administrative Unit",
+    "original_value" : "LAU",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population density (Inhabitants/km2)",
+    "wikipedia_title" : "Population density",
+    "originalKey" : "population density (Inhabitants/km2)",
+    "original_value" : "Population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "regional population density (Inhabitants/km2)",
+    "wikipedia_title" : "Regional population density",
+    "originalKey" : "regional population density (Inhabitants/km2)",
+    "original_value" : "Regional population density",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "population change rate (%)",
+    "wikipedia_title" : "Population change rate",
+    "originalKey" : "population change rate (%)",
+    "original_value" : "Population change rate",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous communities of Spain",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous communities of Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local administrative unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local administrative unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Regional",
+    "originalKey" : "Region",
+    "original_value" : "Regional",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "BPs",
+    "wikipedia_title" : "Bed places",
+    "originalKey" : "BPs",
+    "original_value" : "Bed places",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holdings",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holdings",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected areas",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected areas",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Scottish Heather honey",
+    "wikipedia_title" : "Heather honey",
+    "originalKey" : "Scottish Heather honey",
+    "original_value" : "Heather honey",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Perth and Kinross LAU1",
+    "wikipedia_title" : "Perth and Kinross",
+    "originalKey" : "Perth and Kinross LAU1",
+    "original_value" : "Perth and Kinross",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Noble Isle",
+    "wikipedia_title" : "Noble Isle",
+    "originalKey" : "Noble Isle",
+    "original_value" : "Noble Isle",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Heather Hills",
+    "wikipedia_title" : "Heather Hills",
+    "originalKey" : "Heather Hills",
+    "original_value" : "Heather Hills",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "honey bees",
+    "wikipedia_title" : "Honey bee",
+    "originalKey" : "honey bees",
+    "original_value" : "Honey bee",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "hives",
+    "wikipedia_title" : "Beehive",
+    "originalKey" : "hives",
+    "original_value" : "Beehive",
+    "Wikidata_ID" : "Q165107"
+  }, {
+    "entity_in_the_text" : "traditional knowledge",
+    "wikipedia_title" : "Traditional knowledge",
+    "originalKey" : "traditional knowledge",
+    "original_value" : "Traditional knowledge",
+    "Wikidata_ID" : "Q1428168"
+  }, {
+    "entity_in_the_text" : "employees",
+    "wikipedia_title" : "Employee",
+    "originalKey" : "employees",
+    "original_value" : "Employee",
+    "Wikidata_ID" : "Q703534"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Challenges",
+    "wikipedia_title" : "Impact of climate change",
+    "originalKey" : "Challenges",
+    "original_value" : "Impact of climate change",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "quality of the product",
+    "wikipedia_title" : "Product quality",
+    "originalKey" : "quality of the product",
+    "original_value" : "Product quality",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "collection methods",
+    "wikipedia_title" : "Methodology of collection",
+    "originalKey" : "collection methods",
+    "original_value" : "Methodology of collection",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "costly",
+    "wikipedia_title" : "Economic efficiency",
+    "originalKey" : "costly",
+    "original_value" : "Economic efficiency",
+    "Wikidata_ID" : "Q615445"
+  }, {
+    "entity_in_the_text" : "innovative",
+    "wikipedia_title" : "Innovation",
+    "originalKey" : "innovative",
+    "original_value" : "Innovation",
+    "Wikidata_ID" : "Q174165"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "BCI kitemark",
+    "wikipedia_title" : "British Standards Institution",
+    "originalKey" : "BCI kitemark",
+    "original_value" : "British Standards Institution",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New products",
+    "wikipedia_title" : "Product innovation",
+    "originalKey" : "New products",
+    "original_value" : "Product innovation",
+    "Wikidata_ID" : "Q7247768"
+  }, {
+    "entity_in_the_text" : "New processes",
+    "wikipedia_title" : "Process innovation",
+    "originalKey" : "New processes",
+    "original_value" : "Process innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New marketing strategies",
+    "wikipedia_title" : "Marketing innovation",
+    "originalKey" : "New marketing strategies",
+    "original_value" : "Marketing innovation",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Natural land",
+    "wikipedia_title" : "Agricultural land",
+    "originalKey" : "Natural land",
+    "original_value" : "Agricultural land",
+    "Wikidata_ID" : "Q3395383"
+  }, {
+    "entity_in_the_text" : "Natural, Social and Cultural",
+    "wikipedia_title" : "Local assets",
+    "originalKey" : "Natural, Social and Cultural",
+    "original_value" : "Local assets",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Heather hills",
+    "wikipedia_title" : "Heather",
+    "originalKey" : "Heather hills",
+    "original_value" : "Heather",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "LAU1",
+    "wikipedia_title" : "Local authority areas of Scotland",
+    "originalKey" : "LAU1",
+    "original_value" : "Local authority areas of Scotland",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Scotland",
+    "wikipedia_title" : "Scotland",
+    "originalKey" : "Scotland",
+    "original_value" : "Scotland",
+    "Wikidata_ID" : "Q22"
+  }, {
+    "entity_in_the_text" : "Germany",
+    "wikipedia_title" : "Germany",
+    "originalKey" : "Germany",
+    "original_value" : "Germany",
+    "Wikidata_ID" : "Q183"
+  }, {
+    "entity_in_the_text" : "Ireland",
+    "wikipedia_title" : "Ireland",
+    "originalKey" : "Ireland",
+    "original_value" : "Ireland",
+    "Wikidata_ID" : ""
+  } ]
+} ]

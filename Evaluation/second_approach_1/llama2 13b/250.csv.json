@@ -1,0 +1,287 @@
+[ {
+  "entities" : [ {
+    "entity_in_the_text" : "SCOTLAND HUTTON",
+    "wikipedia_title" : "Scotland Hutton",
+    "originalKey" : "SCOTLAND HUTTON",
+    "original_value" : "Scotland Hutton",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Caerphilly cheese",
+    "wikipedia_title" : "Caerphilly cheese",
+    "originalKey" : "Caerphilly cheese",
+    "original_value" : "Caerphilly cheese",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Wales",
+    "wikipedia_title" : "Wales",
+    "originalKey" : "Wales",
+    "original_value" : "Wales",
+    "Wikidata_ID" : "Q25"
+  }, {
+    "entity_in_the_text" : "Caerphilly",
+    "wikipedia_title" : "Caerphilly",
+    "originalKey" : "Caerphilly",
+    "original_value" : "Caerphilly",
+    "Wikidata_ID" : "Q909119"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "km2",
+    "wikipedia_title" : "square kilometre",
+    "originalKey" : "km2",
+    "original_value" : "square kilometre",
+    "Wikidata_ID" : "Q712226"
+  }, {
+    "entity_in_the_text" : "thousand",
+    "wikipedia_title" : "thousand",
+    "originalKey" : "thousand",
+    "original_value" : "thousand",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Inhabitants/km2",
+    "wikipedia_title" : "population density",
+    "originalKey" : "Inhabitants/km2",
+    "original_value" : "population density",
+    "Wikidata_ID" : "Q22856"
+  }, {
+    "entity_in_the_text" : "10 years",
+    "wikipedia_title" : "decade",
+    "originalKey" : "10 years",
+    "original_value" : "decade",
+    "Wikidata_ID" : "Q39911"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "List of provinces of Spain",
+    "originalKey" : "Province",
+    "original_value" : "List of provinces of Spain",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Autonomous communities of Spain",
+    "originalKey" : "Region",
+    "original_value" : "Autonomous communities of Spain",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "LAU",
+    "wikipedia_title" : "Local Administrative Unit",
+    "originalKey" : "LAU",
+    "original_value" : "Local Administrative Unit",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "agricultural holdings",
+    "wikipedia_title" : "Agricultural holding",
+    "originalKey" : "agricultural holdings",
+    "original_value" : "Agricultural holding",
+    "Wikidata_ID" : "Q3062125"
+  }, {
+    "entity_in_the_text" : "settlement",
+    "wikipedia_title" : "Settlement",
+    "originalKey" : "settlement",
+    "original_value" : "Settlement",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "protected areas",
+    "wikipedia_title" : "Protected area",
+    "originalKey" : "protected areas",
+    "original_value" : "Protected area",
+    "Wikidata_ID" : "Q473972"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "primary sector",
+    "wikipedia_title" : "Primary sector",
+    "originalKey" : "primary sector",
+    "original_value" : "Primary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "secondary sector",
+    "wikipedia_title" : "Secondary sector",
+    "originalKey" : "secondary sector",
+    "original_value" : "Secondary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "tertiary sector",
+    "wikipedia_title" : "Tertiary sector",
+    "originalKey" : "tertiary sector",
+    "original_value" : "Tertiary sector",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Province",
+    "wikipedia_title" : "Province",
+    "originalKey" : "Province",
+    "original_value" : "Province",
+    "Wikidata_ID" : "Q34876"
+  }, {
+    "entity_in_the_text" : "Region",
+    "wikipedia_title" : "Region",
+    "originalKey" : "Region",
+    "original_value" : "Region",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Caerphilly",
+    "wikipedia_title" : "Caerphilly, Wales",
+    "originalKey" : "Caerphilly",
+    "original_value" : "Caerphilly, Wales",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Caerphilly cheese",
+    "wikipedia_title" : "Caerphilly cheese",
+    "originalKey" : "Caerphilly cheese",
+    "original_value" : "Caerphilly cheese",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Somerset",
+    "wikipedia_title" : "Somerset",
+    "originalKey" : "Somerset",
+    "original_value" : "Somerset",
+    "Wikidata_ID" : "Q23157"
+  }, {
+    "entity_in_the_text" : "Wiltshire",
+    "wikipedia_title" : "Wiltshire",
+    "originalKey" : "Wiltshire",
+    "original_value" : "Wiltshire",
+    "Wikidata_ID" : "Q23183"
+  }, {
+    "entity_in_the_text" : "Castle Dairies",
+    "wikipedia_title" : "Castle Dairies",
+    "originalKey" : "Castle Dairies",
+    "original_value" : "Castle Dairies",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "The Big Cheese",
+    "wikipedia_title" : "The Big Cheese (festival)",
+    "originalKey" : "The Big Cheese",
+    "original_value" : "The Big Cheese (festival)",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "International Cheese Awards",
+    "wikipedia_title" : "International Cheese Awards",
+    "originalKey" : "International Cheese Awards",
+    "original_value" : "International Cheese Awards",
+    "Wikidata_ID" : "Q6049165"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Caerphilly cheese",
+    "wikipedia_title" : "Caerphilly cheese",
+    "originalKey" : "Caerphilly cheese",
+    "original_value" : "Caerphilly cheese",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Big Cheese festival",
+    "wikipedia_title" : "Big Cheese festival",
+    "originalKey" : "Big Cheese festival",
+    "original_value" : "Big Cheese festival",
+    "Wikidata_ID" : "Q96373526"
+  }, {
+    "entity_in_the_text" : "Caerphilly",
+    "wikipedia_title" : "Caerphilly",
+    "originalKey" : "Caerphilly",
+    "original_value" : "Caerphilly",
+    "Wikidata_ID" : "Q909119"
+  }, {
+    "entity_in_the_text" : "Wales",
+    "wikipedia_title" : "Wales",
+    "originalKey" : "Wales",
+    "original_value" : "Wales",
+    "Wikidata_ID" : "Q25"
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Caerphilly",
+    "wikipedia_title" : "Caerphilly",
+    "originalKey" : "Caerphilly",
+    "original_value" : "Caerphilly",
+    "Wikidata_ID" : "Q909119"
+  }, {
+    "entity_in_the_text" : "England",
+    "wikipedia_title" : "England",
+    "originalKey" : "England",
+    "original_value" : "England",
+    "Wikidata_ID" : "Q21"
+  }, {
+    "entity_in_the_text" : "COVID",
+    "wikipedia_title" : "COVID-19 pandemic",
+    "originalKey" : "COVID",
+    "original_value" : "COVID-19 pandemic",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Caerphilly cheese",
+    "wikipedia_title" : "Caerphilly cheese",
+    "originalKey" : "Caerphilly cheese",
+    "original_value" : "Caerphilly cheese",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Value Chain",
+    "wikipedia_title" : "Value chain",
+    "originalKey" : "Value Chain",
+    "original_value" : "Value chain",
+    "Wikidata_ID" : "Q646107"
+  }, {
+    "entity_in_the_text" : "factory and machine-based methods",
+    "wikipedia_title" : "Factory and machine-based methods",
+    "originalKey" : "factory and machine-based methods",
+    "original_value" : "Factory and machine-based methods",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "traditional pre-war cheesemaking processes",
+    "wikipedia_title" : "Traditional pre-war cheesemaking processes",
+    "originalKey" : "traditional pre-war cheesemaking processes",
+    "original_value" : "Traditional pre-war cheesemaking processes",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "New processes and New marketing strategies",
+    "wikipedia_title" : "New processes and new marketing strategies",
+    "originalKey" : "New processes and New marketing strategies",
+    "original_value" : "New processes and new marketing strategies",
+    "Wikidata_ID" : ""
+  }, {
+    "entity_in_the_text" : "Grassland",
+    "wikipedia_title" : "Grassland",
+    "originalKey" : "Grassland",
+    "original_value" : "Grassland",
+    "Wikidata_ID" : "Q1006733"
+  }, {
+    "entity_in_the_text" : "Natural, Social and Cultural",
+    "wikipedia_title" : "Natural, social and cultural",
+    "originalKey" : "Natural, Social and Cultural",
+    "original_value" : "Natural, social and cultural",
+    "Wikidata_ID" : ""
+  } ]
+}, {
+  "entities" : [ {
+    "entity_in_the_text" : "Somerset",
+    "wikipedia_title" : "Somerset",
+    "originalKey" : "Somerset",
+    "original_value" : "Somerset",
+    "Wikidata_ID" : "Q23157"
+  }, {
+    "entity_in_the_text" : "Wiltshire",
+    "wikipedia_title" : "Wiltshire",
+    "originalKey" : "Wiltshire",
+    "original_value" : "Wiltshire",
+    "Wikidata_ID" : "Q23183"
+  } ]
+} ]
